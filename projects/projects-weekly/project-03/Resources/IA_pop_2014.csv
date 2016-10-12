@@ -1,0 +1,735 @@
+City,Population
+Des Moines,210330
+Cedar Rapids,130405
+Davenport,102582
+Sioux City,82821
+Iowa City,74220
+Waterloo,68460
+Ames,65060
+West Des Moines,64113
+Council Bluffs,62597
+Dubuque,58799
+Ankeny,56764
+Urbandale,44062
+Cedar Falls,41255
+Marion,37330
+Bettendorf,35505
+Marshalltown,27620
+Mason City,27366
+Clinton,26064
+Burlington,25410
+Fort Dodge,24649
+Ottumwa,24624
+Muscatine,23968
+Johnston,20871
+Coralville,20608
+Waukee,18990
+Clive,17419
+Altoona,16984
+North Liberty,15931
+Indianola,15467
+Newton,15125
+Boone,12692
+Oskaloosa,11607
+Spencer,11212
+Storm Lake,10910
+Fort Madison,10717
+Grimes,10676
+Keokuk,10609
+Pella,10363
+Norwalk,10135
+Waverly,10066
+Carroll,9968
+Fairfield,9892
+Le Mars,9761
+Pleasant Hill,9314
+Grinnell,9141
+Mount Pleasant,8433
+Denison,8334
+Perry,8089
+Decorah,7907
+Creston,7854
+Webster City,7814
+Clear Lake,7590
+Sioux Center,7461
+Charles City,7455
+Washington,7408
+Knoxville,7248
+Hiawatha,7199
+Atlantic,6833
+Nevada,6831
+Eldridge,6232
+Orange City,6198
+Oelwein,6153
+Independence,6028
+Estherville,6011
+Maquoketa,5989
+Red Oak,5472
+Algona,5470
+Anamosa,5469
+Clarinda,5418
+Centerville,5372
+Asbury,5291
+Glenwood,5253
+De Witt,5242
+Iowa Falls,5195
+Winterset,5176
+Vinton,5148
+Sheldon,5088
+Manchester,5073
+Cherokee,5030
+Shenandoah,5021
+Spirit Lake,5018
+Harlan,5002
+Bondurant,4996
+Osceola,4972
+Windsor Heights,4889
+Evansdale,4812
+Humboldt,4596
+Sergeant Bluff,4520
+Mount Vernon,4486
+Camanche,4341
+Polk City,4323
+Hampton,4290
+Adel,4245
+Chariton,4214
+Dyersville and Jefferson,4204
+Carlisle,4168
+Forest City,4018
+Le Claire,3982
+Cresco,3833
+Albia,3829
+Monticello,3825
+Emmetsburg,3811
+Carter Lake,3791
+Waukon,3736
+West Liberty,3728
+Rock Valley,3693
+Osage,3654
+Huxley,3536
+Robins,3454
+New Hampton,3452
+Story City,3438
+Eagle Grove,3419
+Tipton,3200
+Williamsburg,3195
+Garner,3107
+West Burlington,3047
+Milford,3018
+Saylorville,2944
+Onawa,2881
+Tama,2819
+Wilton,2805
+Clarion,2767
+Grundy Center,2714
+Eldora,2702
+Missouri Valley,2695
+Jesup,2671
+Sibley,2668
+Tiffin,2657
+Bloomfield,2617
+Rock Rapids,2602
+Madrid,2588
+Hawarden,2551
+Solon,2545
+Center Point,2521
+Marengo,2513
+Kalona,2509
+Fairfax,2497
+Park View,2476
+Belle Plaine,2475
+West Union,2409
+Hudson,2381
+Lamoni,2376
+West Branch,2337
+Belmond,2314
+Mitchellville,2304
+La Porte City,2290
+Cascade,2271
+Hull,2244
+Toledo and Lisbon,2202
+Bellevue,2176
+Sac City,2144
+Rockwell City,2141
+Postville,2131
+Ida Grove,2122
+Ely,2074
+Lake Mills,2060
+Colfax,2051
+Ogden and Wapello,2041
+Audubon,2017
+Sumner,2009
+Sigourney,2005
+Northwood,1995
+Britt,1973
+Parkersburg,1960
+Epworth,1955
+Alta,1936
+Leon,1903
+Greenfield,1883
+New London,1882
+Guttenberg,1861
+Columbus Junction,1860
+Denver,1835
+Monroe,1831
+Durant,1816
+Atkins,1795
+Dallas Center,1792
+Pocahontas,1740
+Prairie City,1709
+Farley,1691
+Mount Ayr,1686
+Blue Grass,1676
+Lake City,1670
+Pleasantville,1669
+Traer,1655
+Reinbeck,1639
+Walcott,1636
+Moville,1634
+Remsen,1632
+Nashua,1621
+Peosta,1618
+Hartley,1616
+Manson,1615
+Stuart,1602
+Corydon,1589
+Mediapolis,1574
+Ackley,1560
+Corning,1537
+Guthrie Center,1513
+Oakland,1507
+Slater,1506
+Avoca,1504
+Woodward,1503
+Monona,1500
+Fayette,1491
+Manning,1472
+State Center,1470
+Logan,1465
+Walford and Urbana,1459
+Akron,1450
+Granger and Wellman,1431
+Woodbine,1422
+Brooklyn,1420
+Bedford and Lone Tree,1415
+Montezuma,1411
+Clarksville,1409
+Earlham,1405
+Kingsley,1396
+Holstein,1391
+Nora Springs,1389
+Lenox and Sanborn,1385
+Dysart,1354
+Tripoli,1342
+Shell Rock,1323
+Manly,1310
+Roland,1304
+Maharishi Vedic City and Buffalo,1299
+New Sharon,1291
+Dike,1289
+Coon Rapids and Central City,1269
+Alton,1264
+Melcher-Dallas,1259
+Strawberry Point,1236
+Arnolds Park,1234
+Beaverdale,1231
+Mapleton,1214
+Elkader,1213
+Lake Panorama,1196
+Villisca,1194
+Jewell Junction,1187
+Laurens,1180
+St. Ansgar,1156
+Winfield and Van Meter,1142
+Sheffield,1140
+Springville,1139
+Lake Park,1137
+Elk Run Heights,1134
+Glidden,1127
+Lake View,1125
+Greene,1120
+University Heights,1119
+Fairbank and Malvern,1117
+Gilbert,1116
+Mechanicsville,1108
+Baxter,1103
+Conrad,1100
+De Soto,1089
+Panora,1085
+Hamburg,1082
+Aplington,1079
+Marcus,1070
+George,1055
+Palo,1053
+Riverside,1045
+Sidney,1044
+Allison,1029
+North English,1022
+Rockwell,1019
+Paullina,1017
+Eddyville,1012
+Gowrie,999
+Aurelia,992
+Griswold,984
+Sloan and Tabor,979
+Odebolt and Preston,978
+Fruitland and Dunlap,977
+Keota and Clarence,970
+Wayland,969
+West Point,962
+Calmar and Lawton,960
+Washburn,957
+Anita,956
+Janesville,954
+Treynor,952
+Shellsburg,951
+Keosauqua,947
+Le Grand,946
+Swisher,943
+Underwood,940
+Lansing,939
+Hinton,938
+Danville,936
+Princeton,929
+Maxwell,923
+Fredericksburg,922
+Eldon,915
+Donnellson,901
+Buffalo Center,895
+Gladbrook,890
+Armstrong,889
+Victor,888
+Larchwood,886
+Montrose,885
+Schleswig,881
+Primghar,879
+Redfield,873
+Newell,871
+Edgewood,867
+Neola,862
+Colo,861
+Newhall,850
+Winthrop,849
+Long Grove and Rockford,844
+Dunkerton,842
+McGregor,839
+Hubbard,834
+Afton,829
+Melbourne,827
+Readlyn,826
+Oxford,825
+Hills and Sully,822
+Morning Sun and Cambridge,821
+Ossian,819
+Okoboji and Hazleton,818
+Carson and Raymond,816
+Dakota City,813
+"Correctionville, Inwood, and Graettinger",811
+Riceville,810
+Dayton,798
+Wall Lake,795
+Walker,792
+Earlville,790
+Grand Junction,789
+Exira,788
+Sioux Rapids,777
+Walnut,776
+Manilla,775
+Milo,772
+Essex and Lowden,770
+Alden,764
+Hartford,762
+West Bend,759
+Whiting,753
+Gilbertville,747
+Schaller,745
+Hedrick,744
+Elkhart,742
+Murray,735
+Wheatland and Merrill,733
+Fremont,729
+Adair,728
+Garnavillo,726
+Stratford,725
+Ventura,718
+Hospers,714
+Bancroft,710
+Boyden,708
+Ruthven,704
+Lakeside,700
+Wellsburg,699
+Seymour,696
+Battle Creek and Alburnett,695
+Olin and Albert City,688
+Shueyville,672
+Blairstown,670
+Van Horne,664
+Stanwood,662
+Coggon and Brighton,659
+Elgin and Farmington,649
+Coalville,646
+Moravia,643
+Agency,641
+Stanton,639
+Elk Horn,638
+Fontanelle,636
+Dexter and Crescent,630
+St. Charles,628
+Kanawha and Dumont,627
+Pomeroy,625
+What Cheer,622
+Shelby and Sutherland,618
+Grand Mound,617
+Orleans,614
+Hopkinton,613
+Clermont and Keystone,609
+Goldfield,608
+Fonda,607
+Ireton,602
+Middle Amana,595
+Minden,594
+Kellogg,592
+Doon,591
+Moulton,585
+Everly,581
+Ainsworth,571
+Anthon,569
+Richland,562
+Holiday Lake and Rolfe,559
+Sabula,552
+Badger,550
+Quasqueton,547
+Elma,539
+Radcliffe,538
+Russell and Zearing,537
+Grandview,534
+Early,532
+Scranton,530
+Norway,526
+Otho,524
+Swea City,521
+Lovilia,519
+Runnells and Batavia,516
+Dows,514
+Burt and Wyoming,511
+Ellsworth,509
+New Hartford and Garwin,508
+Gilman,504
+Delmar,502
+Maynard and Dow City,499
+New Albin,496
+Allerton,495
+Charter Oak and Whittemore,492
+Humeston and Gilmore City,491
+Lime Springs,490
+Thompson,487
+New Virginia,485
+Oxford Junction and Klemme,484
+"Collins, Truro, and Latimer",483
+Beacon,480
+University Park,477
+Albion,476
+Breda,475
+Stacyville,473
+Martensdale,472
+Arcadia and Delhi,471
+Ocheyedan,466
+Lamont and Pacific Junction,457
+Bayard,456
+Titonka,452
+Marquette,451
+Alleman,443
+Little Rock,441
+Miles and Farragut,439
+Birmingham,433
+Galva,432
+Ashton,430
+Royal,427
+"Emerson, Plainfield, and Earling",425
+"Lost Nation, New Vienna, and Vail",424
+Hawkeye and Lawler,423
+Andrew,422
+Bonaparte,419
+Conesville,418
+Lewis,416
+Calamus,414
+Riverdale and Milton,413
+Stanhope,412
+Worthington and Mystic,411
+Bussey and Arlington,410
+Thornton and New Market,408
+Casey,402
+Lehigh,399
+Colesburg and Cumming,397
+Duncombe and Bennett,394
+Ringsted,392
+Lynnville,390
+Union,386
+Minburn,384
+Holy Cross and Wesley,381
+Salix,380
+Orient,379
+Letts,377
+Salem,376
+Mondamin,374
+Plymouth,373
+Nichols and Fertile,372
+Columbus City,371
+Charlotte,370
+Donahue and Churdan,369
+Livermore,366
+Callender,365
+Terril,364
+Garrison and Lacona,363
+Ryan,362
+Rudd,361
+Farnhamville,359
+Pierson,357
+Spillville,355
+Ute,353
+Lohrville,350
+Lorimor,349
+Massena and Templeton,348
+Clearfield,347
+Cincinnati,345
+"Diamondhead Lake, Wahpeton, and Menlo",343
+Danbury,342
+Middletown,338
+Fort Atkinson,336
+"Williams, McCallsburg, and Conroy",335
+Amana,334
+Libertyville and Irwin,333
+"Elliott, Diagonal, and Floyd",328
+Bronson,323
+Sheldahl,320
+Harpers Ferry,319
+Peterson,318
+Delta and Granville,317
+McCausland and Auburn,314
+Kellerton,312
+"Ridgeway, Steamboat Rock, Denmark, and Kelley",309
+Rhodes,308
+Brandon,307
+Atalissa,306
+Liscomb,304
+Quimby,303
+"Kimballton, Lytton, Marble Rock, and Mingo",301
+Bertram,300
+Westside and Persia,299
+Bagley,296
+West Okoboji,295
+Harcourt and Lester,294
+Stockport and Bode,293
+Twin Lakes,288
+Lakota,287
+Blakesburg and Ionia,286
+Leland,285
+"Rippey, Ladora, and Lockridge",283
+Riverton,282
+Holland and Maurice,280
+"Defiance, Low Moor, and Protivin",279
+Malcom,278
+Farmersburg and Kiron,277
+Luana,276
+Pulaski,275
+Coulter,271
+Deep River,270
+Crawfordsville and Corwith,269
+"Mallard, Kensett, and Rowley",267
+Deloit,264
+Dedham and Fenton,263
+Modale,262
+Alta Vista and Chelsea,261
+Waucoma,257
+Lu Verne,255
+Martelle,254
+"La Motte, Wadena, Cumberland, and Grafton",253
+Luxemburg,252
+Greeley,251
+Dixon and Meservey,248
+Montour,247
+Halbur and Prescott,246
+Crystal Lake and Macedonia,245
+Yale,244
+Silver City,243
+Laurel,242
+Keswick and Fostoria,240
+"Pisgah, Marathon, and Fredonia",239
+Harvey,238
+Weston and Washta,237
+Renwick and Goose Lake,235
+Olds,234
+Stone City,231
+Paton,229
+"Cleghorn, Hanlontown, and New Providence",227
+Hornick,226
+Smithland and Grand River,225
+"Cushing, Stout, Joice, and Woden",223
+West Amana,222
+Rake,221
+Parnell and Cantril,220
+Lineville and Jamaica,219
+Panama and Moorhead,218
+Blencoe,217
+Van Wert and Packwood,215
+Thurman,214
+Lucas,213
+Blairsburg,212
+Ollie and Linden,210
+Clutier,209
+College Springs,208
+South English,207
+Melvin,206
+Volga and Garden Grove,205
+"Burr Oak, Arthur, and Rembrandt",204
+Westgate,203
+Woodburn,200
+Kamrar,198
+Stockton and Boxholm,197
+Onslow,196
+Hancock and Davis City,195
+Elberon and Alvord,193
+Beaman,192
+Blockton,191
+Barnum and Portsmouth,190
+Decatur City,188
+Wallingford and Gravity,187
+Drakesville and Shambaugh,186
+Coin,184
+Henderson,183
+Dickens and Tingley,182
+"Sun Valley Lake, Frederika, Thor, and Rickardsville",181
+Maysville and Hillsboro,180
+Prairieburg,179
+Lidderdale and Sherrill,176
+"Kirkville, Pilot Mound, and Haverhill",175
+Magnolia and Barnes City,174
+Bridgewater and Climbing Hill,172
+Lambs Grove and Aurora,171
+"Oakville, Alexander, and Dundee",170
+"Calumet, Vincent, and Randall",169
+Soldier and Castalia,168
+Rose Hill,167
+Harris and Moorland,164
+Woolstock,163
+Little Sioux,162
+"Leighton, Chapin, Patterson, and Geneva",161
+"South Amana, Welton, Bristow, Swaledale, and Palmer",160
+Millersburg,159
+Exline and Lincoln,157
+Delaware,156
+"Randolph, Braddyville, Rowan, and Oakland Acres",155
+Linn Grove,154
+Reasnor,153
+"Rock Falls, Mineola, and Williamson",152
+McClelland and Monmouth,151
+"Clemons, Hastings, and Meriden",150
+Whitten and West Chester,149
+Brunsville and Mount Auburn,148
+Houghton and Panorama Park,144
+Searsboro,143
+"Ricketts, New Liberty, Clare, and Lone Rock",142
+"Ayrshire, Floris, and Springbrook",140
+Waterville and Franklin,139
+"River Sioux, Webb, St. Lucas, and Dawson",138
+Mitchell and Castana,137
+Goodell,135
+Bouton,134
+Havelock and Larrabee,133
+St. Donatus,131
+St. Paul and Centralia,130
+"Superior, Hamilton, Homestead, and Westfield",129
+St. Marys,128
+"Archer, Ledyard, and Ferguson",127
+Westphalia and Rutland,126
+Stanley and Chester,125
+High Amana and Masonville,124
+Watkins and Luther,123
+East Peru and Green Mountain,122
+McIntire,121
+Toronto,120
+Brayton and Weldon,119
+Rome,117
+Lanesboro and Marne,116
+North Washington,115
+Morley,114
+"Duncan, North Buena Vista, and Derby",113
+"Wiota, Promise City, and Westwood",112
+"Macksburg, Bentley, and Center Junction",111
+Martinsburg and Melrose,110
+"Somers, Harper, and Bernard",109
+"Oto, Carpenter, Buckeye, and Nodaway",108
+Arion and Mount Union,107
+"Baldwin, Cromwell, and St. Olaf",106
+"Sageville, St. Anthony, and Fraser",103
+Oyens and Willey,101
+Andover and Unionville,100
+Arispe,99
+Pleasant Plain,98
+Chillicothe,96
+Hansell,95
+Luzerne and California Junction,94
+Morrison,93
+Gruver,92
+Zwingle and Numa,90
+"Matlock, Grant, and Sharpsburg",88
+Rathbun and Craig,87
+Cylinder and Ackworth,86
+Frytown and Garber,85
+Bradgate,84
+"Keomah Village, Yorktown, Hartwick, and Nemaha",83
+"Truesdale, Redding, and Spragueville",81
+Chatsworth and Clio,80
+Graf,78
+Struble and Popejoy,77
+Ralston,75
+"Greenville, Aredale, and Plover",74
+"Swan, Webster, and Colwell",72
+"Kinross, Scarville, and Rossie",71
+Shannon City and Orchard,70
+"Varina, Dana, and Plano",69
+"Imogene, Randalia, Turin, Marysville, and Tennant",66
+"Balltown, Bassett, and Bradford",65
+Dolliver,64
+Spring Hill,63
+"Burchinal, Bevington, and Kirkman",62
+Guernsey and Thornburg,61
+Knierim and Gibson,60
+Gray,59
+Rodney,58
+"Northboro, Valeria, Curlew, and Osterdock",57
+"Thayer, Dougherty, and Jackson Junction",56
+Rinard,52
+Sandyville,51
+"Vining, Hayesville, and Little Cedar",49
+Gillett Grove and Beaver,48
+"Coppock, Douds, and Cotter",47
+"Hardy, Sexton, Pleasanton, East Amana, and Udell",46
+Athelstan and Millerton,45
+Rodman,44
+"Owasa, Benton, Buck Grove, and St. Joseph",43
+Ellston and Clayton,42
+Conway,41
+"Aspinwall, Rochester, and Coburg",40
+"Blanchard, Loveland, New Haven, and Ottosen",37
+"Mount Sterling, Toeterville, Garden City, Elkport, and Jacksonville",36
+Bolan,35
+Mona,34
+Yetter,33
+Berkley and Carbon,32
+Galt,31
+"Millville, St. Benedict, and Maloy",29
+Corley and Leando,28
+Jolley,27
+"Delphos, Irvington, and Bankston",25
+Durango,24
+Pioneer and Hepburn,22
+Percival,21
+Kent,18
+Portland,17
+Beaconsfield,15
+Le Roy,14
+Anderson,12
+Bartlett,11
+Hutchins,10
+Otranto,7
