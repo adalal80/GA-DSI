@@ -1,0 +1,577 @@
+[
+    {
+        "meanPay": "$100k - $110k",
+        "jobTitle": "Data Scientist",
+        "company": "State Farm"
+    },
+    {
+        "meanPay": "$160k - $171k",
+        "jobTitle": "Data Scientist",
+        "company": "Epsilon"
+    },
+    {
+        "meanPay": "$79k - $87k",
+        "jobTitle": "Data Scientist",
+        "company": "Match"
+    },
+    {
+        "meanPay": "$87k - $93k",
+        "jobTitle": "Data Scientist",
+        "company": "Hudl"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$103k - $112k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$97k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$83k - $89k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$107k - $114k",
+        "jobTitle": "Data Scientist",
+        "company": "Verizon"
+    },
+    {
+        "meanPay": "$93k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$97k - $106k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett-Packard"
+    },
+    {
+        "meanPay": "$97k - $106k",
+        "jobTitle": "Data Scientist",
+        "company": "Verizon Wireless"
+    },
+    {
+        "meanPay": "$94k - $103k",
+        "jobTitle": "Data Scientist",
+        "company": "Lockheed Martin"
+    },
+    {
+        "meanPay": "$85k - $92k",
+        "jobTitle": "Data Scientist",
+        "company": "Leidos"
+    },
+    {
+        "meanPay": "$92k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "Alliance Data"
+    },
+    {
+        "meanPay": "$92k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "Citi"
+    },
+    {
+        "meanPay": "$94k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "Humana"
+    },
+    {
+        "meanPay": "$84k - $90k",
+        "jobTitle": "Data Scientist",
+        "company": "Infovision"
+    },
+    {
+        "meanPay": "$95k - $104k",
+        "jobTitle": "Data Scientist",
+        "company": "Toyota North America"
+    },
+    {
+        "meanPay": "$93k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Argo Data"
+    },
+    {
+        "meanPay": "$91k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Kemper"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$115k - $125k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$117k - $128k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$118k - $128k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Verizon"
+    },
+    {
+        "meanPay": "$103k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$119k - $130k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$109k - $120k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett-Packard"
+    },
+    {
+        "meanPay": "$105k - $114k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Alliance Data"
+    },
+    {
+        "meanPay": "$130k - $142k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Expedia"
+    },
+    {
+        "meanPay": "$123k - $134k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Elevate Credit"
+    },
+    {
+        "meanPay": "$106k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Raytheon"
+    },
+    {
+        "meanPay": "$86k - $92k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "MITRE"
+    },
+    {
+        "meanPay": "$87k - $94k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$96k - $105k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$132k - $145k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Data Scientist",
+        "company": "Toyota North America"
+    },
+    {
+        "meanPay": "$93k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Argo Data"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Kemper"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$116k - $125k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$102k - $110k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$118k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$119k - $129k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Verizon"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$120k - $130k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$109k - $120k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett-Packard"
+    },
+    {
+        "meanPay": "$105k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Alliance Data"
+    },
+    {
+        "meanPay": "$130k - $142k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Expedia"
+    },
+    {
+        "meanPay": "$123k - $133k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Elevate Credit"
+    },
+    {
+        "meanPay": "$106k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Raytheon"
+    },
+    {
+        "meanPay": "$86k - $92k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "MITRE"
+    },
+    {
+        "meanPay": "$86k - $94k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$97k - $104k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$133k - $144k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Data Scientist",
+        "company": "Toyota North America"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Argo Data"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Kemper"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$117k - $126k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$103k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$117k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$119k - $128k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Verizon"
+    },
+    {
+        "meanPay": "$104k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$119k - $129k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$109k - $119k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett-Packard"
+    },
+    {
+        "meanPay": "$104k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Alliance Data"
+    },
+    {
+        "meanPay": "$130k - $140k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Expedia"
+    },
+    {
+        "meanPay": "$124k - $133k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Elevate Credit"
+    },
+    {
+        "meanPay": "$104k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Raytheon"
+    },
+    {
+        "meanPay": "$86k - $92k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "MITRE"
+    },
+    {
+        "meanPay": "$85k - $94k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$97k - $105k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$134k - $144k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Data Scientist",
+        "company": "Toyota North America"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Argo Data"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Kemper"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$115k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$102k - $110k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$119k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$119k - $130k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Verizon"
+    },
+    {
+        "meanPay": "$103k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$118k - $130k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$110k - $119k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett-Packard"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Alliance Data"
+    },
+    {
+        "meanPay": "$131k - $142k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Expedia"
+    },
+    {
+        "meanPay": "$125k - $134k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Elevate Credit"
+    },
+    {
+        "meanPay": "$104k - $114k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Raytheon"
+    },
+    {
+        "meanPay": "$86k - $94k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "MITRE"
+    },
+    {
+        "meanPay": "$87k - $94k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$96k - $103k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$132k - $143k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$94k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "Toyota North America"
+    },
+    {
+        "meanPay": "$93k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Argo Data"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Kemper"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$116k - $125k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$101k - $111k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$119k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$119k - $128k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Verizon"
+    },
+    {
+        "meanPay": "$103k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$120k - $130k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "AT&T"
+    },
+    {
+        "meanPay": "$110k - $120k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett-Packard"
+    },
+    {
+        "meanPay": "$104k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Alliance Data"
+    },
+    {
+        "meanPay": "$129k - $140k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Expedia"
+    },
+    {
+        "meanPay": "$123k - $135k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Elevate Credit"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Raytheon"
+    },
+    {
+        "meanPay": "$86k - $92k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "MITRE"
+    },
+    {
+        "meanPay": "$87k - $94k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$96k - $104k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$133k - $144k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "AT&T"
+    }
+]

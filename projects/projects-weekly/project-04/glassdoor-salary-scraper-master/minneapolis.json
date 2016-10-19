@@ -1,0 +1,332 @@
+[
+    {
+        "meanPay": "$105k - $112k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$90k - $96k",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions"
+    },
+    {
+        "meanPay": "$99k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "ING"
+    },
+    {
+        "meanPay": "$93k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "Thomson Reuters"
+    },
+    {
+        "meanPay": "$75k - $81k",
+        "jobTitle": "Data Scientist",
+        "company": "The Nerdery"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Data Scientist",
+        "company": "Cargill"
+    },
+    {
+        "meanPay": "$90k - $96k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Target"
+    },
+    {
+        "meanPay": "$116k - $128k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$112k - $120k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$103k - $110k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "NativeX"
+    },
+    {
+        "meanPay": "$103k - $113k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions"
+    },
+    {
+        "meanPay": "$99k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$93k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "ING"
+    },
+    {
+        "meanPay": "$93k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "Thomson Reuters"
+    },
+    {
+        "meanPay": "$74k - $81k",
+        "jobTitle": "Data Scientist",
+        "company": "The Nerdery"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Data Scientist",
+        "company": "Cargill"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Target"
+    },
+    {
+        "meanPay": "$116k - $126k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$112k - $120k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$103k - $110k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "NativeX"
+    },
+    {
+        "meanPay": "$104k - $112k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions"
+    },
+    {
+        "meanPay": "$98k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$92k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "ING"
+    },
+    {
+        "meanPay": "$94k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "Thomson Reuters"
+    },
+    {
+        "meanPay": "$74k - $80k",
+        "jobTitle": "Data Scientist",
+        "company": "The Nerdery"
+    },
+    {
+        "meanPay": "$102k - $111k",
+        "jobTitle": "Data Scientist",
+        "company": "Cargill"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Target"
+    },
+    {
+        "meanPay": "$117k - $126k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$111k - $121k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "NativeX"
+    },
+    {
+        "meanPay": "$104k - $113k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions"
+    },
+    {
+        "meanPay": "$98k - $108k",
+        "jobTitle": "Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$92k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "ING"
+    },
+    {
+        "meanPay": "$93k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "Thomson Reuters"
+    },
+    {
+        "meanPay": "$74k - $81k",
+        "jobTitle": "Data Scientist",
+        "company": "The Nerdery"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Data Scientist",
+        "company": "Cargill"
+    },
+    {
+        "meanPay": "$90k - $96k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Target"
+    },
+    {
+        "meanPay": "$118k - $128k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$112k - $121k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$102k - $110k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "NativeX"
+    },
+    {
+        "meanPay": "$103k - $112k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions"
+    },
+    {
+        "meanPay": "$98k - $108k",
+        "jobTitle": "Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$93k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "ING"
+    },
+    {
+        "meanPay": "$93k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "Thomson Reuters"
+    },
+    {
+        "meanPay": "$75k - $81k",
+        "jobTitle": "Data Scientist",
+        "company": "The Nerdery"
+    },
+    {
+        "meanPay": "$102k - $111k",
+        "jobTitle": "Data Scientist",
+        "company": "Cargill"
+    },
+    {
+        "meanPay": "$90k - $96k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Target"
+    },
+    {
+        "meanPay": "$116k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$110k - $120k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$102k - $110k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "NativeX"
+    },
+    {
+        "meanPay": "$104k - $114k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions"
+    },
+    {
+        "meanPay": "$99k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$93k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "ING"
+    },
+    {
+        "meanPay": "$93k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "Thomson Reuters"
+    },
+    {
+        "meanPay": "$74k - $80k",
+        "jobTitle": "Data Scientist",
+        "company": "The Nerdery"
+    },
+    {
+        "meanPay": "$102k - $110k",
+        "jobTitle": "Data Scientist",
+        "company": "Cargill"
+    },
+    {
+        "meanPay": "$90k - $96k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Target"
+    },
+    {
+        "meanPay": "$117k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$111k - $121k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Honeywell"
+    },
+    {
+        "meanPay": "$101k - $111k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "NativeX"
+    }
+]

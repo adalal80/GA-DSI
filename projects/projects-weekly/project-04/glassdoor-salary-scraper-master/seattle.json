@@ -1,0 +1,342 @@
+[
+    {
+        "meanPay": "$120,409",
+        "jobTitle": "Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$107,304",
+        "jobTitle": "Data Scientist",
+        "company": "Nordstrom"
+    },
+    {
+        "meanPay": "$112,500",
+        "jobTitle": "Data Scientist",
+        "company": "Zillow"
+    },
+    {
+        "meanPay": "$7k - $8k",
+        "jobTitle": "Data Scientist Intern - Monthly",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$75k - $151k",
+        "jobTitle": "Data Scientist",
+        "company": "Voicebox Technologies"
+    },
+    {
+        "meanPay": "$81k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Redfin"
+    },
+    {
+        "meanPay": "$142k - $154k",
+        "jobTitle": "Data Scientist",
+        "company": "Facebook"
+    },
+    {
+        "meanPay": "$80k - $85k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$118k - $128k",
+        "jobTitle": "Data Scientist",
+        "company": "Tata Consultancy Services"
+    },
+    {
+        "meanPay": "$70k - $75k",
+        "jobTitle": "Data Scientist",
+        "company": "PNNL"
+    },
+    {
+        "meanPay": "$101k - $110k",
+        "jobTitle": "Data Scientist",
+        "company": "Infosys"
+    },
+    {
+        "meanPay": "$116k - $125k",
+        "jobTitle": "Data Scientist",
+        "company": "Expedia"
+    },
+    {
+        "meanPay": "$92k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Boeing"
+    },
+    {
+        "meanPay": "$116k - $128k",
+        "jobTitle": "Data Scientist",
+        "company": "Capital One"
+    },
+    {
+        "meanPay": "$129k - $141k",
+        "jobTitle": "Data Scientist",
+        "company": "Twitter"
+    },
+    {
+        "meanPay": "$101k - $111k",
+        "jobTitle": "Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$99k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Accenture"
+    },
+    {
+        "meanPay": "$149k - $159k",
+        "jobTitle": "Data Scientist",
+        "company": "Groupon"
+    },
+    {
+        "meanPay": "$119k - $131k",
+        "jobTitle": "Data Scientist",
+        "company": "Philips"
+    },
+    {
+        "meanPay": "$119k - $131k",
+        "jobTitle": "Data Scientist",
+        "company": "Avanade"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$82k - $89k",
+        "jobTitle": "Data Scientist",
+        "company": "RichRelevance"
+    },
+    {
+        "meanPay": "$119k - $130k",
+        "jobTitle": "Data Scientist",
+        "company": "ShopperTrak"
+    },
+    {
+        "meanPay": "$100k - $108k",
+        "jobTitle": "Data Scientist",
+        "company": "Businessolver"
+    },
+    {
+        "meanPay": "$92k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "TellApart"
+    },
+    {
+        "meanPay": "$91k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$98k - $106k",
+        "jobTitle": "Data Scientist",
+        "company": "Xerox"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Data Scientist",
+        "company": "Hotwire"
+    },
+    {
+        "meanPay": "$125k - $138k",
+        "jobTitle": "Data Scientist",
+        "company": "ServiceNow"
+    },
+    {
+        "meanPay": "$125k - $136k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon Lab126"
+    },
+    {
+        "meanPay": "$145,737",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$125,147",
+        "jobTitle": "Data Scientist II",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$186,250",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$129k - $141k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Expedia"
+    },
+    {
+        "meanPay": "$103k - $114k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "SAP"
+    },
+    {
+        "meanPay": "$108k - $117k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Allstate"
+    },
+    {
+        "meanPay": "$103k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$120k - $130k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "AOL"
+    },
+    {
+        "meanPay": "$130k - $142k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Razorfish"
+    },
+    {
+        "meanPay": "$150k - $161k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$127k - $137k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "PNNL"
+    },
+    {
+        "meanPay": "$106k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "BCG Digital Ventures"
+    },
+    {
+        "meanPay": "$133k - $143k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Cisco Systems"
+    },
+    {
+        "meanPay": "$82k - $89k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Allstate"
+    },
+    {
+        "meanPay": "$109k - $119k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$168k - $180k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$106k - $113k",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Salesforce"
+    },
+    {
+        "meanPay": "$128k - $139k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "PNNL"
+    },
+    {
+        "meanPay": "$106k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "BCG Digital Ventures"
+    },
+    {
+        "meanPay": "$132k - $144k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Cisco Systems"
+    },
+    {
+        "meanPay": "$82k - $89k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Allstate"
+    },
+    {
+        "meanPay": "$109k - $118k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$168k - $180k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Salesforce"
+    },
+    {
+        "meanPay": "$127k - $139k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "PNNL"
+    },
+    {
+        "meanPay": "$104k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "BCG Digital Ventures"
+    },
+    {
+        "meanPay": "$134k - $144k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Cisco Systems"
+    },
+    {
+        "meanPay": "$83k - $89k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Allstate"
+    },
+    {
+        "meanPay": "$110k - $119k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$166k - $181k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$105k - $115k",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Salesforce"
+    },
+    {
+        "meanPay": "$129k - $137k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "PNNL"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "BCG Digital Ventures"
+    },
+    {
+        "meanPay": "$132k - $144k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Cisco Systems"
+    },
+    {
+        "meanPay": "$82k - $89k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Allstate"
+    },
+    {
+        "meanPay": "$110k - $118k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$167k - $180k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$106k - $115k",
+        "jobTitle": "Associate Data Scientist",
+        "company": "Salesforce"
+    }
+]

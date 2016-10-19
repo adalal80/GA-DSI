@@ -1,0 +1,842 @@
+,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
+0,"Los Angeles, CA",Rubicon Project,0fe55b4ede076bfd,Data Scientist (All Levels),,41.4,7,1 day,2016-10-16 00:29:05.084612
+1,"Long Beach, CA",CareSource,81d0cd698497fe55,Statistical Analyst,,42.6,69,1 day,2016-10-16 00:29:05.084612
+2,"West Hollywood, CA",Homee,98efd86e16e93496,Data Scientist,,,,9 days,2016-10-16 00:29:05.084612
+3,"Los Angeles, CA",Snap Inc.,93d291c0930f2bc3,"Data Scientist, Product Analytics",,,,21 days,2016-10-16 00:29:05.084612
+4,"Pasadena, CA",LaBine and Associates,a9ed0d7467c5d2c9,Data Scientist,,,,9 days,2016-10-16 00:29:05.084612
+5,"Redondo Beach, CA 90278",Northrop Grumman,73d1fcb59ce3fa6d,Data Scientist 3/4,,51.0,2124,2 days,2016-10-16 00:29:05.084612
+6,"Los Angeles, CA",UCLA Health,c278ac48cb1c1ce9,Statistical Researcher,,42.0,23,16 days,2016-10-16 00:29:05.084612
+7,"Beverly Hills, CA",Park computer systems,7d3e03ecad46c3d1,Senior Data Analytics,,,,4 days,2016-10-16 00:29:05.084612
+8,"Santa Monica, CA 90404","Cornerstone OnDemand, Inc.",ec2ed16e354e976c,"Software Engineer, Machine Learning",,52.199997,15,2 days,2016-10-16 00:29:05.084612
+9,"Los Angeles, CA",University of Southern California,8bc7b648e63cd218,Statistician I,,52.199997,355,3 days,2016-10-16 00:29:05.084612
+10,"Los Angeles, CA",University of Southern California,ed7a6ced5445b502,BERD Statistician,,52.199997,355,4 days,2016-10-16 00:29:05.084612
+11,"Los Angeles, CA",Riot Games,227e4ffcf91bddf6,Insights Analyst Intern (Grad),,51.6,8,9 days,2016-10-16 00:29:05.084612
+12,"Los Angeles, CA 90028",ZestFinance,5889920772bcab5c,"Director, Data Science",,51.0,2,11 days,2016-10-16 00:29:05.084612
+13,"Santa Monica, CA",Amazon Corporate LLC,d879690b4c698d4a,Data Scientist III - Amazon Studios - Santa Monica,,43.2,9607,29 days,2016-10-16 00:29:05.084612
+14,"Woodland Hills, CA 91367",Intuit,7a78e60d1dd821e5,Data Scientist,,52.199997,466,8 days,2016-10-16 00:29:05.084612
+15,"Los Angeles, CA",tronc,04dd780ba9745f50,Data Engineer,,,,8 days,2016-10-16 00:29:05.084612
+16,"Los Angeles, CA 90028",ZestFinance,1280ea3c97d8d6b3,"Manager, Machine Learning Modeler / Data Scientist",,51.0,2,3 days,2016-10-16 00:29:05.084612
+17,"Pasadena, CA",Jet Propulsion Laboratory,2f3791d561fa96ea,Data Visualization Developer I,,52.199997,53,2 days,2016-10-16 00:29:05.084612
+18,"Santa Monica, CA",Edmunds.com,1efe6a60e08db9ac,Data Analyst/Data Scientist,,43.8,10,20 days,2016-10-16 00:29:05.084612
+19,"Santa Monica, CA",WELLS FARGO BANK,a2288d9fa2447a6b,Analytic Consultant 1 (Data and Research Analyst),,43.8,13887,2 days,2016-10-16 00:29:05.084612
+20,"Pasadena, CA",3M,78ce546b08d147ba,"Biometric Research Scientist* (Pasadena, CA) Job",,51.6,1413,22 hours,2016-10-16 00:29:05.084612
+21,"Los Angeles, CA",The Boston Consulting Group,1f7fec3f67708b03,Data Scientist,,52.199997,58,30+ days,2016-10-16 00:29:05.084612
+22,"Los Angeles, CA",The Boston Consulting Group,89f9ff617a1ae058,"Data Scientist, Operations",,52.199997,58,30+ days,2016-10-16 00:29:05.084612
+23,"Playa Vista, CA",Fullscreen,db57d7e793279b17,"Backend Software Engineer, Data Science Team",,51.6,9,1 day,2016-10-16 00:29:05.084612
+24,"Los Angeles, CA",GUESS?. Inc.,f65192f505e75039,CRM Data Scientist,,43.8,963,30+ days,2016-10-16 00:29:05.084612
+25,"Santa Monica, CA",AirMap,0fc25f1e04ff6310,Data Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+26,"Burbank, CA",Warner Bros. Entertainment Group,9dd164ef6fc45eeb,Senior Data Visualization Engineer,,52.800003,152,8 days,2016-10-16 00:29:05.084612
+27,"Los Angeles, CA 90005",Kites Consulting,ca2c27535b1c9761,Data Scientist - CA,,,,30+ days,2016-10-16 00:29:05.084612
+28,"El Segundo, CA 90245",The Aerospace Corporation,1b6c3d37ddd60bc7,Entry Level - Software Research Engineer - Temporary,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+29,"Westwood, CA",Ronald Reagan UCLA Medical Center,f872e663ac0c3956,Principal Statistician,,53.4,23,2 days,2016-10-16 00:29:05.084612
+30,"Los Angeles, CA",Camino Financial,291faaef956e1882,Data Scientist position at a vc-funded financial services co...,,,,27 days,2016-10-16 00:29:05.084612
+31,"Culver City, CA",GOAT,d5dc49d2b85c5329,Data Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+32,"Los Angeles, CA",CrowdStrike,486692d4f70d90b1,Data Engineer,,,,26 days,2016-10-16 00:29:05.084612
+33,"Pasadena, CA 91125",Mindports,96647bfc69ed2cec,Data Scientist (Contract w potential for rapid liquidity),,,,30+ days,2016-10-16 00:29:05.084612
+34,"Los Angeles, CA",Deloitte,c9df6a84ea82e646,Big Data Senior Consultant,,51.0,3464,29 days,2016-10-16 00:29:05.084612
+35,"Los Angeles, CA",The Honest Company,5aa36a39ddd17823,Data Scientist,,52.800003,7,30+ days,2016-10-16 00:29:05.084612
+36,"Los Angeles, CA",Riot Games,f42e6fbdbd8e37ba,Data Scientist - Machine Learning Platform,,51.6,8,30+ days,2016-10-16 00:29:05.084612
+37,"Los Angeles, CA",inMarket,39a1e815ac6e56f0,Data Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+38,"Long Beach, CA 90802",Molina Healthcare,b5712ed1938ba26e,"Analyst, Research",,40.8,269,1 day,2016-10-16 00:29:05.084612
+39,"Los Angeles, CA 90045",Loyola Marymount University,be319fe7c782a291,Research Scientist,,53.4,64,29 days,2016-10-16 00:29:05.084612
+40,"Pasadena, CA",Spokeo,287caef450491118,Senior Data Scientist - Business Analytics and Experimentati...,,,,30+ days,2016-10-16 00:29:05.084612
+41,"Los Angeles, CA",Riot Games,df5764a1ae33351b,Data Scientist,,51.6,8,30+ days,2016-10-16 00:29:05.084612
+42,"Torrance, CA",Herbalife,24c528cde793627d,Scientist I,,52.199997,782,2 days,2016-10-16 00:29:05.084612
+43,"Los Angeles, CA",Cedars-Sinai,56814a10e6f80018,Data Analyst CALNOC Research,,52.199997,192,30 days,2016-10-16 00:29:05.084612
+44,"Santa Monica, CA 90404",Red Bull,737c7847cbe42760,"Senior Data Scientist, Data Services",,51.6,397,30+ days,2016-10-16 00:29:05.084612
+45,"Los Angeles, CA",UCLA Health,2c7a6a2a7e754cd3,"Statistician, Data Analyst - Westwood",,42.0,23,30+ days,2016-10-16 00:29:05.084612
+46,"Torrance, CA 90505",Saatchi & Saatchi LA,62447926032fa3e5,Data Scientist,,51.0,6,30+ days,2016-10-16 00:29:05.084612
+47,"Los Angeles, CA 90024",eHarmony,7a82cefcb7d29828,"Director, Data Science",,42.0,6,30+ days,2016-10-16 00:29:05.084612
+48,"Beverly Hills, CA 90210",Netflix Inc.,c58373c8ae8efcc7,"Senior Data Scientist, Content Science & Algorithms",,43.8,239,8 days,2016-10-16 00:29:05.084612
+49,"Beverly Hills, CA 90210",Netflix Inc.,23e81e8f0a416d3a,"Senior Data Scientist (NLP), Content Science & Algorithms",,43.8,239,8 days,2016-10-16 00:29:05.084612
+50,"Pasadena, CA",California Institute of Technology,4299f9348c3cd236,Assistant Research Scientist,,51.6,64,1 day,2016-10-16 00:29:05.084612
+51,"Los Angeles, CA",Riot Games,e7482796a2000576,Insights Analyst Intern (Undergraduate),,51.6,8,11 days,2016-10-16 00:29:05.084612
+52,"Los Angeles, CA",Hain Solution,fe2f0bcfce864920,Tableau Subject Matter Expert (Scientist),"$12,000 a year",,,11 days,2016-10-16 00:29:05.084612
+53,"Burbank, CA",The Walt Disney Studios,8d8946f2b320cb63,Data Engineer (Big Data),,52.800003,27,30+ days,2016-10-16 00:29:05.084612
+54,"El Segundo, CA 90245",Bluestem,40ffc3462dab007f,Data Engineer,,41.4,9,4 days,2016-10-16 00:29:05.084612
+55,"Los Angeles, CA",Los Angeles County Human Resources,47835b88294c375e,"RESEARCH ANALYST I, BEHAVIORAL SCIENCES/SPANISH","$50,010 - $62,134 a year",,,8 days,2016-10-16 00:29:05.084612
+56,"Los Angeles, CA 90064",The Wonderful Company LLC,399de4e7cc062227,Statistical Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+57,"Los Angeles, CA",Selby Jennings,4647ea8278def3c0,Quantitative Analyst - Multiple Vacancies,"$120,000 a year",,,1 day,2016-10-16 00:29:05.084612
+58,"Los Angeles, CA",Kelton Global,3a7332bd1ca73c88,"Senior Analyst, Quantitative Research",,,,4 days,2016-10-16 00:29:05.084612
+59,"Burbank, CA",Kaiser Permanente,d1683a22d9570907,National Market Research Analyst,,52.199997,3799,18 days,2016-10-16 00:29:05.084612
+60,"Los Angeles, CA",Google,04037d0f5e07d1a2,"Linguist, Text Classification",,52.800003,1218,30+ days,2016-10-16 00:29:05.084612
+61,"Los Angeles, CA",Kelton Global,3970419448776354,"Analyst, Quantitative Research",,,,4 days,2016-10-16 00:29:05.084612
+62,"Manhattan Beach, CA",PeerStreet,656c0b381c5f1ffd,Sr. Data Scientist,,,,29 days,2016-10-16 00:29:05.084612
+63,"Los Angeles, CA",MarketShare,f5543ac9dbdf5011,Data Scientist,,43.2,6,30+ days,2016-10-16 00:29:05.084612
+64,"Pasadena, CA",Spokeo,0db92119611ead98,Data Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+65,"Los Angeles, CA",Tessie Cleveland Community Service Corporation,a94b8de0b9630e89,Senior Research Analyst,"$56,000 a year",,,30+ days,2016-10-16 00:29:05.084612
+66,"Pasadena, CA 91107",Raytheon,63b591a5b1219275,Software Integration and Deployment Engineer,,51.0,1247,1 day,2016-10-16 00:29:05.084612
+67,"Los Angeles, CA 90031",Loot Crate,7b593adb533b7270,Senior Data Scientist,,60.0,4,30+ days,2016-10-16 00:29:05.084612
+68,"Los Angeles, CA",Amyx,9a8746d61157dd5e,Statistician,,,,30+ days,2016-10-16 00:29:05.084612
+69,"Burbank, CA",Kaiser Permanente,6b564df763fc128c,Data Production & Analysis Lead,,52.199997,3799,26 days,2016-10-16 00:29:05.084612
+70,"Los Angeles, CA",UCLA Health,f96f31119377a697,Senior Statistician,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+71,"Los Angeles, CA",Los Angeles County Human Resources,06dca3794c6fbd39,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES",,,,11 days,2016-10-16 00:29:05.084612
+72,"Los Angeles, CA 90017",Uptown Treehouse,3d5f372c97399426,Data Scientist Internship,,,,30+ days,2016-10-16 00:29:05.084612
+73,"Los Angeles, CA",Los Angeles County Department of Human Resources,c5a34645055fdfa3,SENIOR STATISTICAL CLERK,"$36,339 - $48,794 a year",,,9 days,2016-10-16 00:29:05.084612
+74,"Los Angeles, CA 90045","CNC WORLDWIDE, INC",ac6afe96e639e14f,MARKET RESEARCH ANALYST,,,,18 days,2016-10-16 00:29:05.084612
+75,"Los Angeles, CA",California State University,4c1f51c27586f981,SENIOR DASHBOARD DATA SCIENTIST (160050),"$6,249 - $10,857 a month",53.4,448,30+ days,2016-10-16 00:29:05.084612
+76,"Los Angeles, CA",The Camstoll Group,38a844c3922f0939,"Research Analyst Intern, Los Angeles",,,,8 days,2016-10-16 00:29:05.084612
+77,"Los Angeles, CA",University of Southern California,7eb62c4c912aa559,Clinical Research Data Specialist I,,52.199997,355,29 days,2016-10-16 00:29:05.084612
+78,"Brea, CA 92821",Pacific Western Bank,e15995bc98e18ad6,Quantitative Analyst,,51.0,33,15 days,2016-10-16 00:29:05.084612
+79,"Los Angeles, CA 90028",ZestFinance,d1b275b4c9d86ee4,"Vice President, Data Science",,51.0,2,30+ days,2016-10-16 00:29:05.084612
+80,"Santa Monica, CA",Planet Pharma,6bf39bdc9b182612,Pharmacology Associate,,,,15 days,2016-10-16 00:29:05.084612
+81,"Santa Monica, CA",Talent Merchants,b0a84d27b26265e8,Data Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+82,"Los Angeles, CA","The TCW Group, Inc.",ccb9d5f26b7453a5,Equity Research - Associate Analyst,,,,2 days,2016-10-16 00:29:05.084612
+83,"Los Angeles, CA",Deloitte,795fa488ed570fac,Big Data Manager,,51.0,3464,29 days,2016-10-16 00:29:05.084612
+84,"Los Angeles, CA",Cedars-Sinai,e68645d28d3d3763,Project Scientist,,52.199997,192,5 days,2016-10-16 00:29:05.084612
+85,"Hawthorne, CA 90250",SpaceX,f48c6304289ab4ac,Data Scientist,,42.0,81,30+ days,2016-10-16 00:29:05.084612
+86,"Los Angeles, CA",Cedars-Sinai,7a287b3efcfc7e9f,Research Associate II,,52.199997,192,4 days,2016-10-16 00:29:05.084612
+87,"Duarte, CA 91010",City Of Hope,21c09669c9e16681,"Data Scientist, Clinical Informatics",,51.0,111,30+ days,2016-10-16 00:29:05.084612
+88,"El Segundo, CA 90245",AT&T,951a515bbf3e325e,Big Data Technical Intern I,,44.4,14286,24 days,2016-10-16 00:29:05.084612
+89,"Santa Monica, CA 90401",Milken Institute,a46f15b615ea6b4d,Senior Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+90,"Los Angeles, CA",TBWA\Chiat\Day,0281c5997ab15bb3,Senior Research Analyst/Intelligence Officer,,43.8,4,13 days,2016-10-16 00:29:05.084612
+91,"Northridge, CA",Medtronic,cccd650bd6887252,Sr. Principal Data Scientist,,51.0,790,30+ days,2016-10-16 00:29:05.084612
+92,"Anaheim, CA",CareSource,b1e88bc1cbc9cbf3,Support Analyst/Cognos/Crystal Reports,,42.6,69,1 day,2016-10-16 00:29:05.084612
+93,"Pasadena, CA",California University of Technology,8d48e934ceb12a17,Scientific Researcher,,,,3 days,2016-10-16 00:29:05.084612
+94,"Northridge, CA",Areté Associates,22d61b97256e6f27,Computational Scientist,,51.6,8,19 hours,2016-10-16 00:29:05.084612
+95,"Glendale, CA",Apex Systems Inc,b69ce7d462e0afe2,Data Scientist GIS,,43.8,303,18 days,2016-10-16 00:29:05.084612
+96,"Santa Monica, CA 90401",Perr&Knight,72b3d273858d8629,Statistical Reporting Analyst,,52.800003,3,1 day,2016-10-16 00:29:05.084612
+97,"El Segundo, CA 90245",The Aerospace Corporation,e2188f4f60a27a18,Identity Access Developer,,52.199997,46,1 day,2016-10-16 00:29:05.084612
+98,"Los Angeles, CA",Anvaya Solutions Inc,5c6b5f3f7e9f5a00,SAS Database Marketing Statistician/Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+99,"Cerritos, CA 90703","Sunwest Mortgage Company, Inc.",256e9cc769a8c633,Business Analyst - Operation Research,,,,4 days,2016-10-16 00:29:05.084612
+100,"Pasadena, CA",Oben,95d50c66f5765ed3,Deep Learning Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+101,"Industry, CA",Torrid,dc807ffabc6248f6,Marketing Data Scientist,,43.8,268,30+ days,2016-10-16 00:29:05.084612
+102,"Los Angeles, CA 90028",ZestFinance,7f382ae01ae206eb,Sr. Assoc Machine Learning Modeler / Data Scientist,,51.0,2,30+ days,2016-10-16 00:29:05.084612
+103,"Los Angeles, CA",UCLA Health,42da5a15908c5336,"Statistician, Assistant",,42.0,23,30+ days,2016-10-16 00:29:05.084612
+104,"Los Angeles, CA 90025",Capital Group,383a784f191e6fc5,Risk and Quantitative Solutions Analyst Senior,,51.0,116,6 days,2016-10-16 00:29:05.084612
+105,"Monrovia, CA",Eurofins,61acf6d1bcd5ff39,Scientist,,,,11 days,2016-10-16 00:29:05.084612
+106,"Santa Monica, CA","TrueCar, Inc.",fd0cf4348a41249b,Analyst,,39.0,6,30+ days,2016-10-16 00:29:05.084612
+107,"El Segundo, CA 90245",Engility Corporation,2c505212962a8e92,Operations Research Analyst,,43.2,243,29 days,2016-10-16 00:29:05.084612
+108,"Los Angeles, CA",Los Angeles County Human Resources,a51029a8d1d79129,SENIOR STATISTICAL CLERK,"$36,339 - $48,794 a year",,,11 days,2016-10-16 00:29:05.084612
+109,"Duarte, CA 91010",City Of Hope,4667fc7efaa25396,Research Business Analyst,,51.0,111,15 days,2016-10-16 00:29:05.084612
+110,"Culver City, CA",Ipsos North America,194c6b709feccea0,"Connect - Research Analyst, Behavioral Data Group",,42.6,185,30+ days,2016-10-16 00:29:05.084612
+111,"El Segundo, CA 90245",AT&T,7e5ed64312a90103,Big Data Technical Co Op I,,44.4,14286,24 days,2016-10-16 00:29:05.084612
+112,"Los Angeles, CA",Gavin de Becker & Associates,f2c6c07a88374c82,Investigations & Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+113,"Los Angeles, CA",The Camstoll Group,6ebd9fd9d624d7fe,Research Analyst,,,,8 days,2016-10-16 00:29:05.084612
+114,"Pasadena, CA",OpenX,a0261ecd756ea7ca,Senior Data Scientist,,43.2,9,30+ days,2016-10-16 00:29:05.084612
+115,"El Segundo, CA 90245",The Aerospace Corporation,313ea948bb622150,Search Developer,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+116,"Los Angeles, CA",Blue Bottle Coffee Inc.,b46f5e1a928afeb1,Commissary Manager,,,,10 days,2016-10-16 00:29:05.084612
+117,"Culver City, CA",Ipsos North America,368c8d795576933a,Observer - Research Analyst,,42.6,185,30+ days,2016-10-16 00:29:05.084612
+118,"Santa Monica, CA",General Assembly,0b27e4205312d68e,Part Time Data Science Instructor,,52.800003,74,30+ days,2016-10-16 00:29:05.084612
+119,"El Segundo, CA","The AEgis Technologies Group, Inc.",daeec5e72c472f4f,Space Operations Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+120,"Sherman Oaks, CA 91403",Pinnacle Solutions Inc,0b796c220ebf4bd1,SAS Database Marketing Statistician/Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+121,"Culver City, CA",Ubisoft,8e4e5347739b699d,"Sr. Analyst, Research & Development",,51.0,68,29 days,2016-10-16 00:29:05.084612
+122,"Los Angeles, CA 90032","California State University, Los Angeles",3c7cef851ac4e87b,SENIOR DASHBOARD DATA SCIENTIST,"$6,249 - $10,857 a month",53.4,7,30+ days,2016-10-16 00:29:05.084612
+123,"Los Angeles, CA",Los Angeles County Department of Human Resources,9c09d5bac14fac03,"RESEARCH ANALYST I, BEHAVIORAL SCIENCES/SPANISH","$50,010 - $62,134 a year",,,3 days,2016-10-16 00:29:05.084612
+124,"Los Angeles, CA",UCLA Health,3c582454195a337b,Data Scientist and Application Programmer,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+125,"Beverly Hills, CA 90210",Netflix,e0b5a72edb76c20d,"Senior Analytics Staff, Media & Marketing",,43.8,239,30+ days,2016-10-16 00:29:05.084612
+126,"Los Angeles, CA",Tribogenics,729eda2e908b9b2e,Quality Assurance Engineer - Design,,,,5 days,2016-10-16 00:29:05.084612
+127,"Santa Monica, CA",PRA Health Sciences,fffc2d1af9370d1d,"Senior Statistical Programmer, Oncology (Remote)",,41.4,109,12 days,2016-10-16 00:29:05.084612
+128,"El Segundo, CA 90245",HealthCare Partners,45d25fdf2075c168,"Market Research Analyst, Senior",,42.6,138,2 days,2016-10-16 00:29:05.084612
+129,"Pasadena, CA 91103",eCivis,a95e29ca826777bd,Grants Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+130,"El Segundo, CA 90245",The Aerospace Corporation,8441c1f9d6f0e388,Member of Technical Staff,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+131,"Torrance, CA",Physical Optics,32cdbc6f39ab505b,Research Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+132,"Los Angeles, CA",Riot Games,4860c08f29ac9c52,Technical Data Analyst,,51.6,8,30+ days,2016-10-16 00:29:05.084612
+133,"Los Angeles, CA",City National Bank,60a97561ba28822b,CCAR Quantitative Analyst,,43.8,159,30+ days,2016-10-16 00:29:05.084612
+134,"Los Angeles, CA",DataScience,3d0aefd5ecd9a1a8,Data Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+135,"Pasadena, CA",California University of Technology,21462d68c97cc556,Research Scientist,,,,24 days,2016-10-16 00:29:05.084612
+136,"Playa Vista, CA",University of Southern California,9f1d5ecd3516a8b0,Research Scientist,,52.199997,355,30+ days,2016-10-16 00:29:05.084612
+137,"Los Angeles, CA",Abacus service,6bf6add6f19cda06,"DIRECTOR, CUSTOMER RESEARCH",,51.0,2,10 days,2016-10-16 00:29:05.084612
+138,"Pasadena, CA",Oben,7afc11efe021dbd9,Machine Learning Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+139,"El Segundo, CA 90245",The Aerospace Corporation,b93669f9c905f162,RF Threat Analyst,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+140,"Los Angeles, CA",UCLA Health,d98291cd6e183865,Principal Statistician,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+141,"Los Angeles, CA",UCLA Health,265b51c2a97f7359,Programmer Analyst III,,42.0,23,8 days,2016-10-16 00:29:05.084612
+142,"Los Angeles, CA",SEIU United Healthcare Workers - West,6b7289686375f70c,Research Analyst,,43.2,36,26 days,2016-10-16 00:29:05.084612
+143,"El Segundo, CA 90245",The Aerospace Corporation,cd95aa440399df69,RF Plasma breakdown Scientist,,52.199997,46,3 days,2016-10-16 00:29:05.084612
+144,"Pasadena, CA",California Institute of Technology,37df6237de892e53,Senior Research Scientist,,51.6,64,4 days,2016-10-16 00:29:05.084612
+145,"El Segundo, CA",Kaleo Software,8b98abb25759c1d0,Looking for a Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+146,"Los Angeles, CA",tronc,e4ed008d758815e9,Senior Marketing Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+147,"Pasadena, CA",Kaiser Permanente,881ba9dce10a6612,Analytical Programmer II/III (SAS or R) - Epidemiological Re...,,52.199997,3799,25 days,2016-10-16 00:29:05.084612
+148,"Los Angeles, CA",Worldwide Clinical Trials,155ddd4f41ba5045,Senior/Principal Statistician (Remote/West Coast),,43.2,22,25 days,2016-10-16 00:29:05.084612
+149,"Los Angeles, CA",Kelton Global,e31e6495b098fd3f,"Analyst, Qualitative Research",,,,4 days,2016-10-16 00:29:05.084612
+150,"Cerritos, CA",Quality Health Strategies,034b1acc725ce024,Chief Statistician - Cerritos or Sacramento,,,,27 days,2016-10-16 00:29:05.084612
+151,"Los Angeles, CA",JLL,0e9da02168901abd,"Sr. Research Analyst, Industrial",,43.8,759,30+ days,2016-10-16 00:29:05.084612
+152,"Santa Monica, CA",Hulu,5d5cdc8885a02161,Software Development Manager - Data Science,,42.0,2,12 days,2016-10-16 00:29:05.084612
+153,"Los Angeles, CA 90020",THC Design,94a583330092d44b,Lab Associate,,,,5 days,2016-10-16 00:29:05.084612
+154,"Los Angeles, CA",VNU Retail Group,9bf73b4430464ebc,Data Insight and Analysis Manager,,,,23 days,2016-10-16 00:29:05.084612
+155,"Burbank, CA",Warner Bros. Entertainment Group,ffa2ec8392bde1d8,Research Analyst,,52.800003,152,30+ days,2016-10-16 00:29:05.084612
+156,"Glendale, CA",Disney ABC Television Group,a66994e88b08e41c,Analyst - Digital Research,,51.0,164,30+ days,2016-10-16 00:29:05.084612
+157,"Los Angeles, CA",UCLA Health,fdb925abcd245c8e,Centralized Research Billing Analyst,,42.0,23,11 days,2016-10-16 00:29:05.084612
+158,"Pasadena, CA",MJK Concepts,ced494cb9806d42f,SPEECH SYNTHESIS RESEARCH SCIENTIST,,,,30+ days,2016-10-16 00:29:05.084612
+159,"Woodland Hills, CA 91367",InterMedia Advertising,13780dae725705c6,Director/Manager of Business Intelligence and Analytics,,,,30+ days,2016-10-16 00:29:05.084612
+160,"Los Angeles, CA",Los Angeles County Human Resources,b21d3e29437c2683,"CHIEF RESEARCH ANALYST, BEHAVIORAL SCIENCES","$73,107 - $95,884 a year",,,30+ days,2016-10-16 00:29:05.084612
+161,"Canoga Park, CA",Thermo Fisher Scientific,a9fbd8955f9b9a7b,"Engineer/Scientist I, QC",,43.2,980,4 days,2016-10-16 00:29:05.084612
+162,"Brea, CA 92821",Pacific Western Bank,98f68c1f55539d44,Quantitative Analyst Intern - Masters Degree/PHD Students On...,,51.0,33,15 days,2016-10-16 00:29:05.084612
+163,"El Segundo, CA",Bluestem Brands Inc.,a2ded45f46a75deb,Data Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+164,"Los Angeles, CA",Aetion,2cc441ff00bb95d3,Front-end Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+165,"Los Angeles, CA",Blackwood Seven,abea4f76a1d9213d,Senior Marketing Scientist,,,,15 days,2016-10-16 00:29:05.084612
+166,"Los Angeles, CA",Tribogenics,6280855cef57c6eb,"Director, X-Ray Source Engineering",,,,5 days,2016-10-16 00:29:05.084612
+167,"Playa Vista, CA",Fullscreen,a8e5a6de4181ebba,"Director, Business Intelligence",,51.6,9,1 day,2016-10-16 00:29:05.084612
+168,"Los Angeles, CA 90028",Fulcrum Labs,e2d58f393398aab7,Sales Development Representative,,,,30+ days,2016-10-16 00:29:05.084612
+169,"Santa Monica, CA","Kite Pharma, Inc.",2c7891e058cceed4,Scientist / Senior Research Associate - Flow Cytometry,,,,4 days,2016-10-16 00:29:05.084612
+170,"Los Angeles, CA",Analytic Recruiting,956f97b961702e74,"Quantitative Risk Analyst (SQL, Visual Studio)-Fixed Income...",,51.0,2,30+ days,2016-10-16 00:29:05.084612
+171,"Woodland Hills, CA 91367","Health Net, Inc.",df78f35f07536a5a,"Manager, Data Analysis",,44.4,605,27 days,2016-10-16 00:29:05.084612
+172,"Pasadena, CA",Datalogic,99f027742f210c15,Machine Learning Research Scientist,,51.6,15,30+ days,2016-10-16 00:29:05.084612
+173,"Los Angeles, CA",Gabetti,cd0ef83ddbb79149,Stage Market research Analyst (Rif. Mark Res 1),,,,30+ days,2016-10-16 00:29:05.084612
+174,"Fullerton, CA 92831",CWE,6890703d504f908b,Scientist II or Engineer II,,,,24 days,2016-10-16 00:29:05.084612
+175,"Los Angeles, CA",UCLA Health,516736f6b6972f28,Sr. Nuc Med Technologist,,42.0,23,16 days,2016-10-16 00:29:05.084612
+176,"Cypress, CA",DiaSorin,d5d23763bab23769,R&D Research Associate I - DiaSorin Molecular LLC,,43.8,8,25 days,2016-10-16 00:29:05.084612
+177,"El Segundo, CA 90245",The Aerospace Corporation,9743d3260ff44b36,Postdoc I,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+178,"Los Angeles, CA 90035",Compass,154f85750f79048d,New Development Research Analyst,,43.8,696,30 days,2016-10-16 00:29:05.084612
+179,"Long Beach, CA 90808",2020ITServices,26d21ac1cef066a4,NLP/Machine Learning,,,,4 days,2016-10-16 00:29:05.084612
+180,"Los Angeles, CA",UCLA Health,7cf9a5d3f2737716,Project Manager - Westwood,,42.0,23,20 days,2016-10-16 00:29:05.084612
+181,"Los Angeles, CA","Tri Alpha Energy, Inc.",901006d61ba92639,Senior Development Engineer,,,,19 days,2016-10-16 00:29:05.084612
+182,"Canoga Park, CA",Thermo Fisher Scientific,bc98aed5d732a7bc,"Staff Scientist, Bioinformatics",,43.2,980,4 days,2016-10-16 00:29:05.084612
+183,"El Segundo, CA 90245",The Aerospace Corporation,dd9e32aafe777767,Space Security Threat Analyst,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+184,"Woodland Hills, CA 91367","Health Net, Inc.",fb7c9ef3618c1470,Sr Research Analyst 9422,,44.4,605,10 days,2016-10-16 00:29:05.084612
+185,"Cypress, CA",DiaSorin,6312c777691d91c8,Senior Scientist,,43.8,8,30+ days,2016-10-16 00:29:05.084612
+186,"Beverly Hills, CA 90210",Netflix Inc.,fc80c40eeb9e5b15,"Associate, Marketing Experimentation & Technology",,43.8,239,8 days,2016-10-16 00:29:05.084612
+187,"Los Angeles, CA",DataScience,e9fa8b3bcd41bd30,Sales Development Representative,,,,11 days,2016-10-16 00:29:05.084612
+188,"Beverly Hills, CA 90210",Netflix,29577cb1b83cb9a5,"Senior Design Technologist, Content Science & Algorithms",,43.8,239,30+ days,2016-10-16 00:29:05.084612
+189,"El Segundo, CA",General Dynamics - Information Technology,364bdca0f652f8e9,Application Support/Customer Service,,43.8,3520,29 days,2016-10-16 00:29:05.084612
+190,"Santa Monica, CA 90401",Uber,1b70a5c14e07c870,Regional Marketing Research Lead,,51.6,156,30+ days,2016-10-16 00:29:05.084612
+191,"El Segundo, CA 90245",The Aerospace Corporation,6be56592973cbf60,"Mechanisms, Mass Properties, and Ordnance Engineer",,52.199997,46,2 days,2016-10-16 00:29:05.084612
+192,"Culver City, CA",DataScience,25bcf0aa5772c3c5,Software Engineer - Javascript,,,,30+ days,2016-10-16 00:29:05.084612
+193,"Redondo Beach, CA 90278",Northrop Grumman,c4620d642289df97,Autonomy Research Scientist 3,,51.0,2124,30+ days,2016-10-16 00:29:05.084612
+194,"Santa Monica, CA",Astellas Pharmaceuticals,d589dc3efab834be,Senior QC Analyst III,,43.2,50,30+ days,2016-10-16 00:29:05.084612
+195,"El Segundo, CA 90245",The Aerospace Corporation,1cd7558f2fd4cf2c,Guidance and Navigation Engineer,,52.199997,46,2 days,2016-10-16 00:29:05.084612
+196,"Santa Monica, CA","TrueCar, Inc.",4a4db02cfa9fe9eb,"Senior Analyst, Market Research",,39.0,6,30+ days,2016-10-16 00:29:05.084612
+197,"Monrovia, CA",Eurofins,23ab991bc4350f55,Extraction Scientist,,,,16 days,2016-10-16 00:29:05.084612
+198,"Pasadena, CA",Oben,2a775ee82368579f,Machine Learning Scientist with Audio DSP background,,,,30+ days,2016-10-16 00:29:05.084612
+199,"El Segundo, CA 90245",The Aerospace Corporation,b651badbf20759e0,Electric Propulsion Laboratory Assistant,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+200,"Los Angeles, CA",UCLA Health,982f5206c81a5559,Variant Scientist,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+201,"El Segundo, CA 90245",The Aerospace Corporation,16b215fc6ee53551,HR Compensation Analyst IV,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+202,"Pasadena, CA",Jet Propulsion Laboratory,bf31d1d2f042aad6,"Web Developer, Front-End and Full-Stack Development",,52.199997,53,9 days,2016-10-16 00:29:05.084612
+203,"Hawthorne, CA",ERRG,b389006618ced7ea,Project Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+204,"Torrance, CA",Herbalife,3b79bd3d5be53794,Principal Scientist - Tea,,52.199997,782,5 days,2016-10-16 00:29:05.084612
+205,"El Segundo, CA 90245",The Aerospace Corporation,a28ac894724b5bc6,"Vehicle, Shock and Vibration Engineer",,52.199997,46,4 days,2016-10-16 00:29:05.084612
+206,"Santa Monica, CA","Magic Leap, Inc.",cc6be0bd84364c77,Performance Capture Lead,,54.0,2,30+ days,2016-10-16 00:29:05.084612
+207,"Santa Monica, CA",General Assembly,dd5fe34005e54d76,Lead Data Science Instructor,,52.800003,74,30+ days,2016-10-16 00:29:05.084612
+208,"Monrovia, CA",Eurofins,dfb0cdf905ea7b97,Senior Scientist,,,,6 days,2016-10-16 00:29:05.084612
+209,"Santa Monica, CA",NeoHire South,e568356954a1e492,Data Scientist Role with Santa Monica Content Creator,,,,30+ days,2016-10-16 00:29:05.084612
+210,"Los Angeles, CA",First 5 LA,231203634bb2ee9b,RESEARCH ANALYST III,"$5,177 - $7,762 a month",39.0,6,30+ days,2016-10-16 00:29:05.084612
+211,"Los Angeles, CA",Creative Artists Agency (CAA),e0b4ad49dfb66dc8,"Manager (Senior Analyst), TV Research",,,,30+ days,2016-10-16 00:29:05.084612
+212,"Duarte, CA 91010",City Of Hope,234890dc78102760,Project Development Scientist - Center for Gene Therapy,,51.0,111,10 days,2016-10-16 00:29:05.084612
+213,"Los Angeles, CA 90028",Fulcrum Labs,017b48bfbfccbe8d,Senior Product Manager,,,,25 days,2016-10-16 00:29:05.084612
+214,"Calabasas, CA",Informa Business Intelligence,9e0c6f6fff6c3a3c,Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+215,"Long Beach, CA","City of Long Beach, CA",1f992a7bd5bc4d9e,PUBLIC HEALTH ASSOCIATE III - CHEMIST (NON-CAREER/UNCLASSIFI...,$25.52 - $34.65 an hour,54.0,2,21 days,2016-10-16 00:29:05.084612
+216,"Los Angeles, CA",UL LLC,850288db716b4277,Research Engineer - Wind Modeling,,,,20 days,2016-10-16 00:29:05.084612
+217,"Los Angeles, CA",AEG Live LLC,646dc8de49f39306,Business Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+218,"Pasadena, CA",Jet Propulsion Laboratory,3e0ae64b9b4dcee4,"Research Technologist IV, Imaging Spectroscopy",,52.199997,53,30+ days,2016-10-16 00:29:05.084612
+219,"Pasadena, CA",Kaiser Permanente,b899786d7d7247da,Programmer Analyst II/III(SAS or R),,52.199997,3799,30+ days,2016-10-16 00:29:05.084612
+220,"Los Angeles, CA 90067",Compassionate Oncology Medical Group,cab33f821fea9192,Clinical Laboratory Scientist,$55 an hour,,,8 days,2016-10-16 00:29:05.084612
+221,"Santa Monica, CA 90404",Red Bull,a00b014f2debe86b,Quality Assurance & Postmarketing Surveillance Manager,,51.6,397,28 days,2016-10-16 00:29:05.084612
+222,"Los Angeles, CA",UCLA Health,a5beb7f4f75c867b,Staff Research Associate II,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+223,"Los Angeles, CA 90071",MarketShift,4b46e2ce5572ad80,Equity Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+224,"Los Angeles, CA",Klein Hersh International,a93c993c62831b9b,Programmer / Statistician / Claims Data - Pharmaceutical Con...,,,,30+ days,2016-10-16 00:29:05.084612
+225,"Los Angeles, CA 90025",CHILDRENS HOSPITAL - LA,fec8cc43373b72b0,Research Systems Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+226,"Los Angeles, CA",Los Angeles County Department of Human Resources,8876a88896dc31a8,"CHIEF RESEARCH ANALYST, BEHAVIORAL SCIENCES","$73,107 - $95,884 a year",,,30+ days,2016-10-16 00:29:05.084612
+227,"Los Angeles, CA",UCLA Health,d26d48ff77c3a265,Clinical Lab Scientist,,42.0,23,3 days,2016-10-16 00:29:05.084612
+228,"Duarte, CA 91010",City Of Hope,6e0558cee75971e5,Postdoctoral Fellow - Clinical Vaccine Studies,,51.0,111,8 days,2016-10-16 00:29:05.084612
+229,"Santa Monica, CA",ZEFR,7c35a240aa1b8ed2,Contract Tech Recruiter (needed Q1 2017),,,,24 days,2016-10-16 00:29:05.084612
+230,"Santa Monica, CA","Kite Pharma, Inc.",f83e79b083150297,Quality Control Scientist,,,,4 days,2016-10-16 00:29:05.084612
+231,"Los Angeles, CA",MUFG,aa2e3a74a75ff241,Market Risk Management Senior Quantitative Analyst,,39.6,12,10 days,2016-10-16 00:29:05.084612
+232,"Los Angeles, CA","Beckman Coulter, Inc.",bda877455bfbc930,Field Service Engeineer,,42.6,245,5 days,2016-10-16 00:29:05.084612
+233,"El Segundo, CA 90245",The Aerospace Corporation,8d5790a6dd3ed97f,Junior RF Design Engineer,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+234,"Los Angeles, CA 90067",Modis,9053cedb89fe6513,Statistical Research Associate (STATA),,43.2,123,24 days,2016-10-16 00:29:05.084612
+235,"Los Angeles, CA","Beckman Coulter, Inc.",8f6d5a41f35b0265,Field Service Engineer,,42.6,245,5 days,2016-10-16 00:29:05.084612
+236,"Pasadena, CA 91101",ADP,542bbf689c23f972,Director of Product Management - Added Value Services (AVS),,44.4,1655,12 days,2016-10-16 00:29:05.084612
+237,"Universal City, CA",NBCUniversal,a25af1a2028966b2,Research Analyst,,51.6,980,30+ days,2016-10-16 00:29:05.084612
+238,"Los Angeles, CA",UCLA Health,a86b18322818aaca,Research Support Analyst,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+239,"Los Angeles, CA 90057",St. Vincent Medical Center,c6a8fcf317bc6a35,Medical Technologist/Clinical Lab Scientist,,52.800003,31,2 days,2016-10-16 00:29:05.084612
+240,"Brea, CA 92821","Beckman Coulter, Inc.",1a1acd2226f1137b,Indirect Procurement Category Analyst,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+241,"Anaheim, CA",Labcorp,cad01ce9aec98898,Claims Assistant,,43.2,1700,22 hours,2016-10-16 00:29:05.084612
+242,"Los Angeles, CA",Shire,35e31f199c375964,"Mgr, Validation",,43.8,159,24 days,2016-10-16 00:29:05.084612
+243,"El Segundo, CA",Beyond Meat,224145da2ecce834,Protein Scientist,,42.0,2,30+ days,2016-10-16 00:29:05.084612
+244,"Brea, CA 92821","Beckman Coulter, Inc.",c0836f8e39bd0e43,Senior Analyst Procurement,,42.6,245,29 days,2016-10-16 00:29:05.084612
+245,"Northridge, CA 91324",Arete Associates,43b24a18d11dc254,Research Scientist,,51.0,3,30+ days,2016-10-16 00:29:05.084612
+246,"Duarte, CA 91010",City Of Hope,ced63eb43e002206,Postdoctoral Fellow - Cancer Genetics-Epigenetics - Shen lab,,51.0,111,4 days,2016-10-16 00:29:05.084612
+247,"Canoga Park, CA",Thermo Fisher Scientific,bc1429703ceb5e0d,Sr. Bioinformatics Scientist,,43.2,980,11 days,2016-10-16 00:29:05.084612
+248,"North Hollywood, CA",Kaiser Permanente,15a10e19db8492fc,Clinical Lab Scientist,,52.199997,3799,4 days,2016-10-16 00:29:05.084612
+249,"El Segundo, CA 90245",BioDiscovery Inc,d3e890d54a52c946,Java Developer (2D Graphics/Data visualization),,,,18 days,2016-10-16 00:29:05.084612
+250,"Torrance, CA",Physical Optics,6398c8e58fe5f2b9,RF Research Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+251,"El Segundo, CA 90245",The Aerospace Corporation,caa61f8f22e22aa4,Software Intensive System Acquisition Analyst,,52.199997,46,3 days,2016-10-16 00:29:05.084612
+252,"Los Angeles, CA",Coupang,add6493048bc5c5f,Software Engineering Leader - Ad Platform & Ad Exchange,,52.800003,3,30+ days,2016-10-16 00:29:05.084612
+253,"Santa Monica, CA 90404",Career Movement,cad703d02d4bea8f,Director of Data,"$175,000 - $195,000 a year",,,4 days,2016-10-16 00:29:05.084612
+254,"Pasadena, CA 91107",Raytheon,f4487058aad80e3f,Sr Digital Radar Electronics Engineer,,51.0,1247,30+ days,2016-10-16 00:29:05.084612
+255,"Los Angeles, CA 90025",California Cryobank,0394d8752bc5cf16,CLS,,,,30+ days,2016-10-16 00:29:05.084612
+256,"Los Angeles, CA",Cedars-Sinai,b22a72d1c0253c34,Research Biostatistician I,,52.199997,192,30+ days,2016-10-16 00:29:05.084612
+257,"Los Angeles, CA",Flipagram,8e41c539873635eb,Software Engineer (Search & Relevance),,,,30+ days,2016-10-16 00:29:05.084612
+258,"Los Angeles, CA",RAPP,a08259d7f6b845f3,"Director, Advanced Analytics Solutions",,51.0,15,30+ days,2016-10-16 00:29:05.084612
+259,"Los Angeles, CA",Riot Games,fd09f049dca8476b,Procurement Manager - Sourcing,,51.6,8,30+ days,2016-10-16 00:29:05.084612
+260,"Sylmar, CA 91342","Motion Picture Compliance Solutions, Inc.",11797c56af580e96,Data Analysis Clerks (entry level),,,,30+ days,2016-10-16 00:29:05.084612
+261,"Los Angeles, CA","The TCW Group, Inc.",76250f3c89da03f5,Equity Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+262,"Los Angeles, CA",AJA Laboratory,5f59df2f51e5defa,Clinical Laboratory Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+263,"Monterey Park, CA 91754",Monterey Park Hospital,550778c038bc4a40,Clinical Lab Scientist ( 8 Hour Night Shift),,,,8 days,2016-10-16 00:29:05.084612
+264,"Los Angeles, CA",UCLA Health,e01c885724f69fda,Cytogenetic Technologist II,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+265,"Woodland Hills, CA 91367",Northrop Grumman,ffc08551f76cb71a,Software Engineer 2,,51.0,2124,30+ days,2016-10-16 00:29:05.084612
+266,"Pasadena, CA 91101",ADP,e712891f01b273ad,Lead Application Developer - Java / JavaScript / Angular,,44.4,1655,14 days,2016-10-16 00:29:05.084612
+267,"Culver City, CA",DataScience,caafb139acd1273b,Lead Software Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+268,"Northridge, CA",Areté Associates,1fd7270f190b0a32,Research Scientist,,51.6,8,30+ days,2016-10-16 00:29:05.084612
+269,"Santa Monica, CA 90407",Providence Health & Services,f8bed607f8175a22,Junior Bioinformatician ( Full Time - Day Shift ),,43.2,632,30+ days,2016-10-16 00:29:05.084612
+270,"Los Angeles, CA 90057",St. Vincent Medical Center,1011c3e8e8d5c172,Clinical Laboratory Quality Coordinator,,52.800003,31,1 day,2016-10-16 00:29:05.084612
+271,"Los Angeles, CA",Twentieth Century Fox,7c799f40d6cda639,"Analyst, Research",,42.6,14,30+ days,2016-10-16 00:29:05.084612
+272,"Cypress, CA 90630","Consolidated Medical Bio-Analysis, Inc.",c3eb3cb046a7b374,Clinical Laboratory Assistant,,,,7 days,2016-10-16 00:29:05.084612
+273,"Torrance, CA",Toyota Financial Services,bb19b6889124b53b,Hadoop / Netezza Consultant,,,,17 days,2016-10-16 00:29:05.084612
+274,"Duarte, CA 91010",City Of Hope,072b7fd74ab2f294,Postdoctoral Fellow - T Cell - Forman lab,,51.0,111,22 days,2016-10-16 00:29:05.084612
+275,"Brea, CA 92821","Beckman Coulter, Inc.",a6d10408f30654a1,Real Estate Analyst,,42.6,245,11 days,2016-10-16 00:29:05.084612
+276,"Los Angeles, CA 90064",UtopiaCompression Corporation,a9b8a9b44a0770a1,Software Developer/System Administrator,,,,30+ days,2016-10-16 00:29:05.084612
+277,"Los Angeles, CA",Grifols: US,646b8ea6efb397b3,Principal Scientist - (QC Methods Development & Validation),,,,30+ days,2016-10-16 00:29:05.084612
+278,"El Segundo, CA 90245",The Aerospace Corporation,5ff5da16bbd85c88,Electronics Components Processing & Assembly Lab Technician,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+279,"Brea, CA 92821","Beckman Coulter, Inc.",7ecafa54e37179b8,"Scientific Affairs Manager, North America",,42.6,245,22 days,2016-10-16 00:29:05.084612
+280,"Long Beach, CA",Big Heart Pet Brands,e9601f5118c4d40d,R&D - Manager - Cat Treats,,43.8,26,30+ days,2016-10-16 00:29:05.084612
+281,"Los Angeles, CA",INTERA,e6a7a6b4f39026a9,Water Resources Certified Professional,,,,6 days,2016-10-16 00:29:05.084612
+282,"Cypress, CA","Scientific Applications & Research Associates, Inc",7863ca10f9ac1300,Software Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+283,"Los Angeles, CA",Los Angeles County Department of Human Resources,ac7fca3fad06dd06,"RESEARCH ANALYST II, BEHAVIORAL SCIENCES","$57,274 - $71,152 a year",,,30+ days,2016-10-16 00:29:05.084612
+284,"Duarte, CA 91010",City Of Hope,e5b3599cf0b2499b,Staff Scientist - Forman lab,,51.0,111,30+ days,2016-10-16 00:29:05.084612
+285,"Long Beach, CA 90806",SCAN Health Plan,9aae6384373aaddc,Pharmacy Research Analyst,,51.6,43,30+ days,2016-10-16 00:29:05.084612
+286,"Pasadena, CA 91101",ADP,4f5c967a324bef9c,Sr. MULESOFT DEVELOPER,,44.4,1655,5 days,2016-10-16 00:29:05.084612
+287,"Los Angeles, CA",UCLA Health,0757283645599461,Statistical Coordinator,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+288,"Los Angeles, CA",Riot Games,a8194aa2a879a3b7,Researcher (Industrial-Organizational),,51.6,8,30+ days,2016-10-16 00:29:05.084612
+289,"Santa Monica, CA",The Big Game Hunter,eda0b513a7cb674a,Director of Data Science,,,,30+ days,2016-10-16 00:29:05.084612
+290,"Los Angeles, CA 90014",SEIU USWW,76e272dbcb42060a,Research Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+291,"El Segundo, CA 90245",The Aerospace Corporation,cf493640f8c10615,Administrative Specialist III (A113),,52.199997,46,9 days,2016-10-16 00:29:05.084612
+292,"Los Angeles, CA","Exact Staff, Inc.",36a499fa142f13df,Clinical Laboratory Scientist (CLS),"$90,000 a year",43.2,89,13 days,2016-10-16 00:29:05.084612
+293,"Pasadena, CA 91107",Raytheon,483fef07e5f1c676,Image Processing Software Developer,,51.0,1247,30+ days,2016-10-16 00:29:05.084612
+294,"Los Angeles, CA",Los Angeles County Department of Human Resources,3b8bbb16d0cc3bed,HUMAN RESOURCES ANALYST IV - Test Research,"$90,598 - $118,819 a year",,,30+ days,2016-10-16 00:29:05.084612
+295,"Anaheim, CA",CareSource,06bd7344c9cc803d,Software Analyst/Rational Unified Process/Agile,,42.6,69,1 day,2016-10-16 00:29:05.084612
+296,"Monrovia, CA 91016",Public Health Institute,44815508153d98fe,Scientific Writer I,,53.4,14,30+ days,2016-10-16 00:29:05.084612
+297,"Pasadena, CA 91125",California Institute of Technology,7d2392c0a656eaba,Medicinal Chemistry Research Scientist,,51.6,64,10 days,2016-10-16 00:29:05.084612
+298,"Los Angeles, CA",MarketShare,2d7511a1d603de31,"Marketing Scientist, Attribution Analytics",,43.2,6,30+ days,2016-10-16 00:29:05.084612
+299,"Anaheim, CA",CareSource,02538550f2fc298f,Retail Space Planner,,42.6,69,1 day,2016-10-16 00:29:05.084612
+300,"Los Angeles, CA",MarketShare,37c95ebead70fe4c,Sr. Marketing Scientist,,43.2,6,30+ days,2016-10-16 00:29:05.084612
+301,"Los Angeles, CA","Physio-Control, Inc.",761fcade7bcfbecd,Sales Representative - Hospital,,,,30+ days,2016-10-16 00:29:05.084612
+302,"Los Angeles, CA",Grifols: US,272709f21e420761,Principal Scientist - QC Microbiology,,,,30+ days,2016-10-16 00:29:05.084612
+303,"Culver City, CA",DataScience,d2e4737733140cfe,Senior Systems Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+304,"Los Angeles, CA",Synthetic Genomics,1750651b2562bc4e,Bioinformatics Scientist,,51.0,4,30+ days,2016-10-16 00:29:05.084612
+305,"Los Angeles, CA",Los Angeles County Department of Human Resources,dff1f880dc400985,"MEDICAL TECHNOLOGIST, DATA SYSTEMS","$76,804 - $100,726 a year",,,30+ days,2016-10-16 00:29:05.084612
+306,"Brea, CA",New Century Health,3a21a551d5d02cca,Sr. Statistical Healthcare Analyst,,,,30+ days,2016-10-16 00:29:05.084612
+307,"Los Angeles, CA",Arcadis:US,0957ccb6d0a7548a,Product Stewardship Specialist,,,,30+ days,2016-10-16 00:29:05.084612
+308,"Santa Monica, CA",Hulu,82d6de2a1f63aded,"UX Designer, Multivariate Testing & Strategy",,42.0,2,25 days,2016-10-16 00:29:05.084612
+309,"Cypress, CA",Altair Engineering,915f2d9560dcaae1,Program Manager,,53.4,22,24 days,2016-10-16 00:29:05.084612
+310,"Los Angeles, CA",University of Southern California,59ac74a5b9715e54,HR Coordinator (3 Month Fixed-Term),,52.199997,355,3 days,2016-10-16 00:29:05.084612
+311,"Pasadena, CA 91101",ADP,c82c8d0e86a8fbce,Senior QA Engineer,,44.4,1655,10 days,2016-10-16 00:29:05.084612
+312,"Los Angeles, CA",SCIEX,ac9c79a7ef91722d,Sr. Field Service Engineer,,51.0,3,30+ days,2016-10-16 00:29:05.084612
+313,"El Segundo, CA 90245",The Aerospace Corporation,b71d0b6b0fc738ea,Software - Intensive Systems Reliability Engineer,,52.199997,46,3 days,2016-10-16 00:29:05.084612
+314,"El Segundo, CA 90245",The Aerospace Corporation,7c1164bc25168677,RF Design Engineer,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+315,"Los Angeles, CA",CSU Northridge,294f209cd8132169,Hourly Clinical Laboratory Scientist (I or II) (Continuous)...,$25.25 - $36.00 an hour,54.0,12,30+ days,2016-10-16 00:29:05.084612
+316,"Los Angeles, CA",Cedars-Sinai,77a9f18ea0bb5901,Histologist - Per Diem,,52.199997,192,30+ days,2016-10-16 00:29:05.084612
+317,"Woodland Hills, CA 91367",Northrop Grumman,96c501fab9e55542,Engineer Research Development 3,,51.0,2124,30+ days,2016-10-16 00:29:05.084612
+318,"El Segundo, CA",Beyond Meat,f9a38766db421b39,Food Product Development Scientist,,42.0,2,21 days,2016-10-16 00:29:05.084612
+319,"Los Angeles, CA",All-In Analytics,9edb1dde85bb4893,Head of Machine Learning Big Data,,,,30+ days,2016-10-16 00:29:05.084612
+320,"Brea, CA 92821",Pacific Western Bank,983144758cf4acf5,Senior Quantitative Analyst/Modeler,,51.0,33,30+ days,2016-10-16 00:29:05.084612
+321,"Los Angeles, CA",UCLA Health,e82dc29084df32ca,"Clinical Laboratory Scientists, Per Diem",,42.0,23,24 days,2016-10-16 00:29:05.084612
+322,"El Segundo, CA 90245",The Aerospace Corporation,40a50335acdd8465,Application Administrator Specialist III,,52.199997,46,8 days,2016-10-16 00:29:05.084612
+323,"Cypress, CA 90630","Consolidated Medical Bio-Analysis, Inc.",06625e9c22caf55f,Clinical Laboratory Scientist (CLS),,,,7 days,2016-10-16 00:29:05.084612
+324,"Los Angeles, CA","Beckman Coulter, Inc.",b8adeb764bbb679e,Microbiology Regional Sales Manager - West,,42.6,245,23 days,2016-10-16 00:29:05.084612
+325,"Brea, CA 92821","Beckman Coulter, Inc.",e77429cc37cdc90d,Staff Agile Business Analyst,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+326,"Los Angeles, CA",Eclaro,5b561682bb578a92,Research Associate,,54.0,2,15 days,2016-10-16 00:29:05.084612
+327,"El Segundo, CA",Beyond Meat,88b616840e4a976c,Food Scientist,,42.0,2,30+ days,2016-10-16 00:29:05.084612
+328,"Culver City, CA",DataScience,f39a829614ad3c03,Senior Software Engineer - Python,,,,30+ days,2016-10-16 00:29:05.084612
+329,"Los Angeles, CA",UCLA Health,00d73adc187c0bdf,Transfusion Safety Officer,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+330,"Duarte, CA 91010",City Of Hope,d18155c2e792b506,Medical Technologist,,51.0,111,15 days,2016-10-16 00:29:05.084612
+331,"Duarte, CA 91010",City Of Hope,366316f81009c57a,"Senior Manager, Pathology Core Lab & Tissue Bank",,51.0,111,30+ days,2016-10-16 00:29:05.084612
+332,"Los Angeles, CA 90064","ASPEN HOLDINGS, LLC",b7a96b1ada53175a,OPERATION RESEARCH ANALYST,,,,3 days,2016-10-16 00:29:05.084612
+333,"Los Angeles, CA",UCLA Health,c041092c81acebfc,"Clin Lab Scientist, Per Diem",,42.0,23,30+ days,2016-10-16 00:29:05.084612
+334,"El Segundo, CA 90245",The Aerospace Corporation,0fdce76870491611,Quality Assurance Specialist,,52.199997,46,3 hours,2016-10-16 00:29:05.084612
+335,"Pasadena, CA",SWCA Environmental Consultants,7bd4271222ca0407,Senior Environmental Project Manager,,40.8,12,30+ days,2016-10-16 00:29:05.084612
+336,"El Segundo, CA 90245",The Aerospace Corporation,23d519b7442d1a27,Fleet Admin Specialist III,,52.199997,46,9 days,2016-10-16 00:29:05.084612
+337,"Torrance, CA",Physical Optics,dd268476c83e4ed8,RF Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+338,"Pasadena, CA",Jet Propulsion Laboratory,9ec159de2309e4a5,Lead Software Developer,,52.199997,53,30+ days,2016-10-16 00:29:05.084612
+339,"Pasadena, CA","Virtualitics, LLC",01ac5902a196f276,Visual Interactive Designer for Desktop/VR app,,,,30+ days,2016-10-16 00:29:05.084612
+340,"Brea, CA 92821","Beckman Coulter, Inc.",769b1a39673e7fb7,"Manager, Marketing Analytics",,42.6,245,30+ days,2016-10-16 00:29:05.084612
+341,"El Segundo, CA",GoGuardian,3928c9d8a74dd568,Front-End Engineer (Senior),,,,28 days,2016-10-16 00:29:05.084612
+342,"Brea, CA 92821","Beckman Coulter, Inc.",4f449fcd09e03a87,Marketing Manger - Clinical Chemistry Instruments,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+343,"Los Angeles, CA",UCLA Health,4cca0b0bee2b3a7c,"Director, Research and Education Communications",,42.0,23,30+ days,2016-10-16 00:29:05.084612
+344,"Duarte, CA 91010",City Of Hope,6dc5345743b7044a,"Manager, Data Safety & Monitoring Office",,51.0,111,30+ days,2016-10-16 00:29:05.084612
+345,"Long Beach, CA 90840",California State University,55e057c09c3a8be5,Clinical Laboratory Scientist (1012708),,53.4,448,1 day,2016-10-16 00:29:05.084612
+346,"Pasadena, CA 91101",ADP,f895a158b0836df7,Senior Product Manager - Added Value Services,,44.4,1655,30+ days,2016-10-16 00:29:05.084612
+347,"Torrance, CA 90501",Experis,cfd593dac00d3a9d,Automotive Market Research Analyst,,43.8,294,30 days,2016-10-16 00:29:05.084612
+348,"Duarte, CA 91010",City Of Hope,b93a6b455de6faad,"Senior Director, Clinical Labs",,51.0,111,30+ days,2016-10-16 00:29:05.084612
+349,"Los Angeles, CA",USA16 - US - Q2Solutions,86b9a66e8da240c6,Scientist I - Flow Cytometry,,,,30+ days,2016-10-16 00:29:05.084612
+350,"Los Angeles, CA",Honey,2086b8e99f97961c,Head of Growth,,,,30+ days,2016-10-16 00:29:05.084612
+351,"North Hollywood, CA",Kaiser Permanente,60ed2c5c7bb69385,"Executive Leader, Laboratory Care Delivery System",,52.199997,3799,15 days,2016-10-16 00:29:05.084612
+352,"Sylmar, CA",St. Jude Medical,569f126a9b5f59b2,Co-Op/Materials and Technology Research,,51.0,212,19 days,2016-10-16 00:29:05.084612
+353,"Culver City, CA",DataScience,8e1ac9f10d60e094,Senior Software Engineer - Javascript,,,,30+ days,2016-10-16 00:29:05.084612
+354,"Los Angeles, CA",UCLA Health,6f0001b9f6957509,Clinical Laboratory Scientist,,42.0,23,11 days,2016-10-16 00:29:05.084612
+355,"Panorama City, CA",Kaiser Permanente,daae7b984cdee4dc,Lead Clinical Lab Scientist,,52.199997,3799,30+ days,2016-10-16 00:29:05.084612
+356,"Azusa, CA",The Staffing Solutions Group,a7e7f6b3620dbf84,Tester Tech,$13 an hour,,,30+ days,2016-10-16 00:29:05.084612
+357,"Los Angeles, CA",LT,a20215ce22f17813,SDET Engineer,"$200,000 a year",43.8,9,30+ days,2016-10-16 00:29:05.084612
+358,"Los Angeles, CA",WSP | Parsons Brinckerhoff,4d6ced5444a908f4,Regional Marketing Manager,,51.0,5,30+ days,2016-10-16 00:29:05.084612
+359,"Hollywood, CA 90028",Live Nation,d3bb21a0fd8f6725,Lead Java Engineer - FanGraph,,52.199997,252,30+ days,2016-10-16 00:29:05.084612
+360,"Los Angeles, CA",CSU Northridge,58e769589016257a,Clinical Lab Scientist or Technologist (Job ID 4286),"$4,376 - $6,240 a month",54.0,12,30+ days,2016-10-16 00:29:05.084612
+361,"El Segundo, CA 90245",The Aerospace Corporation,fa2f5e8466f27538,Network Security and Operations Administrator,,52.199997,46,1 day,2016-10-16 00:29:05.084612
+362,"Pasadena, CA 91107",Raytheon,002a1335c57ae166,Mechanical Design Engineer,,51.0,1247,30+ days,2016-10-16 00:29:05.084612
+363,"Los Angeles, CA",UCLA Health,f945377edcbb78f3,Tranfusion Safety Officer,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+364,"Brea, CA 92821","Beckman Coulter, Inc.",d46a75b72e551a11,Coordinator - Credit & Collections,,42.6,245,19 days,2016-10-16 00:29:05.084612
+365,"Brea, CA 92821","Beckman Coulter, Inc.",7b1e8ecd0ea4a4ff,Applications Scientist II,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+366,"Los Angeles, CA 90036",OLYMPIA MEDICAL CENTER,8952971ec93f3a86,Clinical Laboratory Scientist - Chemistry Coordinator,,43.2,30,7 days,2016-10-16 00:29:05.084612
+367,"Pasadena, CA 91107",Raytheon,208e16d5e76dd619,Sr Flight Software Engineer,,51.0,1247,30+ days,2016-10-16 00:29:05.084612
+368,"Los Angeles, CA",INTERA,599976e53883a811,Water Resources Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+369,"Chatsworth, CA 91311",Personify,d3252dc2f6f3bc53,Quality Assurance Manager,,52.800003,4,16 hours,2016-10-16 00:29:05.084612
+370,"Los Angeles, CA",Analytic Recruiting,95388674c0e17398,"Quantitative Risk Analyst/Developer-(C#.Net, WPF)-Hedge Fund",,51.0,2,30+ days,2016-10-16 00:29:05.084612
+371,"Los Angeles, CA 90064",UtopiaCompression Corporation,da5cb5e4ab31e746,Computer Vision R&D Scientist (Autonomous Systems),,,,30+ days,2016-10-16 00:29:05.084612
+372,"Santa Monica, CA 90401",Natural Resources Defense Council,7cf8dc2303994059,Program Assistant,,52.800003,8,30+ days,2016-10-16 00:29:05.084612
+373,"Pasadena, CA 91106",Protabit LLC,6910423d225f7160,Bioinformatics Scientist,,,,9 days,2016-10-16 00:29:05.084612
+374,"Los Angeles, CA",Eclaro,2a89f0e0f86db3e8,Formulation Scientist,,54.0,2,4 days,2016-10-16 00:29:05.084612
+375,"Los Angeles, CA",LT,5d57d18476a3684a,Senior Java Developer,"$180,000 a year",43.8,9,30+ days,2016-10-16 00:29:05.084612
+376,"Brea, CA 92821","Beckman Coulter, Inc.",e171617de54c13d2,Senior Business Systems Analyst,,42.6,245,3 days,2016-10-16 00:29:05.084612
+377,"Los Angeles, CA 90011",SimulStat's client,4b4755c25b204a2e,Sr. Statistical Programmer- Contract- Remote,,,,15 days,2016-10-16 00:29:05.084612
+378,"Santa Monica, CA 90401",RAND,d1eaf33db5758859,Cleared Research Assistant with Security Clearance,,51.6,16,13 days,2016-10-16 00:29:05.084612
+379,"Los Angeles, CA",UCLA Health,bf8964cd282fec69,Clinical Lab Scientist (Per Diem),,42.0,23,30+ days,2016-10-16 00:29:05.084612
+380,"Pasadena, CA",Jet Propulsion Laboratory,be91cf7c328a03ed,Snow Lidar and Spectrometer Remote Sensing Scientist,,52.199997,53,30+ days,2016-10-16 00:29:05.084612
+381,"Santa Monica, CA 90401",RAND,7b9c9c63aadf9cb1,"Statistical Programmer, Level II with Security Clearance",,51.6,16,14 days,2016-10-16 00:29:05.084612
+382,"Burbank, CA",The Walt Disney Company,3908060f158393be,"VP, People Insights - HR Strategy Lab",,52.800003,2359,30+ days,2016-10-16 00:29:05.084612
+383,"Los Angeles, CA",WSP | Parsons Brinckerhoff,84a75a6f4f9bd0b5,Senior Environmental Planning Manager,,51.0,5,30+ days,2016-10-16 00:29:05.084612
+384,"Santa Monica, CA",Tala,8882436d9cb2a704,Senior Site Reliability Engineer,,,,30+ days,2016-10-16 00:29:05.084612
+385,"Anaheim, CA",AHMC Anaheim Regional Medical Center,43193768889b5885,Clinical Lab Scientist,,,,30+ days,2016-10-16 00:29:05.084612
+386,"Los Angeles, CA","Beckman Coulter, Inc.",0a2128956aff834f,Medical Affairs Manager,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+387,"Los Angeles, CA",Kaiser Permanente,5397c1f46467d621,Blood Bank Clinical Lab Scientist,,52.199997,3799,25 days,2016-10-16 00:29:05.084612
+388,"Los Angeles, CA",Blackstone Technology Group,43ccb477a5d01d3e,Insights Manager,,40.8,6,30+ days,2016-10-16 00:29:05.084612
+389,"Los Angeles, CA","Rincon Consultants, Inc.",f25fc2cc59df672e,Environmental Scientist,,,,10 days,2016-10-16 00:29:05.084612
+390,"Duarte, CA 91010",City Of Hope,4b0435c7c32b4327,Clinical Laboratory Scientist (CLS) - Flow Cytometry Tech Le...,,51.0,111,30+ days,2016-10-16 00:29:05.084612
+391,"Los Angeles, CA",Cedars-Sinai,2a6f7ecc1af025f1,Postdoctoral Scientist,,52.199997,192,2 days,2016-10-16 00:29:05.084612
+392,"Los Angeles, CA",University of Southern California,6061d4684a46cba0,Systems Administrator II (6 Month Fixed-Term),,52.199997,355,2 days,2016-10-16 00:29:05.084612
+393,"El Segundo, CA",NBI Resources,c5cc5351bd4155b4,Senior Design Engineer,,,,12 days,2016-10-16 00:29:05.084612
+394,"Woodland Hills, CA",Kaiser Permanente,e41b77abb25a3013,Per Diem Clinical Lab Scientist,,52.199997,3799,30+ days,2016-10-16 00:29:05.084612
+395,"Pasadena, CA 91101",ADP,c15608715d5d755e,Principal UI Developer,,44.4,1655,5 days,2016-10-16 00:29:05.084612
+396,"Los Angeles, CA",Los Angeles County Department of Human Resources,01224e84f8cf3748,CLINICAL LABORATORY SCIENTIST I (North County),"$5,988 - $6,322 a month",,,30+ days,2016-10-16 00:29:05.084612
+397,"Los Angeles, CA",Los Angeles County Department of Human Resources,97b83d1c0f03d0dd,CLINICAL LABORATORY SCIENTIST I (Blood Bank),"$6,322 a month",,,30+ days,2016-10-16 00:29:05.084612
+398,"Burbank, CA 91506",Providence Health & Services,3db1c911cbbc3fa0,"Applications Analyst, Sr, Velos and Clinical Research (CTMS)",,43.2,632,30+ days,2016-10-16 00:29:05.084612
+399,"Pasadena, CA",California Institute of Technology,e733fc1c8740ffed,Administrative Coordinator,,51.6,64,30+ days,2016-10-16 00:29:05.084612
+400,"Los Angeles, CA",Adventist Health Southern California Network,917196425944086c,Clinical Lab Scientist II-Laboratory,,,,30+ days,2016-10-16 00:29:05.084612
+401,"Los Angeles, CA 90048",md laboratory,de8beab51a7d8313,Laboratory Supervisor - Microbiology,$45 an hour,,,30+ days,2016-10-16 00:29:05.084612
+402,"Los Angeles, CA",Los Angeles Unified School District,999d3456f8f19604,Director of Research and Data Analysis for the Board of Educ...,"$94,900 a year",51.6,649,30+ days,2016-10-16 00:29:05.084612
+403,"Los Angeles, CA 90010",Hanmi Bank,685f41c474423668,Market Research Analyst,,41.4,9,29 days,2016-10-16 00:29:05.084612
+404,"Santa Monica, CA",Provivi Inc.,b2f7f0f4137675ef,Senior Formulation Scientist - Chemist,,,,30+ days,2016-10-16 00:29:05.084612
+405,"Brea, CA 92821","Beckman Coulter, Inc.",63fab4a68702588b,Staff Development Scientist (Assay Technical Lead),,42.6,245,30+ days,2016-10-16 00:29:05.084612
+406,"Los Angeles, CA",Bottlenose,6e2aa89f1001f001,"Director, Customer Research",,,,12 days,2016-10-16 00:29:05.084612
+407,"Pasadena, CA",Jet Propulsion Laboratory,3fb57ba76158bf40,Group Supervisor,,52.199997,53,4 days,2016-10-16 00:29:05.084612
+408,"Glendale, CA",Disney Parks & Resorts,bb9dfdbe33325e0a,PH-R&D Postdoctoral Associate (DRLA),,52.800003,3001,30+ days,2016-10-16 00:29:05.084612
+409,"Brea, CA 92821","Beckman Coulter, Inc.",7bf8e551d5d62d07,Operations Finance - Senior Financial Analyst,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+410,"Los Angeles, CA","Aspera, an IBM Company",23e43d4184524b39,Regional Sales Manager - LA,,,,24 days,2016-10-16 00:29:05.084612
+411,"Los Angeles, CA",Ball Aerospace,4a0c75fcf98e384f,Senior Mission Architect (659694),,43.2,35,15 days,2016-10-16 00:29:05.084612
+412,"Pasadena, CA 91125",California Institute of Technology,36a79ef3703b1571,"University Archivist and Head, Special Collections",,51.6,64,30+ days,2016-10-16 00:29:05.084612
+413,"Los Angeles, CA",WSP | Parsons Brinckerhoff,d6914cbf0e45b6eb,Project Manager,,51.0,5,8 days,2016-10-16 00:29:05.084612
+414,"Pasadena, CA","Science System and Applications, Inc.",f72c245b5ecc9ae8,SOFIA Science Mission Operations Director,,52.199997,15,30+ days,2016-10-16 00:29:05.084612
+415,"Los Angeles, CA",WSP | Parsons Brinckerhoff,05d7a9d722c5aaf8,Senior Cost Engineer - Southern California,,51.0,5,30+ days,2016-10-16 00:29:05.084612
+416,"Los Angeles, CA",Cedars-Sinai,e057fbc79a4e8dfe,Postdoctoral Scientist - Neuroscience,,52.199997,192,21 days,2016-10-16 00:29:05.084612
+417,"Los Angeles, CA",Cedars-Sinai,2cf8683128167f3b,Postdoctoral Scientist - Neurology,,52.199997,192,21 days,2016-10-16 00:29:05.084612
+418,"West Covina, CA 91790",Citrus Valley Health Partners,4c0b3cf3c4708605,Laboratory Assistant,,42.6,31,30+ days,2016-10-16 00:29:05.084612
+419,"Los Angeles, CA",UCLA Health,9405dc533a1d73dd,Administrative Specialist - Westwood,,42.0,23,30+ days,2016-10-16 00:29:05.084612
+420,"Anaheim, CA",AHMC Anaheim Regional Medical Center,bf683c1f9defa53e,Clinical Lab Scientist Per Diem,,,,30+ days,2016-10-16 00:29:05.084612
+421,"Torrance, CA 90501","OSI Engineering, Inc.",72220361fdd45622,Market Research Automotive Analyst for a Global Car Manufact...,,,,4 days,2016-10-16 00:29:05.084612
+422,"Los Angeles, CA",WSP | Parsons Brinckerhoff,61e637b5a2a6141d,Senior Marketing Coordinator,,51.0,5,30+ days,2016-10-16 00:29:05.084612
+423,"Los Angeles, CA 90001",Patheon,58cda07db6cda23b,Principal / Senior Upstream Scientist - PNJ2015-013 -LA,,43.8,52,30+ days,2016-10-16 00:29:05.084612
+424,"Duarte, CA 91010",City Of Hope,33aba3e3e8460716,Clinical Lab Scientist (CLS) - Bone Marrow : Hematopathology...,,51.0,111,30+ days,2016-10-16 00:29:05.084612
+425,"Placentia, CA",Placentia-Linda Hospital,fb1ed5ec34b6a194,LABORATORY COORDINATOR - Full Time Days - Placentia-Linda Ho...,,52.800003,7,30+ days,2016-10-16 00:29:05.084612
+426,"Los Angeles, CA",DOCS,6aa2acbc3787ec4a,Home-based Sr. Statistical/SAS Programmer,,39.6,11,4 days,2016-10-16 00:29:05.084612
+427,"Brea, CA",Lab Support,c495fd62a2c17c52,Development Scientist,,43.8,55,30+ days,2016-10-16 00:29:05.084612
+428,"Pasadena, CA",ADP,6c88570c47d63525,Director - DevOps,,44.4,1655,30+ days,2016-10-16 00:29:05.084612
+429,"Burbank, CA 91505","SCHRYVER MEDICAL, LLC",601eb7032a33aea4,Medical Technologist/Clinical Laboratory Scientist,,,,27 days,2016-10-16 00:29:05.084612
+430,"Los Angeles, CA",Cedars-Sinai,1fb7009f7304f9ce,Postdoctoral Scientist (MRI research),,52.199997,192,30+ days,2016-10-16 00:29:05.084612
+431,"Brea, CA 92821","Beckman Coulter, Inc.",169368225448da2d,Indirect Sourcing Manager,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+432,"Los Angeles, CA","OPUS International, Inc. (Recruiter)",b758b0d7fd6a15e2,"Sr. Scientist, Process Development Pet R&D",,,,17 days,2016-10-16 00:29:05.084612
+433,"Los Angeles, CA",Cedars-Sinai,f92f5590e2832985,Postdoctoral Scientist (Genetic Epidemiology),,52.199997,192,30+ days,2016-10-16 00:29:05.084612
+434,"Los Angeles, CA",Lab Support,ff8613c6b9a1a5ac,QC Microbiology Scientist,,43.8,55,30+ days,2016-10-16 00:29:05.084612
+435,"Brea, CA 92821","Beckman Coulter, Inc.",294fb4e2d1480b00,Senior Systems Engineer,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+436,"Brea, CA 92821","Beckman Coulter, Inc.",f28c515573001f9f,Diagnostics Technical Trainer,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+437,"Brea, CA 92821","Beckman Coulter, Inc.",0874685b8b92a6c6,Accounts Payable Coordinator- Invoice Processor,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+438,"El Segundo, CA",Raytheon,d29806af62e528fd,"University Programs: Software Engineering Intern (Junior, Se...",,51.0,1247,25 days,2016-10-16 00:29:05.084612
+439,"Canoga Park, CA",Thermo Fisher Scientific,7f45f85facc15a50,"Scientist II, Cell Biology",,43.2,980,30+ days,2016-10-16 00:29:05.084612
+440,"Fullerton, CA 92835",St. Jude Medical Center (SJH),8f54f1183cf400b9,Clinical Lab Scientist - Clinical Laboratory / FT / Evening...,,,,30+ days,2016-10-16 00:29:05.084612
+441,"Duarte, CA 91010",City Of Hope,725fe68d4eb3dc41,Administrative Program Coordinator,,51.0,111,30+ days,2016-10-16 00:29:05.084612
+442,"Los Angeles, CA","EA Engineering, Science, and Technology, Inc., PBC",a07a631584bde3ce,Geologist II & Geologist III,,,,25 days,2016-10-16 00:29:05.084612
+443,"Brea, CA 92821","Beckman Coulter, Inc.",d6c5e17780ff9848,"Manager, Digital Content & Editorial",,42.6,245,30+ days,2016-10-16 00:29:05.084612
+444,"Anaheim, CA",AHMC Anaheim Regional Medical Center,65fad434ae7cf0af,Clinical Laboratory Scientist Per Diem,,,,30+ days,2016-10-16 00:29:05.084612
+445,"Pasadena, CA",Oben,8ec6a08ed7be46c6,Technical Program Manager,,,,30+ days,2016-10-16 00:29:05.084612
+446,"Duarte, CA 91010",City Of Hope,b35376687fb66f15,Clinical Laboratory Scientist (CLS) II - Bone Marrow lab,,51.0,111,30+ days,2016-10-16 00:29:05.084612
+447,"Irwindale, CA",City Of Hope,48942f6c66e336a9,"Associate Vice President, Philanthropy & Campaign Strategies",,51.0,111,30+ days,2016-10-16 00:29:05.084612
+448,"Los Angeles, CA",Axelon Services Corporation,183307b323a98324,Cell Culture Scientist,,39.6,23,30+ days,2016-10-16 00:29:05.084612
+449,"Brea, CA 92821","Beckman Coulter, Inc.",cc3976028cd9421b,"Product Marketing Manager, Clinical Informatics",,42.6,245,22 days,2016-10-16 00:29:05.084612
+450,"Signal Hill, CA","Apex Companies, LLC",72e86f52d84b9816,Environmental Scientist,,41.4,14,30+ days,2016-10-16 00:29:05.084612
+451,"Brea, CA 92821","Beckman Coulter, Inc.",4ca45595a6eb6e13,Credit and Collections Manager,,42.6,245,14 days,2016-10-16 00:29:05.084612
+452,"Pasadena, CA",Lighthouse Recruiting,6464e4a1e80839f4,LC/MS Clinical Laboratory Scientist,"$80,000 - $110,000 a year",,,30+ days,2016-10-16 00:29:05.084612
+453,"Los Angeles, CA","Rincon Consultants, Inc.",09d8e3fb47060038,"Senior Environmental Engineer, Geologist, or Hydrogeologist",,,,10 days,2016-10-16 00:29:05.084612
+454,"Los Angeles, CA",Cedars-Sinai,b98d6e7e614d6a8b,Postdoctoral Scientist - Neurosurgery,,52.199997,192,30+ days,2016-10-16 00:29:05.084612
+455,"Los Angeles, CA",Cedars-Sinai,d8fb24446a2efc1c,Postdoctoral Scientist (Electrophysiology),,52.199997,192,30+ days,2016-10-16 00:29:05.084612
+456,"San Pedro, CA 90731",Providence Health & Services,9e74e6fad198ca76,Laboratory Technician (Per Diem),,43.2,632,30+ days,2016-10-16 00:29:05.084612
+457,"Los Angeles, CA",Cedars-Sinai,508d54f12042eda0,Postdoctoral Scientist (Gene Therapy-CRISPR/Cas9),,52.199997,192,30+ days,2016-10-16 00:29:05.084612
+458,"Santa Monica, CA 90401",RAND,a8e9c072fdfb9f75,Information Scientist with Security Clearance,,51.6,16,13 days,2016-10-16 00:29:05.084612
+459,"Brea, CA 92821","Beckman Coulter, Inc.",9595cca03800db3b,Accounts Payable Manager,,42.6,245,26 days,2016-10-16 00:29:05.084612
+460,"West Hills, CA 91307",Quest Diagnostics,4edb3b3260044ddf,"Assoc, Lab I - West Hills, CA",,43.8,2048,3 days,2016-10-16 00:29:05.084612
+461,"West Hills, CA 91307",Quest Diagnostics,da2e6e420861544c,"Assoc, Lab I - Night, West Hills, CA",,43.8,2048,3 days,2016-10-16 00:29:05.084612
+462,"Los Angeles, CA",University of Southern California,a64f692b1f352a32,Postdoctoral Scholar - Research Associate,,52.199997,355,30+ days,2016-10-16 00:29:05.084612
+463,"Los Angeles, CA",Socrata,15fbbbc48936d725,Account Executive - Southern CA,,,,30+ days,2016-10-16 00:29:05.084612
+464,"Brea, CA 92821","Beckman Coulter, Inc.",298541dfae3aa28d,"Director, Open Innovation",,42.6,245,30+ days,2016-10-16 00:29:05.084612
+465,"Brea, CA 92821","Beckman Coulter, Inc.",32ea7e7195e6f990,Quality Assurance Engineer II,,42.6,245,29 days,2016-10-16 00:29:05.084612
+466,"Sherman Oaks, CA",Talent Merchants,089abadf2b16694d,"Director, Customer Research",,,,11 days,2016-10-16 00:29:05.084612
+467,"Compton, CA 90220",DxTerity,420b5f68957cff6c,"Senior Scientist, Product Development",,,,30+ days,2016-10-16 00:29:05.084612
+468,"Brea, CA 92821","Beckman Coulter, Inc.",4a2b598ddb576905,Supervisor Instrument Manufacturing,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+469,"Los Angeles, CA",CIM Group,aa35350dd08d5cfd,"ACCOUNTING & FINANCIAL REPORTING: Manager, Financial Plannin...",,51.0,16,11 days,2016-10-16 00:29:05.084612
+470,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+471,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+472,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+473,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+474,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+475,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+476,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+477,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+478,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+479,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+480,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+481,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+482,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+483,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+484,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+485,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+486,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+487,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+488,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+489,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+490,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+491,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+492,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+493,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+494,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+495,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+496,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+497,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+498,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+499,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+500,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+501,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+502,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+503,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+504,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+505,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+506,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+507,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+508,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+509,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+510,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+511,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+512,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+513,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+514,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+515,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+516,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+517,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+518,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+519,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+520,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+521,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+522,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+523,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+524,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+525,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+526,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+527,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+528,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+529,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+530,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+531,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+532,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+533,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+534,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+535,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+536,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+537,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+538,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+539,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+540,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+541,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+542,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+543,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+544,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+545,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+546,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+547,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+548,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+549,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+550,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+551,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+552,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+553,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+554,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+555,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+556,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+557,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+558,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+559,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+560,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+561,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+562,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+563,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+564,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+565,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+566,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+567,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+568,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+569,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+570,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+571,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+572,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+573,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+574,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+575,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+576,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+577,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+578,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+579,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+580,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+581,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+582,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+583,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+584,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+585,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+586,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+587,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+588,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+589,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+590,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+591,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+592,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+593,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+594,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+595,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+596,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+597,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+598,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+599,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+600,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+601,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+602,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+603,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+604,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+605,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+606,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+607,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+608,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+609,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+610,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+611,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+612,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+613,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+614,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+615,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+616,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+617,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+618,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+619,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+620,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+621,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+622,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+623,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+624,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+625,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+626,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+627,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+628,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+629,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+630,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+631,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+632,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+633,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+634,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+635,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+636,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+637,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+638,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+639,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+640,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+641,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+642,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+643,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+644,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+645,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+646,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+647,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+648,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+649,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+650,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+651,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+652,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+653,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+654,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+655,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+656,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+657,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+658,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+659,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+660,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+661,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+662,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+663,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+664,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+665,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+666,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+667,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+668,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+669,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+670,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+671,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+672,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+673,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+674,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+675,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+676,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+677,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+678,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+679,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+680,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+681,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+682,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+683,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+684,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+685,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+686,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+687,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+688,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+689,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+690,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+691,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+692,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+693,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+694,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+695,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+696,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+697,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+698,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+699,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+700,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+701,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+702,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+703,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+704,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+705,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+706,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+707,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+708,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+709,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+710,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+711,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+712,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+713,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+714,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+715,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+716,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+717,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+718,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+719,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+720,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+721,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+722,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+723,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+724,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+725,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+726,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+727,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+728,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+729,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+730,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+731,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+732,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+733,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+734,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+735,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+736,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+737,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+738,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+739,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+740,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+741,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+742,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+743,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+744,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+745,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+746,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+747,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+748,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+749,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+750,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+751,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+752,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+753,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+754,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+755,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+756,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+757,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+758,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+759,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+760,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+761,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+762,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+763,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+764,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+765,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+766,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+767,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+768,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+769,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+770,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+771,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+772,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+773,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+774,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+775,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+776,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+777,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+778,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+779,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+780,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+781,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+782,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+783,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+784,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+785,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+786,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+787,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+788,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+789,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+790,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+791,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+792,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+793,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+794,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+795,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+796,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+797,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+798,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+799,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+800,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+801,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+802,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+803,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+804,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+805,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+806,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+807,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+808,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+809,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+810,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+811,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+812,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+813,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+814,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+815,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+816,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+817,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+818,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+819,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+820,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+821,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+822,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+823,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+824,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+825,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+826,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+827,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+828,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+829,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+830,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+831,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+832,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+833,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612
+834,"Brea, CA 92821","Beckman Coulter, Inc.",b6edf9b91cc2b570,Sr. Marketing Manager Automation NACO,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+835,"Brea, CA 92821","Beckman Coulter, Inc.",9621bf88ebaece21,Technical Call Center – Particle Counting Sr. Customer Techn...,,42.6,245,30 days,2016-10-16 00:29:05.084612
+836,"Brea, CA 92821","Beckman Coulter, Inc.",2911c7c956aeebf7,NACO Marketing Manager Molecular Diagnostics,,42.6,245,30+ days,2016-10-16 00:29:05.084612
+837,"Los Angeles, CA 90025",Staff Icons,0ee516b45774c335,Clinical Laboratory Scientist - Blood Bank - Los Angeles,,60.0,2,30+ days,2016-10-16 00:29:05.084612
+838,"Los Angeles, CA 90079",Antelope Valley Hospital,cfc9bd01e0f2c3e8,Clinical Laboratory Scientist-Acute Care,,44.4,81,16 days,2016-10-16 00:29:05.084612
+839,"West Hills, CA 91307",Quest Diagnostics,204e02c8217ef9bd,"Scientist, Clinical Lab I - West Hills, CA ($10K Sign On Bon...",,43.8,2048,30+ days,2016-10-16 00:29:05.084612
+840,"Torrance, CA 90501",OSI Engineering,9f3b69ff54cc77c1,Market Research Automotive Analyst for a Global Car Manufact...,,,,10 days,2016-10-16 00:29:05.084612

@@ -1,0 +1,746 @@
+,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
+0,"Houston, TX",Exxon Mobil,857a318d918bc7ce,Data Scientist,,51.0,1005,10 days,2016-10-16 00:35:56.240193
+1,"Houston, TX",National Oilwell Varco,18cbee11f92a560b,Data Scientist,,44.4,1102,17 days,2016-10-16 00:35:56.240193
+2,"Houston, TX",Quantlab Financial,832f8cb888fad827,Quantitative Research Scientist - Options Strategist,,,,3 days,2016-10-16 00:35:56.240193
+3,"Houston, TX",Shell,8b4e7620872d8b19,"Quantitative Risk Analyst (Houston, TX)",,44.4,1374,5 days,2016-10-16 00:35:56.240193
+4,"Houston, TX 77070","Noble Energy, Inc.",9e4026730140473a,Data Scientist,,51.6,83,27 days,2016-10-16 00:35:56.240193
+5,"Houston, TX 77046 (Montrose area)","Enaxis Consulting, LP",cd6ec51198b13a41,Analytics Data Engineer,,,,1 day,2016-10-16 00:35:56.240193
+6,"Houston, TX",Pros.,f645ad1a7ec74dd5,Scientist I,,,,4 days,2016-10-16 00:35:56.240193
+7,"Houston, TX",MD Anderson Cancer Center,c3d60a2a43db94fe,Research Statistical Analyst,,51.6,250,29 days,2016-10-16 00:35:56.240193
+8,"Houston, TX",Endevis,e6256beb4e410047,Data Scientist,,51.0,5,9 days,2016-10-16 00:35:56.240193
+9,"Houston, TX",UT Health Science Center at Houston,778cee93eb56e9be,Research Scientist,,43.2,79,1 day,2016-10-16 00:35:56.240193
+10,"Houston, TX 77057 (Galleria-Uptown area)",Experis,c64f131cd83c8fda,Analytical Data Scientist,,43.8,294,15 days,2016-10-16 00:35:56.240193
+11,"Houston, TX",Panton,75965b54cfc10fc4,Junior Data Scientist,,,,30+ days,2016-10-16 00:35:56.240193
+12,"Houston, TX",BOEING,51b39103e97ed066,Software Engineer - Entry Level,,51.6,2923,1 day,2016-10-16 00:35:56.240193
+13,"Houston, TX",The Hanover Company,699f12fa69d83b44,Quantitative Analyst,,51.0,5,30+ days,2016-10-16 00:35:56.240193
+14,"Houston, TX 77030 (Medical area)",Houston Methodist,627d59d3adc6f769,Research Scientist,,52.199997,765,11 days,2016-10-16 00:35:56.240193
+15,"Houston, TX",Houston Rockets,08287a54c2d7984b,Statistician,,54.6,14,29 days,2016-10-16 00:35:56.240193
+16,"Houston, TX",Baylor College of Medicine,df74e71c48c38210,Lead Bioinformatics Programmer,"$83,000 - $102,000 a year",51.0,174,15 days,2016-10-16 00:35:56.240193
+17,"Houston, TX",Rice University,7f96a850263aed5c,Data Science Faculty,,53.4,82,1 day,2016-10-16 00:35:56.240193
+18,"Houston, TX",Rice University,50610a3399c805cf,Faculty in Data Science,,53.4,82,30+ days,2016-10-16 00:35:56.240193
+19,"Houston, TX",MD Anderson Cancer Center,e79e5ddb0e02a501,Research Scientist in Lymphoma/Myeloma Research,,51.6,250,1 day,2016-10-16 00:35:56.240193
+20,"Houston, TX 77057 (Galleria-Uptown area)",Wood Mackenzie,4a121ff69c4c31db,"Research Analyst, PCI Fibers",,43.8,10,2 days,2016-10-16 00:35:56.240193
+21,"Houston, TX","Adroit Partners, LLC",46e37848c289391d,Search Engine Marketing (SEM) Data Scientist,,,,26 days,2016-10-16 00:35:56.240193
+22,"Houston, TX",Tessella,b90b409bf222cd22,Data Scientist / Software Developer – Oil and Gas,,,,30+ days,2016-10-16 00:35:56.240193
+23,"Houston, TX","Amazon Web Services, Inc.",79e6ec9105bfea5f,Data Scientist - Houston,,43.2,9607,30+ days,2016-10-16 00:35:56.240193
+24,"Houston, TX",EDF Trading North America LLC,8d95d4cf6f3bcb3b,Data Scientist,,,,30+ days,2016-10-16 00:35:56.240193
+25,"Houston, TX 77056 (Galleria-Uptown area)",Objectwin Technology Inc,a614430a72b3688b,SEM (Search Engine Marketing) Data Scientist,,44.4,19,1 day,2016-10-16 00:35:56.240193
+26,"Houston, TX",University of Houston,9beb7a410c76d6d6,Institutional Research Analyst,,52.800003,405,1 day,2016-10-16 00:35:56.240193
+27,"Houston, TX",MD Anderson Cancer Center,25dae48a09724a03,"Supv, Cell Therapy Lab","$66,800 - $100,200 a year",51.6,250,29 days,2016-10-16 00:35:56.240193
+28,"Houston, TX",Baylor College of Medicine,67d44a5060b9bb68,Senior Research Quality Assurance Analyst,"$54,590 a year",51.0,174,4 days,2016-10-16 00:35:56.240193
+29,"Houston, TX",Baylor College of Medicine,3280acf386423b4e,Senior Research Policy Analyst,"$72,000 a year",51.0,174,25 days,2016-10-16 00:35:56.240193
+30,"Houston, TX 77046 (Montrose area)",Gexa Energy LP,e5dd0e38df864fe3,Principal Quantitative Analyst - Strategy & Business Develop...,,,,16 days,2016-10-16 00:35:56.240193
+31,"Houston, TX",Clearpoint,be45e4b0b3cfe0f4,SEM Data Scientist | Search Engine Marketing Analyst,$64.50 a day,42.0,12,15 days,2016-10-16 00:35:56.240193
+32,"Houston, TX",CHC,d4606cb6d6436d24,Quantitative Marketing Analyst,,,,21 days,2016-10-16 00:35:56.240193
+33,"Houston, TX",Baylor College of Medicine,4cfdae166636039f,Research Financial Analyst II,"$65,000 a year",51.0,174,9 days,2016-10-16 00:35:56.240193
+34,"Houston, TX",Schlumberger,f0fd50de967cb4b8,Data Scientist,,51.0,2488,30+ days,2016-10-16 00:35:56.240193
+35,"Pasadena, TX",California Institute of Technology,e76eb267b2e940ac,Scientific Researcher,,51.6,64,3 days,2016-10-16 00:35:56.240193
+36,"Houston, TX",Oscar Technology,ceef7901a6d38d05,Data Scientist,,,,30+ days,2016-10-16 00:35:56.240193
+37,"Houston, TX",University of Houston,91ec6392c26c4404,Research Scientist - HPC Application Specialist,,52.800003,405,22 days,2016-10-16 00:35:56.240193
+38,"Houston, TX",UT Health Science Center at Houston,c38d1d9ed76eb636,Research Scientist Sr.,,43.2,79,1 day,2016-10-16 00:35:56.240193
+39,"Houston, TX",MD Anderson Cancer Center,6e7d4a41a7434c5f,Institute Research Scientist - Translational Biomarker Disco...,,51.6,250,1 day,2016-10-16 00:35:56.240193
+40,"Houston, TX",Rice University,370534f19374f4ba,Development Research Analyst,,53.4,82,24 days,2016-10-16 00:35:56.240193
+41,"Houston, TX",MD Anderson Cancer Center,7d70f3a022e0361e,Research Assistant II- Lymphoma/Myeloma Research,,51.6,250,11 days,2016-10-16 00:35:56.240193
+42,"Houston, TX",University of Houston,806748b1b9da8ff6,Sr. Researcher Nat Phys Science (Extravehicular Activity (EV...,,52.800003,405,1 day,2016-10-16 00:35:56.240193
+43,"Houston, TX",Oscar Technology,a7543e2cc33d7b14,Database Engineer/Scientist,,,,30+ days,2016-10-16 00:35:56.240193
+44,"Houston, TX",Selby Jennings,1e0688e6d33cdf77,C++/Python Trading Platform Developer-Texas,,,,1 day,2016-10-16 00:35:56.240193
+45,"Houston, TX",University of Houston,b01f4ed9a7a36400,Postdoctoral Fellow/Research Scientist Positions in Imaging,,52.800003,405,26 days,2016-10-16 00:35:56.240193
+46,"Houston, TX 77032",Halliburton,60ede58934818ae4,Predictive Modeling Data Scientist,,44.4,3030,30+ days,2016-10-16 00:35:56.240193
+47,"Clear Lake Shores, TX","National Audubon Society, Inc.",41eaee9c11a2bb75,Coastal Program Intern- Citizen Science,,,,3 days,2016-10-16 00:35:56.240193
+48,"Houston, TX","AMD Global, LLC",f62defeba20bddd3,Marketing and Research Analyst,,,,14 days,2016-10-16 00:35:56.240193
+49,"Houston, TX",MD Anderson Cancer Center,267f758122bed95e,Institute Research Scientist - In vitro Pharmacology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+50,"Houston, TX",SearchAccountingJobs,e0acfbe2f2186614,Quantitative Risk Analyst,"$150,000 - $205,000 a year",,,3 days,2016-10-16 00:35:56.240193
+51,"Houston, TX",MD Anderson Cancer Center,3721665b1b21d0cd,Research Admin Analyst-Export Controls,,51.6,250,29 days,2016-10-16 00:35:56.240193
+52,"Houston, TX",Baylor College of Medicine,66e71c8abf715e08,Sr. Bioinformatics Programmer,"$70,000 - $91,000 a year",51.0,174,15 days,2016-10-16 00:35:56.240193
+53,"Houston, TX 77032",NDT Global,96d4e442f9953998,"EXECUTIVE MANAGER DATA ANALYSIS for Dublin, Ireland",,39.0,2,30+ days,2016-10-16 00:35:56.240193
+54,"Houston, TX",Baylor College of Medicine,abe20a44f993366a,Bioinformatics Programmer II,"$72,120 a year",51.0,174,30+ days,2016-10-16 00:35:56.240193
+55,"Houston, TX",MD Anderson Cancer Center,e2d1e35561bf1791,Clinical Research Analyst - Quality Assurance,,51.6,250,17 days,2016-10-16 00:35:56.240193
+56,"Houston, TX",Panton,05958a9803208162,High Performance Computing Developer (HPC),,,,30+ days,2016-10-16 00:35:56.240193
+57,"Houston, TX 77098 (Montrose area)",Ortec International USA Inc.,f81e91ab8b0f39de,Operations Research Analyst Co-op UofL,,,,19 days,2016-10-16 00:35:56.240193
+58,"Houston, TX",Expero Inc,a57ba283bbd36aec,Front-End Programmer (React),,,,30+ days,2016-10-16 00:35:56.240193
+59,"Houston, TX",Avanade,624544df6818967b,Data Scientist Director - East,,44.4,76,30+ days,2016-10-16 00:35:56.240193
+60,"Houston, TX",Baylor College of Medicine,912bf5cf7de3d8c7,Senior Quality Assurance / Quality Control (Research) Analys...,"$60,998 a year",51.0,174,30+ days,2016-10-16 00:35:56.240193
+61,"Houston, TX 77040",Baker Hughes,62a5d1a17d9b18c3,Polymer Scientist - Houston TX,,51.0,1862,23 days,2016-10-16 00:35:56.240193
+62,"Houston, TX",Sephora,71afedc9c446e960,Teaching and Reading Assistant,,51.0,1269,22 hours,2016-10-16 00:35:56.240193
+63,"Houston, TX 77030 (Medical area)",Houston Methodist,7e3fba30fe9ec701,Senior Research Associate,,52.199997,765,30+ days,2016-10-16 00:35:56.240193
+64,"Houston, TX","GeoControl Systems, Inc.",5db12808e2bcf134,Research Scientist,,,,30+ days,2016-10-16 00:35:56.240193
+65,"Houston, TX",Lonza,d96bdb2ba1f746a0,Analytical Development Scientist III,,40.8,53,4 days,2016-10-16 00:35:56.240193
+66,"Houston, TX 77006 (Montrose area)",Rekruiters,22ab419b40468c0e,C++ Software Engineer,"$250,000 a year",,,16 days,2016-10-16 00:35:56.240193
+67,"Houston, TX",Rice University,a57e2f320b68a10a,Corporate Data and Research Analyst,,53.4,82,30+ days,2016-10-16 00:35:56.240193
+68,"Houston, TX",CEVA Logistics,342d3b20dcbfd9eb,Sr Market Research Analyst,,42.6,1347,29 days,2016-10-16 00:35:56.240193
+69,"Houston, TX",Valic,08ff96b45163ab64,Associate Director Application Development,,43.8,891,15 days,2016-10-16 00:35:56.240193
+70,"Houston, TX 77030 (Medical area)",Houston Methodist,f1157454081f904f,Scientist,,52.199997,765,30+ days,2016-10-16 00:35:56.240193
+71,"Houston, TX",Oscar Technology,e2a5c1c0e18a816f,Big Data Analytics Manager,"$160,000 a year",,,30+ days,2016-10-16 00:35:56.240193
+72,"Houston, TX",Baylor Miraca Genetics Laboratories LLC,704e87d3e09a7989,Research & Development Scientist III,,,,30+ days,2016-10-16 00:35:56.240193
+73,"Houston, TX 77056 (Galleria-Uptown area)",CDM Smith,f0e0d72402aff509,Planner 4-Transportation,,42.6,73,3 days,2016-10-16 00:35:56.240193
+74,"Houston, TX","Beckman Coulter, Inc.",2912b20949a83453,Regional Sales Manager - Southwest,,42.6,245,12 days,2016-10-16 00:35:56.240193
+75,"Houston, TX 77032",Halliburton,bdf3823ddaa8b8d4,Principal Nuclear Scientist,,44.4,3030,10 days,2016-10-16 00:35:56.240193
+76,"Houston, TX",MD Anderson Cancer Center,38006a6697db4be0,Behavioral Research Scientist,,51.6,250,29 days,2016-10-16 00:35:56.240193
+77,"Houston, TX",Texas Department of Public Safety,80443e937545cf62,"Forensic Scientist I-III(DNA Analysis), LES-Houston","$3,616 - $5,433 a month",44.4,98,3 days,2016-10-16 00:35:56.240193
+78,"Houston, TX",AIG,9391174e3118fcdd,Associate Director Application Development,,43.8,891,19 days,2016-10-16 00:35:56.240193
+79,"Houston, TX",alliantgroup,8747b0067f1d1deb,Engineering Consultant,,,,29 days,2016-10-16 00:35:56.240193
+80,"Houston, TX",Axius Technologies,c51327e23f5b1946,Chief Data Scientist,,54.0,4,30+ days,2016-10-16 00:35:56.240193
+81,"Houston, TX",EnDevor,12a569cf9dadb2f2,Director QC Analytical Services,,,,1 day,2016-10-16 00:35:56.240193
+82,"Sugar Land, TX","NALCO Champion, An Ecolab Company",ab87859ad054fa03,Sr. Chemist,,52.800003,3,21 days,2016-10-16 00:35:56.240193
+83,"Bellaire, TX 77401",NX Prenatal Inc.,6875df254f57b9fd,Principal Scientist - Assay Development,,,,4 days,2016-10-16 00:35:56.240193
+84,"Houston, TX","Sycamore Life Sciences, LLC",2f20babf64438913,Sales and Applications Specialist,,,,30+ days,2016-10-16 00:35:56.240193
+85,"Houston, TX",Rice University,7a2d5338d4e71932,Senior Development Research Analyst,,53.4,82,30+ days,2016-10-16 00:35:56.240193
+86,"Houston, TX",Panton,818a05ad25271587,Full Stack Web Developer,,,,30+ days,2016-10-16 00:35:56.240193
+87,"Houston, TX","Sycamore Life Sciences, LLC",e9980e6501f622d5,Genomics Researcher/Intern,,,,30+ days,2016-10-16 00:35:56.240193
+88,"Houston, TX 77042 (West Houston area)",Harris Corporation,abc3bba53c461bba,Product Manager,,43.2,239,17 days,2016-10-16 00:35:56.240193
+89,"Houston, TX 77030 (Medical area)",iCell Kealex Therapeutics,a6ac369dc9d968d9,Scientist I,,,,30+ days,2016-10-16 00:35:56.240193
+90,"Houston, TX",MD Anderson Cancer Center,77ac28bda64fc395,Research Engineer - Imaging Physics,,51.6,250,29 days,2016-10-16 00:35:56.240193
+91,"Houston, TX",UL LLC,90b2b700092f2732,Research Engineer - Wind Modeling,,,,20 days,2016-10-16 00:35:56.240193
+92,"Houston, TX",alliantgroup,59ea9bcdc14d0ea5,Java Programmer,,,,30+ days,2016-10-16 00:35:56.240193
+93,"Houston, TX 77084",Aramco Services Company,292c51e26775e861,Lab Tech Specialist (Scale and Corrosion) (306158),,51.6,291,1 day,2016-10-16 00:35:56.240193
+94,"Houston, TX",Valic,3a698a5cb376f10b,"Director, ETL Lead/Developer – Hadoop Ecosystem",,43.8,891,15 days,2016-10-16 00:35:56.240193
+95,"Houston, TX",Arundo Analytics,8e56e0f287b401bb,Senior Analyst/ Data engineer,,,,30+ days,2016-10-16 00:35:56.240193
+96,"Houston, TX 77058 (Pasadena area)",The Aerospace Corporation,08e0125462a365f1,Software Developer/System Architect,,52.199997,46,1 day,2016-10-16 00:35:56.240193
+97,"Houston, TX",Panton,b5208d344e3e8485,Web Application Developer,,,,30+ days,2016-10-16 00:35:56.240193
+98,"Houston, TX",alliantgroup,bfcf1a43d1d3cddd,Quality Control Attorney,,,,30+ days,2016-10-16 00:35:56.240193
+99,"Houston, TX",AIG,2731802b69107714,"Director, ETL Lead/Developer – Hadoop Ecosystem",,43.8,891,19 days,2016-10-16 00:35:56.240193
+100,"Houston, TX",CH2M,0e4c1bad8b1e214c,"Environmental Engineer/Scientist - Houston, TX",,44.4,424,15 days,2016-10-16 00:35:56.240193
+101,"Houston, TX",alliantgroup,cce5ce4bfe636054,Science Consultant,,,,30+ days,2016-10-16 00:35:56.240193
+102,"Houston, TX 77077 (West Houston area)","Geosyntec Consultants, Inc.",93e1180bbd1ccff2,Experienced Remediation Engineer/Scientist (40157),,,,30+ days,2016-10-16 00:35:56.240193
+103,"Houston, TX",Harnham,b192154eb571fd1a,Senior Quantitative Analyst,,,,25 days,2016-10-16 00:35:56.240193
+104,"Houston, TX",Houston Rockets,67910fa253f4bc8b,Basketball Operations Analyst,,54.6,14,30+ days,2016-10-16 00:35:56.240193
+105,"Houston, TX",MD Anderson Cancer Center,b6677a62dca021fe,Research Scientist - Dr. Kapil N. Bhalla's Laboratory,,51.6,250,20 days,2016-10-16 00:35:56.240193
+106,"Houston, TX",alliantgroup,0fa4ed45361969fa,Economics Consultant,,,,30+ days,2016-10-16 00:35:56.240193
+107,"Houston, TX 77002 (Downtown area)",Primary Services,9eab1a4a00cc9d77,Marketing Research Data Analyst,,51.6,35,30+ days,2016-10-16 00:35:56.240193
+108,"Houston, TX",MD Anderson Cancer Center,cb38e47b35cfaa90,"Research Project Manager, Head and Neck Surgery (Ion Torrent...",,51.6,250,8 days,2016-10-16 00:35:56.240193
+109,"Houston, TX 77001",HX5,581d6851a368c40a,Advanced Small Particle Processor,,,,23 days,2016-10-16 00:35:56.240193
+110,"Houston, TX",Addison Group,041e0b45b615a46b,Market Research Analyst,,44.4,59,25 days,2016-10-16 00:35:56.240193
+111,"Houston, TX",UT Health Science Center at Houston,4f9a6f7ecd1c7a35,Program Manager- Research,,43.2,79,25 days,2016-10-16 00:35:56.240193
+112,"Pasadena, TX",California Institute of Technology,4faff85e6ced94ef,Medicinal Chemistry Research Scientist,,51.6,64,11 days,2016-10-16 00:35:56.240193
+113,"Houston, TX 77058 (Pasadena area)",Texas A&M University,4a438838eee5f62a,Bioinformatics Postdoctoral Fellow,"$70,000 a year",53.4,494,30+ days,2016-10-16 00:35:56.240193
+114,"Pearland, TX 77584",Galaxy Laboratories LLC,701f4aa22695b04d,Laboratory Supervisor/ Toxicologist,,,,30+ days,2016-10-16 00:35:56.240193
+115,"Sugar Land, TX 77478",Schlumberger,63d61b4961bb5155,Cloud Software Engineer,,51.0,2488,30+ days,2016-10-16 00:35:56.240193
+116,"Houston, TX",MD Anderson Cancer Center,55837f3738a6ca0b,"Institute Assoc Scientist II - Program Biology, ORBIT",,51.6,250,29 days,2016-10-16 00:35:56.240193
+117,"Houston, TX",Smith & Associates,7dd0d3d51de87484,Data Scientist - Manufacturing at PREDICTif Solutions,,43.8,12,30+ days,2016-10-16 00:35:56.240193
+118,"Houston, TX",Panton,8dabf8baa51f7986,iOS Mobile Application Developer,,,,30+ days,2016-10-16 00:35:56.240193
+119,"Houston, TX",MD Anderson Cancer Center,03d1382e0e533cb5,Bioinformatics Platform Research Investigator,,51.6,250,29 days,2016-10-16 00:35:56.240193
+120,"Houston, TX",MD Anderson Cancer Center,1a3b7abc60b9479e,Institute Assoc Scientist III - Systems Biology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+121,"Houston, TX",alliantgroup,b1fcb28998659269,Legal Consultant,,,,30+ days,2016-10-16 00:35:56.240193
+122,"Houston, TX",Waste Management,6b8d61610e0ff6e2,Dir Environmental Protection/Wastewater Treatment,,42.6,1815,30+ days,2016-10-16 00:35:56.240193
+123,"Houston, TX 77054 (Medical area)","Advanced Pharma, Inc.",01eb4300873095f2,Sr. Analytical Development Chemist,,,,8 days,2016-10-16 00:35:56.240193
+124,"Houston, TX",MD Anderson Cancer Center,30cba214d9a0a926,Institute Assoc Scientist II - Target Biology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+125,"Houston, TX",Energy Transfer Partners,a0f1f6d7304b51e0,Environmental Scientist,,54.6,9,17 days,2016-10-16 00:35:56.240193
+126,"Houston, TX",Selby Jennings,903f3bbc17e3ec9f,Catastrophe Risk Analyst - Quantitative,"$75,000 - $120,000 a year",,,30+ days,2016-10-16 00:35:56.240193
+127,"Houston, TX",Baylor College of Medicine,6dc4a136f93184c2,Postdoctoral Associate,,51.0,174,30+ days,2016-10-16 00:35:56.240193
+128,"Houston, TX",Nationwide Laboratory Partners LLC,a73888e3074d819a,Certifying Scientist / LC-MS Chemist,,,,30+ days,2016-10-16 00:35:56.240193
+129,"Houston, TX",MD Anderson Cancer Center,02f2d89262051bb1,Senior Computational Scientist- Immunology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+130,"Houston, TX",Selby Jennings,eab5c3ea40e0cf7d,Senior Predictive Modeling Actuary,"$70,000 - $130,000 a year",,,30+ days,2016-10-16 00:35:56.240193
+131,"Houston, TX 77030 (Medical area)",Houston Methodist,5079d5e6e94943b3,Chief Medical Technologist,,52.199997,765,30+ days,2016-10-16 00:35:56.240193
+132,"Houston, TX",alliantgroup,cbf9a0ba4deb65a4,MBA Consultant,,,,30+ days,2016-10-16 00:35:56.240193
+133,"Houston, TX",NeoGenomics Laboratories,e7ebe9f9314db876,Laboratory Associate I,,56.4,8,30+ days,2016-10-16 00:35:56.240193
+134,"Houston, TX 77030 (Medical area)",Houston Methodist,c31c78f2da173fde,Research Associate I,,52.199997,765,30+ days,2016-10-16 00:35:56.240193
+135,"Houston, TX",MD Anderson Cancer Center,221cc6fc2993fd0e,Institute Group Leader - ADME/PK,,51.6,250,29 days,2016-10-16 00:35:56.240193
+136,"Houston, TX",Michael Page US,dfc4d7382600bc01,"Sales Account news, analysis, data - Energy market",,42.0,109,30+ days,2016-10-16 00:35:56.240193
+137,"Houston, TX",WSP | Parsons Brinckerhoff,315f950dba5a31c4,Transportation Planner,,51.0,5,24 days,2016-10-16 00:35:56.240193
+138,"Houston, TX",alliantgroup,efef2f82b3adb062,Project Associate,,,,30+ days,2016-10-16 00:35:56.240193
+139,"Houston, TX",MD Anderson Cancer Center,22882db8d82c8dae,"Institute Senior Research Scientist, Medicinal Chemistry Neu...",,51.6,250,29 days,2016-10-16 00:35:56.240193
+140,"Houston, TX","Beckman Coulter, Inc.",a40e78995f26acd9,Field Service Engineer,,42.6,245,30+ days,2016-10-16 00:35:56.240193
+141,"Houston, TX 77030 (Medical area)",Houston Methodist,c322811639456477,Research Assistant I - Ribonucleic Acid Core Team,,52.199997,765,30+ days,2016-10-16 00:35:56.240193
+142,"Houston, TX 77030 (Medical area)",Houston Methodist,8e397e7cab623eb3,HLA Quality Assurance Project Specialist,,52.199997,765,30+ days,2016-10-16 00:35:56.240193
+143,"Houston, TX",C-Crete Technologies,e32a090b522696d8,Research Scientist - Advanced Materials,,,,30+ days,2016-10-16 00:35:56.240193
+144,"Houston, TX",Altair,d2c53bfb8f8f3422,Design Validation Engineer,,42.6,10,18 days,2016-10-16 00:35:56.240193
+145,"Houston, TX",MD Anderson Cancer Center,6757401e3e6a12fe,Senior Technical Writer in Breast Medical Oncology,,51.6,250,4 days,2016-10-16 00:35:56.240193
+146,"Houston, TX",Infinity Consulting Solutions,16896e017072454c,Senior C++ Developer,,43.8,6,30+ days,2016-10-16 00:35:56.240193
+147,"Houston, TX",Tessella,3c3f784393a12f4e,Subsurface Technical Consultant,,,,30+ days,2016-10-16 00:35:56.240193
+148,"Houston, TX",Kinetix,c46e7451d04a5305,Medical Technologist - Woodlands (Multiple Shifts),,,,28 days,2016-10-16 00:35:56.240193
+149,"Houston, TX",WEST Inc.,a38784c235bd0dc9,Project Manager / Biologist - TX - CG,,54.0,4,30+ days,2016-10-16 00:35:56.240193
+150,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+151,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+152,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+153,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+154,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+155,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+156,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+157,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+158,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+159,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+160,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+161,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+162,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+163,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+164,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+165,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+166,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+167,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+168,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+169,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+170,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+171,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+172,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+173,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+174,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+175,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+176,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+177,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+178,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+179,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+180,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+181,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+182,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+183,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+184,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+185,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+186,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+187,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+188,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+189,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+190,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+191,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+192,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+193,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+194,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+195,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+196,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+197,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+198,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+199,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+200,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+201,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+202,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+203,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+204,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+205,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+206,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+207,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+208,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+209,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+210,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+211,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+212,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+213,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+214,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+215,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+216,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+217,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+218,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+219,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+220,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+221,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+222,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+223,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+224,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+225,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+226,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+227,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+228,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+229,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+230,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+231,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+232,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+233,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+234,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+235,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+236,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+237,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+238,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+239,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+240,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+241,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+242,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+243,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+244,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+245,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+246,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+247,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+248,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+249,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+250,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+251,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+252,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+253,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+254,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+255,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+256,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+257,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+258,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+259,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+260,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+261,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+262,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+263,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+264,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+265,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+266,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+267,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+268,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+269,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+270,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+271,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+272,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+273,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+274,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+275,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+276,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+277,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+278,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+279,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+280,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+281,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+282,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+283,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+284,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+285,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+286,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+287,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+288,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+289,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+290,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+291,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+292,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+293,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+294,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+295,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+296,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+297,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+298,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+299,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+300,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+301,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+302,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+303,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+304,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+305,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+306,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+307,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+308,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+309,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+310,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+311,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+312,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+313,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+314,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+315,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+316,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+317,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+318,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+319,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+320,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+321,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+322,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+323,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+324,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+325,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+326,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+327,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+328,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+329,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+330,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+331,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+332,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+333,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+334,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+335,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+336,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+337,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+338,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+339,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+340,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+341,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+342,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+343,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+344,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+345,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+346,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+347,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+348,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+349,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+350,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+351,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+352,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+353,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+354,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+355,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+356,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+357,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+358,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+359,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+360,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+361,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+362,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+363,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+364,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+365,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+366,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+367,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+368,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+369,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+370,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+371,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+372,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+373,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+374,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+375,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+376,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+377,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+378,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+379,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+380,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+381,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+382,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+383,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+384,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+385,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+386,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+387,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+388,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+389,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+390,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+391,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+392,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+393,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+394,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+395,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+396,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+397,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+398,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+399,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+400,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+401,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+402,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+403,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+404,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+405,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+406,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+407,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+408,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+409,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+410,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+411,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+412,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+413,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+414,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+415,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+416,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+417,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+418,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+419,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+420,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+421,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+422,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+423,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+424,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+425,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+426,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+427,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+428,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+429,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+430,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+431,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+432,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+433,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+434,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+435,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+436,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+437,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+438,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+439,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+440,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+441,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+442,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+443,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+444,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+445,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+446,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+447,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+448,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+449,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+450,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+451,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+452,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+453,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+454,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+455,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+456,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+457,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+458,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+459,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+460,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+461,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+462,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+463,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+464,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+465,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+466,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+467,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+468,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+469,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+470,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+471,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+472,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+473,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+474,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+475,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+476,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+477,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+478,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+479,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+480,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+481,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+482,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+483,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+484,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+485,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+486,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+487,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+488,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+489,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+490,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+491,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+492,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+493,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+494,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+495,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+496,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+497,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+498,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+499,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+500,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+501,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+502,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+503,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+504,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+505,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+506,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+507,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+508,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+509,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+510,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+511,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+512,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+513,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+514,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+515,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+516,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+517,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+518,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+519,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+520,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+521,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+522,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+523,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+524,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+525,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+526,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+527,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+528,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+529,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+530,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+531,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+532,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+533,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+534,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+535,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+536,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+537,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+538,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+539,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+540,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+541,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+542,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+543,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+544,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+545,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+546,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+547,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+548,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+549,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+550,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+551,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+552,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+553,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+554,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+555,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+556,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+557,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+558,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+559,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+560,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+561,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+562,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+563,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+564,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+565,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+566,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+567,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+568,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+569,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+570,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+571,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+572,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+573,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+574,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+575,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+576,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+577,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+578,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+579,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+580,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+581,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+582,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+583,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+584,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+585,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+586,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+587,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+588,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+589,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+590,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+591,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+592,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+593,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+594,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+595,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+596,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+597,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+598,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+599,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+600,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+601,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+602,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+603,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+604,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+605,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+606,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+607,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+608,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+609,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+610,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+611,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+612,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+613,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+614,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+615,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+616,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+617,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+618,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+619,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+620,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+621,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+622,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+623,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+624,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+625,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+626,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+627,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+628,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+629,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+630,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+631,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+632,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+633,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+634,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+635,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+636,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+637,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+638,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+639,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+640,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+641,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+642,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+643,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+644,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+645,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+646,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+647,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+648,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+649,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+650,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+651,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+652,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+653,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+654,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+655,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+656,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+657,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+658,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+659,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+660,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+661,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+662,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+663,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+664,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+665,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+666,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+667,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+668,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+669,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+670,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+671,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+672,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+673,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+674,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+675,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+676,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+677,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+678,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+679,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+680,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+681,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+682,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+683,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+684,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+685,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+686,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+687,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+688,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+689,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+690,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+691,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+692,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+693,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+694,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+695,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+696,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+697,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+698,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+699,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+700,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+701,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+702,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+703,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+704,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+705,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+706,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+707,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+708,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+709,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+710,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+711,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+712,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+713,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+714,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+715,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+716,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+717,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+718,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+719,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+720,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+721,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+722,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+723,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+724,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+725,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+726,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+727,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+728,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+729,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+730,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+731,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+732,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+733,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+734,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+735,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+736,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+737,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193
+738,"Houston, TX",MD Anderson Cancer Center,eee4c2a231cefbf1,"Director, Oncology Early-Stage Clinical Development",,51.6,250,29 days,2016-10-16 00:35:56.240193
+739,"Houston, TX",Walker Elliott,57a80509b4f3d41c,Software Engineer - Oracle,,,,30+ days,2016-10-16 00:35:56.240193
+740,"Houston, TX",MD Anderson Cancer Center,1b3226c0da123e5c,Institute Research Scientist -Immuno-oncology,,51.6,250,29 days,2016-10-16 00:35:56.240193
+741,"Houston, TX 77046 (Montrose area)",Rimkus Consulting Group,797504041c4e8245,Fire Investigator - Houston,,39.0,4,8 days,2016-10-16 00:35:56.240193
+742,"Houston, TX",Cray,7caa318b1ce96b46,District Service Manager,,52.800003,3,30+ days,2016-10-16 00:35:56.240193
+743,"Houston, TX",Strategic IT Staffing,6c3de95db39886c5,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:35:56.240193
+744,"Houston, TX 77058 (Pasadena area)",Lubrizol Corporation,2394d768e6928ab3,Process Development Chemist,,44.4,19,30+ days,2016-10-16 00:35:56.240193

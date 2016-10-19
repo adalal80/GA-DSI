@@ -1,0 +1,392 @@
+[
+    {
+        "meanPay": "$94k - $119k",
+        "jobTitle": "Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$110k - $127k",
+        "jobTitle": "Data Scientist",
+        "company": "Quicken Loans"
+    },
+    {
+        "meanPay": "$86k - $94k",
+        "jobTitle": "Data Scientist",
+        "company": "Ford Motor Company"
+    },
+    {
+        "meanPay": "$95k - $104k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$97k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "Ciber"
+    },
+    {
+        "meanPay": "$90k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "Marketing Associates"
+    },
+    {
+        "meanPay": "$101k - $109k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$90k - $99k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$102k - $111k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$91k - $97k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Market Strategies International"
+    },
+    {
+        "meanPay": "$122k - $134k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$94k - $120k",
+        "jobTitle": "Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$112k - $126k",
+        "jobTitle": "Data Scientist",
+        "company": "Quicken Loans"
+    },
+    {
+        "meanPay": "$87k - $93k",
+        "jobTitle": "Data Scientist",
+        "company": "Ford Motor Company"
+    },
+    {
+        "meanPay": "$96k - $103k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$91k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$97k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "Ciber"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$89k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "Marketing Associates"
+    },
+    {
+        "meanPay": "$100k - $110k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$90k - $99k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$102k - $111k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Market Strategies International"
+    },
+    {
+        "meanPay": "$123k - $134k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $120k",
+        "jobTitle": "Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$111k - $128k",
+        "jobTitle": "Data Scientist",
+        "company": "Quicken Loans"
+    },
+    {
+        "meanPay": "$87k - $94k",
+        "jobTitle": "Data Scientist",
+        "company": "Ford Motor Company"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$97k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "Ciber"
+    },
+    {
+        "meanPay": "$91k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "Marketing Associates"
+    },
+    {
+        "meanPay": "$102k - $109k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$102k - $111k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Market Strategies International"
+    },
+    {
+        "meanPay": "$122k - $133k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $119k",
+        "jobTitle": "Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$112k - $126k",
+        "jobTitle": "Data Scientist",
+        "company": "Quicken Loans"
+    },
+    {
+        "meanPay": "$87k - $93k",
+        "jobTitle": "Data Scientist",
+        "company": "Ford Motor Company"
+    },
+    {
+        "meanPay": "$96k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$92k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$98k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "Ciber"
+    },
+    {
+        "meanPay": "$91k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "Marketing Associates"
+    },
+    {
+        "meanPay": "$102k - $109k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$91k - $97k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Market Strategies International"
+    },
+    {
+        "meanPay": "$124k - $132k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $119k",
+        "jobTitle": "Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$111k - $126k",
+        "jobTitle": "Data Scientist",
+        "company": "Quicken Loans"
+    },
+    {
+        "meanPay": "$87k - $93k",
+        "jobTitle": "Data Scientist",
+        "company": "Ford Motor Company"
+    },
+    {
+        "meanPay": "$96k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$92k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$98k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "Ciber"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Marketing Associates"
+    },
+    {
+        "meanPay": "$100k - $110k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$104k - $112k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Market Strategies International"
+    },
+    {
+        "meanPay": "$124k - $134k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$110k - $126k",
+        "jobTitle": "Data Scientist",
+        "company": "Quicken Loans"
+    },
+    {
+        "meanPay": "$87k - $93k",
+        "jobTitle": "Data Scientist",
+        "company": "Ford Motor Company"
+    },
+    {
+        "meanPay": "$94k - $104k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$97k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Ciber"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "Marketing Associates"
+    },
+    {
+        "meanPay": "$100k - $109k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$103k - $111k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Market Strategies International"
+    },
+    {
+        "meanPay": "$123k - $134k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    }
+]

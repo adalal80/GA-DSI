@@ -1,0 +1,1001 @@
+,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
+0,"Washington, DC",LivingSocial,e96b19140804b7b4,Data Scientist,,42.6,132,1 day,2016-10-16 00:30:23.897629
+1,"Washington, DC",CareSource,988e48a6902720e9,Statistical Data Mining Analyst/Cognos,,42.6,69,1 day,2016-10-16 00:30:23.897629
+2,"Washington, DC",CareSource,7f63b10ab935d496,Data Analysis Associate,,42.6,69,1 day,2016-10-16 00:30:23.897629
+3,"Washington, DC 20007 (Georgetown area)",Sephora,9e78fc3cd6c7ba4c,Predictive Modeling Analyst,,51.0,1269,22 hours,2016-10-16 00:30:23.897629
+4,"Washington, DC",The Advisory Board Company,e9b321b7b39c2cf5,Data Scientist,,42.6,69,2 days,2016-10-16 00:30:23.897629
+5,"Washington, DC",Capgemini Government Solutions,ac11dc750c408fe6,Data Wrangler / Data Scientist,,43.8,2000,2 days,2016-10-16 00:30:23.897629
+6,"McLean, VA","Cognosante, LLC",60ddc4b758eee836,Data Scientist,,44.4,14,1 hour,2016-10-16 00:30:23.897629
+7,"Washington, DC",Clearsoft Inc.,d5e82dfc3b7a0302,Data Scientist,,,,4 days,2016-10-16 00:30:23.897629
+8,"Washington, DC 20036 (Downtown area)",KPMG,12320fb4639cedc3,Data Scientist,,51.0,1768,1 day,2016-10-16 00:30:23.897629
+9,"Washington, DC 20036 (Downtown area)",Nexant,fa07dc479eb2b103,Project Analyst I (Quantitative/Statistical),,41.4,20,2 days,2016-10-16 00:30:23.897629
+10,"Washington, DC",Booz Allen Hamilton,9fe2cf2a269f2450,Data Scientist,,44.4,945,10 days,2016-10-16 00:30:23.897629
+11,"Silver Spring, MD 20904",Verizon,98cb008f2c5788bd,Data Scientist,,44.4,11109,17 days,2016-10-16 00:30:23.897629
+12,"Washington, DC",ISPA Technology,97e307cadea01e59,Data Scientist,,,,15 days,2016-10-16 00:30:23.897629
+13,"Washington, DC 20005 (Logan Circle area)",IBM,61742041c602a07b,Advanced Analytics Data Scientist,,51.0,12110,30 days,2016-10-16 00:30:23.897629
+14,"Washington, DC",Labcorp,f24715b9edcce394,Statistical Data Mining Analyst/Cognos,,43.2,1700,22 hours,2016-10-16 00:30:23.897629
+15,"Bethesda, MD 20813",Leidos,2e8aebe8a1e9a8c0,Data Scientist,,43.8,187,3 days,2016-10-16 00:30:23.897629
+16,"Washington, DC",Social Tables,47030b8a20220b9d,Data Scientist,,,,12 days,2016-10-16 00:30:23.897629
+17,"Washington, DC",Facebook,4bdfd99098213b53,Counterterrorism Research Analyst,,51.0,112,4 days,2016-10-16 00:30:23.897629
+18,"Arlington, VA 22201 (Lyon Village area)",In-Q-Tel,c68c5c14576bce30,Data Scientist,,42.0,2,8 days,2016-10-16 00:30:23.897629
+19,"Arlington, VA","Sotera Defense Solutions, Inc.",160d458864e85107,Data Scientist,,,,8 days,2016-10-16 00:30:23.897629
+20,"Washington, DC",DigitalGlobe,165e094cc0f8e8b3,All-Source Geospatial Data Scientist,,43.2,52,8 days,2016-10-16 00:30:23.897629
+21,"Washington, DC",Sprinklr,a9d98e9e8d370d21,Data Scientist - NLP/ML Engineer,,43.2,6,11 days,2016-10-16 00:30:23.897629
+22,"Alexandria, VA 22303",TransVoyant,dbc367d190e27b00,Data Scientist,,,,6 days,2016-10-16 00:30:23.897629
+23,"Suitland, MD",Accenture,b3e7e718eeee20db,Federal - Data Scientist,,51.0,6914,4 days,2016-10-16 00:30:23.897629
+24,"Washington, DC 20004 (Downtown area)",Intrepid Solutions,8fa5304b4fee97a9,Data Scientist Analyst,,,,11 days,2016-10-16 00:30:23.897629
+25,"Washington, DC",George Washington University,608ca7295d714875,Machine Learning/Data Mining Adjunct Professor,,,,18 days,2016-10-16 00:30:23.897629
+26,"Washington, DC",IHS,2a594bc13790498d,Data Engineer,,42.6,101,22 hours,2016-10-16 00:30:23.897629
+27,"Falls Church, VA 22041",Northrop Grumman,ea8cd67ce4f02d81,Data Scientist 3,,51.0,2124,11 days,2016-10-16 00:30:23.897629
+28,"Washington, DC 20001 (Shaw area)",National Association of REALTORS,9ae2d93ed47b68b3,Research Data Scientist,,52.800003,11,25 days,2016-10-16 00:30:23.897629
+29,"Washington, DC",CRGT Inc.,fa5eff7b00b062f5,Data Analyst 4 (Statistician),,41.4,49,3 days,2016-10-16 00:30:23.897629
+30,"Washington, DC",Arch Capital Group Ltd.,506091a16c85e1d4,"Sr Analyst, Data Scientist",,,,14 days,2016-10-16 00:30:23.897629
+31,"Washington, DC",Vencore,f57d7e3d42a6767d,Data Scientist,,42.0,43,29 days,2016-10-16 00:30:23.897629
+32,"McLean, VA",Logistics Management Institute,4e5c55e4d703c0db,Data Scientist,,44.4,16,11 days,2016-10-16 00:30:23.897629
+33,"Washington, DC",KeyLogic Systems,1941fae8689b0674,Data Analyst/Engineer/Scientist,,52.800003,3,17 days,2016-10-16 00:30:23.897629
+34,"McLean, VA",Capital One,0b09a2ee26b6cca4,Data Scientist Intern - Columbia University,,44.4,2904,2 days,2016-10-16 00:30:23.897629
+35,"Washington, DC",Penn Schoen Berland,41343e576e7aebdf,Data Scientist,,51.0,2,25 days,2016-10-16 00:30:23.897629
+36,"McLean, VA",Byte Systems,28c45fb4751c28f9,Data Scientist,,,,17 days,2016-10-16 00:30:23.897629
+37,"Washington, DC",Excella Consulting,eff49d338cb0492f,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+38,"Washington, DC",Tahzoo,053d22349fc787a3,Senior Data Scientist (Business Intelligence Analyst),,,,8 days,2016-10-16 00:30:23.897629
+39,"Washington, DC",Selby Jennings,be8c72873ae03efa,Associate Data Science,"$125,000 - $150,000 a year",,,11 days,2016-10-16 00:30:23.897629
+40,"Washington, DC 20005 (Logan Circle area)",IBM,cb55203b5aafc2e4,Advanced Analytics Lead Data Scientist - Supply Chain Optimi...,,51.0,12110,30+ days,2016-10-16 00:30:23.897629
+41,"Arlington, VA",Aptima,8307b10ed9897c37,Data Scientist (Junior) (VA),,,,19 days,2016-10-16 00:30:23.897629
+42,"Bethesda, MD",National Cancer Institute,7ee5cf3b6f9964d0,"Chief, Cancer Data Science Laboratory - Tenure Eligible Posi...",,53.4,27,1 day,2016-10-16 00:30:23.897629
+43,"Washington, DC",Vistronix,4b08c137b5105465,Data Scientist,,51.0,13,30+ days,2016-10-16 00:30:23.897629
+44,"Washington, DC",Applied Communication Sciences,18c98d831b92720c,Data Scientist,,,,29 days,2016-10-16 00:30:23.897629
+45,"Arlington, VA 22203 (Bluemont area)",Management Sciences for Health,ead6c8879110bac0,Senior Data Scientist & Analytics Developer,,44.4,31,15 days,2016-10-16 00:30:23.897629
+46,"Arlington, VA",CACI International Inc,fc362ab7404ab7a7,Data Scientist Job,,44.4,815,21 days,2016-10-16 00:30:23.897629
+47,"Alexandria, VA",Booz Allen Hamilton,32b610bb822b811f,Data Scientist / Curator,,44.4,945,9 days,2016-10-16 00:30:23.897629
+48,"Chevy Chase, MD",GEICO,14def57d7652fb1c,"Competitive Intelligence Analyst - Business Analyst, Researc...",,42.6,1429,22 hours,2016-10-16 00:30:23.897629
+49,"Washington, DC",Salient CRGT,dc7608cfb6dd8d34,Data Analyst 4 (Statistician),,42.6,5,3 days,2016-10-16 00:30:23.897629
+50,"Washington, DC",The Advisory Board Company,da4fb1ef7445bca8,"Associate Data Scientist, EAB (Full Time, Starting Summer 20...",,42.6,69,30+ days,2016-10-16 00:30:23.897629
+51,"McLean, VA",Booz Allen Hamilton,72f0e61fdb018894,Language-Enabled Data Scientist,,44.4,945,3 days,2016-10-16 00:30:23.897629
+52,"Adelphi, MD",ICF,3990d15eedc1f7b6,Data Scientist,,40.8,233,30+ days,2016-10-16 00:30:23.897629
+53,"College Park, MD","INNOVIM, LLC",dbf2f382b68db8b2,Scientist - Global Ocean Data,,39.0,2,30+ days,2016-10-16 00:30:23.897629
+54,"Silver Spring, MD",Vencore,b86ce125f52aacc8,Remote Sensing Data Scientist II,,42.0,43,5 days,2016-10-16 00:30:23.897629
+55,"College Park, MD","Riverside Technology, inc.",a66bf956ac0724aa,Scientific Programmer,,,,23 days,2016-10-16 00:30:23.897629
+56,"Washington, DC",IC-CAP,b44e9efd982604e8,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+57,"McLean, VA",Capital One,b38b9dff604e9372,Principal Data Scientist,,44.4,2904,2 days,2016-10-16 00:30:23.897629
+58,"Washington, DC",Salient CRGT,35bb9e9eb556eda7,Statistician,,,,3 days,2016-10-16 00:30:23.897629
+59,"Washington, DC",OBXtek,03be8cd09ec4b070,Counterterrorism Communications Data Scientist,,40.2,6,30+ days,2016-10-16 00:30:23.897629
+60,"Silver Spring, MD",ICF,40ffe9e86447a01f,Data Scientist/Engineer,,40.8,233,5 days,2016-10-16 00:30:23.897629
+61,"Washington, DC",Aptima,982c46438b1bfbeb,Data Scientist/Software Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+62,"Silver Spring, MD",3M,65717a55ed9fa80b,"3M HIS NLP Machine Learning Engineer (Silver Spring, MD) Job",,51.6,1413,30+ days,2016-10-16 00:30:23.897629
+63,"Washington, DC 20036 (Downtown area)",KPMG,29ebd395ee097483,Sr Associate - Data Scientist,,51.0,1768,23 days,2016-10-16 00:30:23.897629
+64,"Reston, VA",Praxis Engineering,87b0d27bfa179faf,Data Scientist,,55.800003,9,5 days,2016-10-16 00:30:23.897629
+65,"Washington, DC 20032 (Anacostia area)",Lexington Solutions Group,1bdc6563410ec780,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+66,"Washington, DC",Centra Technology,b8a79162f9570db6,"Quantitative Analyst (Junior, Mid-level, Senior-level)",,42.0,2,1 day,2016-10-16 00:30:23.897629
+67,"Chantilly, VA","Commonwealth Computer Research, Inc.",e898200dbea8f15a,Data Scientist,,,,10 days,2016-10-16 00:30:23.897629
+68,"Arlington, VA",Halfaker and Associates,8a05886cb4e40fd5,Data Scientist,,52.800003,4,30+ days,2016-10-16 00:30:23.897629
+69,"Chantilly, VA",CCRi,b61963f14efcec9f,Data Scientist,,42.0,11,10 days,2016-10-16 00:30:23.897629
+70,"Washington, DC",Plus3 IT Systems,0c3d7ede3d7f442e,Data Scientist - Architect,,,,14 days,2016-10-16 00:30:23.897629
+71,"Crystal City, VA",Novetta,cea83a07c73b1d5d,Data Scientist/Data Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+72,"Washington, DC",Ukpeagvik Iñupiat Corporation/Bowhead Family of Co...,bf1d76793978de2b,Statistician,,,,30 days,2016-10-16 00:30:23.897629
+73,"Arlington, VA 22202 (Aurora Highlands area)",DECISIVE ANALYTICS Corporation,cdd8197750071717,Machine Learning Software Engineer Internship,,55.199997,9,8 days,2016-10-16 00:30:23.897629
+74,"Bethesda, MD",SESDA,443b85c4311080e1,Scientific Software Programmer,,,,12 days,2016-10-16 00:30:23.897629
+75,"McLean, VA",Vencore,d44197a5aaf6727f,Statistician I,,42.0,43,5 days,2016-10-16 00:30:23.897629
+76,"Washington, DC 20005 (Logan Circle area)",Google,09cae37580ecb4f9,"Cloud Instructor (Big Data, Machine Learning), Google Cloud...",,52.800003,1218,2 days,2016-10-16 00:30:23.897629
+77,"Washington, DC 20005 (Logan Circle area)",ONE Campaign,c22bed63c6366ca3,Data Scientist (London),,54.0,2,30+ days,2016-10-16 00:30:23.897629
+78,"Washington, DC","Dawnbreaker, Inc.",57bb7830a568e369,Research Analyst,,,,4 days,2016-10-16 00:30:23.897629
+79,"Reston, VA 20191",Engility Corporation,263c42ac75cc186e,Data Scientist,,43.2,243,29 days,2016-10-16 00:30:23.897629
+80,"Washington, DC",GEICO,aa09e213659acc2b,Lead Data Scientist,,42.6,1429,5 days,2016-10-16 00:30:23.897629
+81,"Washington, DC",T3 Trading Group LLC,54c3e02732405a28,Statistical Pairs Trading Positions,,51.0,4,21 days,2016-10-16 00:30:23.897629
+82,"Bethesda, MD 20814","The Cadmus Group, Inc.",179ffe45f00f8785,"Research Analyst, Environmental and Climate Change Programs",,,,2 days,2016-10-16 00:30:23.897629
+83,"Lanham, MD",Bay State,35be1e218d679620,Greenplum Data Scientist SME,,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+84,"Washington, DC",ONE,6b2862afcb74b42c,"Data Scientist (Washington, DC)",,52.800003,33,30+ days,2016-10-16 00:30:23.897629
+85,"Washington, DC 20005 (Logan Circle area)",ONE Campaign,04f93ac6c62d82a9,"Data Scientist (Washington, DC)",,54.0,2,30+ days,2016-10-16 00:30:23.897629
+86,"Arlington, VA",SapientNitro,bc30fee7cabd4436,"Senior Associate, Data Scientist, Advanced Analytics",,42.6,25,30+ days,2016-10-16 00:30:23.897629
+87,"Washington, DC 20036 (Downtown area)",American Chemical Society,7351297efb958c07,Data Manager,,51.0,29,10 days,2016-10-16 00:30:23.897629
+88,"Washington, DC 20036 (Downtown area)",Unisys,c1198995c2869a82,Operations Research Analyst,,43.2,645,4 days,2016-10-16 00:30:23.897629
+89,"Silver Spring, MD",Advanced Resource Technologies Inc,fb62f5ee66af4cd9,Oceanographic Data Analyst - Tidal Analysis,,,,8 days,2016-10-16 00:30:23.897629
+90,"Washington, DC",Emerson Howell Nagel & Associates,2a9e660cffc7b5b7,Data Scientist/Engineer (4 month contract),,,,30+ days,2016-10-16 00:30:23.897629
+91,"Arlington, VA 22201 (Lyon Village area)",CNA Corp.,a25406e01e7ebfda,Research Scientist,,,,5 days,2016-10-16 00:30:23.897629
+92,"Chevy Chase, MD",GEICO,d2479751e953323f,"Modeling Analyst - Data Mining, Statistical Analysis and Dec...",,42.6,1429,30+ days,2016-10-16 00:30:23.897629
+93,"Bethesda, MD",National Opinion Research Center (NORC),6539d50aa1085d0b,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+94,"Arlington, VA",Booz Allen Hamilton,8f4f2a7c861f65da,"Machine Learning Technology Consultant, Mid",,44.4,945,13 days,2016-10-16 00:30:23.897629
+95,"Arlington, VA",Invincea,c029c13a64a2a231,Principal Research Engineer - Data Science,,,,21 days,2016-10-16 00:30:23.897629
+96,"Arlington, VA 22202 (Aurora Highlands area)","Project Support Services, Inc.",ac638d1698548eb8,Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+97,"Washington, DC",American Association for Cancer Research,46e3e1096c3ed4e2,Senior Science Policy Analyst,,,,11 days,2016-10-16 00:30:23.897629
+98,"Springfield, VA",CACI International Inc,c2b11e097b02968f,Statistician/Data Scientist Job,,44.4,815,11 days,2016-10-16 00:30:23.897629
+99,"Alexandria, VA 22314 (Southwest Quadrant area)",Grant Thornton,119ac529c5a63f68,Data Scientist,,44.4,210,30+ days,2016-10-16 00:30:23.897629
+100,"Washington, DC",U.S. Department of Labor,985936f5ce39e730,Research Statistician,"$77,490 - $119,794 a year",51.0,264,3 days,2016-10-16 00:30:23.897629
+101,"Greenbelt, MD 20771","ADNET Systems, Inc.",e3f8b4a95995518f,Scientific Software Programmer,,54.0,4,12 days,2016-10-16 00:30:23.897629
+102,"McLean, VA",Jobspring Partners,b8db058a6e0bed00,Data Scientist,"$130,000 - $160,000 a year",40.8,12,2 days,2016-10-16 00:30:23.897629
+103,"Washington, DC",ONE,5508cb756070cc39,Data Scientist (London),,52.800003,33,30+ days,2016-10-16 00:30:23.897629
+104,"Washington, DC 20036 (Downtown area)",KPMG,9e5e70fcef59fcf1,Data Visualization Software Engineer,,51.0,1768,1 day,2016-10-16 00:30:23.897629
+105,"Alexandria, VA",Selby Jennings,6138be2832646d68,Data Scientist,"$125,000 - $175,000 a year",,,22 days,2016-10-16 00:30:23.897629
+106,"Arlington, VA",ECS Federal LLC,7fdc92f63beab541,Mathematician / Statistician,,43.8,14,18 days,2016-10-16 00:30:23.897629
+107,"Washington, DC","Big Sky Associates, Inc.",a6f4f7dd1c4e1f36,Part Time Internship: Data Analysis,,,,2 days,2016-10-16 00:30:23.897629
+108,"Washington, DC",Gallup,d231a51fa8ca2cf6,Data Scientist – Predictive Analytics,,44.4,61,30+ days,2016-10-16 00:30:23.897629
+109,"Arlington, VA",AvalonBay Communities,1dadb33b14f90b16,Data Scientist – Predictive Analytics,,43.2,153,30+ days,2016-10-16 00:30:23.897629
+110,"Washington, DC 20036 (Downtown area)",Verto Solutions,7b76eb38f827baed,Scientific Associate,,,,1 day,2016-10-16 00:30:23.897629
+111,"College Park, MD",Vencore,66001ae55cff0086,Senior Data Scientist,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+112,"Bethesda, MD 20814","Econometrica, Inc.",e9712ff1a6ec19e4,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+113,"Bethesda, MD",Vencore,8a2a3e10e2580f6c,Predictive Modeling Analyst I,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+114,"Washington, DC","The Oakleaf Group, LLC",ff9f9f95445b9f7a,Data Scientist/Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+115,"Washington, DC",Crowdskout,45af2aa870b0c18e,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+116,"Washington, DC",Dept of Forensic Sciences,607ff3c2be7a479d,Information Technology Specialist (LIMS),"$81,050 - $104,423 a year",,,2 days,2016-10-16 00:30:23.897629
+117,"Springfield, VA",Concurrent Technologies Corporation,5b11b5f9c12d47b4,Associate Data Scientist,,42.0,30,29 days,2016-10-16 00:30:23.897629
+118,"Arlington, VA",i_SW Corp,12ba28fa6dc10879,Mathematician / Statistician,,,,18 days,2016-10-16 00:30:23.897629
+119,"McLean, VA","Cognosante, LLC",30841bb9b4d49d10,Data Analyst Intern,,44.4,14,1 hour,2016-10-16 00:30:23.897629
+120,"McLean, VA",Mitre Corporation,b4b9afac73426fdc,Operations Research Analyst / Statistician,,51.6,106,10 days,2016-10-16 00:30:23.897629
+121,"Vienna, VA",Capital One,151f266f77435721,Machine Learning Data Engineer,,44.4,2904,10 days,2016-10-16 00:30:23.897629
+122,"Washington, DC 20001 (Shaw area)",IMTAS,64c603ac1b2b1232,Senior Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+123,"Adelphi, MD",HelioCampus,f0f2dbbeb121f308,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+124,"Washington, DC",GinasTechJobs.com,2c3ea35bcade6207,Data Scientist,,,,23 days,2016-10-16 00:30:23.897629
+125,"Washington, DC",Next Step Systems,11feb2aee82fba4d,Data Scientist,,,,23 days,2016-10-16 00:30:23.897629
+126,"Crystal City, VA",Novetta,8d1118b6d4dab46d,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+127,"Washington, DC",CACI International Inc,1e6bc431e674b556,Data Scientist Senior Job,,44.4,815,30+ days,2016-10-16 00:30:23.897629
+128,"Washington, DC",PCORI,be563c41951dc2ae,"Data Analyst, Evaluation and Analysis",,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+129,"Washington, DC",Consumer Financial Protection Bureau,16dee3e496facc5b,Senior Research Analyst CN-53/53,"$106,262 - $161,600 a year",42.6,20,10 days,2016-10-16 00:30:23.897629
+130,"Washington, DC 20036 (Downtown area)",The Rock Creek Group,f2b7c9e8283708ee,Data Scientist Intern,,,,30+ days,2016-10-16 00:30:23.897629
+131,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,600a1c373f4dca13,Data Scientist,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+132,"Bethesda, MD 20814","Teaching Strategies, LLC",1d1cff95004c6c16,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+133,"Washington, DC",Vox Media,c5ba658580ac6d57,Data Scientist,,52.800003,4,30+ days,2016-10-16 00:30:23.897629
+134,"Washington, DC","Behavioral Health, Department of",d5e0ede992147947,Senior Research Analyst,"$76,082 - $97,340 a year",,,8 days,2016-10-16 00:30:23.897629
+135,"Reston, VA",Synchronoss,ae15dabb837aa98d,Data Scientist - Statistician,,43.8,14,30+ days,2016-10-16 00:30:23.897629
+136,"Reston, VA",comScore,693fe72ec290cf66,Statistical Analyst,,42.6,30,11 days,2016-10-16 00:30:23.897629
+137,"Reston, VA","Synchronoss Technologies, Inc.",ae7fa6b06f4dbb43,Data Scientist - Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+138,"Silver Spring, MD 20910","Riverside Technology, inc.",bfc1bbb5c2eb9c0d,Junior Space System Engineer,,,,17 days,2016-10-16 00:30:23.897629
+139,"Reston, VA",Qbase,1cf99f5409c855b3,SENIOR DATA ANALYST,,40.8,4,2 days,2016-10-16 00:30:23.897629
+140,"Arlington, VA",BAE Systems,8f681665ea83baa7,Talent Management Analyst / Data Scientist,,44.4,1700,30+ days,2016-10-16 00:30:23.897629
+141,"College Park, MD",University of Maryland,64cfc7189166fffe,Analyst (Statistician),,52.199997,409,18 days,2016-10-16 00:30:23.897629
+142,"Washington, DC 20037 (Foggy Bottom area)",The George Washington University Hospital,d04d2f0498f3c2c5,"Manager, Data Analysis Quality Assurance",,51.6,250,12 days,2016-10-16 00:30:23.897629
+143,"Washington, DC 20003 (Capitol Hill area)",Alion Science and Technology,beab4984a1df271b,Mathematician Statistician,,42.6,100,30+ days,2016-10-16 00:30:23.897629
+144,"Bowie, MD 20715",Inovalon,d09d6ec2ad9d2b84,"Analyst, Financial and Quantitative Analytics",,40.8,173,1 day,2016-10-16 00:30:23.897629
+145,"Washington, DC",Stimson Center,dfd6678b91203905,"Research Analyst, Natural Security Forum",,,,5 days,2016-10-16 00:30:23.897629
+146,"Reston, VA",Resonate,ee5a9844aef05444,Sr. Data Scientist,,54.0,2,22 days,2016-10-16 00:30:23.897629
+147,"Washington, DC",American Progress,20762c45da96b080,"Policy Analyst, LGBT Research and Communications Project",,,,10 days,2016-10-16 00:30:23.897629
+148,"Alexandria, VA",Information Innovators Inc.,8b9b281debf2212e,Big Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+149,"McLean, VA",Capital One,82bc9441ff8f926c,Quantitative Principal Analyst – Model Validation,,44.4,2904,7 days,2016-10-16 00:30:23.897629
+150,"Washington, DC 20036 (Downtown area)",KPMG,32cc5be17dbb219d,Manager - Data Scientist,,51.0,1768,23 days,2016-10-16 00:30:23.897629
+151,"Washington, DC","IFAS, LLC",1109f5e971174b60,Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+152,"Reston, VA",Pinnacle Technical Resources Inc,e265f339374839d5,Data Scientist - 1912175308,,42.0,2,30+ days,2016-10-16 00:30:23.897629
+153,"Springfield, VA",Leidos,887826ee4a9f9ce2,Data Scientist (Journeyman),,43.8,187,30+ days,2016-10-16 00:30:23.897629
+154,"Washington, DC 20001 (Shaw area)",Truth Initiative,cd39df436eea65c7,Data Scientist - EX,,,,30+ days,2016-10-16 00:30:23.897629
+155,"Washington, DC",Booz Allen Hamilton,c1732cc931b3d810,Chief Data Scientist,,44.4,945,30+ days,2016-10-16 00:30:23.897629
+156,"Vienna, VA",MicroHealth LLC,5e167661463e5797,Business Development Research Analyst - Entry Level,,,,15 days,2016-10-16 00:30:23.897629
+157,"Reston, VA",Praxis Engineering,b8b8a949c18b6d8f,Sr Data Scientist,,55.800003,9,5 days,2016-10-16 00:30:23.897629
+158,"Arlington, VA 22201 (Lyon Village area)",CNA Corp.,db0214888b753b12,Research Analyst - Economist,,,,2 days,2016-10-16 00:30:23.897629
+159,"Bethesda, MD 20892",Global Solutions Network,93686ae390f4ef80,Scientific Program Analyst,$30.58 an hour,,,17 days,2016-10-16 00:30:23.897629
+160,"Washington, DC",Ironbow Technologies,156da11f60a187f5,Ergonomics Research Analyst,,,,25 days,2016-10-16 00:30:23.897629
+161,"Washington, DC",Dexis Consulting Group,2c5d2c29878e7517,Data Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+162,"Washington, DC",ECS Federal LLC,44c46df8068f66c5,Junior Operations Research Analyst,,43.8,14,30+ days,2016-10-16 00:30:23.897629
+163,"Fairfax, VA",ICF,bc442f1e6446cd02,Business/Data Analyst,,40.8,233,9 days,2016-10-16 00:30:23.897629
+164,"Washington, DC",Penn Schoen Berland,f44e7de7fe36a880,Market Research Analyst,,51.0,2,1 day,2016-10-16 00:30:23.897629
+165,"McLean, VA",Prescient,23f39f0a5cc7de50,Statistical Analyst (SA),,42.0,2,24 days,2016-10-16 00:30:23.897629
+166,"Washington, DC",RangTech,8a46b88b20fd1892,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+167,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",SRI International,aba43bbc21091630,Research Analyst II - Center for Technology in Learning,,43.8,56,9 days,2016-10-16 00:30:23.897629
+168,"Bethesda, MD",Latitude Inc.,ab3ba5b262aec28c,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+169,"Springfield, VA",Altamira Technologies Corporation,a8daefa310f7d2ea,Data Scientist – Senior,,42.0,4,18 days,2016-10-16 00:30:23.897629
+170,"Washington, DC",JPMorgan Chase,cfb95ced2812564f,J.P. Morgan Chase Institute Research Analyst - Washington DC,,44.4,10697,11 days,2016-10-16 00:30:23.897629
+171,"Reston, VA",Coverent,6e9e98acde7db642,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+172,"Washington, DC",Smart Electric Power Alliance,7ca6a1c5d29e19d4,Research Analyst/Senior Research Analyst,"$55,000 - $90,000 a year",,,15 days,2016-10-16 00:30:23.897629
+173,"Washington, DC",Cushman & Wakefield,a303f1b2bd4ac43f,VA Research Analyst,,51.0,74,10 days,2016-10-16 00:30:23.897629
+174,"Arlington, VA",BAE Systems,ca46b9b810880d3b,Research Scientist,,44.4,1700,10 days,2016-10-16 00:30:23.897629
+175,"Fairfax, VA",ICF,25a6227e95353003,ETL/Data Scientist,,40.8,233,30+ days,2016-10-16 00:30:23.897629
+176,"Washington, DC",ZERO TO THREE,67107a307f840e4f,Research Analyst,,,,2 days,2016-10-16 00:30:23.897629
+177,"Fairfax, VA",ICF,39c02497e5d09d25,Data Analytics Intern,,40.8,233,9 days,2016-10-16 00:30:23.897629
+178,"Washington, DC",Booz Allen Hamilton,6c4fbfe321bdfc67,University - Data Analyst / Scientist,,44.4,945,30+ days,2016-10-16 00:30:23.897629
+179,"McLean, VA",Capital One,168cb8c3444a082b,Data Science Manager,,44.4,2904,22 days,2016-10-16 00:30:23.897629
+180,"Gaithersburg, MD",Berico Technologies,cd1108bd9f68fd74,Data Scientist,,40.2,5,30+ days,2016-10-16 00:30:23.897629
+181,"Fort George G Meade, MD",National Security Agency,88651b5e4d317b83,Data Scientist,"$65,572 - $84,611 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+182,"Washington, DC",CEB,26df5fa35ae61dd0,Research Analyst- Campus Recruiting- May 2017 Undergraduates,,40.8,72,30+ days,2016-10-16 00:30:23.897629
+183,"Arlington, VA",ICF,3bd1da1c3b076844,Technical Business Analyst,,40.8,233,2 days,2016-10-16 00:30:23.897629
+184,"McLean, VA",SAIC,1a475b19fe3bffee,Data Scientist | Solution Architect Job,,51.6,1268,21 days,2016-10-16 00:30:23.897629
+185,"Alexandria, VA",Booz Allen Hamilton,398a5832e13b4848,Cyber Research Scientist,,44.4,945,3 days,2016-10-16 00:30:23.897629
+186,"Alexandria, VA",Booz Allen Hamilton,0a8bf77fcf0d4199,Geospatial Research Scientist,,44.4,945,3 days,2016-10-16 00:30:23.897629
+187,"Washington, DC",BDS Marketing,2ba81686a1f0d196,Sr. Analyst Research Services,,44.4,79,30+ days,2016-10-16 00:30:23.897629
+188,"Arlington, VA",Barone Consulting,979e05cb6dab069c,Machine Learning - R&D,,,,2 days,2016-10-16 00:30:23.897629
+189,"Falls Church, VA 22043",PAE,98a17aa262df9dce,Data Scientist,,43.8,215,12 days,2016-10-16 00:30:23.897629
+190,"Arlington, VA",Invincea,54432260f8a573e8,Research Director - Data Science,,,,24 days,2016-10-16 00:30:23.897629
+191,"Arlington, VA 22201 (Lyon Village area)",CNA Corp.,5501899cd218bb37,Research Analyst,,,,5 days,2016-10-16 00:30:23.897629
+192,"Arlington, VA",Bennett Aerospace Inc.,91e6c739f52c1cb0,Mathematician / Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+193,"Falls Church, VA 22042",Noblis,511aa8d585c315f6,Senior Data Analytics Engineer,,51.0,14,30+ days,2016-10-16 00:30:23.897629
+194,"Arlington, VA",Planned Systems International,c27b0298703643e5,Research Analyst,,55.199997,7,19 days,2016-10-16 00:30:23.897629
+195,"Washington, DC",Ipsos North America,176e60bf8a7feb17,USPA - Associate Research Scientist,,42.6,185,10 days,2016-10-16 00:30:23.897629
+196,"Chevy Chase, MD",GEICO,d1d5d014a2396c39,Strategic Modeling & Statistical Analyst,,42.6,1429,30+ days,2016-10-16 00:30:23.897629
+197,"Washington, DC",Clarus Group,a2b4dacbb8df7fd9,Senior Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+198,"College Park, MD","Science System and Applications, Inc.",1923bbf0e7e86170,NCEP Modeling and Data Assimilation Scientist,,52.199997,15,30+ days,2016-10-16 00:30:23.897629
+199,"Washington, DC",Oak Ridge Associated Universities,be4b9f17385c9e1a,EPA Science Technology Policy Council Support Associate,$29.28 an hour,43.2,15,17 days,2016-10-16 00:30:23.897629
+200,"Washington, DC 20012 (Takoma Park area)",BayFirst Solutions LLC,8c1b9888ba235c49,Operations Research Analyst,,,,16 days,2016-10-16 00:30:23.897629
+201,"Washington, DC",The Camstoll Group,7a693f189ac46ba5,"Research Analyst Intern, Washington DC",,,,8 days,2016-10-16 00:30:23.897629
+202,"Tysons Corner, VA",Salient CRGT,373dffd501c17cf6,Data Scientist 4,,42.6,5,25 days,2016-10-16 00:30:23.897629
+203,"McLean, VA",Hilton Corporate,8ffe767b11e54bae,"Sr. Analyst, Data Analytics",,,,12 days,2016-10-16 00:30:23.897629
+204,"Tysons Corner, VA",CRGT Inc.,53b805e5f6c1b02f,Data Scientist 4,,41.4,49,25 days,2016-10-16 00:30:23.897629
+205,"Washington, DC",FiscalNote,dc21dd9f269553a9,"Software Engineer, Data Ingestion",,,,30+ days,2016-10-16 00:30:23.897629
+206,"Washington, DC 20024 (South West area)",Mathematica Policy Research,c5b715887d5345ab,Health Research Analyst,,43.2,34,30+ days,2016-10-16 00:30:23.897629
+207,"Washington, DC",Universal Health Services,6eb2ae81054dff95,"Manager, Data Analysis Quality Assurance",,,,11 days,2016-10-16 00:30:23.897629
+208,"Springfield, VA",General Dynamics - Information Technology,08f26bc69929e4bf,Data Scientist,,43.8,3520,30+ days,2016-10-16 00:30:23.897629
+209,"College Park, MD",University of Maryland,1ebc921eb3fa3b44,Data Scientist,,52.199997,409,30+ days,2016-10-16 00:30:23.897629
+210,"Rockville, MD",GlaxoSmithKline,4db5bce16fe066f8,Expert Statistician,,52.199997,1673,16 days,2016-10-16 00:30:23.897629
+211,"Washington, DC","Applied Research Associates, Inc",0382ff651ef91cd9,Senior Operations Research Analyst,,43.8,19,9 days,2016-10-16 00:30:23.897629
+212,"Reston, VA",Coverent,19dd640336619b0d,Data Engineer,,,,23 days,2016-10-16 00:30:23.897629
+213,"Rockville, MD",The National Center for Advancing Translational Sc...,11fb3cc09c611cb8,"Research Scientist, Chemical Development",,,,3 days,2016-10-16 00:30:23.897629
+214,"Arlington, VA",International Development Group,2578c2162d8278a5,Senior Statistician,,,,22 days,2016-10-16 00:30:23.897629
+215,"Washington, DC",Arch Capital Group Ltd.,1ab24dd3ae78209a,"Sr Manager/Director, Data Scientist",,,,14 days,2016-10-16 00:30:23.897629
+216,"Washington, DC",Consumer Financial Protection Bureau,c85550772f8c7fe0,Research Assistant CN-30/40,"$48,509 - $118,746 a year",42.6,20,1 day,2016-10-16 00:30:23.897629
+217,"Washington, DC 20001 (Shaw area)",Truth Initiative,2ad928e20283e214,"Research Analyst, Schroeder Institute",,,,29 days,2016-10-16 00:30:23.897629
+218,"McLean, VA",Latitude Inc.,17f2177b92ce2c9e,Sr. Data Scientist(Big Data),,,,30+ days,2016-10-16 00:30:23.897629
+219,"Springfield, VA",Celestar Corporation,ce9ac166e55bd20f,Data Scientist (MACSM),,53.4,7,30+ days,2016-10-16 00:30:23.897629
+220,"Washington, DC",U.S. Department of Labor,65a02efcdf622be6,Economist or Statistician (Economics),"$92,145 - $119,794 a year",51.0,264,10 days,2016-10-16 00:30:23.897629
+221,"Washington, DC 20037 (Foggy Bottom area)",Association of American Medical Colleges,903e9cf7c219737b,Research & Data Analyst,,51.0,29,30+ days,2016-10-16 00:30:23.897629
+222,"Bethesda, MD 20814",Abt Associates,56682eccc8f46240,Senior Analyst,,52.199997,19,1 day,2016-10-16 00:30:23.897629
+223,"Washington, DC",Booz Allen Hamilton,3207bf8845dd9838,"Data Scientist / Intelligence Analyst, Senior",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+224,"Rockville, MD",The National Center for Advancing Translational Sc...,73186eb220bc5a60,"Research Scientist, Biologics Development",,,,3 days,2016-10-16 00:30:23.897629
+225,"Washington, DC 20230 (Downtown area)","US Department of Commerce, Commerce Data Service",208cbc1b5e9e08db,Head of Software Engineering,,,,16 days,2016-10-16 00:30:23.897629
+226,"Washington, DC 20036 (Downtown area)",KPMG,af7f397d86508bc8,"Data Scientist, Natural Language Processing",,51.0,1768,30+ days,2016-10-16 00:30:23.897629
+227,"Washington, DC",USAC,bcdd4a855426e4f8,"Program Analyst, Data Analysis",,43.8,12,30+ days,2016-10-16 00:30:23.897629
+228,"Rockville, MD","OMNITEC Solutions, Inc",284da9c962532329,Scientific Data Analyst / Curator,,54.0,2,30+ days,2016-10-16 00:30:23.897629
+229,"Washington, DC 20008 (Cleveland Park area)",Greenwald & Associates,6404de7ace924c6d,Market Research Analyst,,,,29 days,2016-10-16 00:30:23.897629
+230,"Washington, DC",HelloWallet,e5f2f9023b21310a,Junior Data Analyst – Client Success,,,,29 days,2016-10-16 00:30:23.897629
+231,"Reston, VA",Synchronoss,2aa080f95903d142,Data Scientist - Architect,,43.8,14,15 days,2016-10-16 00:30:23.897629
+232,"Reston, VA","Synchronoss Technologies, Inc.",5a749bef7bcfdd1a,Data Scientist - Architect,,,,15 days,2016-10-16 00:30:23.897629
+233,"Bethesda, MD",National Opinion Research Center (NORC),0293c9dc09d5d6de,Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+234,"Bethesda, MD",National Opinion Research Center (NORC),ed2a8f52b314121a,Senior Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+235,"Arlington, VA 22203 (Bluemont area)","Privia Health, LLC",ae91b0db54356198,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+236,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,89515ed162bb4837,Applied Mathematician/Physicist (Analytic Modeling and Data...,,51.0,30,16 days,2016-10-16 00:30:23.897629
+237,"Rockville, MD 20855",Intelligent Automation,ba6a0438ccfc3302,Research Scientist - Big Data Analytics,,40.8,3,30+ days,2016-10-16 00:30:23.897629
+238,"Chantilly, VA","Commonwealth Computer Research, Inc.",d13667794d1849c3,Senior Data Scientist,,,,9 days,2016-10-16 00:30:23.897629
+239,"College Park, MD",EXCELLENCE CONSULTING,1dba2ab561502d7e,Research Support Scientist,,,,27 days,2016-10-16 00:30:23.897629
+240,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",Thomas & Herbert Consulting LLC,055381f744eef0fa,Research Associate (Business Process Reengineering Analyst),,,,8 days,2016-10-16 00:30:23.897629
+241,"Washington, DC 20036 (Downtown area)",Uber,d05c981b44fb38f0,Regional Marketing Research Lead,,51.6,156,17 days,2016-10-16 00:30:23.897629
+242,"Bethesda, MD",Latinum Network,c481ee3e900ddedb,"Analyst, Research Operations & Technology",,,,9 days,2016-10-16 00:30:23.897629
+243,"Arlington, VA",Oak Ridge Associated Universities,30d73e861bbf7f9d,Emergent Statistical Approaches in Quantitative Health Risk...,,43.2,15,9 days,2016-10-16 00:30:23.897629
+244,"Reston, VA",Praxis Engineering,ac5de49a47576df6,Data Scientist - Mid,,55.800003,9,5 days,2016-10-16 00:30:23.897629
+245,"Rockville, MD",Mid-Atlantic Permanente Medical Group,670590dce1239870,Research Data Analyst I,,,,19 days,2016-10-16 00:30:23.897629
+246,"Chantilly, VA",CCRi,c4007939ee9e5aa2,Senior Data Scientist,,42.0,11,9 days,2016-10-16 00:30:23.897629
+247,"Bethesda, MD",National Opinion Research Center (NORC),7e9f14f5325c5a73,Senior Research Analyst - Health Informatics,,,,2 days,2016-10-16 00:30:23.897629
+248,"Washington, DC",Vencore,c2fb69f6683e5381,Operations Research Analyst,,42.0,43,9 days,2016-10-16 00:30:23.897629
+249,"Fairfax, VA",CGI,0dda288d0a4609af,Big Data Architect/Data Scientist,,42.6,726,17 days,2016-10-16 00:30:23.897629
+250,"Arlington, VA",AvalonBay Communities,e73078fc9a6b356a,Big Data Engineer,,43.2,153,30+ days,2016-10-16 00:30:23.897629
+251,"Arlington, VA",Aptima,3e4e2e0b5b56c126,Data Scientist (Senior) (VA),,,,23 days,2016-10-16 00:30:23.897629
+252,"Washington, DC",Gallup,48c37c2cdaa697ae,Data Engineer,,44.4,61,30+ days,2016-10-16 00:30:23.897629
+253,"Bethesda, MD","Aledade, Inc.",cbb208b885cb93fc,Research Analyst,,,,17 days,2016-10-16 00:30:23.897629
+254,"Washington, DC",Leidos,8e0d3e869692a127,Health Information Data Analyst,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+255,"McLean, VA",NeuStar,96ede13c6d574d15,Sr Statistician,,51.0,26,30+ days,2016-10-16 00:30:23.897629
+256,"Bethesda, MD",Evidera,a609a7904404e8bb,"Senior Statistician - Modeling & Simulation – Bethesda, MD",,42.6,5,26 days,2016-10-16 00:30:23.897629
+257,"Bethesda, MD 20814",Comcast,0ea5e3277629c68c,"Analyst, Advertising Research & Insights",,43.8,6366,18 days,2016-10-16 00:30:23.897629
+258,"Washington, DC",Booz Allen Hamilton,7298eadae90bde78,"Data Scientist, Mid",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+259,"Washington, DC",The Camstoll Group LLC,04deae1e8d636098,Research Analyst,,,,26 days,2016-10-16 00:30:23.897629
+260,"College Park, MD",Applied Communication Sciences,6adcb5e39d714456,Associate Research Scientist,,,,18 days,2016-10-16 00:30:23.897629
+261,"Washington, DC",ICF,b9608528cf42891d,Management Analyst - DHS,,40.8,233,15 days,2016-10-16 00:30:23.897629
+262,"Bethesda, MD",Evidera,bb76411c68828b53,"Research Scientist - Meta Research - Bethesda, MD",,42.6,5,14 days,2016-10-16 00:30:23.897629
+263,"Silver Spring, MD",Oak Ridge Associated Universities,9ac1cb1ffc80e580,Clinical Trial Data Transformation & Integration Fellowship...,,43.2,15,30+ days,2016-10-16 00:30:23.897629
+264,"Washington, DC","The Upside Travel Company, LLC",285bc4bb3dc15c38,Chief Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+265,"Washington, DC",FiscalNote,433ce7a64f8cc4d8,Research Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+266,"Washington, DC",OBXtek,fde23e2965b2240f,Operations Research Analyst,,40.2,6,30+ days,2016-10-16 00:30:23.897629
+267,"Washington, DC 20009 (U Street Corridor area)",American Geophysical Union,95abda590c7fd4cd,"Assistant Director, Content and Analysis",,43.8,8,10 days,2016-10-16 00:30:23.897629
+268,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,45d332879979105b,Junior Data Scientist / Researcher,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+269,"Silver Spring, MD",Apogee Engineering,39f1599afa17f962,Operations Research Analyst,,55.800003,5,5 days,2016-10-16 00:30:23.897629
+270,"Herndon, VA 20170",Raytheon,1a101df187fb217e,Web Based Research Analyst,,51.0,1247,3 days,2016-10-16 00:30:23.897629
+271,"Washington, DC 20431 (Foggy Bottom area)",International Monetary Fund,a8fce3805beb0f52,Information Technology Officer (Technology Integration) - IT...,,51.0,46,8 days,2016-10-16 00:30:23.897629
+272,"Fairfax, VA",CGI,2e024adf370c7fa7,Data Scientist,,42.6,726,30+ days,2016-10-16 00:30:23.897629
+273,"Rockville, MD 20850",NantWorks,7acd364d28c42cfe,"Research Scientist, Mass Spectrometry",,,,3 days,2016-10-16 00:30:23.897629
+274,"Washington, DC",Booz Allen Hamilton,172ed143c01f93d9,Defense Research Analyst,,44.4,945,12 days,2016-10-16 00:30:23.897629
+275,"Bethesda, MD 20817",SAIC,5670a6591004212e,Psychology Research Analyst Job,,51.6,1268,8 days,2016-10-16 00:30:23.897629
+276,"Rockville, MD",ICF,55e9a9b4385f584f,Data Analyst,,40.8,233,29 days,2016-10-16 00:30:23.897629
+277,"Washington, DC","Police Complaints, Office of",67c97da02ceb2059,Research Analyst,"$68,294 - $87,374 a year",,,24 days,2016-10-16 00:30:23.897629
+278,"Reston, VA 20190",Vistronix,03ab18fd96a34b95,Senior Data Scientist / Software Engineer,,51.0,13,30+ days,2016-10-16 00:30:23.897629
+279,"Bethesda, MD 20814",3E Company,88aaad4cf5ab6497,Regulatory Food Data Analyst,,44.4,8,30+ days,2016-10-16 00:30:23.897629
+280,"Washington, DC",ICF,95996305d68d551f,Climate Adaptation and Resilience Specialist,,40.8,233,24 days,2016-10-16 00:30:23.897629
+281,"National Harbor, MD",Novetta,c4144af67a2d3d41,Computer Scientist,,,,16 days,2016-10-16 00:30:23.897629
+282,"College Park, MD",Applied Communication Sciences,9e6cae7fb2547e59,Senior Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+283,"Reston, VA 20191",Engility Corporation,f4ec7cd63e182e03,Data Architect/Scientist,,43.2,243,29 days,2016-10-16 00:30:23.897629
+284,"Herndon, VA",Evans & Chambers Technology,7a6d8dcf12fd7bc9,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+285,"Washington, DC","Illumina, Inc.",549f20e9c19d242e,Sequencing and Data Analysis Sales Specialist - East,,41.4,51,19 days,2016-10-16 00:30:23.897629
+286,"Reston, VA 20190","Metron, Inc.",9d6a8862e3b2c1a9,Analyst,,,,19 days,2016-10-16 00:30:23.897629
+287,"Washington, DC",RAND Corporation,a15df407450ee442,Research Assistant,,44.4,12,16 hours,2016-10-16 00:30:23.897629
+288,"Rockville, MD","Dolphin Solutions, Inc",d11c89e319a5697b,BI Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+289,"Springfield, VA","Quadrint, Inc.",32a3681f3ffe6ed4,ETL Developer,,,,15 days,2016-10-16 00:30:23.897629
+290,"Hyattsville, MD",Harris Corporation,4181a168950081f5,Statistical Analysis System Analyst,,43.2,239,29 days,2016-10-16 00:30:23.897629
+291,"Washington, DC",ProMatcher,c51ffcca367c551f,Research & Marketing Analyst,,,,26 days,2016-10-16 00:30:23.897629
+292,"Alexandria, VA",Booz Allen Hamilton,0b589a840747e04f,"Data Scientist, Senior",,44.4,945,15 days,2016-10-16 00:30:23.897629
+293,"Washington, DC",Leidos,cf7e3c9ebf7f2a73,Quantitative Statistical Analyst,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+294,"Springfield, VA",Altamira Technologies Corporation,e0a882cbd04c705e,Senior Data Scientist,,42.0,4,30+ days,2016-10-16 00:30:23.897629
+295,"College Park, MD",Optimal Solutions Group LLC,9c8a57468a13b256,Research Analyst III,,,,10 days,2016-10-16 00:30:23.897629
+296,"Gaithersburg, MD 20877",Meso Scale Diagnostics,002312741b48adba,Scientist III,,,,2 days,2016-10-16 00:30:23.897629
+297,"Rockville, MD",ICF,fa106d32c483cbed,Data Processing Specialist,,40.8,233,23 days,2016-10-16 00:30:23.897629
+298,"Washington, DC",Outsourced Infrastructure Solutions,0424e04c778cf5a7,Research Analyst,,,,22 days,2016-10-16 00:30:23.897629
+299,"McLean, VA",Coverent,21aa8ddd5cd57a8b,Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+300,"Arlington, VA 22201 (Lyon Village area)",CNA Corp.,5b50b26f56414b24,Associate Research Analyst,,,,5 days,2016-10-16 00:30:23.897629
+301,"Washington, DC 20005 (Logan Circle area)",Sawdey Solution Services,1f4ed1e4c6a7eb81,"Operations Research Analyst- Washington, DC",,42.0,2,30+ days,2016-10-16 00:30:23.897629
+302,"Washington, DC",Striker Pierce LLC,4eb31e539ea09eed,Research Analyst,"$36,000 a year",,,20 days,2016-10-16 00:30:23.897629
+303,"Fairfax, VA 22030",Invincea,1d78762a870fcc0a,Principal Data Science Research Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+304,"Washington, DC",The Advisory Board Company,219c61c2fdcf9992,"Senior Analyst, EAB Strategic Research",,42.6,69,18 days,2016-10-16 00:30:23.897629
+305,"Washington, DC",Twentieth Century Fox,70f1b81a569a4022,Research Analyst,,42.6,14,30+ days,2016-10-16 00:30:23.897629
+306,"Rockville, MD",The Henry M. Jackson Foundation for the Advancemen...,2a3f80271832cd81,Protocol/Technical Writer (211711),,,,12 days,2016-10-16 00:30:23.897629
+307,"Washington, DC",CEB,bc97c59dc59adebc,TM Labs Research Scientist,,40.8,72,30+ days,2016-10-16 00:30:23.897629
+308,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",Deloitte,169d7a177e477b77,Insight Studio Analytics Designer,,51.0,3464,9 days,2016-10-16 00:30:23.897629
+309,"Washington, DC",SiloSmashers,146595544a2d7304,Research Analyst - Acquisitions,,,,30+ days,2016-10-16 00:30:23.897629
+310,"Washington, DC","Tygart Technology, Inc.",af9effa02139e383,Data Scientist,"$140,000 a year",,,30+ days,2016-10-16 00:30:23.897629
+311,"Crystal City, VA",Genova Technologies,b5728d8982fdb60b,Scientist/Engineer III (Mission System Software Engineer),,52.199997,5,9 days,2016-10-16 00:30:23.897629
+312,"Ashburn, VA 20147",George Washington University,b4b017875f9bd493,Research Scientist,,51.6,250,23 days,2016-10-16 00:30:23.897629
+313,"Fort George G Meade, MD",National Security Agency,d59b238caf65295f,Cryptologic Computer Scientist,"$65,572 - $84,611 a year",53.4,78,15 hours,2016-10-16 00:30:23.897629
+314,"Arlington, VA",BOEING,7861fac036d7ecbe,Senior Strategy Analyst,,51.6,2923,8 days,2016-10-16 00:30:23.897629
+315,"College Park, MD",Vencore,f9cfbb54cc94207f,Associate Research Scientist,,42.0,43,18 days,2016-10-16 00:30:23.897629
+316,"Washington, DC",Addx,b613ac0bdae5e919,Journeyman Operations Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+317,"Arlington, VA 22203 (Bluemont area)",FRANdata,595ce615a07aa437,Junior Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+318,"McLean, VA 22102",Engility Corporation,e0a89aec44eed9f1,Research Scientist,,43.2,243,29 days,2016-10-16 00:30:23.897629
+319,"Washington, DC",Labcorp,f4a27efddb9f989b,Corporate Administration Human Resources Specialist,,43.2,1700,22 hours,2016-10-16 00:30:23.897629
+320,"Herndon, VA",SDL Government,f4a052a7fce17de5,MT / NLP / Data Analytics Technologist,,,,30+ days,2016-10-16 00:30:23.897629
+321,"Gaithersburg, MD",inVentiv Health Clinical,f9214726234c9088,Statistician - REMOTE - 100758,,43.8,52,30+ days,2016-10-16 00:30:23.897629
+322,"Fairfax, VA 22030",Invincea,859eb6db3f89663a,Chief Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+323,"Arlington, VA",ICF,8f14733967674a46,Program Support Analyst,,40.8,233,15 days,2016-10-16 00:30:23.897629
+324,"Silver Spring, MD","AceInfo Solutions, Inc",1959a7a146491d0e,Scientific Programmer,,,,3 days,2016-10-16 00:30:23.897629
+325,"Bethesda, MD",Mitre Corporation,bab694a6b65a60ac,Lead Secure Data Scientist,,51.6,106,30+ days,2016-10-16 00:30:23.897629
+326,"Arlington, VA 22201 (Lyon Village area)",In-Q-Tel,30e3906e43efefc5,Geospatial Data Scientist,,42.0,2,8 days,2016-10-16 00:30:23.897629
+327,"Washington, DC",General Assembly,3c7209b3d9bbccb6,Data Science Instructor,,52.800003,74,30+ days,2016-10-16 00:30:23.897629
+328,"Washington, DC",Access Group Inc.,2f1df665be7e4a2f,Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+329,"Washington, DC",Corporate Brokers,e72a993bae557437,Data Scientist,,52.199997,21,30+ days,2016-10-16 00:30:23.897629
+330,"Alexandria, VA",American Diabetes Association,9040c5aa9f1534fb,"Data Manager/Analyst, Outcomes Research",,51.0,79,17 days,2016-10-16 00:30:23.897629
+331,"Springfield, VA",Booz Allen Hamilton,552ce1093c339a18,"CS Data Scientist, Senior",,44.4,945,19 days,2016-10-16 00:30:23.897629
+332,"Washington, DC 20036 (Downtown area)","Oceana, INC",bab67bb61f575e34,Science and Knowledge Management Intern,,,,1 day,2016-10-16 00:30:23.897629
+333,"Springfield, VA",Booz Allen Hamilton,d9db574dd14ccca7,"DevOps Data Scientist, Senior",,44.4,945,6 days,2016-10-16 00:30:23.897629
+334,"Arlington, VA 22202 (Aurora Highlands area)",Leidos,e6b8e0b0242dfbe8,Machine Learning (ML) Senior Researcher,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+335,"Herndon, VA 20170",BOEING,a3a97b821bf29d71,Systems and Data Analyst 4,,51.6,2923,9 days,2016-10-16 00:30:23.897629
+336,"Arlington, VA",Capital One,162dad90efe6a105,Software Engineer,,44.4,2904,7 days,2016-10-16 00:30:23.897629
+337,"Reston, VA",SOSi,b12cc5abe3281e61,Data Scientist,,43.2,59,30+ days,2016-10-16 00:30:23.897629
+338,"Gaithersburg, MD",The Smithers Group,d4980edfbbbca16b,Research Scientist II,,,,2 days,2016-10-16 00:30:23.897629
+339,"Washington, DC",Penn Schoen Berland,c92b1f2cfe105079,Survey Scientist,,51.0,2,25 days,2016-10-16 00:30:23.897629
+340,"Vienna, VA",Novel Applications of Vital Information,1073f490c15f3149,Research Analyst - Ven-0001,,,,17 days,2016-10-16 00:30:23.897629
+341,"Springfield, VA",Booz Allen Hamilton,112b45b7d33bd674,"Mathematics Data Scientist, Senior",,44.4,945,19 days,2016-10-16 00:30:23.897629
+342,"Washington, DC",ICF,8cac5986b434018c,Transportation Analyst,,40.8,233,22 days,2016-10-16 00:30:23.897629
+343,"Falls Church, VA 22042",T and T Consulting Services,949cc1a14c1e1b45,Data Scientist (Natural Language Processing),,,,21 days,2016-10-16 00:30:23.897629
+344,"Rockville, MD",GlaxoSmithKline,1796448c65af71e4,Senior Biologist,,52.199997,1673,2 days,2016-10-16 00:30:23.897629
+345,"Washington, DC",Centra Technology,f56e14a291201132,Research Analyst,,42.0,2,30+ days,2016-10-16 00:30:23.897629
+346,"Alexandria, VA 22311 (Alexandria Wrest area)",Institute for Defense Analyses,0eca43f8d823e0d3,Research Analyst - Information Technology and Cyber Systems,,42.6,13,4 days,2016-10-16 00:30:23.897629
+347,"Sterling, VA",FCi Federal,24a49ecc2caf9e6b,Mail Analyst/Statistician,,,,19 days,2016-10-16 00:30:23.897629
+348,"Bethesda, MD",Sayres and Associates,5cf425ae2aee8be3,Research Analyst (NID),,52.199997,6,26 days,2016-10-16 00:30:23.897629
+349,"Washington, DC",Central Intelligence Agency,96fab5c03b60484a,Data Scientist,"$62,338 - $160,300 a year",52.800003,83,30+ days,2016-10-16 00:30:23.897629
+350,"Alexandria, VA",Central Research,b48596c4e06d42e8,Market Research Analyst,,42.6,17,9 days,2016-10-16 00:30:23.897629
+351,"Rockville, MD","EurekaFacts, LLC",924c7bb92c6bd436,Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+352,"Greenbelt, MD","Science System and Applications, Inc.",aa2bece853ee9ff8,Developer / Operations Support,,52.199997,15,25 days,2016-10-16 00:30:23.897629
+353,"Arlington, VA",Logistics Management Institute,37ed62e3a5aaf755,Research Analyst - Logistics,,44.4,16,30+ days,2016-10-16 00:30:23.897629
+354,"McLean, VA",Booz Allen Hamilton,e4dbbe11f67ee57a,"Research Analyst, Senior",,44.4,945,12 days,2016-10-16 00:30:23.897629
+355,"Springfield, VA",Vencore,96b72148c6df258c,Journeyman - Data Scientist,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+356,"Washington, DC",Booz Allen Hamilton,726beffc933922e2,Greenplum Data Scientist,,44.4,945,30+ days,2016-10-16 00:30:23.897629
+357,"Arlington, VA",Concurrent Technologies Corporation,53e82faaf0eef46e,Principal Data Scientist,,42.0,30,30+ days,2016-10-16 00:30:23.897629
+358,"Springfield, VA",BOEING,22fa623df20cef08,Facilities Planner/Analyst - Level 3,,51.6,2923,8 days,2016-10-16 00:30:23.897629
+359,"Washington, DC 20024 (South West area)",Mathematica Policy Research,8a4120d28603613f,Human Services Research Analyst for Evidence-Based Technical...,,43.2,34,30+ days,2016-10-16 00:30:23.897629
+360,"Bethesda, MD 20817",Rain King Software,5827cb3951e4122d,Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+361,"Alexandria, VA",G-Technology Group,f1a239ae1b06281d,Electronic Technician,$17 an hour,,,9 days,2016-10-16 00:30:23.897629
+362,"Washington, DC",SBG Technology Solutions,6d6b378871f5d8e7,Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+363,"Washington, DC","Elite Technical Services, Inc.",086f514b5ecfe2ae,Data Architect and Engineering,"$120,000 - $190,000 a year",,,1 day,2016-10-16 00:30:23.897629
+364,"Springfield, VA 22151",Leidos,975dd56a17626edd,Spectral Research Scientist,,43.8,187,10 days,2016-10-16 00:30:23.897629
+365,"McLean, VA 22102",Freddie Mac,f054c6288d6a5e50,Data Scientist Professional,,51.0,255,30+ days,2016-10-16 00:30:23.897629
+366,"Bethesda, MD",National Opinion Research Center (NORC),5dc9f27f8e9347a4,Senior Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+367,"Washington, DC",General Assembly,6901b51ddea082d3,Part Time Data Science Instructor,,52.800003,74,30+ days,2016-10-16 00:30:23.897629
+368,"McLean, VA",Capital One,d8f19e35230ca80e,"Sr. Director, Data Analytics",,44.4,2904,13 hours,2016-10-16 00:30:23.897629
+369,"Arlington, VA",Seneca Resources,b55cd6faef2e739a,Sr. Data Scientist,,51.0,7,15 days,2016-10-16 00:30:23.897629
+370,"Suitland, MD",Vencore,a39b81b0f5c757c2,Image Scientist,,42.0,43,20 hours,2016-10-16 00:30:23.897629
+371,"College Park, MD",Applied Communication Sciences,d6abcccb9f3b6f71,Software Developer (Python),,,,10 days,2016-10-16 00:30:23.897629
+372,"College Park, MD",Vencore,6bbe30591f0a222c,Software Developer (Python),,42.0,43,10 days,2016-10-16 00:30:23.897629
+373,"Arlington, VA",Vencore,136532b2cfcc7e9d,Jr Program Engineer - Scientist,,42.0,43,7 days,2016-10-16 00:30:23.897629
+374,"Washington, DC",Cardinal Consulting Group,6ee5465cd51fae40,Data Architect,"$65,000 a year",,,30+ days,2016-10-16 00:30:23.897629
+375,"Bethesda, MD",Columbus Technologies and Services,d2d33e5be26da70e,Scientific Program Analyst,,,,4 days,2016-10-16 00:30:23.897629
+376,"Arlington, VA 22202 (Aurora Highlands area)",OmniEarth,f94f301af9d53b66,Data Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+377,"Silver Spring, MD",Consolidated Safety Services,772353aa6144f1ec,Data Management Specialist,,42.0,4,30+ days,2016-10-16 00:30:23.897629
+378,"Arlington, VA",ByteCubed,9e5135030accbec4,Senior Data Scientist - Machine Learning,,,,30+ days,2016-10-16 00:30:23.897629
+379,"Bethesda, MD 20816",Engility Corporation,7d4f630388677451,Senior Production Specialist,,43.2,243,1 day,2016-10-16 00:30:23.897629
+380,"Washington, DC 20024 (South West area)",Mitre Corporation,40edc03f61907d60,Lead Data Scientist,,51.6,106,30+ days,2016-10-16 00:30:23.897629
+381,"Silver Spring, MD",Dynamac Corporation,a10e30218b3c213c,Data Management Specialist,,52.800003,7,30+ days,2016-10-16 00:30:23.897629
+382,"Springfield, VA","Advanced C4 Solutions, Inc. (AC4S)",8c746f200aae4850,Statistician/Imagery Science Support Level 1,,,,29 days,2016-10-16 00:30:23.897629
+383,"Rockville, MD 20850",Diverse Technologies Corporation,b4f06d0279d62cd6,Business Intelligence Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+384,"Vienna, VA",MicroHealth LLC,d8e74f4a9fe1e648,Statistician Intern,$10 an hour,,,24 days,2016-10-16 00:30:23.897629
+385,"Washington, DC 20005 (Logan Circle area)",Atlas Research,e21f8241ee194d4d,Analyst (Quantitative Research),,42.0,2,30+ days,2016-10-16 00:30:23.897629
+386,"Washington, DC 20036 (Downtown area)",Creative Circle,0c1fc3774b57d291,Market Research Analyst,$20 an hour,,,12 days,2016-10-16 00:30:23.897629
+387,"Washington, DC 20376 (Brentwood area)",Engility Corporation,cc07f4db851e37c2,Cost Analyst,,43.2,243,29 days,2016-10-16 00:30:23.897629
+388,"Washington, DC",Green Key Resources,9dab09a08fd2850b,Data Analysis Specialist,,52.800003,28,22 days,2016-10-16 00:30:23.897629
+389,"Washington, DC 20005 (Logan Circle area)",Google,9d0a2151429f4201,"Technical Curriculum Developer, Google Cloud Platform",,52.800003,1218,15 days,2016-10-16 00:30:23.897629
+390,"McLean, VA 22102",Freddie Mac,ee90f1ad4c562312,Quantitative Analytics Sr (Data Scientist),,51.0,255,30+ days,2016-10-16 00:30:23.897629
+391,"Arlington, VA 22201 (Lyon Village area)",CNA Corp.,2062ed76a3f75268,Research Analyst - (Part-time),,,,8 days,2016-10-16 00:30:23.897629
+392,"Largo, MD",Prince George's Community College,8cd2b96058a3850b,"Research Analyst, Institutional Research and Reporting","$63,863 a year",52.800003,60,10 days,2016-10-16 00:30:23.897629
+393,"Washington, DC",Booz Allen Hamilton,291117d3e72f937d,"Defense Research Analyst, Senior",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+394,"Takoma Park, MD",Gryphon Scientific,fd8c16effbd691c7,Undergraduate Spring Semester Intern,,,,2 days,2016-10-16 00:30:23.897629
+395,"Washington, DC",Carnegie Institution,47e45d5b9bbfb5de,Associate Director of Information Technology,,,,30+ days,2016-10-16 00:30:23.897629
+396,"Chantilly, VA",Altamira Technologies Corporation,79a9099ca5bf043f,Data Scientist - Intermediate,,42.0,4,30+ days,2016-10-16 00:30:23.897629
+397,"Washington, DC 20010 (Columbia Heights area)",AeroMancer Technologies Corporation,4f77542049048e83,Optical Systems Engineer,,,,25 days,2016-10-16 00:30:23.897629
+398,"Reston, VA",Praxis Engineering,7e61c7545cc5197f,Data Scientist - SME level,,55.800003,9,5 days,2016-10-16 00:30:23.897629
+399,"Washington, DC",The Advisory Board Company,0f3e55e45496552a,"Analyst, International Health Care Strategic Research",,42.6,69,14 days,2016-10-16 00:30:23.897629
+400,"McLean, VA",Northrop Grumman,615491ea990ab27c,Systems Analyst 4 (Engineer Research Development),,51.0,2124,19 days,2016-10-16 00:30:23.897629
+401,"Washington, DC 20001 (Shaw area)","GreenZone Solutions, Inc.",5b202f34d82997c0,Senior Data Infrastructure Engineer,,,,8 days,2016-10-16 00:30:23.897629
+402,"Arlington, VA 22202 (Aurora Highlands area)",Conservation International,e9dace2a9f68a047,"Intern, Research Analyst",,51.0,3,23 days,2016-10-16 00:30:23.897629
+403,"Alexandria, VA",TULKORP.,3fcc51ede3a79c8b,Computer Vision Scientist 2,"$135,000 a year",,,18 days,2016-10-16 00:30:23.897629
+404,"Bethesda, MD",National Opinion Research Center (NORC),544cb319eaaf9ae2,Research Analyst - Health Care Research,,,,22 days,2016-10-16 00:30:23.897629
+405,"Washington, DC",CSRA,68966e1c1c9894a2,2017 GRADUATES ONLY! Associate Professional: Science,,42.0,53,30+ days,2016-10-16 00:30:23.897629
+406,"Washington, DC 20006 (Foggy Bottom area)",2M Research Services,66114cbdc70d7fb8,Senior Survey Sampling Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+407,"College Park, MD 20740",Booz Allen Hamilton,aad5f9c79b9176cd,Human Language Translation Research Analyst,,44.4,945,30+ days,2016-10-16 00:30:23.897629
+408,"Gaithersburg, MD 20877","GeneDx, Inc",82492a75bcebc4c7,R&D Scientist,,,,3 days,2016-10-16 00:30:23.897629
+409,"Bethesda, MD",The Henry M. Jackson Foundation for the Advancemen...,b5c435a0ece05f0e,Research Analyst (211945),,,,30+ days,2016-10-16 00:30:23.897629
+410,"Bethesda, MD",National Opinion Research Center (NORC),43eae115743d772a,Research Analyst - Public Health,,,,22 hours,2016-10-16 00:30:23.897629
+411,"Arlington, VA",ICF,ac2cf05a7204cb66,Software Engineer,,40.8,233,15 days,2016-10-16 00:30:23.897629
+412,"Arlington, VA 22203 (Bluemont area)",Hanover Research,8fcebe54362a950f,"Research Analyst, Survey Design and Analysis—All Practice Ar...",,42.6,5,16 days,2016-10-16 00:30:23.897629
+413,"McLean, VA",Mitre Corporation,181c2eb2a0997ce7,Data Scientist (Early Career),,51.6,106,30+ days,2016-10-16 00:30:23.897629
+414,"Reston, VA 20191",Engility Corporation,71116a796fc7a559,Operations Research Analyst,,43.2,243,29 days,2016-10-16 00:30:23.897629
+415,"Suitland, MD",Delex,fcd9f2548b3d5fff,Imagery Scientist,,52.800003,8,11 days,2016-10-16 00:30:23.897629
+416,"College Park, MD",University of Maryland,8589fbfd68b07911,Senior Research and Assessment Analyst,,52.199997,409,18 days,2016-10-16 00:30:23.897629
+417,"Washington, DC 20006 (Foggy Bottom area)",2M Research Services,5154e6d91fc795d5,Senior Statistician,,,,30+ days,2016-10-16 00:30:23.897629
+418,"Herndon, VA",CACI International Inc,0addd37731aedcd7,Machine Learning Analyst / Data Scientist Job,,44.4,815,30+ days,2016-10-16 00:30:23.897629
+419,"Bethesda, MD",Latinum Network,62883238a7c6a024,Research Analyst,,,,4 days,2016-10-16 00:30:23.897629
+420,"Vienna, VA",Booz Allen Hamilton,b5724ad0fa61140e,Human Capital Research Analyst,,44.4,945,1 day,2016-10-16 00:30:23.897629
+421,"College Park, MD",University of Maryland,cbcc61c9fa7a3360,Clinical Assistant Professor,"$65,000 a year",52.199997,409,19 days,2016-10-16 00:30:23.897629
+422,"Alexandria, VA",Booz Allen Hamilton,5c7af79fae3a693c,"CS Data Scientist, Mid",,44.4,945,15 days,2016-10-16 00:30:23.897629
+423,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,a1117873b8b2491a,Semantic Web / Linked Data Scientist,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+424,"Washington, DC",Community Science,aa3de9c491bd6a7c,Managing Associate,,,,30+ days,2016-10-16 00:30:23.897629
+425,"Bethesda, MD","Infused Solutions, LLC",b6711968c29f3973,Administrative Support Specialist,$20.93 an hour,39.0,3,11 days,2016-10-16 00:30:23.897629
+426,"Chantilly, VA 20151",Engility Corporation,50f41a78f208ac31,Integrated Intelligence Data Scientist - Cleared,,43.2,243,29 days,2016-10-16 00:30:23.897629
+427,"Bethesda, MD",ICF,c01949c072a7b5e3,ClinicalTrials.gov Results Analyst,,40.8,233,15 days,2016-10-16 00:30:23.897629
+428,"Bethesda, MD",xometry,870c9fd78d853d85,Senior Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+429,"College Park, MD",IC-CAP,8b55547847305cfb,SIGINT Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+430,"Chantilly, VA 20151",Engility Corporation,f948cb8abb8615c8,Data Manager,,43.2,243,24 days,2016-10-16 00:30:23.897629
+431,"Arlington, VA 22202 (Aurora Highlands area)",Scientific Research Corporation,0395f42e1563d94c,Fiancial Analyst,,43.8,53,30+ days,2016-10-16 00:30:23.897629
+432,"McLean, VA",Mitre Corporation,bc134cabbfaea0d0,Lead Quantitative Analyst,,51.6,106,25 days,2016-10-16 00:30:23.897629
+433,"Chantilly, VA",Intersections Inc.,b8413f91f6aad2a1,Junior Data Scientist and Business Analyst,,39.0,7,30+ days,2016-10-16 00:30:23.897629
+434,"Arlington, VA 22202 (Aurora Highlands area)",Scientific Research Corporation,208dbae18b4b7591,FMS Fiancial Analyst,,43.8,53,30+ days,2016-10-16 00:30:23.897629
+435,"Arlington, VA",Booz Allen Hamilton,34787bef84c6e6bd,"Operations Research Analyst, Mid",,44.4,945,25 days,2016-10-16 00:30:23.897629
+436,"Washington, DC",ICF,18f42966a2dcbe43,Greenhouse Gas Mitigation and Sustainability Associate,,40.8,233,3 days,2016-10-16 00:30:23.897629
+437,"Arlington, VA",ICF,7d4d15a4365a51d8,Security Access Management Specialist,,40.8,233,1 day,2016-10-16 00:30:23.897629
+438,"Bethesda, MD",USM Business Systems,a898bc9d522a2bb3,Remote position: Principle Data Engineer,,39.0,3,30+ days,2016-10-16 00:30:23.897629
+439,"McLean, VA",Booz Allen Hamilton,ddaf258685b94c05,Computational Social Scientist,,44.4,945,28 days,2016-10-16 00:30:23.897629
+440,"McLean, VA",Northrop Grumman,c1fd97766167cd41,Metadata Scientist 2/3,,51.0,2124,15 days,2016-10-16 00:30:23.897629
+441,"McLean, VA",Capital One,66e319f70259b9d4,Sr. Data Analysis Manager,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+442,"Falls Church, VA 22042",Noblis,57ad92d75e85c412,Associate Data Analytics Engineer,,51.0,14,30+ days,2016-10-16 00:30:23.897629
+443,"Rockville, MD 20850",Dr Firstcom Inc,83bbb2f2db22102c,Product Market Research / Competitive Intelligence Analyst,,40.2,12,30+ days,2016-10-16 00:30:23.897629
+444,"Gaithersburg, MD 20899",AstraZeneca,6afc1c885297a050,Principal Statistician - Oncology,,51.6,568,30+ days,2016-10-16 00:30:23.897629
+445,"Adelphi, MD",ICF,9f6c0b2a6cb4230c,Cybersecurity Threat Analyst,,40.8,233,1 day,2016-10-16 00:30:23.897629
+446,"Alexandria, VA 22310",Accenture,790f70f1b760191c,Federal - Data Scientist Manager,,51.0,6914,30+ days,2016-10-16 00:30:23.897629
+447,"McLean, VA",Capital One,22b1469db367974a,"Principal Associate, Digital Product Management",,44.4,2904,11 days,2016-10-16 00:30:23.897629
+448,"Arlington, VA","Global Science & Technology, Inc.",6cfd48b996beddef,Senior Solicitation Specialist,,,,26 days,2016-10-16 00:30:23.897629
+449,"Reston, VA",Pinnacle Group,dc213cd0709c4802,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+450,"Washington, DC",Celgene,d7dd7c504b319dbb,Postdoc Fellowship,,51.6,91,3 days,2016-10-16 00:30:23.897629
+451,"Bethesda, MD",ICF,468ea0fcd9ca9d88,Project Manager - IT Acquisitions,,40.8,233,23 days,2016-10-16 00:30:23.897629
+452,"Washington, DC",ECS Federal LLC,d5dcb4c89d6c2e7f,Senior Systems/Operations Research Analyst,,43.8,14,30+ days,2016-10-16 00:30:23.897629
+453,"Washington, DC",The Advisory Board Company,fcb60bb253654b0c,"Analyst, Health Care Strategic Research (Full-time, starting...",,42.6,69,30+ days,2016-10-16 00:30:23.897629
+454,"Reston, VA",Fractal Industries,ef4f1631b8e9c4f1,Data Analytics Engineer - Cyber,,,,30+ days,2016-10-16 00:30:23.897629
+455,"Washington, DC 20002 (Capitol Hill area)",Amtrak,946fef70b121b5de,Lead Operations Research Analyst - 90112080 - Washington,,51.0,231,30+ days,2016-10-16 00:30:23.897629
+456,"Washington, DC",ICF,f6e2f8ac42f2c4d3,Program Manager,,40.8,233,8 days,2016-10-16 00:30:23.897629
+457,"Washington, DC",American Association for Cancer Research,27f56351a2237130,Senior Director of Science Policy & Strategic Alliances,,,,11 days,2016-10-16 00:30:23.897629
+458,"McLean, VA",Capital One,dedbcae15f95c3f1,Data Analysis Product Manager,,44.4,2904,29 days,2016-10-16 00:30:23.897629
+459,"Herndon, VA","Deltek, Inc.",725759e136b49179,"Associate Federal Research Analyst, Department of Defense",,43.8,33,29 days,2016-10-16 00:30:23.897629
+460,"Arlington, VA 22203 (Bluemont area)",Hanover Research,9bab823dfb2f4d88,Research Analyst—Education Practice Area,,42.6,5,12 days,2016-10-16 00:30:23.897629
+461,"Washington, DC",Oak Ridge Associated Universities,b0367a5bbfb50903,Regulatory Design and Energy Market Analysis,,43.2,15,5 days,2016-10-16 00:30:23.897629
+462,"Washington, DC 20001 (Shaw area)",MicroSystems Automation Group (MSAG),c663d0446d452478,Analysis and Data Visualization Expert,,,,30+ days,2016-10-16 00:30:23.897629
+463,"Bethesda, MD 20814",PreciseTarget (formerly Cobrain),a9af1ac2d43adef0,Lead Data Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+464,"Reston, VA",Amerit Consulting,1eb6011f40aa3d10,Data Scientist/ Product Development,,,,30+ days,2016-10-16 00:30:23.897629
+465,"Bethesda, MD 20817",Technical Resources International Inc.,d6cba0aba2ce18fa,Data Scientist - Clinical Research,,,,15 days,2016-10-16 00:30:23.897629
+466,"Vienna, VA",Ninja Analytics,6207be5df19bfb7a,Data Scientist,,,,29 days,2016-10-16 00:30:23.897629
+467,"McLean, VA",Hilton Corporate,325537193ec047d2,"HR Data Scientist Manager, People Analytics",,,,19 days,2016-10-16 00:30:23.897629
+468,"Springfield, VA 22151","ENSCO, Inc.",2a0b7812d0a06430,Physical Scientist,,52.199997,81,4 days,2016-10-16 00:30:23.897629
+469,"Silver Spring, MD 20910","Earth Resources Technology, Inc",79851191f7ffd8c2,Metadata Software Tools Developer,,40.8,3,17 days,2016-10-16 00:30:23.897629
+470,"Springfield, VA",Riverside Research,f460b17ea873b3a4,Computer Vision Scientist,,53.4,7,19 days,2016-10-16 00:30:23.897629
+471,"Alexandria, VA",American Diabetes Association,a59cb8a9257a481b,Senior Research Analyst,,51.0,79,30+ days,2016-10-16 00:30:23.897629
+472,"Bethesda, MD",National Opinion Research Center (NORC),ded48d7dee9684cc,Senior Research Analyst - Public Health Research,,,,30+ days,2016-10-16 00:30:23.897629
+473,"College Park, MD 20740",Engility Corporation,c742243761bbb5c8,Business Financial Analyst,,43.2,243,1 day,2016-10-16 00:30:23.897629
+474,"Reston, VA",Constellis Corporate,9c29bc2c78a00a3f,Market Research Analyst,,,,10 days,2016-10-16 00:30:23.897629
+475,"McLean, VA",Byte Systems,b7a87269d0bbf86f,Software Engineer,,,,17 days,2016-10-16 00:30:23.897629
+476,"Arlington, VA",Ciber,5f300597a5daadc5,Data Architect,,42.6,274,16 days,2016-10-16 00:30:23.897629
+477,"Chantilly, VA 20151","Eastern Research Group, Inc.",fb160798c2105bdd,Entry-Level Environmental/IT Analyst,,,,22 days,2016-10-16 00:30:23.897629
+478,"Gaithersburg, MD",MDA Information Systems LLC,438a6520f8a89186,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+479,"Fort George G Meade, MD",National Security Agency,3913d044f752e143,Data Scientist - Experienced,"$92,145 - $141,555 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+480,"Fairfax, VA",ICF,0cbe006d6a526044,Senior Data Analytics/BI Project Manager,,40.8,233,22 days,2016-10-16 00:30:23.897629
+481,"McLean, VA",Leidos,7da337d8a29ad6d5,Research Scientist IV,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+482,"Arlington, VA",Lockheed Martin,d6aa97fd5dfab4cf,Machine Learning and Data Analytics Research Researcher,,51.6,3430,30+ days,2016-10-16 00:30:23.897629
+483,"Arlington, VA 22203 (Bluemont area)",Hanover Research,b757ad530eba44a2,Research Analyst—Market Research Practice Area,,42.6,5,12 days,2016-10-16 00:30:23.897629
+484,"Alexandria, VA",Booz Allen Hamilton,ed9133d6de7344f4,"Research Analyst, Mid",,44.4,945,12 days,2016-10-16 00:30:23.897629
+485,"Washington, DC",The Advisory Board Company,3cfa0751b22a87fb,"Analyst, EAB Strategic Research",,42.6,69,18 days,2016-10-16 00:30:23.897629
+486,"McLean, VA",Coverent,91864fd0759bf2f5,Data Scientist (TS/SCI with CI Poly required),,,,30+ days,2016-10-16 00:30:23.897629
+487,"Arlington, VA",BAE Systems,6060e1ad8e37f09a,Principal Research Scientist / Principal Investigator,,44.4,1700,10 days,2016-10-16 00:30:23.897629
+488,"College Park, MD","INNOVIM, LLC",164904a56f011d36,Atmospheric Scientist,,39.0,2,15 days,2016-10-16 00:30:23.897629
+489,"Rockville, MD",The National Center for Advancing Translational Sc...,5ac6ff1ef25c0c6a,Scientist,,,,9 days,2016-10-16 00:30:23.897629
+490,"Reston, VA",addastaff,a5794dacbaaef22f,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+491,"Annapolis Junction, MD",stanleyreid,5b108f8f5a7ba0af,Data Scientist / Statistician / Mathematician - FS Poly,,,,17 days,2016-10-16 00:30:23.897629
+492,"Fairfax, VA",CGI,c12cfc24322b8404,Big Data Engineer- Full Stack,,42.6,726,30+ days,2016-10-16 00:30:23.897629
+493,"Jessup, MD","ClearEdge IT Solutions, LLC",1896782032c22322,Software Engineer - Big Data / Machine Learning (Mid-Level),,,,30+ days,2016-10-16 00:30:23.897629
+494,"Rockville, MD",GlaxoSmithKline,a0dbfd8d48e5393a,Downstream Expert Scientist,,52.199997,1673,10 days,2016-10-16 00:30:23.897629
+495,"McLean, VA",MOJA,6c92800b89886009,Help Desk/Support Specialist,,,,8 days,2016-10-16 00:30:23.897629
+496,"Rockville, MD",Merck KGaA,ab3526c2a4d09289,Associate Scientist - In Vivo Biologics,,53.4,5,11 days,2016-10-16 00:30:23.897629
+497,"Arlington, VA",ECS Federal LLC,0d2a36ee26ba109b,Scientist-Engineer,,43.8,14,30+ days,2016-10-16 00:30:23.897629
+498,"McLean, VA",MOJA,b5fb5e7be11e587b,Project Integrator,,,,2 days,2016-10-16 00:30:23.897629
+499,"Arlington, VA",Capital One,1233a89d8c237148,"Senior Software Engineer, Front End",,44.4,2904,22 days,2016-10-16 00:30:23.897629
+500,"Arlington, VA",Capital One,00667fbbae6e805f,"Senior Software Engineer, Back End",,44.4,2904,29 days,2016-10-16 00:30:23.897629
+501,"Alexandria, VA 22303",Battelle,295153fa2c43fca2,Principal Research Scientist,,51.0,162,10 days,2016-10-16 00:30:23.897629
+502,"College Park, MD",University of Maryland,8496b8e492aed35d,Senior Research Analyst,,52.199997,409,30+ days,2016-10-16 00:30:23.897629
+503,"Alexandria, VA 22311 (Alexandria Wrest area)",Systems Planning and Analysis,923f430c7fdf311a,Operations Research Analyst (JTAAD/SPAG),,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+504,"Rockville, MD",EMD,c4f3071d7990f2dc,Associate Scientist - In Vivo Biologics,,51.6,30,11 days,2016-10-16 00:30:23.897629
+505,"Silver Spring, MD 20910",Social & Scientific Systems Inc.,b564eb7cfbaac5c1,Principal Research Scientist - Medicare Payments,,,,30 days,2016-10-16 00:30:23.897629
+506,"Chantilly, VA",Vencore,78fd6e9b588cf46e,Data Engineering Lead,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+507,"Bethesda, MD 20817","InfoZen, Inc.",9781af34968f1ea6,Data Scientist,,,,23 days,2016-10-16 00:30:23.897629
+508,"Silver Spring, MD 20910","American Nurses Association, Inc",1ee2fb9c6fa35fbd,Assessment Development Manager,,40.8,25,30 days,2016-10-16 00:30:23.897629
+509,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",Deloitte,377809662771f531,Federal Mission Analytics Data Scientist - Senior Consultant,,51.0,3464,30+ days,2016-10-16 00:30:23.897629
+510,"Rockville, MD 20850","ProMetic BioTherapeutics, Inc.",aea6d4f109480cea,Research Associate (Level I),,,,30+ days,2016-10-16 00:30:23.897629
+511,"Rockville, MD 20852",Ascent Services Group,c34926ec0e491b85,Data Analyst (Statistical and Business Analysis),,51.0,4,22 days,2016-10-16 00:30:23.897629
+512,"Washington, DC 20230 (Downtown area)","US Department of Commerce, Commerce Data Service",4c9c553a780c69c5,Senior Engineer,,,,16 days,2016-10-16 00:30:23.897629
+513,"Bethesda, MD",National Opinion Research Center (NORC),c151960ef3b307f5,Research Scientist - Health Care,,,,30+ days,2016-10-16 00:30:23.897629
+514,"Fort George G Meade, MD",National Security Agency,6f37a44f5ab6e834,Earned Value Management & Cost Research Analyst,"$65,572 - $84,611 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+515,"Fort George G Meade, MD",National Security Agency,3f8c7751babb25a9,Earned Value Management & Cost Research Analyst - Experience...,"$92,145 - $141,555 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+516,"McLean, VA",Capital One,7b33593b99a2cfb9,"Mgr, Data Scientist",,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+517,"Vienna, VA",BRTRC,c4e58172ddbc44ab,Research Analyst,,52.800003,12,30+ days,2016-10-16 00:30:23.897629
+518,"Fairfax, VA 22033",Northrop Grumman,7eb7a8d21b987df5,Professional Development Program (PDP) - Operations Research...,,51.0,2124,30+ days,2016-10-16 00:30:23.897629
+519,"Rockville, MD 20855",Intelligent Automation,558d06f5bc464c89,Research Scientist - Prognostics and Health Management,,40.8,3,15 days,2016-10-16 00:30:23.897629
+520,"Washington, DC",Oak Ridge Associated Universities,84f81c17d4ec29a4,Coastal Wetlands Initiative,,43.2,15,4 days,2016-10-16 00:30:23.897629
+521,"Rockville, MD",Genius Pool,5844df7a281abcb2,Associate Scientist,"$80,000 a year",,,7 days,2016-10-16 00:30:23.897629
+522,"Silver Spring, MD",Oak Ridge Associated Universities,e17a80e276bfc3e1,Research Analyst - Food/Drug Supply Chain - FDA,,43.2,15,30+ days,2016-10-16 00:30:23.897629
+523,"Arlington, VA",University of Southern California,1ea5c10cee3bb8df,Computer Scientist,,52.199997,355,30+ days,2016-10-16 00:30:23.897629
+524,"Silver Spring, MD 20910",Social & Scientific Systems Inc.,143b42dc80352284,Principal Research Scientist - Evaluation,,,,30 days,2016-10-16 00:30:23.897629
+525,"Alexandria, VA",The Tauri Group,a2b3a174b10e1ed3,DARPA SETA Staff Engineer/Scientist – Junior,,,,30+ days,2016-10-16 00:30:23.897629
+526,"Gaithersburg, MD","Sirnaomics,Inc",52bd5503a0601f34,Biochemistry Lab Technician,"$30,000 a year",,,18 days,2016-10-16 00:30:23.897629
+527,"Washington, DC",Deutsche Bank,942c3b5fb4e03d4f,Cyber Threat Data Librarian - AVP,,51.0,859,30+ days,2016-10-16 00:30:23.897629
+528,"Springfield, VA",Booz Allen Hamilton,2328cac508e9c152,OPIR Scientist,,44.4,945,12 days,2016-10-16 00:30:23.897629
+529,"McLean, VA",Capital One,10a5080a2d927586,Data Scientist Intern - Georgia Tech,,44.4,2904,28 days,2016-10-16 00:30:23.897629
+530,"Washington, DC",Southwest Research Institute,e6ac14458a8f4377,"RESEARCH ANALYST – SOFTWARE DEVELOPMENT -WASHINGTON, D.C.",,53.4,62,30+ days,2016-10-16 00:30:23.897629
+531,"Arlington, VA",Invincea,0fc49e9503392a3a,Research Engineer/Scientist – Information Visualization and...,,,,30+ days,2016-10-16 00:30:23.897629
+532,"Rockville, MD",ICF,38503390d776d2bd,Systems Engineer I,,40.8,233,9 days,2016-10-16 00:30:23.897629
+533,"Arlington, VA 22201 (Lyon Village area)",CNA Corp.,72ebd0862d938533,Sr Research Scientist,,,,25 days,2016-10-16 00:30:23.897629
+534,"Arlington, VA",ASRC Federal,6e1c17068e6aeaa2,Software Developer - Java Applications,,43.2,23,9 days,2016-10-16 00:30:23.897629
+535,"Reston, VA","Advanced C4 Solutions, Inc. (AC4S)",12ae93989e80de38,Multimedia Specialist - Senior,,,,21 hours,2016-10-16 00:30:23.897629
+536,"Arlington, VA",Booz Allen Hamilton,6eab73a354cea267,"Operations Research Analyst, Senior",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+537,"Vienna, VA 22182",AboutWeb LLC,64c1b9ff430c1ff8,Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+538,"Silver Spring, MD",Millennium Engineering and Integration Company,376c1366d3a9a248,Scientist 1,,40.2,6,30+ days,2016-10-16 00:30:23.897629
+539,"McLean, VA",Capital One,4c9b58b68c29fe21,Data Scientist,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+540,"Gaithersburg, MD 20878",MedImmune,417a9808210054d6,"Scientist I/Scientist II, Antibody Drug Conjugate/Bio-conjug...",,43.2,115,19 days,2016-10-16 00:30:23.897629
+541,"Silver Spring, MD",Vencore,200bf38f5f91c7f2,Operations Research Analyst Technical Specialist,,42.0,43,8 days,2016-10-16 00:30:23.897629
+542,"Washington, DC 20585",REDHORSE CORPORATION,78d8398aaf5ae464,Research Analyst_CNT,,43.8,4,18 days,2016-10-16 00:30:23.897629
+543,"Gaithersburg, MD 20877",Meso Scale Diagnostics,f09bd2eee1564e61,Associate Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+544,"Bethesda, MD",DDL OMNI Engineering,dac1be25465ffcd6,Scientist 6,,43.2,7,30+ days,2016-10-16 00:30:23.897629
+545,"Alexandria, VA",Booz Allen Hamilton,6913f1b1e4ed62fc,"Data Visualization Engineer, Senior",,44.4,945,14 days,2016-10-16 00:30:23.897629
+546,"Bethesda, MD",Columbus Technologies and Services,0983deb39f184091,Fellowship Program Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+547,"Bethesda, MD","Calloway & Associates, Inc.",928e410f83ada16d,Research Protocol Specialist,$34.01 an hour,,,17 days,2016-10-16 00:30:23.897629
+548,"Gaithersburg, MD",Piper Enterprise Solutions,704c4a5b34de5339,Scientist I/II,,,,30+ days,2016-10-16 00:30:23.897629
+549,"College Park, MD",I.M. Systems Group (IMSG),84574ad621302b34,Support Scientists – Sea-Surface Salinity,,,,30 days,2016-10-16 00:30:23.897629
+550,"Bethesda, MD",EvereTech,0fb89e4d9d9e9231,Infectious Disease Scientist,,,,24 days,2016-10-16 00:30:23.897629
+551,"McLean, VA",Capital One,5266f12de4eb5bd3,Principal Quantitative Analyst,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+552,"Fort Belvoir, VA",AECOM,d0a52405b3eeb9e9,Scientist - Hazardous Waste Management,,43.2,1806,5 days,2016-10-16 00:30:23.897629
+553,"Springfield, VA",Leidos,4d96316d8a835fde,Data Scientist (Senior),,43.8,187,30+ days,2016-10-16 00:30:23.897629
+554,"Washington, DC",Legal Services Corporation,d905c479b6ea4a05,Research Project Coordinator and Data Analyst,"$89,395 - $100,688 a year",55.199997,3,9 days,2016-10-16 00:30:23.897629
+555,"Chantilly, VA 20151",Mitre Corporation,45fa872c881cd1ab,Senior/Lead Data Scientist,,51.6,106,30+ days,2016-10-16 00:30:23.897629
+556,"Washington, DC",ADC Management Solutions,4a5a17cbf88217bc,Market Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+557,"McLean, VA",Capital One,ed5df41aea9e63fa,Data Analysis Manager,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+558,"Reston, VA",ESNS,e55806809cd57b50,Software Engineer,,,,10 days,2016-10-16 00:30:23.897629
+559,"Washington, DC",Twentieth Century Fox,bc08f1f4be0c9b9b,Vice President of Human Resources,,42.6,14,2 days,2016-10-16 00:30:23.897629
+560,"Washington, DC","Global Science & Technology, Inc.",6950bdf4b764de55,Senior Science Communicator,,,,30+ days,2016-10-16 00:30:23.897629
+561,"Rockville, MD",GlaxoSmithKline,9633bf07b28f2639,"Senior Manager, Global Head of Pharmaceutical Technical Scie...",,52.199997,1673,24 days,2016-10-16 00:30:23.897629
+562,"Bethesda, MD 20813",Leidos,b031ed89397a3edf,Bioinformatics Analyst 631169 (NCI),,43.8,187,30+ days,2016-10-16 00:30:23.897629
+563,"Landover, MD",Cloudburst Consulting Group Inc,1b92a419bbf3f766,Sr. Research Analyst,,,,25 days,2016-10-16 00:30:23.897629
+564,"Gaithersburg, MD 20899",AstraZeneca,0ec731fdfc18eeb1,Clinical Trial Methodology Expert -- Statistical Innovation...,,51.6,568,30+ days,2016-10-16 00:30:23.897629
+565,"Vienna, VA",Capital One,b44abb884bbc142d,Senior Manager- Technical Analytics,,44.4,2904,29 days,2016-10-16 00:30:23.897629
+566,"Washington, DC",CSG Solutions,bfe3b0521cb3bb57,OSINT Research Analyst - EXPERT,,,,11 days,2016-10-16 00:30:23.897629
+567,"Chantilly, VA",Core One,97cc44572517ab44,Data Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+568,"Adelphi, MD 20783",Secure Mission Solutions,cc1cf0855ec34651,SoftwareDeveloper/Computer Scientist Researcher,,43.2,9,30+ days,2016-10-16 00:30:23.897629
+569,"College Park, MD 20740",Engility Corporation,2b52e5d5a1060f9f,Sr. Technical Writer,,43.2,243,12 hours,2016-10-16 00:30:23.897629
+570,"Bethesda, MD",National Opinion Research Center (NORC),165e806d598f27c1,Principal Research Analyst - Health Care,,,,30+ days,2016-10-16 00:30:23.897629
+571,"Bethesda, MD",General Dynamics - Information Technology,1ee873b9d3e74235,Associate Scientist,,43.8,3520,30+ days,2016-10-16 00:30:23.897629
+572,"Springfield, VA 22161",Harris Corporation,c7c373266344ff6a,Computer Vision Scientist,,43.2,239,30+ days,2016-10-16 00:30:23.897629
+573,"Washington, DC",ECS Federal LLC,92ffec593e6560d6,Mid Level Systems/Operations Research Analyst,,43.8,14,30+ days,2016-10-16 00:30:23.897629
+574,"Washington, DC",Dept of Forensic Sciences,b58065669507ee73,Forensic Scientist (Digital Evidence),"$70,345 - $89,992 a year",,,10 days,2016-10-16 00:30:23.897629
+575,"Silver Spring, MD 20910","Discovery Communications, Inc.",1498cd6b95b45196,Research Analyst,,52.199997,112,30+ days,2016-10-16 00:30:23.897629
+576,"Washington, DC",Harnham,09991bacb51aa988,"Big Data Architect - Washington DC- Hadoop, NoSQL, Informati...","$1,200 a day",,,30+ days,2016-10-16 00:30:23.897629
+577,"Rockville, MD 20848",Leidos,d162ee790231399c,Scientific Project Manager I 631191 (NCI),,43.8,187,30+ days,2016-10-16 00:30:23.897629
+578,"Germantown, MD 20876",Mars,07429739f6459388,Supplier Quality Assurance Scientist,,51.0,411,5 days,2016-10-16 00:30:23.897629
+579,"Herndon, VA","Deltek, Inc.",4463e2a43c952f18,"Federal Associate Research Analyst (Defense - Floater), DOD/...",,43.8,33,30+ days,2016-10-16 00:30:23.897629
+580,"Bethesda, MD",Lovelace Respiratory Research Institute,3670a77366bf79f4,"Research Communication Scientist (Audiology, Speech Patholog...",,39.0,12,30+ days,2016-10-16 00:30:23.897629
+581,"Springfield, VA","Total Environmental Concepts, Inc.",109f6365b771e496,Environmental Technician/Scientist - Entry Level,"$42,000 a year",,,3 days,2016-10-16 00:30:23.897629
+582,"Rockville, MD",ICF,9b587ea10250f297,Data Management Specialist,,40.8,233,30+ days,2016-10-16 00:30:23.897629
+583,"Fairfax, VA",ICF,0020c6a7777edbad,IT Project Manager / Business Partner,,40.8,233,12 days,2016-10-16 00:30:23.897629
+584,"Alexandria, VA 22311 (Alexandria Wrest area)",Systems Planning and Analysis,0ae5d9b03203c0b9,Operations Research Analyst (JTAAD/JTAG),,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+585,"Springfield, VA",Integrity Applications Incorporated,d2edf8245be436be,Geospatial ABI Analyst/Data Scientist,,52.800003,4,30+ days,2016-10-16 00:30:23.897629
+586,"Arlington, VA",Leonie,cfbc905562d3262e,Operations Research Systems Analyst - Northern Virginia,,,,30+ days,2016-10-16 00:30:23.897629
+587,"Columbia, MD 21044","BioFortis, Inc.",a43b1b24eb68ca2b,Software Developer,,,,22 hours,2016-10-16 00:30:23.897629
+588,"Fort Meade, MD",Vencore,0c8d2606d519e3a3,Predictive Modeling Analyst Technical Specialist,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+589,"Washington, DC",American Association For the Advancement of Scienc...,20d87e3ea41b2fc1,Scientific Illustrator,,54.6,5,18 days,2016-10-16 00:30:23.897629
+590,"Washington, DC",Korn Ferry/Futurestep,5721c825cfd40a9d,"Associate Director, DIA Learning",,,,3 days,2016-10-16 00:30:23.897629
+591,"Reston, VA 20191","ObjectVideo, Inc.",4eeb842eeeb70176,Research Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+592,"Silver Spring, MD",Information Innovators Inc.,3821b456ecd42054,Health Search Methodologist,,,,4 days,2016-10-16 00:30:23.897629
+593,"Washington, DC",Labcorp,cc124649c696dffc,Burn Center Technician,,43.2,1700,22 hours,2016-10-16 00:30:23.897629
+594,"Washington, DC",Analytic Recruiting,935252fe7f2148dd,Statistician,"$100,000 - $125,000 a year",51.0,2,30+ days,2016-10-16 00:30:23.897629
+595,"Fairfax, VA",ICF,15c503ed44c22772,IT Project Manager,,40.8,233,3 days,2016-10-16 00:30:23.897629
+596,"Herndon, VA 20171",HireITConsultants Inc,decc9db0aa49da5d,Freelance Intern R and shiny developer,,,,30+ days,2016-10-16 00:30:23.897629
+597,"Herndon, VA","Deltek, Inc.",f0b30bbeb6b419c5,Principal Federal Research Analyst,,43.8,33,30+ days,2016-10-16 00:30:23.897629
+598,"Springfield, VA","Abraxas, Cubic Global Defense",c06cd1823378083f,Imagery Scientist,,42.0,4,25 days,2016-10-16 00:30:23.897629
+599,"Springfield, VA",CSRA,152b099508fbdeeb,Expert - Data Analysis,,42.0,53,30+ days,2016-10-16 00:30:23.897629
+600,"Alexandria, VA",Vencore,08c26db96f8f4a2a,Sensor Image Scientist,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+601,"Washington, DC",Ashton Lane Group,9968c5481ed9bba4,Senior Manager – Statistical Analysis / Quantitative Modelin...,,,,15 days,2016-10-16 00:30:23.897629
+602,"Washington, DC 20009 (U Street Corridor area)",CAVA,a7b018557a175cdd,Full-Stack Developer,,44.4,7,24 days,2016-10-16 00:30:23.897629
+603,"McLean, VA",Booz Allen Hamilton,0c5f48e03cd95d47,"Defense Research Analyst, Mid",,44.4,945,12 days,2016-10-16 00:30:23.897629
+604,"Reston, VA",Bechtel,f6caa7b6650ea1bd,Senior Data Scientist Job,,51.6,944,30+ days,2016-10-16 00:30:23.897629
+605,"Washington, DC 20037 (Foggy Bottom area)",World Wildlife Fund,c0b04666986fc1a2,Global Science Leaders - 17025,,52.800003,20,24 days,2016-10-16 00:30:23.897629
+606,"Washington, DC",The Advisory Board Company,8356335dcbe9cb33,"Senior Analyst, International Health Care Strategic Research",,42.6,69,22 days,2016-10-16 00:30:23.897629
+607,"Arlington, VA","Eastern Research Group, Inc.",dc75e3e8c9e5f763,Environmental/Occupational Health Professional,,,,30+ days,2016-10-16 00:30:23.897629
+608,"Silver Spring, MD",Clinical Research Management,1330b57872f7cc7d,Bioanalytical Scientist,,41.4,9,30+ days,2016-10-16 00:30:23.897629
+609,"Suitland, MD",Parsons Corporation,be3a089fd0f15551,Modeling and Simulation Developer,,43.8,266,25 days,2016-10-16 00:30:23.897629
+610,"Springfield, VA","MacAulay-Brown, Inc.",1616a6db162db879,Statistician/ Imagery Science Support,,43.2,3,1 hour,2016-10-16 00:30:23.897629
+611,"Springfield, VA","InTec, LLC",e7efd221b5ff8c0c,Imagery Scientist,,,,28 days,2016-10-16 00:30:23.897629
+612,"Fairfax, VA",ICF,adcaff8920c47fe6,Sr. Digital & Social Planner/Buyer- Temporary,,40.8,233,9 days,2016-10-16 00:30:23.897629
+613,"Herndon, VA",K12,019aeb2a2caf50b9,Big Data Engineering Manager,,39.0,54,30+ days,2016-10-16 00:30:23.897629
+614,"McLean, VA",Capital One,79ea97877d71022f,Data Science Intern - Other Amazing Universities,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+615,"Bethesda, MD",Decypher Technologies,b8ac44be6337adf7,Research Protocol Specialist,,44.4,13,29 days,2016-10-16 00:30:23.897629
+616,"Silver Spring, MD",Millennium Engineering and Integration Company,d4d76bde7085fb0e,Operations Research Analyst 2,,40.2,6,30+ days,2016-10-16 00:30:23.897629
+617,"Springfield, VA 22151",Leidos,d38622f97f167298,Remote Sensor Scientist,,43.8,187,10 days,2016-10-16 00:30:23.897629
+618,"McLean, VA","Innovative Analytics & Training, LLC",c69f5afbdab0ed01,Research Analyst with Security Clearance,"$80,000 - $90,000 a year",,,16 days,2016-10-16 00:30:23.897629
+619,"Rockville, MD",Northrop Grumman,9be0928782239985,Operations Research Analyst 4,,51.0,2124,30+ days,2016-10-16 00:30:23.897629
+620,"Washington, DC 20003 (Capitol Hill area)",Challenger Center,1c2e1136831811ef,Executive Assistant to the President,,,,30+ days,2016-10-16 00:30:23.897629
+621,"McLean, VA",Mitre Corporation,dc7e5d14a1121784,2017 Systems Engineering Undergraduate Summer Intern,,51.6,106,29 days,2016-10-16 00:30:23.897629
+622,"Greenbelt, MD",ASRC Federal,da35b678b66d5c0a,Information Technology Specialist,,43.2,23,12 days,2016-10-16 00:30:23.897629
+623,"McLean, VA",Mitre Corporation,759c0648a3966350,2017 Systems Engineering Graduate Student Summer Intern,,51.6,106,30 days,2016-10-16 00:30:23.897629
+624,"McLean, VA 22108",PricewaterhouseCoopers LLC,5ec290afcbe986d4,Public Sector - Operations Research Analyst - Senior Associa...,,51.0,2588,16 days,2016-10-16 00:30:23.897629
+625,"Arlington, VA 22203 (Bluemont area)",Hanover Research,335c0607e8964918,Senior Research Analyst—Education Practice Area,,42.6,5,30+ days,2016-10-16 00:30:23.897629
+626,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,339af203d2761792,Data Scientist Manager,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+627,"Vienna, VA 22180",S2 Analytical Solutions,2e794c19c9c94720,Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+628,"Bethesda, MD 20814",Mitchell Martin,c4764d92f5c67b49,Data Scientist,,51.0,20,15 days,2016-10-16 00:30:23.897629
+629,"Tysons Corner, VA",Centra Technology,e5bc1ca9ba6e50b1,China Policy Research Analyst,,42.0,2,30+ days,2016-10-16 00:30:23.897629
+630,"Arlington, VA",Hobsons,a4d2891ba8d709d5,Technical Product Manager,,42.6,17,25 days,2016-10-16 00:30:23.897629
+631,"Chantilly, VA 20153",Leidos,8575e59753d1e069,Data Manager,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+632,"College Park, MD","INNOVIM, LLC",79ab53dee9357679,Atmosphereic Reanalysys Scientist,,39.0,2,30+ days,2016-10-16 00:30:23.897629
+633,"Vienna, VA",Capital One,8235976f9b308577,"Senior Manager of Data Science, Digital",,44.4,2904,2 days,2016-10-16 00:30:23.897629
+634,"Alexandria, VA 22314 (Southwest Quadrant area)",Engility Corporation,4f1deb0709814d03,"DASD Operations Research Analyst - Program Metrics and TPMs,...",,43.2,243,18 days,2016-10-16 00:30:23.897629
+635,"Arlington, VA","Sotera Defense Solutions, Inc.",6e163342db1f641f,Software Engineer - Cyber Defense,,,,25 days,2016-10-16 00:30:23.897629
+636,"Fairfax, VA",ICF,9a0655050eb1dadb,Finance & Administration Analyst,,40.8,233,9 days,2016-10-16 00:30:23.897629
+637,"Rockville, MD",Merck KGaA,2f10c9eb856e5c3d,Associate Scientist - Virology,,53.4,5,19 days,2016-10-16 00:30:23.897629
+638,"Silver Spring, MD",Information Innovators Inc.,4c42065c21281991,Research Assistant,,,,10 days,2016-10-16 00:30:23.897629
+639,"Washington, DC 20036 (Downtown area)",KPMG,28d1bc3d67bc2955,"Senior Systems Administrator, Big Data",,51.0,1768,2 days,2016-10-16 00:30:23.897629
+640,"McLean, VA",Capital One,4bab956f278d757b,"Manager, Model Validation",,44.4,2904,30 days,2016-10-16 00:30:23.897629
+641,"Alexandria, VA 22311 (Alexandria Wrest area)",Institute for Defense Analyses,abd5826a0bd94882,Economist,,42.6,13,17 days,2016-10-16 00:30:23.897629
+642,"Washington, DC 20006 (Foggy Bottom area)",2M Research Services,3135e009d42cfd53,Senior Qualitative Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+643,"Annapolis Junction, MD 20701",Engility Corporation,511acff7c0b688cd,Computer Scientist/ SIGDev Analyst,,43.2,243,29 days,2016-10-16 00:30:23.897629
+644,"Greenbelt, MD",Universities Space Research Association,04c9d599f992d1a0,Visiting Remote Sensing Scientist,,55.199997,6,18 days,2016-10-16 00:30:23.897629
+645,"Gaithersburg, MD 20878",MedImmune,31d8001700274002,Associate Scientist I / II,,43.2,115,30+ days,2016-10-16 00:30:23.897629
+646,"Springfield, VA","MacAulay-Brown, Inc.",ae69350a236aad48,Imagery Scientist (Junior and Senior Level),,43.2,3,1 hour,2016-10-16 00:30:23.897629
+647,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)","Quantum Research International, Inc.",46dc16453427d1a4,Analyst/ Operations Research Officers (OROs),,52.800003,6,30+ days,2016-10-16 00:30:23.897629
+648,"McLean, VA",Leidos,9a1d0e8d5a3bd6fc,Data Engineering Lead,,43.8,187,13 days,2016-10-16 00:30:23.897629
+649,"Rockville, MD",Net ESolutions Corporation (NETE),77d208aa59513a7b,Data Visualization & Analytics Specialist,,,,30+ days,2016-10-16 00:30:23.897629
+650,"Rockville, MD",GlaxoSmithKline,155273a2e2f8fe9e,"Clinical Research and Development Lead, RSV Maternal",,52.199997,1673,30+ days,2016-10-16 00:30:23.897629
+651,"Washington, DC",Celgene Corporation,73ba3deb544563d8,Postdoc Fellowship - Computational Biology / Immuno-Oncology,,51.6,91,30 days,2016-10-16 00:30:23.897629
+652,"Riverdale, MD 20737",Valador,4c68778bacb37f78,EEODIS Software Engineer 109,,43.8,5,2 days,2016-10-16 00:30:23.897629
+653,"Riverdale, MD 20737",Valador,f1b1757a940dd008,EODIS Software Engineer 110,,43.8,5,2 days,2016-10-16 00:30:23.897629
+654,"Washington, DC",ICF,cb7535f829fb13a3,Writer and Editor,,40.8,233,4 days,2016-10-16 00:30:23.897629
+655,"Bowie, MD",Exponent,df30e74d3d76d348,Associate,,43.2,6,30+ days,2016-10-16 00:30:23.897629
+656,"Silver Spring, MD 20910",Social & Scientific Systems Inc.,226002709376d403,Health Services Research Scientists,,,,30 days,2016-10-16 00:30:23.897629
+657,"Gaithersburg, MD 20878",MedImmune,ef7f73bd235850aa,"R&D Associate II / Associate Scientist I, Analytical GMP Tes...",,43.2,115,30+ days,2016-10-16 00:30:23.897629
+658,"Fort Belvoir, VA","Storage Strategies, Inc.",08702ab6d4b29088,"Cyber, Security, and Intelligence",,,,15 days,2016-10-16 00:30:23.897629
+659,"McLean, VA",Mitre Corporation,2213d264f12e9ec6,"Social Sciences, Sr.",,51.6,106,30+ days,2016-10-16 00:30:23.897629
+660,"McLean, VA",Mitre Corporation,d72d0158c618bfa0,"Software Engineer, Remote Sensing",,51.6,106,3 days,2016-10-16 00:30:23.897629
+661,"Rockville, MD",EMD,024eb5d8aaec8870,Associate Scientist - Virology,,51.6,30,19 days,2016-10-16 00:30:23.897629
+662,"College Park, MD 20740",Booz Allen Hamilton,8d24230c7717ed29,"SIGINT Research Analyst, Senior",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+663,"Arlington, VA",Leidos,27ab3bc18031aeef,Senior Software Architects,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+664,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,6aedd9b4138e36a0,Space Weather Modeler,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+665,"Arlington, VA",SG2 Recruiting,ef5341a214a19ed1,Cyber Data Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+666,"Rockville, MD",Northrop Grumman,b1716bd81413a185,Software Development Analyst 4,,51.0,2124,30+ days,2016-10-16 00:30:23.897629
+667,"Suitland, MD",General Dynamics - Information Technology,bcf384704c59e98d,IT Asset Manager,,43.8,3520,30+ days,2016-10-16 00:30:23.897629
+668,"Washington, DC",MicroStrategy,a6e487d617b64465,Senior Consultant (Big Data),,40.8,41,30+ days,2016-10-16 00:30:23.897629
+669,"North Bethesda, MD 20852",Engility Corporation,d28b0698d1fa1b86,Systems Engineer,,43.2,243,4 days,2016-10-16 00:30:23.897629
+670,"Rockville, MD 20850",MacroGenics,f13af707103b2ad7,Research Assoc. II/Assoc. Scientist - Antibody Eng,,52.800003,8,10 days,2016-10-16 00:30:23.897629
+671,"College Park, MD",AER,a088e2ad811515aa,Earth System/Computer Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+672,"Washington, DC",ASRC Federal,cbc02a16c7383211,Senior Support Scientist - Earth Science,,43.2,23,30+ days,2016-10-16 00:30:23.897629
+673,"Gaithersburg, MD 20899",AstraZeneca,c5c1e020cd5dc427,Senior Statistician - Oncology,,51.6,568,30+ days,2016-10-16 00:30:23.897629
+674,"Rockville, MD",Mid-Atlantic Permanente Medical Group,0519dd70cf5851f7,Senior Research Scientist,,,,6 days,2016-10-16 00:30:23.897629
+675,"Columbia, MD 21046",Merkle Inc.,d6af6407bf1cdc78,Lead Analyst,,42.0,2,30+ days,2016-10-16 00:30:23.897629
+676,"Gaithersburg, MD 20878",MedImmune,89ee1ad78c458a44,"Associate Scientist I / Associate Scientist II, GMP Testing",,43.2,115,30+ days,2016-10-16 00:30:23.897629
+677,"Greenbelt, MD",ASRC Federal,928ef8c4977a4104,Software Developer,,43.2,23,26 days,2016-10-16 00:30:23.897629
+678,"Lanham, MD",Bay State,1659bc5ff7c1a180,Greenplum Engagement Manager SME,,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+679,"Vienna, VA",Capital One,5c14ad6e212384e8,"Senior Manager, Statistical Natural Language Processing",,44.4,2904,7 days,2016-10-16 00:30:23.897629
+680,"McLean, VA",Mitre Corporation,6a86829c2531c0ff,Big Data Software/Systems Engineer,,51.6,106,4 days,2016-10-16 00:30:23.897629
+681,"Bethesda, MD",Great-Circle Technologies,195eb9d99b5e4dd6,RADAR Imagery Scientist,,,,24 days,2016-10-16 00:30:23.897629
+682,"Fort Meade, MD 20755",McCallie Associates,a4b0e68f6275b9b8,CYBERCOM - Operations Research Analyst Level II,,,,6 days,2016-10-16 00:30:23.897629
+683,"Washington, DC",Great-Circle Technologies,5acf07408fe4bb2f,SAR Imagery Scientist,,,,24 days,2016-10-16 00:30:23.897629
+684,"Rockville, MD 20852",US Pharmacopeia,e22d06d59554bc83,Team Leader/Scientist IV-V (WP),,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+685,"Rockville, MD 20855",Intelligent Automation,f1a5ae5e7cd28b3e,Research Scientist - Signal Processing,,40.8,3,30+ days,2016-10-16 00:30:23.897629
+686,"Washington, DC",The Advisory Board Company,587b701025c76f14,"Research Analyst, Health Care",,42.6,69,4 days,2016-10-16 00:30:23.897629
+687,"Washington, DC",The Advisory Board Company,07a02a85df4693d6,Health Care Research Analyst,,42.6,69,4 days,2016-10-16 00:30:23.897629
+688,"Arlington, VA",Sinclair Broadcast Group,4481a86dd310d7d2,Sales Research Analyst,,39.0,44,30+ days,2016-10-16 00:30:23.897629
+689,"Arlington, VA",CACI International Inc,8e777dc6402c97b7,DevOps Engineer Job,,44.4,815,15 days,2016-10-16 00:30:23.897629
+690,"Rockville, MD 20850",Hendall Inc.,5e8d3c8606106232,Document Specialist (NCI),,,,3 days,2016-10-16 00:30:23.897629
+691,"Reston, VA 20190",FireEye,acc94d516d523635,"Senior Manager, Data Science",,42.0,15,5 days,2016-10-16 00:30:23.897629
+692,"Washington, DC 20037 (Foggy Bottom area)",World Wildlife Fund,d4fbe1d47a38fa12,Marine Science Fellow - 17024,,52.800003,20,17 days,2016-10-16 00:30:23.897629
+693,"Fairfax, VA",BOEING,64800bd3afd8158e,Digital Signal Processing Engineer 1,,51.6,2923,30+ days,2016-10-16 00:30:23.897629
+694,"Springfield, VA 22150",Engility Corporation,8e33cb3af5089067,Budget Analyst,,43.2,243,3 days,2016-10-16 00:30:23.897629
+695,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,f01de791c2ef8fb5,Junior Research Analyst - MATLAB / Python / C++,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+696,"Suitland, MD",EOIR Technologies,6ac4734b5ddd2148,Image Scientist,,52.199997,21,30+ days,2016-10-16 00:30:23.897629
+697,"Springfield, VA",Xcellent Technology Solutions,8181bca14150343d,Imagery Scientist,,,,4 days,2016-10-16 00:30:23.897629
+698,"Adelphi, MD",ICF,95caf266428ed215,Cyber Security Business Analyst,,40.8,233,24 days,2016-10-16 00:30:23.897629
+699,"Fort Meade, MD",OGSystems,484bf1ab60db1419,Operations Research Analyst,,43.2,3,30+ days,2016-10-16 00:30:23.897629
+700,"Reston, VA",comScore,53d188c780c57457,Senior Statistical Analyst,,42.6,30,30+ days,2016-10-16 00:30:23.897629
+701,"Arlington, VA",Oak Ridge Associated Universities,53a403999e25e51f,EPA Web Developer,$21.80 an hour,43.2,15,30+ days,2016-10-16 00:30:23.897629
+702,"Chantilly, VA",Knowledge Link,b07dd8a454feba06,Senior Data Scientist (TS/SCI with Polygraph REQUIRED),,,,30+ days,2016-10-16 00:30:23.897629
+703,"Washington, DC",The Advisory Board Company,de319d3170a46313,"Senior Analyst, Health Care Philanthropy Strategic Research",,42.6,69,30+ days,2016-10-16 00:30:23.897629
+704,"Alexandria, VA",Human Resources Research Organization,6cd40d081db5dc3f,Research Scientist - JUL16-02,,51.0,3,30+ days,2016-10-16 00:30:23.897629
+705,"Arlington, VA",ICF,b4e7768c28b4a94b,Senior Business Analyst,,40.8,233,26 days,2016-10-16 00:30:23.897629
+706,"McLean, VA",Mitre Corporation,f99bb457e22d7dca,Lead Air Traffic Management (ATM) Analyst/Systems Engineer,,51.6,106,30+ days,2016-10-16 00:30:23.897629
+707,"Washington, DC",Cardno,39601c73a3e92e5b,Staff Scientist,,42.0,35,30+ days,2016-10-16 00:30:23.897629
+708,"Washington, DC",DDL OMNI Engineering,88fd08a706c31333,Senior Operations Research Analyst,,43.2,7,30+ days,2016-10-16 00:30:23.897629
+709,"Fort Belvoir, VA",Savantage Solutions,791fa08b3f38b887,Chief Scientist / Senior Engineer (Lead),,54.0,10,10 days,2016-10-16 00:30:23.897629
+710,"Washington, DC",CGI,db1e9c12e49ce66b,MID Research Operations Analyst/Operations Research Assistan...,,42.6,726,11 days,2016-10-16 00:30:23.897629
+711,"Alexandria, VA 22311 (Alexandria Wrest area)",Alion Science and Technology,25ee41fd63c3a7b9,Sr. Principal Scientist (Icebreaker and Polar Technology Spe...,,42.6,100,30+ days,2016-10-16 00:30:23.897629
+712,"Annapolis Junction, MD",Ball Aerospace,913ab3704df0771a,Intelligence Analyst III (659748),,43.2,35,4 days,2016-10-16 00:30:23.897629
+713,"Fairfax, VA",ICF,70a69adf092e5a29,Java Developer,,40.8,233,9 days,2016-10-16 00:30:23.897629
+714,"Rockville, MD",ICF,dcc97c2913810cff,Monitoring & Evaluation Technical Specialist - Malaria Resea...,,40.8,233,29 days,2016-10-16 00:30:23.897629
+715,"Fairfax, VA 22031",Group W,23f40375eb135fbd,Military Operations Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+716,"McLean, VA",The BOSS Group,e797e4a42e5190a7,Market Research Analyst,,51.0,6,4 days,2016-10-16 00:30:23.897629
+717,"Washington, DC",IFPRI (International Food Policy Research Institut...,3d10f21c36593dd4,Senior Research Assistant / Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+718,"Washington, DC",Computer Futures,66fba0d5641a23bd,Data Architect- DC Metro- 6 Month C2H,$90 - $120 an hour,52.800003,6,30+ days,2016-10-16 00:30:23.897629
+719,"Alexandria, VA 22311 (Alexandria Wrest area)",Systems Planning and Analysis,24b2114c468f9bd6,Operations Research Analyst (JTAAD/OSAG),,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+720,"Fort George G Meade, MD",National Security Agency,c34ee4c8e0f2a169,Operations Research Analyst,"$65,572 - $84,611 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+721,"Springfield, VA","NJVC, LLC",d78fa9eb0c47ba0e,Operations Research Analyst,,40.8,63,30+ days,2016-10-16 00:30:23.897629
+722,"Fairfax, VA",ICF,0e248ed7b72e0c5f,Analyst - Child Welfare,,40.8,233,25 days,2016-10-16 00:30:23.897629
+723,"McLean, VA",Booz Allen Hamilton,d2481c3e1049e1b9,Staff Life Scientist,,44.4,945,25 days,2016-10-16 00:30:23.897629
+724,"College Park, MD","INNOVIM, LLC",5da5795e8b13088a,Atmospheric Scientist - Severe Weather,,39.0,2,30 days,2016-10-16 00:30:23.897629
+725,"Fairfax, VA","IMG Information Management Group, Inc.",40173a50f3618b78,Market Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+726,"Washington, DC",Veredus,92e7fde61eaa668d,Data Analyst,,43.8,5,4 days,2016-10-16 00:30:23.897629
+727,"Fort Meade, MD",ICF,86f972e3c54f0d01,Research Scientist,,40.8,233,30+ days,2016-10-16 00:30:23.897629
+728,"Washington, DC",Noblis,ec8b6fa2b3473fa7,Senior Project Manager,,51.0,14,30+ days,2016-10-16 00:30:23.897629
+729,"Washington, DC 20007 (Georgetown area)",US News & World Report,be0511fe165bacdd,Health Data Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+730,"Washington, DC",CEB,abad6ddb238f130e,Research Analyst/ Sr. Research Analyst,,40.8,72,30+ days,2016-10-16 00:30:23.897629
+731,"Silver Spring, MD 20910",Social & Scientific Systems Inc.,000327250f409501,Senior Health Services Research Scientists,,,,30 days,2016-10-16 00:30:23.897629
+732,"Falls Church, VA",Nolij Consulting,7f17ba241f3c619b,Lead Operations Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+733,"Springfield, VA",Riverside Research,1a17aaeb4d80db34,Remote Sensor Scientist,,53.4,7,25 days,2016-10-16 00:30:23.897629
+734,"College Park, MD","INNOVIM, LLC",32fba4a77017df38,Atmospheric Scientist - Excessive Heat,,39.0,2,30+ days,2016-10-16 00:30:23.897629
+735,"Bethesda, MD 20814",Child Trends,21263d8b15fc4f4f,Research Scientist - Hispanic Center,,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+736,"Rockville, MD",BioStaff Solutions,e2ed92dd515c5311,Senior Statistical Programmer,,,,30+ days,2016-10-16 00:30:23.897629
+737,"Bethesda, MD 20814",Child Trends,0b080c4d66718174,Research Analyst - Reproductive Health and Family Formation,,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+738,"Silver Spring, MD 20910",Social & Scientific Systems Inc.,6d5d31e1d80890c9,Project Manager (Healthcare Data Analysis),,,,30+ days,2016-10-16 00:30:23.897629
+739,"Bethesda, MD 20817",IDentrix,0e8c86ca9f217d77,Data Scientist,,,,24 days,2016-10-16 00:30:23.897629
+740,"Bethesda, MD 20814",Child Trends,3bfb5128659b9112,Research Scientist - Child Welfare,,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+741,"Arlington, VA 22201 (Lyon Village area)",CEB Global,73dfa3b086c9efad,Research Analyst/ Sr. Research Analyst,,,,29 days,2016-10-16 00:30:23.897629
+742,"Washington, DC","Worldwide Staffing Exchange, LLC",fec8c7958897c456,Forensic Lab Technician,"$50,000 a year",,,18 days,2016-10-16 00:30:23.897629
+743,"McLean, VA",Mitre Corporation,4bbb23df28722814,Computer Scientist; Application Development and Cloud Migrat...,,51.6,106,26 days,2016-10-16 00:30:23.897629
+744,"Arlington, VA",CACI International Inc,b54380995e284328,"OPERATIONS RESEARCH ANALYST, LEAD Job",,44.4,815,30+ days,2016-10-16 00:30:23.897629
+745,"Laurel, MD 20707",WSSC,20cf4ed86228e357,Principal Environmental Engineer,"$74,399 - $113,574 a year",42.0,21,8 days,2016-10-16 00:30:23.897629
+746,"McLean, VA",Capital One,385804e7e57461d1,Data Scientist Intern - University of Illinois - Urbana-Cham...,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+747,"Washington, DC 20036 (Downtown area)",Forum for Collaborative HIV Research,175bda878d270bb2,Senior Research Associate-Liver Forum,,,,30+ days,2016-10-16 00:30:23.897629
+748,"Alexandria, VA 22304 (Seminary Hill area)",Savi Technology,d05e60c74bb1a83c,Software Engineer – Big Data/IoT,,40.2,5,30+ days,2016-10-16 00:30:23.897629
+749,"Washington, DC",Selby Jennings,79fb2a9aabc7d7a3,Senior Data Scientist (Hadoop focused),"$100,000 - $140,000 a year",,,30+ days,2016-10-16 00:30:23.897629
+750,"Silver Spring, MD",General Dynamics - Information Technology,151804212e2b73f8,Scientist (Sceince/Technical Writer),,43.8,3520,30+ days,2016-10-16 00:30:23.897629
+751,"Washington, DC",CareSource,ff7d7560d3d9a061,Risk Management Associate/IT,,42.6,69,1 day,2016-10-16 00:30:23.897629
+752,"Bethesda, MD",Vencore,eefc4b2f9495362a,Engineer Level 6,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+753,"Silver Spring, MD",General Dynamics - Information Technology,4f9df8ec1b8a668d,Sr Principal Scientist - Wound Infection Research,,43.8,3520,30+ days,2016-10-16 00:30:23.897629
+754,"Silver Spring, MD",FDA Office of New Drugs,10caa5ce4ead5a64,Pharmacologist/Toxicologist,"$92,145 - $119,794 a year",,,30+ days,2016-10-16 00:30:23.897629
+755,"Vienna, VA 22182",Oracle,ec22b9050a2f5e35,Big Data and Machine Learning QA Engineer,,44.4,1012,30+ days,2016-10-16 00:30:23.897629
+756,"Rockville, MD 20850",Novavax,cf517e6c373aeee7,"Associate Director / Director, Immunoassay",,40.8,9,30+ days,2016-10-16 00:30:23.897629
+757,"Vienna, VA",Capital One,cf7c673c3c4f8f9e,"Jr. REIT Research Analyst (McLean, VA)",,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+758,"Springfield, VA",Booz Allen Hamilton,69c10b95d64047ca,"Spectral Research Scientist, Lead",,44.4,945,8 days,2016-10-16 00:30:23.897629
+759,"Arlington, VA","E3 Federal Solutions, LLC",2e3c5fae3a28b217,Senior Operations Research Analyst DODP12,,39.0,3,8 days,2016-10-16 00:30:23.897629
+760,"Chantilly, VA",Ball Aerospace,8e4a32e086144505,Quality Assurance Lead (659048),,43.2,35,9 days,2016-10-16 00:30:23.897629
+761,"Chantilly, VA 20151",Mitre Corporation,80f2b466191d8303,Lead/Principal Computer Scientist,,51.6,106,8 days,2016-10-16 00:30:23.897629
+762,"Bethesda, MD",Evidera,56c8a738d5e33edf,Senior Research Associate – Patient Reported Outcomes - Beth...,,42.6,5,30+ days,2016-10-16 00:30:23.897629
+763,"Arlington, VA 22202 (Aurora Highlands area)","OMNITEC Solutions, Inc",59658a6f4dbb3555,Media Research Analyst (overnight shifts - partial telecommu...,,54.0,2,30+ days,2016-10-16 00:30:23.897629
+764,"Alexandria, VA",ManTech International Corporation,6887611d6b110df8,Intelligence Research Analyst,,44.4,711,30+ days,2016-10-16 00:30:23.897629
+765,"Gaithersburg, MD 20878",MedImmune,041b90511dcb6740,Associate Scientist I / Associate Scientist II - Bioassay,,43.2,115,30+ days,2016-10-16 00:30:23.897629
+766,"Germantown, MD 20876",Mars,270298e1a6c3e5f4,Senior Analytical Research Scientist,,51.0,411,10 days,2016-10-16 00:30:23.897629
+767,"Washington, DC 20044 (Downtown area)",Battelle,f3275cb7be203e52,Health Physicist,,51.0,162,14 days,2016-10-16 00:30:23.897629
+768,"College Park, MD",I.M. Systems Group (IMSG),2b5fbccde2c968e0,Support Scientist – Monsoon Desk,,,,30+ days,2016-10-16 00:30:23.897629
+769,"Fort Meade, MD",Agil3Tech (Agil3 Technology Solutions),eda62e3515e101b8,Business Application and Research Analyst (Immediate Hire),,,,30+ days,2016-10-16 00:30:23.897629
+770,"Bethesda, MD 20814",Child Trends,ecdb4d3539f34e97,Research Scientist - Early Childhood,,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+771,"Bethesda, MD 20814",Child Trends,69e95fafa35b941c,"Research Scientist - Early Childhood, NC",,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+772,"Arlington, VA",Capital One,0332e31cc86949d7,"Lead Software Engineer, Back End",,44.4,2904,29 days,2016-10-16 00:30:23.897629
+773,"Arlington, VA",Areté Associates,3465917c1e4bce8e,Computational Scientist,,51.6,8,30+ days,2016-10-16 00:30:23.897629
+774,"Silver Spring, MD",ECS Federal LLC,a85288a45b524237,Technical/Scientific Writer,,43.8,14,30+ days,2016-10-16 00:30:23.897629
+775,"Washington, DC",FiscalNote,9894e2c34dcb6730,"Software Engineer, Web Applications",,,,30+ days,2016-10-16 00:30:23.897629
+776,"Washington, DC",Arcadis:US,853bddcdfa80f422,"Geologist, Scientist or Engineer",,,,30+ days,2016-10-16 00:30:23.897629
+777,"Falls Church, VA",Inova Institute of Res & Educ,a3ea8987111e7280,RESEARCH CONTRACTS ANALYST,,,,30+ days,2016-10-16 00:30:23.897629
+778,"Rockville, MD",Booz Allen Hamilton,cbd29a12ac478835,Statistical Analytics / Healthcare Analytics Manager,,44.4,945,30+ days,2016-10-16 00:30:23.897629
+779,"Chantilly, VA 20151",The Aerospace Corporation,53bdd280c7d1568b,SAR Signals Engineering Specialist,,52.199997,46,9 days,2016-10-16 00:30:23.897629
+780,"Herndon, VA",OPCON Systems LLC,10ae71daa21eaaed,IT Support Great Benefits,,,,30+ days,2016-10-16 00:30:23.897629
+781,"McLean, VA",Capital One,a11245f800eb82e4,Data Scientist Intern - Virginia Tech,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+782,"Arlington, VA",Capital One,7e65437845e36d40,"Master Software Engineer, Front End",,44.4,2904,29 days,2016-10-16 00:30:23.897629
+783,"Washington, DC",Consolidated Safety Services,e54e75982d5a4a43,Laboratory Scientist,,42.0,4,26 days,2016-10-16 00:30:23.897629
+784,"Washington, DC",Dynamac Corporation,7098ec74fbf8125a,Laboratory Scientist,,52.800003,7,26 days,2016-10-16 00:30:23.897629
+785,"McLean, VA",Capital One,3cdbdb22798faa03,Associate Product Manager - Harvard University,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+786,"Washington, DC",Jobspring Partners,6bff4082434f6080,"Software Engineer (C#, Machine Learning)","$120,000 - $160,000 a year",40.8,12,19 days,2016-10-16 00:30:23.897629
+787,"Rockville, MD 20850",Dr Firstcom Inc,b543852b8a3cd775,"Program Manager, Data Analytics and Applications",,40.2,12,30+ days,2016-10-16 00:30:23.897629
+788,"Fort Meade, MD",KEYW Corporation,20d58ce6d9e06a65,Operations Research Analyst,,54.0,14,30+ days,2016-10-16 00:30:23.897629
+789,"McLean, VA",Capital One,845b7093760b5203,Product Designer,,44.4,2904,17 days,2016-10-16 00:30:23.897629
+790,"Beltsville, MD","JENSEN HUGHES, Inc.",84947c57a3bb481d,Sr. Forensics Engineer - nationwide,,,,10 days,2016-10-16 00:30:23.897629
+791,"Washington, DC",Reed Elsevier,7bfbe32ea17745a6,"Solutions Sales Manager Gov't , W DC",,42.6,32,19 days,2016-10-16 00:30:23.897629
+792,"Washington, DC","Akimeka, LLC",fb0dcbe9ab784726,Buildings Engineering Consultant (Residential and Commercial...,,39.0,3,30+ days,2016-10-16 00:30:23.897629
+793,"Silver Spring, MD 20910",Social & Scientific Systems Inc.,190c2904fd327c8c,Semantic Web Developer,,,,30+ days,2016-10-16 00:30:23.897629
+794,"Washington, DC",The Advisory Board Company,e893384f3b8853e7,"Analyst, Health Care Strategic Research",,42.6,69,15 days,2016-10-16 00:30:23.897629
+795,"Reston, VA",ESNS,211b77335df67f30,Web Developer,,,,10 days,2016-10-16 00:30:23.897629
+796,"Fort Meade, MD",SAIC,aadbf2f45d373e96,USCYBERCOM - Operations Research Analyst Job,,51.6,1268,30+ days,2016-10-16 00:30:23.897629
+797,"Washington, DC",Ashton Lane Group,98378ead58ad8448,AVP Quantitative Analyst Model Validation,,,,30+ days,2016-10-16 00:30:23.897629
+798,"Sterling, VA",ASRC Federal,e798912e29d93134,Application Support Specialist,,43.2,23,9 days,2016-10-16 00:30:23.897629
+799,"Washington, DC",Celgene Corporation,4229040b043b9690,"Senior Principal Scientist, Molecular Medicine Informatics",,51.6,91,30+ days,2016-10-16 00:30:23.897629
+800,"College Park, MD",I.M. Systems Group (IMSG),c4473a36d3781361,Support Scientist – Ensemble Forecasting for sub-season,,,,30+ days,2016-10-16 00:30:23.897629
+801,"McLean, VA",Capital One,4ea81498b8d7955c,Senior Legal Specialist - Corporate Governance,,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+802,"Greenbelt, MD",ASRC Federal,6c4b0956d991c022,Senior Scheduler/Planner,,43.2,23,30+ days,2016-10-16 00:30:23.897629
+803,"Washington, DC",The Advisory Board Company,df5d34941bd2fd8e,"Analyst, Health Care Philanthropy Strategic Research",,42.6,69,30+ days,2016-10-16 00:30:23.897629
+804,"Fairfax, VA","MacAulay-Brown, Inc.",56a39a55af263614,Mid-Level Research Analyst,,43.2,3,1 hour,2016-10-16 00:30:23.897629
+805,"Washington, DC",Ashton Lane Group,8c1f2d32fdd0d31e,Quantitative Analyst – Loss Forecasting,,,,30+ days,2016-10-16 00:30:23.897629
+806,"Gaithersburg, MD",Eurofins,a907883067c62840,Bioassay Scientist,,,,18 days,2016-10-16 00:30:23.897629
+807,"Washington, DC",The Advisory Board Company,cfdcbe0ff16c4b71,"Senior Analyst, International Health Care IT Research",,42.6,69,27 days,2016-10-16 00:30:23.897629
+808,"Sterling, VA",ASRC Federal,e9ec8a5f90b10d76,Technical Writer,,43.2,23,9 days,2016-10-16 00:30:23.897629
+809,"Rockville, MD 20855",Intelligent Automation,257a319ed988a366,Research Scientist - Cyber Security,,40.8,3,30+ days,2016-10-16 00:30:23.897629
+810,"Bethesda, MD 20814","Sahana, LLC",4c22b2d7e67fe49c,Bioinformatics Scientist,,,,11 days,2016-10-16 00:30:23.897629
+811,"McLean, VA",Capital One,4e94bea789a70b10,"Manager, Data Science",,44.4,2904,30+ days,2016-10-16 00:30:23.897629
+812,"Washington, DC",Workbridge Associates,12ec02d6052fe5f6,Senior Software Developer - C#/ASP.NET,"$110,000 - $140,000 a year",41.4,25,17 days,2016-10-16 00:30:23.897629
+813,"Arlington, VA 22203 (Bluemont area)",Management Sciences for Health,b0b4f1a899005d46,Senior Campaigns and Communications Associate - No More Epid...,,44.4,31,26 days,2016-10-16 00:30:23.897629
+814,"Alexandria, VA 22311 (Alexandria Wrest area)",Systems Planning and Analysis,19f7db86b1349017,Associate Operations Research Analyst (MRAD/NWAG),,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+815,"Washington, DC",Acumen LLC,d6828b94bd437c8f,Data and Policy Analyst - Statistical Programmer,,,,30+ days,2016-10-16 00:30:23.897629
+816,"Chantilly, VA",Vencore,c9e42e7943bf6645,Systems Engineer I,,42.0,43,22 days,2016-10-16 00:30:23.897629
+817,"Washington, DC",Central Intelligence Agency,d77fc9a3e9cc7f94,Applications Developer,"$58,776 - $113,650 a year",52.800003,83,30+ days,2016-10-16 00:30:23.897629
+818,"Hyattsville, MD 20781",Karna LLC,1e82e7151a335a13,Health Scientist - part-time,,39.0,2,30+ days,2016-10-16 00:30:23.897629
+819,"Chantilly, VA","Commonwealth Computer Research, Inc.",8c6f992bc2adbfb6,Software Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+820,"Beltsville, MD 20705","NextCure, Inc.",a6aa34ebe7c683c8,Research Associate/Scientist,,,,16 days,2016-10-16 00:30:23.897629
+821,"Rockville, MD 20847",csg,fa5db8f1803998cb,Statistical Programmer,,43.2,70,25 days,2016-10-16 00:30:23.897629
+822,"Springfield, VA",Accenture,39821e323201d0e9,Federal - Data Warehouse / ETL Developer,,51.0,6914,30+ days,2016-10-16 00:30:23.897629
+823,"Springfield, VA",Accenture Federal,b6678f7327513e42,Data Warehouse/ETL Developer - TS/SCI clearance required,,,,30+ days,2016-10-16 00:30:23.897629
+824,"Greenbelt, MD","Science System and Applications, Inc.",7e3e25cb797d4ba0,Applications Scientist,,52.199997,15,30+ days,2016-10-16 00:30:23.897629
+825,"Silver Spring, MD",Clinical Research Management,acfab6deda128cea,Behavioral Pharm Research Scientist,,41.4,9,30+ days,2016-10-16 00:30:23.897629
+826,"College Park, MD 20740",Engility Corporation,4db4cc18024100e3,Sr. HPC Engineer,,43.2,243,28 days,2016-10-16 00:30:23.897629
+827,"Gaithersburg, MD 20877",ATCC,3308d70b1df092fb,Scientist - Assay Development,,,,30 days,2016-10-16 00:30:23.897629
+828,"Fort Meade, MD",tiag,7dca884014c28e09,Senior Operations Research Analyst,,54.0,2,30+ days,2016-10-16 00:30:23.897629
+829,"Columbia, MD 21046","Syndicus, Inc.",2014525ebabcef21,Software Engineer/Interactive Developer,,,,23 days,2016-10-16 00:30:23.897629
+830,"Bethesda, MD 20814",Child Trends,4ca0607100f79c6e,"Research Analyst - Early Childhood, MN",,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+831,"Tysons Corner, VA",B23,901960b4317dcbf9,Sales Account Executive,,,,3 days,2016-10-16 00:30:23.897629
+832,"Anacostia, DC",Wyle Laboratories,d88ebbbeaf36d459,Human Resources SME,,44.4,34,30+ days,2016-10-16 00:30:23.897629
+833,"Reston, VA",xentity corporation,2ab0f73e531b40a3,CPIC Business Case Support Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+834,"Fairfax, VA",BOEING,7d1828dbfb8943d1,Supplier Quality Specialist,,51.6,2923,9 days,2016-10-16 00:30:23.897629
+835,"Gaithersburg, MD 20878",Leidos,b1734e95d284f7b8,Bioinformatics Scientist 631167 (NCI),,43.8,187,30+ days,2016-10-16 00:30:23.897629
+836,"Gaithersburg, MD 20877",ATCC,0773e74492c57b98,Research Associate / Senior Research Associate,,,,23 days,2016-10-16 00:30:23.897629
+837,"Arlington, VA",Oak Ridge Associated Universities,d08446a997c42b8e,EPA Environmental Health Assessment Support,$21.80 an hour,43.2,15,30 days,2016-10-16 00:30:23.897629
+838,"Arlington, VA",i_SW Corp,b86a55662ac28de1,Scientist-Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+839,"Fort George G Meade, MD",National Security Agency,3cac106a9319690c,Mathematicians,"$65,572 - $84,611 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+840,"Washington, DC",Smart Consulting Group,8ac9eaaa692f8830,B.2.42 - Senior Pharmacovigilance Subject Matter Expert,,,,30+ days,2016-10-16 00:30:23.897629
+841,"Reston, VA",CACI International Inc,d2f960cc32b3c48f,Counter-WMD Biological Engineer/Scientist Job,,44.4,815,30+ days,2016-10-16 00:30:23.897629
+842,"McLean, VA",Capital One,92a39c845b827e2d,"Sr Assoc, Data Science (USA)",,44.4,2904,24 days,2016-10-16 00:30:23.897629
+843,"Arlington, VA",Hegarty Research LLC,e1bbafd0214108d9,Computer Scientist with Security Clearance,"$100,000 - $125,000 a year",,,30 days,2016-10-16 00:30:23.897629
+844,"Fort Meade, MD","Tanager, Inc.",490e179e6b92f90e,Operations Research Analyst II,,,,30+ days,2016-10-16 00:30:23.897629
+845,"Rockville, MD",ICF,32adbafb2a4e242b,Operations Specialist,,40.8,233,23 days,2016-10-16 00:30:23.897629
+846,"Silver Spring, MD",Oak Ridge Associated Universities,dcdd4ae07fa7ace0,OTC Drug Monograph Regulatory Analysis Fellowship - CDER,,43.2,15,30+ days,2016-10-16 00:30:23.897629
+847,"Arlington, VA 22203 (Bluemont area)",The Nature Conservancy,785f2ecfcf369fd2,Geospatial Analyst,,54.0,56,30+ days,2016-10-16 00:30:23.897629
+848,"Arlington, VA",Hobsons,58cf2c1a48f10fee,Sr Software Engineer (Full Stack),,42.6,17,1 day,2016-10-16 00:30:23.897629
+849,"Reston, VA 20190",QVine Corporation,e739975112e2a0d9,Network Systems Analyst,,51.0,3,16 days,2016-10-16 00:30:23.897629
+850,"Rockville, MD",EMD,652917d8183f5a59,Scientific Studies Scheduler,,51.6,30,30+ days,2016-10-16 00:30:23.897629
+851,"Greenbelt, MD",Universities Space Research Association,43ef57bda9404e55,Scientist,,55.199997,6,30+ days,2016-10-16 00:30:23.897629
+852,"Rockville, MD",Merck KGaA,e8e46abf40af226d,Scientific Studies Scheduler,,53.4,5,30+ days,2016-10-16 00:30:23.897629
+853,"Chantilly, VA",Ball Aerospace,0e1bc5755baeae80,Software Engineer – Search and Retrieval (659729),,43.2,35,9 days,2016-10-16 00:30:23.897629
+854,"Washington, DC",BlueLabs,de68015c93ee7798,Digital Services Program Director,,,,30+ days,2016-10-16 00:30:23.897629
+855,"Springfield, VA",General Dynamics - Information Technology,6560240d262c5edd,Sr Principal Scientist TS/SCI with Polygraph Required,,43.8,3520,12 days,2016-10-16 00:30:23.897629
+856,"Washington, DC 20006 (Foggy Bottom area)",Albert B. Sabin Vaccine Institute,694b393cc0a6c065,"Epidemiologist, Coalition against Typhoid Secretariat",,,,7 days,2016-10-16 00:30:23.897629
+857,"College Park, MD 20740",Booz Allen Hamilton,167f7cc14fae0d75,"Biological / Genomic Research Analyst, Senior",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+858,"Falls Church, VA 22043",PAE,a1852e873edfcb68,Software Engineer,,43.8,215,4 days,2016-10-16 00:30:23.897629
+859,"Alexandria, VA 22314 (Southwest Quadrant area)",The Health Management Academy,db80e174e6e80ee4,"Research Analyst & Program Coordinator, The Academy Collabor...",,,,30+ days,2016-10-16 00:30:23.897629
+860,"Fort George G Meade, MD",National Security Agency,49b27e8acfa4168e,Software Engineer,"$65,572 - $84,611 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+861,"McLean, VA 22101",Coder Kids,6db92441b914eba3,Computer Scientist (Web Development),$19 an hour,,,24 days,2016-10-16 00:30:23.897629
+862,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,542839589118043f,Cognitive and Experimental Neuroscientist,,51.0,30,1 day,2016-10-16 00:30:23.897629
+863,"Bethesda, MD 20814",Cobrain,43944b3bdb898237,Lead Software Developer,,,,30+ days,2016-10-16 00:30:23.897629
+864,"Chantilly, VA 20151",The Aerospace Corporation,2c4912ecd9dd44bd,Associate Software Engineer,,52.199997,46,9 days,2016-10-16 00:30:23.897629
+865,"Reston, VA","Bluehawk, LLC",0d43a68fe514c2d6,Software Engineer – Senior,,,,29 days,2016-10-16 00:30:23.897629
+866,"Bethesda, MD",Pharmerit International,cf408b1313cc1375,Scientist - Modeling and Meta-Analysis,,,,30+ days,2016-10-16 00:30:23.897629
+867,"Washington, DC 20036 (Downtown area)","Oceana, INC",55f9b7cda860de68,"Marine Economist, Science & Strategy Division",,,,23 days,2016-10-16 00:30:23.897629
+868,"Adelphi, MD",ICF,2ab3a0f906a20d0b,Linux Systems Engineer,,40.8,233,2 days,2016-10-16 00:30:23.897629
+869,"Gaithersburg, MD 20878",MedImmune,c729f071c8c6c6c4,"Associate Scientist I / Associate Scientist II, Formulation...",,43.2,115,25 days,2016-10-16 00:30:23.897629
+870,"Fort Belvoir, VA",CTI And Associates Inc.,44e81c7f019aa97c,Hazardous Waste Technician II,,,,30+ days,2016-10-16 00:30:23.897629
+871,"Washington, DC",BlueLabs,f25edeb7658f601e,Software Engineer - Digital Analytics Team,,,,30+ days,2016-10-16 00:30:23.897629
+872,"Bethesda, MD",Columbus Technologies and Services,aa7dc9a216f3c750,Bioinformatics Scientist,,,,30+ days,2016-10-16 00:30:23.897629
+873,"Washington, DC",ICF,4228200b5025cd96,Program Manager-DHS,,40.8,233,30+ days,2016-10-16 00:30:23.897629
+874,"Gaithersburg, MD 20877",Meso Scale Diagnostics,87f98df11e354c94,"Scientist III, Mass Spectrometry",,,,30+ days,2016-10-16 00:30:23.897629
+875,"Fairfax, VA 22030",George Mason University,846817b04121bc72,"Department Chair, Computational and Data Sciences",,52.199997,201,9 days,2016-10-16 00:30:23.897629
+876,"Columbia, MD 21045",Leidos,0affccc8850064a3,Software Engineer -TS/SCI Polygraph Required,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+877,"Bethesda, MD",National Opinion Research Center (NORC),59de12fead0efbd2,Senior Business Intelligence Engineer,,,,26 days,2016-10-16 00:30:23.897629
+878,"Washington, DC",Chiltern,6f994e09b2e8d78c,"Statistical Programmers - Sr, Principal and Manager Openings",,43.2,6,30+ days,2016-10-16 00:30:23.897629
+879,"Alexandria, VA 22301 (Potomac West area)",Cherokee Nation Businesses,b678ff7a54c3ed1c,Senior Scientist,,42.0,32,30+ days,2016-10-16 00:30:23.897629
+880,"Springfield, VA",Booz Allen Hamilton,0ea2c49886f40f4a,"Motion Imagery Research Scientist, Senior",,44.4,945,9 days,2016-10-16 00:30:23.897629
+881,"Bethesda, MD 20814",Child Trends,ef4320f6bb7f5cf5,Research Fellow,,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+882,"Rockville, MD",Merck KGaA,3106cbed939a0687,Laboratory Supervisor-Molecular Operations (second shift,,53.4,5,30+ days,2016-10-16 00:30:23.897629
+883,"Alexandria, VA",The Tauri Group,09e360fa08e21d2a,: Chemical Defense Pharmaceuticals Senior Scientist (Bioengi...,,,,27 days,2016-10-16 00:30:23.897629
+884,"Gaithersburg, MD",MRIGlobal,77a7824594db8a03,Associate Scientist - Histology,,,,30+ days,2016-10-16 00:30:23.897629
+885,"Washington, DC",Celgene Corporation,51837f12fdbadc51,"Senior Scientist, Genomic Stratification",,51.6,91,30+ days,2016-10-16 00:30:23.897629
+886,"Springfield, VA",Booz Allen Hamilton,299c61a2396f4d4e,"Research Image Scientist, Senior",,44.4,945,9 days,2016-10-16 00:30:23.897629
+887,"Fairfax, VA",Inova Health System - Fairfax,ba3164d05ef939fc,Business Analyst - Research Billing,"$60,000 - $70,000 a year",,,30+ days,2016-10-16 00:30:23.897629
+888,"Springfield, VA 22150",S2 Analytical Solutions,2a9768ae3fddedee,Acquisition Support Specialist,,,,24 days,2016-10-16 00:30:23.897629
+889,"Alexandria, VA",Inova Mt. Vernon Hospital,f7c934cf460852fd,MEDICAL TECHNOLOGIST 2,,52.800003,7,17 days,2016-10-16 00:30:23.897629
+890,"Herndon, VA 20171",Engility Corporation,0594d4111da014b4,IT/Engineering Invitational,,43.2,243,29 days,2016-10-16 00:30:23.897629
+891,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,858bb01a4fec9baa,Software Engineer,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+892,"Herndon, VA",SAIC,4013119777bdfd87,Telecommunications Network Research Analyst Job,,51.6,1268,30+ days,2016-10-16 00:30:23.897629
+893,"Reston, VA",xentity corporation,6154d29e010ffba8,GIS Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+894,"Arlington, VA",Vencore,fed02d6b887f97fa,Mid Program Engineer - Scientist,,42.0,43,7 days,2016-10-16 00:30:23.897629
+895,"Arlington, VA","Resource Systems Group, Inc.",fc8ddb492e00d998,Transportation Market Research Analyst,,,,30+ days,2016-10-16 00:30:23.897629
+896,"Rockville, MD",Booz Allen Hamilton,d36ef5ffe8cc0d3e,Regulatory Scientist,,44.4,945,30+ days,2016-10-16 00:30:23.897629
+897,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,75ba67b61fee46f3,Atmospheric Scientists/Physical Oceanographer,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+898,"Washington, DC",Acquired Data Solutions (ADS),c5c32ac73b9dacdc,Project Manager,,,,30+ days,2016-10-16 00:30:23.897629
+899,"Fort Meade, MD",Secure Technologies Group,d797c3d45b29e19c,USR - Senior Computer Scientist,,,,30 days,2016-10-16 00:30:23.897629
+900,"Alexandria, VA",CSRA,0b4f75bbfc55d538,Associate Professional Environmental Analyst,,42.0,53,30+ days,2016-10-16 00:30:23.897629
+901,"Springfield, VA",RGS,756b26ab9097bc91,Survey Researcher,,,,30+ days,2016-10-16 00:30:23.897629
+902,"Alexandria, VA",Hewlett Packard Enterprise,3436b3f2aa33832d,Senior Data Analysis Engineer (TS/SCI clearance),,43.8,923,30+ days,2016-10-16 00:30:23.897629
+903,"Rockville, MD 20850",NantWorks,12a80833fab64aa9,"Principal Scientist, Clinical Assay Development",,,,3 days,2016-10-16 00:30:23.897629
+904,"Gaithersburg, MD 20877",ATCC,fbb99cf8d9aa8316,"Scientist, Bioinformatics - Microbiology",,,,30+ days,2016-10-16 00:30:23.897629
+905,"Fairfax, VA",BOEING,c13527184d4c2748,Java Software Developer,,51.6,2923,30+ days,2016-10-16 00:30:23.897629
+906,"Herndon, VA 20170",BOEING,34e3643c531b842a,Orbit Analyst 3,,51.6,2923,30+ days,2016-10-16 00:30:23.897629
+907,"Bethesda, MD 20814",Experis,76787d2f2df48556,Scientific Project Manager,,43.8,294,30+ days,2016-10-16 00:30:23.897629
+908,"Falls Church, VA",Inova Institute of Res & Educ,5d09248b36f560b6,BUSINESS ANALYST - Research Billing,,,,30+ days,2016-10-16 00:30:23.897629
+909,"Arlington, VA",Vencore,54c4c9298495f7ca,Sr. Program Engineer - Scientist,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+910,"Springfield, VA 22151","ENSCO, Inc.",5fffa20a9c5c5ded,Senior Software Engineer,,52.199997,81,4 days,2016-10-16 00:30:23.897629
+911,"Gaithersburg, MD",Novavax,5c7a506bdebf0b83,Immunoassay Scientist (Impurity),,40.8,9,24 days,2016-10-16 00:30:23.897629
+912,"Fairfax, VA",Windrose Vision,55216c5aa52e43ab,Senior Research and Evaluation Analyst,,,,18 days,2016-10-16 00:30:23.897629
+913,"Washington, DC",ICF,df323e576b9fae68,Outreach Coordinator,,40.8,233,5 days,2016-10-16 00:30:23.897629
+914,"Arlington, VA",Lockheed Martin,9ef4226ed634bb6c,Computer Information Research Scientist Sr.,,51.6,3430,22 days,2016-10-16 00:30:23.897629
+915,"Bethesda, MD","Akima, LLC",f3bb5f6be045419c,Senior Research Analyst (Top Secret clearance with Polygraph...,,40.8,13,30+ days,2016-10-16 00:30:23.897629
+916,"Fort Meade, MD 20755",Constellation West,7e068d258d87bdc5,Operations Research Analyst,,39.0,2,14 days,2016-10-16 00:30:23.897629
+917,"Springfield, VA",Leidos,778ad158f37e977d,Sr. Imagery Scientist,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+918,"McLean, VA",Request Technology,94f4954d76aae1e4,Data Science Hadoop Developer,"$100,000 - $130,000 a year",,,18 days,2016-10-16 00:30:23.897629
+919,"Arlington, VA",Capital One,7f0a3fa2d057613e,"Product Operations Associate, Capital One Labs",,44.4,2904,11 days,2016-10-16 00:30:23.897629
+920,"Ashburn, VA 20147",George Washington University,a78c2a0d701a6d5d,Post Doctoral Scientist,,51.6,250,30+ days,2016-10-16 00:30:23.897629
+921,"Silver Spring, MD",Clinical Research Management,9383a65b50772d94,Preclinical Vaccine Evaluation Scientist,,41.4,9,30+ days,2016-10-16 00:30:23.897629
+922,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,84c07d93d35b24c9,Deep Learning Postdoctoral Fellow,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+923,"Arlington, VA",Vencore,eca901e8d198e9b9,Research Scientist/Engineer,,42.0,43,30+ days,2016-10-16 00:30:23.897629
+924,"Fairfax, VA",BOEING,11c1a15e6a018d5a,Supplier Program Manager(SPM),,51.6,2923,8 days,2016-10-16 00:30:23.897629
+925,"Rockville, MD",ICF,9b14b515ec0ca9cc,Health Communications Specialist,,40.8,233,10 days,2016-10-16 00:30:23.897629
+926,"Springfield, VA",General Dynamics - Information Technology,65d0346f8a53918c,Imagery Scientist,,43.8,3520,30+ days,2016-10-16 00:30:23.897629
+927,"Fort Belvoir, VA",Cubic Corporation,de896ba3a5da9993,Chemical/Biological Support Element Scientist/Instructor,,43.2,67,30+ days,2016-10-16 00:30:23.897629
+928,"College Park, MD 20740",Engility Corporation,e5ec3ecf8a511be5,Senior Linux Systems Engineer,,43.2,243,12 hours,2016-10-16 00:30:23.897629
+929,"Chantilly, VA 20151",The Aerospace Corporation,c7acea4fc2b21795,DevOps Engineer,,52.199997,46,2 days,2016-10-16 00:30:23.897629
+930,"Bethesda, MD 20814",The Geneva Foundation,b6ebe82c8d75fff2,Jr. Software Developer,"$60,000 - $80,000 a year",,,23 days,2016-10-16 00:30:23.897629
+931,"Alexandria, VA",Select Source Solutions,787e12dcc244516c,Software Engineer – Big Data/IoT,,,,30+ days,2016-10-16 00:30:23.897629
+932,"Bethesda, MD 20814",Experis,f3ae9197983eb52e,Scientific Project Manager - Oncology,,43.8,294,30+ days,2016-10-16 00:30:23.897629
+933,"Greenbelt, MD",ASRC Federal,59c9f7fb3b1bfb3e,Communications Specialist,,43.2,23,16 days,2016-10-16 00:30:23.897629
+934,"Gaithersburg, MD 20878",Leidos,232ca2a7e123374d,Development Associate III (NCI),,43.8,187,8 days,2016-10-16 00:30:23.897629
+935,"Rockville, MD 20850",Hendall Inc.,fd656db176d26898,Deputy Program Manager,,,,26 days,2016-10-16 00:30:23.897629
+936,"Rockville, MD 20852",US Pharmacopeia,5b7eaeee2418dc3d,"Executive Director, Quality Research Institute (WP)",,52.800003,3,30+ days,2016-10-16 00:30:23.897629
+937,"Rockville, MD",STG International,2b9630f161110cad,MR NIH Human Resources Assistant,,42.0,85,2 days,2016-10-16 00:30:23.897629
+938,"Annapolis Junction, MD",Shield Consulting Solutions,6dfb86c9141a5e22,Senior Software Engineer,,,,17 days,2016-10-16 00:30:23.897629
+939,"Washington, DC",Carnegie Institution,545a760b3c8b98b6,Systems Administrator,,,,6 days,2016-10-16 00:30:23.897629
+940,"Arlington, VA","Sotera Defense Solutions, Inc.",866019e2aa6ea7b4,Senior DevOps Engineer,,,,19 days,2016-10-16 00:30:23.897629
+941,"Rockville, MD","OMNITEC Solutions, Inc",1fc16d54948f3ee1,"JAVA Developer (Telecommute/Remote, Rockville,MD)",,54.0,2,30+ days,2016-10-16 00:30:23.897629
+942,"Rockville, MD",ICF,cf58becca93d10f5,Technical Specialist in Community Health Program Management...,,40.8,233,30+ days,2016-10-16 00:30:23.897629
+943,"Arlington, VA",ICF,37a60a340cef76a5,On-call MS Project Server SME - Platform Specialist,,40.8,233,27 days,2016-10-16 00:30:23.897629
+944,"Washington, DC 20024 (South West area)",Energetics Incorporated,9f068a7dc5cf9cc7,Buildings Engineering Consultant (Residential and Commercial...,,,,30+ days,2016-10-16 00:30:23.897629
+945,"Arlington, VA","Strategic Analysis, Inc",f45f57fe2f24b02b,Staff Scientist (Social Science and Mathematics),,52.199997,5,18 days,2016-10-16 00:30:23.897629
+946,"Chantilly, VA 20151",The Aerospace Corporation,f0750bc887b5bba5,Cloud Computing Summer Internship,,52.199997,46,9 days,2016-10-16 00:30:23.897629
+947,"Washington, DC 20036 (Downtown area)",ANALYTICA,46795ffdcce6b121,Project Manager,,51.0,4,30+ days,2016-10-16 00:30:23.897629
+948,"Gaithersburg, MD",SeraCare,7e976ae5f65ee4e9,Sr. Scientist - R&D,,39.0,3,30 days,2016-10-16 00:30:23.897629
+949,"Gaithersburg, MD",MRIGlobal,df234480e9a7c5c1,Staff Scientist - Research & Development,,,,30+ days,2016-10-16 00:30:23.897629
+950,"Arlington, VA 22203 (Bluemont area)",Hanover Research,15c0bc0eec4c932b,Senior Research Analyst—Market Research Practice Area,,42.6,5,30+ days,2016-10-16 00:30:23.897629
+951,"Arlington, VA",ICF,b1431ec28c1a95b2,Business Architect,,40.8,233,26 days,2016-10-16 00:30:23.897629
+952,"Bethesda, MD 20814",Child Trends,09ff1a01c38a26a3,Senior Research Analyst - Early Childhood,,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+953,"Rockville, MD",SNI Financial,10d23ed66641762c,Market Research Analyst,,40.2,5,16 days,2016-10-16 00:30:23.897629
+954,"Chantilly, VA 20151",The Aerospace Corporation,0b09efacd5f589b5,Manager - Engineering,,52.199997,46,2 days,2016-10-16 00:30:23.897629
+955,"Vienna, VA 22182",VHB,f631b8eea773e94f,Transportation Planner,,55.199997,3,25 days,2016-10-16 00:30:23.897629
+956,"Fairfax, VA",ICF,8751dc6981f71850,Workforce Consultant,,40.8,233,30+ days,2016-10-16 00:30:23.897629
+957,"Fairfax, VA",xentity corporation,e3299060ddf57ec6,GIS Data Systems Analysts,,,,30+ days,2016-10-16 00:30:23.897629
+958,"Annapolis Junction, MD",Booz Allen Hamilton,809304eba0a4b5bc,"Operations / Mathematical Modeling Research Analyst, Senior",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+959,"Arlington, VA",Capital One,c89e1aaafb0d0613,"Lead Software Engineer, Front End",,44.4,2904,29 days,2016-10-16 00:30:23.897629
+960,"Gaithersburg, MD 20878",Piper Clinical Solutions,6cfe41433946d490,Scientist II,,,,30+ days,2016-10-16 00:30:23.897629
+961,"Washington, DC 20036 (Downtown area)","Oceana, INC",c00069af31a36551,Marketing Manager - Global Fishing Watch,,,,30+ days,2016-10-16 00:30:23.897629
+962,"Rockville, MD",STG International,334152a4705652f6,HR Assistant,,42.0,85,3 days,2016-10-16 00:30:23.897629
+963,"Washington, DC 20036 (Downtown area)",American Chemical Society,f6acfa9ff1e6bd5c,Chief Information Security Officer,,51.0,29,30+ days,2016-10-16 00:30:23.897629
+964,"McLean, VA",Mitre Corporation,55c69933fbcdf690,Senior/Lead Computer Scientist,,51.6,106,30+ days,2016-10-16 00:30:23.897629
+965,"Herndon, VA",Nokia Siemens Networks,0055e05abfd9f69e,US Federal Account Director,,51.0,782,30+ days,2016-10-16 00:30:23.897629
+966,"Fort Belvoir, VA",Savantage,087e11697fe7faab,Chief Scientist / Senior Engineer (Lead),,,,23 days,2016-10-16 00:30:23.897629
+967,"Bethesda, MD 20813",Leidos,1ceb48cb53abed3c,Software Application Developer,,43.8,187,11 days,2016-10-16 00:30:23.897629
+968,"McLean, VA",Leidos,34ff20d15340fec2,Senior Airborne Image Scientist,,43.8,187,30+ days,2016-10-16 00:30:23.897629
+969,"Chantilly, VA",Ball Aerospace,4162cee33f54ff56,Senior Software Engineer – Search and Retrieval (659722),,43.2,35,9 days,2016-10-16 00:30:23.897629
+970,"Washington, DC","Sotera Defense Solutions, Inc.",9afacc1a36c85632,"Research Scientist, Senior",,,,30+ days,2016-10-16 00:30:23.897629
+971,"Reston, VA",Fractal Industries,adeb91ca1765f402,DevOps & Deployment Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+972,"Reston, VA",Fractal Industries,e7b1a710fdd9abb2,DevOps Engineer,,,,30+ days,2016-10-16 00:30:23.897629
+973,"Rockville, MD 20848",Leidos,73176fcef81bba1c,Part-Time Clinical Research Medical Writer II 631350 (NCI),,43.8,187,30+ days,2016-10-16 00:30:23.897629
+974,"Gaithersburg, MD",Eurofins,5890beb3ee3f5943,Biochemist,,,,18 days,2016-10-16 00:30:23.897629
+975,"Washington, DC",CACI International Inc,ec7536797fda9489,"Software Engineer,Principal Job",,44.4,815,30+ days,2016-10-16 00:30:23.897629
+976,"Rockville, MD",Lucidus Solutions,df0f99626cdd55ed,Senior Front End Developer,,,,13 days,2016-10-16 00:30:23.897629
+977,"Gaithersburg, MD 20899",AstraZeneca,09ce993f7365e045,Safety Physican - Oncology,,51.6,568,9 days,2016-10-16 00:30:23.897629
+978,"Washington, DC",Smith & Keller,846c787ea7af4f8f,Front End Engineer,,,,22 hours,2016-10-16 00:30:23.897629
+979,"Gaithersburg, MD",inVentiv Health Clinical,4ab05bf8a663e002,Sr. Statistical Programmer - REMOTE,,43.8,52,30+ days,2016-10-16 00:30:23.897629
+980,"Bethesda, MD",Addison Group,5677954042776e79,Junior Research Analyst,,44.4,59,30+ days,2016-10-16 00:30:23.897629
+981,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,efad17419fe752fd,Automotive Electronics and Software Engineer,,51.0,30,30+ days,2016-10-16 00:30:23.897629
+982,"Washington, DC 20009 (U Street Corridor area)",Environmental Defense Fund,046cc0e5f0df6861,Scientist - Sustainable Agriculture,,52.199997,14,30+ days,2016-10-16 00:30:23.897629
+983,"Reston, VA",Zoomdata,112038e7cc4c9923,Product Manager,,,,23 days,2016-10-16 00:30:23.897629
+984,"Fort Meade, MD",PAE,406b1cbac63563c9,AW Research Analyst,,43.8,215,30+ days,2016-10-16 00:30:23.897629
+985,"Bethesda, MD 20814",Child Trends,b6241ed66e0b7b6e,Research Analyst - Child Welfare,,55.199997,3,30+ days,2016-10-16 00:30:23.897629
+986,"Springfield, VA 22150",EOIR Technologies,ac6b04a35681c7d8,OPIR Scientist,,52.199997,21,30+ days,2016-10-16 00:30:23.897629
+987,"Falls Church, VA 22040",Knowesis Inc.,bcb79a549fda7042,"Program Analyst (Military Medical Research, Development, and...",,,,30+ days,2016-10-16 00:30:23.897629
+988,"Vienna, VA 22182",VHB,18d83baa0d2d4f2d,Transportation Engineer,,55.199997,3,25 days,2016-10-16 00:30:23.897629
+989,"Springfield, VA",Booz Allen Hamilton,96e1d3124d6004dd,"Image Scientist, Lead",,44.4,945,30+ days,2016-10-16 00:30:23.897629
+990,"Millersville, MD",BluVector Cyber,0dcb946d827b2cb1,Applied Malware Researcher,,,,17 days,2016-10-16 00:30:23.897629
+991,"Chantilly, VA",Praxis Engineering,f968e9cff23b6366,Principal Engineer/Scientist,,55.800003,9,30+ days,2016-10-16 00:30:23.897629
+992,"Fort George G Meade, MD",National Security Agency,cec12e035cb800b1,Cryptanalytic Computer Network Operations Development Progra...,"$67,906 - $84,611 a year",53.4,78,30+ days,2016-10-16 00:30:23.897629
+993,"Arlington, VA","OnPoint Consulting, Inc.",a9d638308939fbe1,Senior Business Intelligence Developer,,,,30+ days,2016-10-16 00:30:23.897629
+994,"Arlington, VA",BAE Systems,3da0c04c53c67378,Senior Principal Research Software Engineer,,44.4,1700,27 days,2016-10-16 00:30:23.897629
+995,"Bethesda, MD",Columbus Technologies and Services,3ad4ce9fc3ad6871,Project Manager - Quality Assurance/IV&V,,,,30+ days,2016-10-16 00:30:23.897629
+996,"Bethesda, MD 20814",Abt Associates,bdc2aa8cae972678,Assoc / Scientist,,52.199997,19,30+ days,2016-10-16 00:30:23.897629
+997,"Chantilly, VA",Ball Aerospace,c0560121c83b6d89,Product Owner (659723),,43.2,35,9 days,2016-10-16 00:30:23.897629
+998,"Fairfax, VA",ICF,48bf64e4cc47a8f4,Senior Vice President-Controller,,40.8,233,22 days,2016-10-16 00:30:23.897629
+999,"Laurel, MD",The Johns Hopkins Applied Physics Laboratory,69c36ad6c7fd7413,Optical Scientist/Engineer,,51.0,30,30+ days,2016-10-16 00:30:23.897629

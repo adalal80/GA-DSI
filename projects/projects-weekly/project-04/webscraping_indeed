@@ -1,0 +1,112 @@
+################################################################
+############### EDIT THESE CONSTANTS
+############### 
+###############        EDIT THESE CONSTANTS
+
+MAX_RESULTS_PER_CITY = 10       ### DO NOT SET MORE THAN 1000
+URL_SEARCH_TERM = 'Data Scientist' ### DO NOT SET MORE THAN SINGLE SEARCH TERM (TITLE)
+CITY_SET = ['New York', 'Chicago', 'San Francisco', 'Austin', 'Atlanta', '', 'Boston', 'Seattle']
+
+###############
+################################################################
+
+
+import requests
+import bs4
+import pandas as pd
+from bs4 import BeautifulSoup
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium import webdriver
+import datetime
+import urllib
+
+def extract_location_from_resultRow(result):
+    try:
+        location = (result.find(class_='location').text.strip())
+    except:
+        location = ''
+    return location
+
+def extract_company_from_resultRow(result):
+    try:
+        company = (result.find(class_='company').text.strip())
+    except:
+        company = ''
+    return company
+
+def extract_jkid_from_resultRow(result):
+    try:
+        row = (result.find(class_='jobtitle turnstileLink'))
+        jkid = result['data-jk']
+    except: 
+        jkid = ''
+    return jkid
+
+def extract_title_from_resultRow(result):
+    try:
+        title = (result.find(class_='turnstileLink'))
+        title_text = title.text
+    except: 
+        title_text = ''
+    return title_text
+
+def extract_salary_from_resultRow(result):
+    try:
+        salary = (result.find(class_='snip').find('nobr').text)
+    except:
+        salary = ''
+    salary_text = salary
+    return salary_text
+
+def extract_reviews_from_resultRow(result):
+    try:
+        reviews = (result.find(class_='slNoUnderline').text.strip().strip(' reviews').replace(',',''))
+    except: 
+        reviews = ''
+    return reviews
+
+def extract_stars_from_resultRow(result):
+    try: 
+        stars = (result.find(class_='rating')['style']).split(';background-position:')[1].split(':')[1].split('px')[0].strip()
+    except: 
+        stars = ''
+    return stars
+
+def extract_date_from_resultRow(result):
+    try: 
+        date = (result.find(class_='date').text.strip(' ago').strip())
+    except: 
+        date = ''
+    return date
+
+dcap = dict(DesiredCapabilities.PHANTOMJS)
+dcap["phantomjs.page.settings.userAgent"] = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36")
+
+driver = webdriver.PhantomJS(executable_path='/Applications/anaconda/anaconda/bin/phantomJS', desired_capabilities=dcap)
+driver.set_window_size(1024, 768) 
+
+for city in CITY_SET:
+    job_dict = []
+    now = datetime.datetime.now()
+    for start in range(0, MAX_RESULTS_PER_CITY, 10):
+
+        URL = "http://www.indeed.com/jobs?q="+urllib.quote(URL_SEARCH_TERM)+"&l="+urllib.quote(city)+"&start="+str(start)
+        driver.get(URL)
+        soup = BeautifulSoup(driver.page_source, "lxml")
+
+        for i in soup.findAll("div", {"data-tn-component" : "organicJob"}):
+
+            location = extract_location_from_resultRow(i)
+            company = extract_company_from_resultRow(i)
+            jkid = extract_jkid_from_resultRow(i)
+            title = extract_title_from_resultRow(i)
+            salary = extract_salary_from_resultRow(i)
+            reviews = extract_reviews_from_resultRow(i)
+            stars = extract_stars_from_resultRow(i)
+            post_date = extract_date_from_resultRow(i)
+
+            job_dict.append([location, company, jkid,title, salary, stars, reviews, post_date, now])
+            
+        job_df = pd.DataFrame(job_dict, columns=['location', 'company', 'jkid', 'title', 'salary', 'stars', 'reviews', 'post_date', 'pull_date'])       
+
+    job_df.to_csv('scrape'+city+'_'+str(MAX_RESULTS_PER_CITY)+'.csv', encoding='utf-8')

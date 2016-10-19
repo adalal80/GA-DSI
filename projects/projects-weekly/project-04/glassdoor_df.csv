@@ -1,0 +1,1132 @@
+,company,title,meanPay,City,low_sal,high_sal,sal_avg,entry_bin,mid_bin,senior_bin
+0,careerbuilder,Data Scientist,86172,atlanta,86172,86172,86172,0,1,0
+1,ncr,Data Scientist,86000 - 94000,atlanta,86000,94000,90000,0,1,0
+2,the home depot,Data Scientist,90000 - 104000,atlanta,90000,104000,97000,0,1,0
+3,feedzai,Data Scientist,86000 - 94000,atlanta,86000,94000,90000,0,1,0
+4,ibm,Data Scientist,102000 - 111000,atlanta,102000,111000,106500,0,1,0
+5,booz allen hamilton,Data Scientist,71000 - 78000,atlanta,71000,78000,74500,0,1,0
+6,pwc,Data Scientist,94000 - 104000,atlanta,94000,104000,99000,0,1,0
+7,cognizant technology solutions,Data Scientist,87000 - 95000,atlanta,87000,95000,91000,0,1,0
+8,rang technologies,Data Scientist,96000 - 106000,atlanta,96000,106000,101000,0,1,0
+9,kpmg,Data Scientist,90000 - 97000,atlanta,90000,97000,93500,0,1,0
+10,gallup,Data Scientist,81000 - 89000,atlanta,81000,89000,85000,0,1,0
+11,hewlett packard enterprise | hpe,Data Scientist,91000 - 99000,atlanta,91000,99000,95000,0,1,0
+12,verizon,Data Scientist,104000 - 112000,atlanta,104000,112000,108000,0,1,0
+13,verizon wireless,Data Scientist,96000 - 104000,atlanta,96000,104000,100000,0,1,0
+14,fractal analytics,Data Scientist,81000 - 89000,atlanta,81000,89000,85000,0,1,0
+15,equifax,Data Scientist,90000 - 97000,atlanta,90000,97000,93500,0,1,0
+16,northrop grumman,Data Scientist,92000 - 100000,atlanta,92000,100000,96000,0,1,0
+17,adp,Data Scientist,85000 - 93000,atlanta,85000,93000,89000,0,1,0
+18,kabbage,Data Scientist,89000 - 97000,atlanta,89000,97000,93000,0,1,0
+19,citi,Data Scientist,90000 - 100000,atlanta,90000,100000,95000,0,1,0
+20,honeywell,Data Scientist,97000 - 104000,atlanta,97000,104000,100500,0,1,0
+21,at&t,Data Scientist,105000 - 112000,atlanta,105000,112000,108500,0,1,0
+22,intuitive surgical,Data Scientist,107000 - 115000,atlanta,107000,115000,111000,0,1,0
+23,hearst,Data Scientist,92000 - 99000,atlanta,92000,99000,95500,0,1,0
+24,cox enterprises,Data Scientist,92000 - 101000,atlanta,92000,101000,96500,0,1,0
+25,macy's,Data Scientist,86000 - 93000,atlanta,86000,93000,89500,0,1,0
+26,bank of america,Data Scientist,92000 - 100000,atlanta,92000,100000,96000,0,1,0
+27,ibm,Entry Level Data Scientist,89000 - 96000,atlanta,89000,96000,92500,0,1,0
+28,ibm,Senior Data Scientist,115000 - 123000,atlanta,115000,123000,119000,0,0,1
+29,kpmg,Senior Data Scientist,101000 - 108000,atlanta,101000,108000,104500,0,0,1
+30,verizon,Senior Data Scientist,118000 - 127000,atlanta,118000,127000,122500,0,0,1
+31,at&t,Senior Data Scientist,117000 - 127000,atlanta,117000,127000,122000,0,0,1
+32,exponent,Senior Data Scientist,91000 - 99000,atlanta,91000,99000,95000,0,0,1
+33,razorfish,Senior Data Scientist,115000 - 126000,atlanta,115000,126000,120500,0,0,1
+34,market strategies international,Senior Data Scientist,90000 - 97000,atlanta,90000,97000,93500,0,0,1
+35,ge,Senior Data Scientist,121000 - 131000,atlanta,121000,131000,126000,0,0,1
+36,experian,Senior Data Scientist,121000 - 130000,atlanta,121000,130000,125500,0,0,1
+37,verizon wireless,Senior Data Scientist,108000 - 116000,atlanta,108000,116000,112000,0,0,1
+38,verizon wireless,Junior Data Scientist,83000 - 90000,atlanta,83000,90000,86500,1,0,0
+39,verizon,Junior Data Scientist,89000 - 97000,atlanta,89000,97000,93000,1,0,0
+40,think big,Principal Data Scientist,132000 - 140000,atlanta,132000,140000,136000,0,0,1
+41,at&t,Principal Data Scientist,130000 - 141000,atlanta,130000,141000,135500,0,0,1
+42,think big,Principal Data Scientist,130000 - 142000,atlanta,130000,142000,136000,0,0,1
+43,at&t,Principal Data Scientist,132000 - 141000,atlanta,132000,141000,136500,0,0,1
+44,think big,Principal Data Scientist,130000 - 142000,atlanta,130000,142000,136000,0,0,1
+45,at&t,Principal Data Scientist,129000 - 141000,atlanta,129000,141000,135000,0,0,1
+46,think big,Principal Data Scientist,129000 - 140000,atlanta,129000,140000,134500,0,0,1
+47,at&t,Principal Data Scientist,132000 - 141000,atlanta,132000,141000,136500,0,0,1
+48,square root,Data Scientist,66940,austin,66940,66940,66940,0,1,0
+49,adometry,Data Scientist,76054,austin,76054,76054,76054,0,1,0
+50,vast,Data Scientist,109000 - 126000,austin,109000,126000,117500,0,1,0
+51,facebook,Data Scientist,164000 - 177000,austin,164000,177000,170500,0,1,0
+52,apple,Data Scientist,107000 - 116000,austin,107000,116000,111500,0,1,0
+53,ibm,Data Scientist,114000 - 123000,austin,114000,123000,118500,0,1,0
+54,pwc,Data Scientist,107000 - 115000,austin,107000,115000,111000,0,1,0
+55,gallup,Data Scientist,91000 - 99000,austin,91000,99000,95000,0,1,0
+56,amazon.com,Data Scientist,130000 - 143000,austin,130000,143000,136500,0,1,0
+57,ebay,Data Scientist,115000 - 125000,austin,115000,125000,120000,0,1,0
+58,visa inc.,Data Scientist,113000 - 123000,austin,113000,123000,118000,0,1,0
+59,ntt data,Data Scientist,107000 - 118000,austin,107000,118000,112500,0,1,0
+60,zynga,Data Scientist,119000 - 130000,austin,119000,130000,124500,0,1,0
+61,general motors,Data Scientist,122000 - 133000,austin,122000,133000,127500,0,1,0
+62,the advisory board company,Data Scientist,94000 - 102000,austin,94000,102000,98000,0,1,0
+63,adometry,Senior Data Scientist,92000 - 107000,austin,92000,107000,99500,0,0,1
+64,clockwork solutions,Principal Data Scientist,95000 - 111000,austin,95000,111000,103000,0,0,1
+65,ibm,Entry Level Data Scientist,99000 - 108000,austin,99000,108000,103500,0,1,0
+66,the advisory board company,Senior Data Scientist,99000 - 107000,austin,99000,107000,103000,0,0,1
+67,ibm,Senior Data Scientist,127000 - 138000,austin,127000,138000,132500,0,0,1
+68,kpmg,Senior Data Scientist,112000 - 123000,austin,112000,123000,117500,0,0,1
+69,intel corporation,Senior Data Scientist,134000 - 145000,austin,134000,145000,139500,0,0,1
+70,amazon.com,Senior Data Scientist,147000 - 161000,austin,147000,161000,154000,0,0,1
+71,maxpoint,Senior Data Scientist,97000 - 105000,austin,97000,105000,101000,0,0,1
+72,general motors,Senior Data Scientist,138000 - 150000,austin,138000,150000,144000,0,0,1
+73,dell,Junior Data Scientist,96000 - 103000,austin,96000,103000,99500,1,0,0
+74,kpmg,Senior Data Scientist,113000 - 123000,austin,113000,123000,118000,0,0,1
+75,intel corporation,Senior Data Scientist,135000 - 144000,austin,135000,144000,139500,0,0,1
+76,amazon.com,Senior Data Scientist,147000 - 161000,austin,147000,161000,154000,0,0,1
+77,maxpoint,Senior Data Scientist,97000 - 104000,austin,97000,104000,100500,0,0,1
+78,general motors,Senior Data Scientist,139000 - 148000,austin,139000,148000,143500,0,0,1
+79,dell,Junior Data Scientist,95000 - 103000,austin,95000,103000,99000,1,0,0
+80,kpmg,Senior Data Scientist,113000 - 123000,austin,113000,123000,118000,0,0,1
+81,intel corporation,Senior Data Scientist,134000 - 145000,austin,134000,145000,139500,0,0,1
+82,amazon.com,Senior Data Scientist,148000 - 159000,austin,148000,159000,153500,0,0,1
+83,maxpoint,Senior Data Scientist,97000 - 105000,austin,97000,105000,101000,0,0,1
+84,general motors,Senior Data Scientist,137000 - 150000,austin,137000,150000,143500,0,0,1
+85,dell,Junior Data Scientist,95000 - 103000,austin,95000,103000,99000,1,0,0
+86,kpmg,Senior Data Scientist,114000 - 122000,austin,114000,122000,118000,0,0,1
+87,intel corporation,Senior Data Scientist,133000 - 145000,austin,133000,145000,139000,0,0,1
+88,amazon.com,Senior Data Scientist,149000 - 161000,austin,149000,161000,155000,0,0,1
+89,maxpoint,Senior Data Scientist,97000 - 106000,austin,97000,106000,101500,0,0,1
+90,general motors,Senior Data Scientist,139000 - 149000,austin,139000,149000,144000,0,0,1
+91,dell,Junior Data Scientist,95000 - 104000,austin,95000,104000,99500,1,0,0
+92,kpmg,Senior Data Scientist,113000 - 123000,austin,113000,123000,118000,0,0,1
+93,intel corporation,Senior Data Scientist,135000 - 144000,austin,135000,144000,139500,0,0,1
+94,amazon.com,Senior Data Scientist,149000 - 161000,austin,149000,161000,155000,0,0,1
+95,maxpoint,Senior Data Scientist,97000 - 104000,austin,97000,104000,100500,0,0,1
+96,general motors,Senior Data Scientist,138000 - 148000,austin,138000,148000,143000,0,0,1
+97,dell,Junior Data Scientist,95000 - 104000,austin,95000,104000,99500,1,0,0
+98,wayfair,Data Scientist,94496,boston,94496,94496,94496,0,1,0
+99,tripadvisor,Data Scientist,119000,boston,119000,119000,119000,0,1,0
+100,truemotion,Data Scientist,106250,boston,106250,106250,106250,0,1,0
+101,dataxu,Data Scientist,108269,boston,108269,108269,108269,0,1,0
+102,paypal,Data Scientist,126348,boston,126348,126348,126348,0,1,0
+103,tremor video,Data Scientist,87000 - 98000,boston,87000,98000,92500,0,1,0
+104,adp,Data Scientist,70000 - 99000,boston,70000,99000,84500,0,1,0
+105,ibm,Data Scientist,94000 - 102000,boston,94000,102000,98000,0,1,0
+106,microsoft,Data Scientist,125000 - 135000,boston,125000,135000,130000,0,1,0
+107,philips,Data Scientist,105000 - 114000,boston,105000,114000,109500,0,1,0
+108,altisource,Data Scientist,114000 - 124000,boston,114000,124000,119000,0,1,0
+109,vantiv,Data Scientist,114000 - 124000,boston,114000,124000,119000,0,1,0
+110,autodesk,Data Scientist,91000 - 99000,boston,91000,99000,95000,0,1,0
+111,brown university,Data Scientist,65000 - 70000,boston,65000,70000,67500,0,1,0
+112,boston consulting group,Data Scientist,144000 - 155000,boston,144000,155000,149500,0,1,0
+113,booz allen hamilton,Data Scientist,80000 - 86000,boston,80000,86000,83000,0,1,0
+114,pwc,Data Scientist,104000 - 114000,boston,104000,114000,109000,0,1,0
+115,cognizant technology solutions,Data Scientist,97000 - 106000,boston,97000,106000,101500,0,1,0
+116,nielsen,Data Scientist,63000 - 69000,boston,63000,69000,66000,0,1,0
+117,gallup,Data Scientist,89000 - 98000,boston,89000,98000,93500,0,1,0
+118,ebay,Data Scientist,115000 - 124000,boston,115000,124000,119500,0,1,0
+119,ciber,Data Scientist,107000 - 116000,boston,107000,116000,111500,0,1,0
+120,nokia,Data Scientist,106000 - 114000,boston,106000,114000,110000,0,1,0
+121,ge,Data Scientist,120000 - 130000,boston,120000,130000,125000,0,1,0
+122,epsilon,Data Scientist,113000 - 124000,boston,113000,124000,118500,0,1,0
+123,alliance data,Data Scientist,100000 - 109000,boston,100000,109000,104500,0,1,0
+124,aptima,Data Scientist,98000 - 106000,boston,98000,106000,102000,0,1,0
+125,ntt data,Data Scientist,107000 - 116000,boston,107000,116000,111500,0,1,0
+126,blackbaud,Data Scientist,97000 - 106000,boston,97000,106000,101500,0,1,0
+127,exponent,Data Scientist,90000 - 97000,boston,90000,97000,93500,0,1,0
+128,sapient global markets,Data Scientist,121000 - 132000,boston,121000,132000,126500,0,1,0
+129,godaddy,Data Scientist,98000 - 105000,boston,98000,105000,101500,0,1,0
+130,viasat,Data Scientist,103000 - 110000,boston,103000,110000,106500,0,1,0
+131,nvidia,Data Scientist,121000 - 132000,boston,121000,132000,126500,0,1,0
+132,spotify,Data Scientist,134000 - 143000,boston,134000,143000,138500,0,1,0
+133,novartis pharmaceuticals,Data Scientist,113000 - 121000,boston,113000,121000,117000,0,1,0
+134,aci worldwide,Data Scientist,111000 - 119000,boston,111000,119000,115000,0,1,0
+135,biogen,Senior Data Scientist,105000 - 168000,boston,105000,168000,136500,0,0,1
+136,ibm,Entry Level Data Scientist,98000 - 108000,boston,98000,108000,103000,0,1,0
+137,microsoft,Data Scientist II,116000 - 127000,boston,116000,127000,121500,0,1,0
+138,ibm,Senior Data Scientist,127000 - 138000,boston,127000,138000,132500,0,0,1
+139,microsoft,Senior Data Scientist,138000 - 152000,boston,138000,152000,145000,0,0,1
+140,booz allen hamilton,Senior Data Scientist,90000 - 96000,boston,90000,96000,93000,0,0,1
+141,think big,Senior Data Scientist,131000 - 140000,boston,131000,140000,135500,0,0,1
+142,maxpoint,Senior Data Scientist,95000 - 103000,boston,95000,103000,99000,0,0,1
+143,tiger analytics,Senior Data Scientist,106000 - 115000,boston,106000,115000,110500,0,0,1
+144,akamai,Senior Data Scientist,137000 - 149000,boston,137000,149000,143000,0,0,1
+145,yume,Senior Data Scientist,128000 - 138000,boston,128000,138000,133000,0,0,1
+146,fis,Senior Data Scientist,111000 - 121000,boston,111000,121000,116000,0,0,1
+147,amazon.com,Data Scientist Intern,107000 - 117000,boston,107000,117000,112000,1,0,0
+148,viasat,Data Scientist Intern,83000 - 90000,boston,83000,90000,86500,1,0,0
+149,think big,Principal Data Scientist,144000 - 157000,boston,144000,157000,150500,0,0,1
+150,bny mellon,Principal Data Scientist,123000 - 131000,boston,123000,131000,127000,0,0,1
+151,ibm,Senior Data Scientist,127000 - 137000,boston,127000,137000,132000,0,0,1
+152,microsoft,Senior Data Scientist,139000 - 153000,boston,139000,153000,146000,0,0,1
+153,booz allen hamilton,Senior Data Scientist,90000 - 98000,boston,90000,98000,94000,0,0,1
+154,think big,Senior Data Scientist,129000 - 139000,boston,129000,139000,134000,0,0,1
+155,maxpoint,Senior Data Scientist,95000 - 103000,boston,95000,103000,99000,0,0,1
+156,tiger analytics,Senior Data Scientist,107000 - 115000,boston,107000,115000,111000,0,0,1
+157,akamai,Senior Data Scientist,139000 - 150000,boston,139000,150000,144500,0,0,1
+158,yume,Senior Data Scientist,128000 - 138000,boston,128000,138000,133000,0,0,1
+159,fis,Senior Data Scientist,111000 - 121000,boston,111000,121000,116000,0,0,1
+160,amazon.com,Data Scientist Intern,108000 - 117000,boston,108000,117000,112500,1,0,0
+161,viasat,Data Scientist Intern,83000 - 90000,boston,83000,90000,86500,1,0,0
+162,think big,Principal Data Scientist,144000 - 156000,boston,144000,156000,150000,0,0,1
+163,bny mellon,Principal Data Scientist,123000 - 131000,boston,123000,131000,127000,0,0,1
+164,ibm,Senior Data Scientist,125000 - 138000,boston,125000,138000,131500,0,0,1
+165,microsoft,Senior Data Scientist,140000 - 151000,boston,140000,151000,145500,0,0,1
+166,booz allen hamilton,Senior Data Scientist,90000 - 98000,boston,90000,98000,94000,0,0,1
+167,think big,Senior Data Scientist,130000 - 139000,boston,130000,139000,134500,0,0,1
+168,maxpoint,Senior Data Scientist,94000 - 102000,boston,94000,102000,98000,0,0,1
+169,tiger analytics,Senior Data Scientist,105000 - 116000,boston,105000,116000,110500,0,0,1
+170,akamai,Senior Data Scientist,138000 - 150000,boston,138000,150000,144000,0,0,1
+171,yume,Senior Data Scientist,129000 - 138000,boston,129000,138000,133500,0,0,1
+172,fis,Senior Data Scientist,113000 - 122000,boston,113000,122000,117500,0,0,1
+173,amazon.com,Data Scientist Intern,106000 - 115000,boston,106000,115000,110500,1,0,0
+174,viasat,Data Scientist Intern,84000 - 90000,boston,84000,90000,87000,1,0,0
+175,think big,Principal Data Scientist,144000 - 157000,boston,144000,157000,150500,0,0,1
+176,bny mellon,Principal Data Scientist,123000 - 133000,boston,123000,133000,128000,0,0,1
+177,ibm,Senior Data Scientist,128000 - 138000,boston,128000,138000,133000,0,0,1
+178,microsoft,Senior Data Scientist,140000 - 150000,boston,140000,150000,145000,0,0,1
+179,booz allen hamilton,Senior Data Scientist,89000 - 97000,boston,89000,97000,93000,0,0,1
+180,think big,Senior Data Scientist,130000 - 139000,boston,130000,139000,134500,0,0,1
+181,maxpoint,Senior Data Scientist,95000 - 103000,boston,95000,103000,99000,0,0,1
+182,tiger analytics,Senior Data Scientist,106000 - 115000,boston,106000,115000,110500,0,0,1
+183,akamai,Senior Data Scientist,138000 - 150000,boston,138000,150000,144000,0,0,1
+184,yume,Senior Data Scientist,128000 - 140000,boston,128000,140000,134000,0,0,1
+185,fis,Senior Data Scientist,112000 - 120000,boston,112000,120000,116000,0,0,1
+186,amazon.com,Data Scientist Intern,106000 - 115000,boston,106000,115000,110500,1,0,0
+187,viasat,Data Scientist Intern,83000 - 91000,boston,83000,91000,87000,1,0,0
+188,think big,Principal Data Scientist,143000 - 157000,boston,143000,157000,150000,0,0,1
+189,bny mellon,Principal Data Scientist,121000 - 131000,boston,121000,131000,126000,0,0,1
+190,state farm,Data Scientist,100000 - 110000,dallas,100000,110000,105000,0,1,0
+191,epsilon,Data Scientist,160000 - 171000,dallas,160000,171000,165500,0,1,0
+192,match,Data Scientist,79000 - 87000,dallas,79000,87000,83000,0,1,0
+193,hudl,Data Scientist,87000 - 93000,dallas,87000,93000,90000,0,1,0
+194,at&t,Data Scientist,92000 - 100000,dallas,92000,100000,96000,0,1,0
+195,ibm,Data Scientist,103000 - 112000,dallas,103000,112000,107500,0,1,0
+196,capital one,Data Scientist,105000 - 113000,dallas,105000,113000,109000,0,1,0
+197,pwc,Data Scientist,97000 - 105000,dallas,97000,105000,101000,0,1,0
+198,kpmg,Data Scientist,90000 - 98000,dallas,90000,98000,94000,0,1,0
+199,gallup,Data Scientist,83000 - 89000,dallas,83000,89000,86000,0,1,0
+200,verizon,Data Scientist,107000 - 114000,dallas,107000,114000,110500,0,1,0
+201,hewlett packard enterprise | hpe,Data Scientist,93000 - 101000,dallas,93000,101000,97000,0,1,0
+202,hewlett-packard,Data Scientist,97000 - 106000,dallas,97000,106000,101500,0,1,0
+203,verizon wireless,Data Scientist,97000 - 106000,dallas,97000,106000,101500,0,1,0
+204,lockheed martin,Data Scientist,94000 - 103000,dallas,94000,103000,98500,0,1,0
+205,leidos,Data Scientist,85000 - 92000,dallas,85000,92000,88500,0,1,0
+206,alliance data,Data Scientist,92000 - 101000,dallas,92000,101000,96500,0,1,0
+207,citi,Data Scientist,92000 - 101000,dallas,92000,101000,96500,0,1,0
+208,humana,Data Scientist,94000 - 102000,dallas,94000,102000,98000,0,1,0
+209,infovision,Data Scientist,84000 - 90000,dallas,84000,90000,87000,0,1,0
+210,toyota north america,Data Scientist,95000 - 104000,dallas,95000,104000,99500,0,1,0
+211,argo data,Data Scientist,93000 - 100000,dallas,93000,100000,96500,0,1,0
+212,kemper,Data Scientist,91000 - 100000,dallas,91000,100000,95500,0,1,0
+213,ibm,Entry Level Data Scientist,90000 - 98000,dallas,90000,98000,94000,0,1,0
+214,ibm,Senior Data Scientist,115000 - 125000,dallas,115000,125000,120000,0,0,1
+215,kpmg,Senior Data Scientist,103000 - 111000,dallas,103000,111000,107000,0,0,1
+216,capital one,Senior Data Scientist,117000 - 128000,dallas,117000,128000,122500,0,0,1
+217,verizon,Senior Data Scientist,118000 - 128000,dallas,118000,128000,123000,0,0,1
+218,hewlett packard enterprise | hpe,Senior Data Scientist,103000 - 112000,dallas,103000,112000,107500,0,0,1
+219,at&t,Senior Data Scientist,119000 - 130000,dallas,119000,130000,124500,0,0,1
+220,hewlett-packard,Senior Data Scientist,109000 - 120000,dallas,109000,120000,114500,0,0,1
+221,alliance data,Senior Data Scientist,105000 - 114000,dallas,105000,114000,109500,0,0,1
+222,expedia,Senior Data Scientist,130000 - 142000,dallas,130000,142000,136000,0,0,1
+223,elevate credit,Senior Data Scientist,123000 - 134000,dallas,123000,134000,128500,0,0,1
+224,raytheon,Senior Data Scientist,106000 - 112000,dallas,106000,112000,109000,0,0,1
+225,mitre,Junior Data Scientist,86000 - 92000,dallas,86000,92000,89000,1,0,0
+226,dell,Junior Data Scientist,87000 - 94000,dallas,87000,94000,90500,1,0,0
+227,capital one,Principal Data Scientist,96000 - 105000,dallas,96000,105000,100500,0,0,1
+228,at&t,Principal Data Scientist,132000 - 145000,dallas,132000,145000,138500,0,0,1
+229,toyota north america,Data Scientist,95000 - 103000,dallas,95000,103000,99000,0,1,0
+230,argo data,Data Scientist,93000 - 99000,dallas,93000,99000,96000,0,1,0
+231,kemper,Data Scientist,92000 - 100000,dallas,92000,100000,96000,0,1,0
+232,ibm,Entry Level Data Scientist,90000 - 97000,dallas,90000,97000,93500,0,1,0
+233,ibm,Senior Data Scientist,116000 - 125000,dallas,116000,125000,120500,0,0,1
+234,kpmg,Senior Data Scientist,102000 - 110000,dallas,102000,110000,106000,0,0,1
+235,capital one,Senior Data Scientist,118000 - 127000,dallas,118000,127000,122500,0,0,1
+236,verizon,Senior Data Scientist,119000 - 129000,dallas,119000,129000,124000,0,0,1
+237,hewlett packard enterprise | hpe,Senior Data Scientist,105000 - 113000,dallas,105000,113000,109000,0,0,1
+238,at&t,Senior Data Scientist,120000 - 130000,dallas,120000,130000,125000,0,0,1
+239,hewlett-packard,Senior Data Scientist,109000 - 120000,dallas,109000,120000,114500,0,0,1
+240,alliance data,Senior Data Scientist,105000 - 112000,dallas,105000,112000,108500,0,0,1
+241,expedia,Senior Data Scientist,130000 - 142000,dallas,130000,142000,136000,0,0,1
+242,elevate credit,Senior Data Scientist,123000 - 133000,dallas,123000,133000,128000,0,0,1
+243,raytheon,Senior Data Scientist,106000 - 113000,dallas,106000,113000,109500,0,0,1
+244,mitre,Junior Data Scientist,86000 - 92000,dallas,86000,92000,89000,1,0,0
+245,dell,Junior Data Scientist,86000 - 94000,dallas,86000,94000,90000,1,0,0
+246,capital one,Principal Data Scientist,97000 - 104000,dallas,97000,104000,100500,0,0,1
+247,at&t,Principal Data Scientist,133000 - 144000,dallas,133000,144000,138500,0,0,1
+248,toyota north america,Data Scientist,95000 - 103000,dallas,95000,103000,99000,0,1,0
+249,argo data,Data Scientist,92000 - 100000,dallas,92000,100000,96000,0,1,0
+250,kemper,Data Scientist,92000 - 100000,dallas,92000,100000,96000,0,1,0
+251,ibm,Entry Level Data Scientist,92000 - 99000,dallas,92000,99000,95500,0,1,0
+252,ibm,Senior Data Scientist,117000 - 126000,dallas,117000,126000,121500,0,0,1
+253,kpmg,Senior Data Scientist,103000 - 112000,dallas,103000,112000,107500,0,0,1
+254,capital one,Senior Data Scientist,117000 - 127000,dallas,117000,127000,122000,0,0,1
+255,verizon,Senior Data Scientist,119000 - 128000,dallas,119000,128000,123500,0,0,1
+256,hewlett packard enterprise | hpe,Senior Data Scientist,104000 - 112000,dallas,104000,112000,108000,0,0,1
+257,at&t,Senior Data Scientist,119000 - 129000,dallas,119000,129000,124000,0,0,1
+258,hewlett-packard,Senior Data Scientist,109000 - 119000,dallas,109000,119000,114000,0,0,1
+259,alliance data,Senior Data Scientist,104000 - 113000,dallas,104000,113000,108500,0,0,1
+260,expedia,Senior Data Scientist,130000 - 140000,dallas,130000,140000,135000,0,0,1
+261,elevate credit,Senior Data Scientist,124000 - 133000,dallas,124000,133000,128500,0,0,1
+262,raytheon,Senior Data Scientist,104000 - 112000,dallas,104000,112000,108000,0,0,1
+263,mitre,Junior Data Scientist,86000 - 92000,dallas,86000,92000,89000,1,0,0
+264,dell,Junior Data Scientist,85000 - 94000,dallas,85000,94000,89500,1,0,0
+265,capital one,Principal Data Scientist,97000 - 105000,dallas,97000,105000,101000,0,0,1
+266,at&t,Principal Data Scientist,134000 - 144000,dallas,134000,144000,139000,0,0,1
+267,toyota north america,Data Scientist,95000 - 103000,dallas,95000,103000,99000,0,1,0
+268,argo data,Data Scientist,92000 - 100000,dallas,92000,100000,96000,0,1,0
+269,kemper,Data Scientist,92000 - 99000,dallas,92000,99000,95500,0,1,0
+270,ibm,Entry Level Data Scientist,90000 - 98000,dallas,90000,98000,94000,0,1,0
+271,ibm,Senior Data Scientist,115000 - 127000,dallas,115000,127000,121000,0,0,1
+272,kpmg,Senior Data Scientist,102000 - 110000,dallas,102000,110000,106000,0,0,1
+273,capital one,Senior Data Scientist,119000 - 127000,dallas,119000,127000,123000,0,0,1
+274,verizon,Senior Data Scientist,119000 - 130000,dallas,119000,130000,124500,0,0,1
+275,hewlett packard enterprise | hpe,Senior Data Scientist,103000 - 113000,dallas,103000,113000,108000,0,0,1
+276,at&t,Senior Data Scientist,118000 - 130000,dallas,118000,130000,124000,0,0,1
+277,hewlett-packard,Senior Data Scientist,110000 - 119000,dallas,110000,119000,114500,0,0,1
+278,alliance data,Senior Data Scientist,105000 - 113000,dallas,105000,113000,109000,0,0,1
+279,expedia,Senior Data Scientist,131000 - 142000,dallas,131000,142000,136500,0,0,1
+280,elevate credit,Senior Data Scientist,125000 - 134000,dallas,125000,134000,129500,0,0,1
+281,raytheon,Senior Data Scientist,104000 - 114000,dallas,104000,114000,109000,0,0,1
+282,mitre,Junior Data Scientist,86000 - 94000,dallas,86000,94000,90000,1,0,0
+283,dell,Junior Data Scientist,87000 - 94000,dallas,87000,94000,90500,1,0,0
+284,capital one,Principal Data Scientist,96000 - 103000,dallas,96000,103000,99500,0,0,1
+285,at&t,Principal Data Scientist,132000 - 143000,dallas,132000,143000,137500,0,0,1
+286,toyota north america,Data Scientist,94000 - 102000,dallas,94000,102000,98000,0,1,0
+287,argo data,Data Scientist,93000 - 100000,dallas,93000,100000,96500,0,1,0
+288,kemper,Data Scientist,92000 - 100000,dallas,92000,100000,96000,0,1,0
+289,ibm,Entry Level Data Scientist,90000 - 98000,dallas,90000,98000,94000,0,1,0
+290,ibm,Senior Data Scientist,116000 - 125000,dallas,116000,125000,120500,0,0,1
+291,kpmg,Senior Data Scientist,101000 - 111000,dallas,101000,111000,106000,0,0,1
+292,capital one,Senior Data Scientist,119000 - 127000,dallas,119000,127000,123000,0,0,1
+293,verizon,Senior Data Scientist,119000 - 128000,dallas,119000,128000,123500,0,0,1
+294,hewlett packard enterprise | hpe,Senior Data Scientist,103000 - 112000,dallas,103000,112000,107500,0,0,1
+295,at&t,Senior Data Scientist,120000 - 130000,dallas,120000,130000,125000,0,0,1
+296,hewlett-packard,Senior Data Scientist,110000 - 120000,dallas,110000,120000,115000,0,0,1
+297,alliance data,Senior Data Scientist,104000 - 113000,dallas,104000,113000,108500,0,0,1
+298,expedia,Senior Data Scientist,129000 - 140000,dallas,129000,140000,134500,0,0,1
+299,elevate credit,Senior Data Scientist,123000 - 135000,dallas,123000,135000,129000,0,0,1
+300,raytheon,Senior Data Scientist,105000 - 113000,dallas,105000,113000,109000,0,0,1
+301,mitre,Junior Data Scientist,86000 - 92000,dallas,86000,92000,89000,1,0,0
+302,dell,Junior Data Scientist,87000 - 94000,dallas,87000,94000,90500,1,0,0
+303,capital one,Principal Data Scientist,96000 - 104000,dallas,96000,104000,100000,0,0,1
+304,at&t,Principal Data Scientist,133000 - 144000,dallas,133000,144000,138500,0,0,1
+305,general motors,Data Scientist,94000 - 119000,detroit,94000,119000,106500,0,1,0
+306,quicken loans,Data Scientist,110000 - 127000,detroit,110000,127000,118500,0,1,0
+307,ford motor company,Data Scientist,86000 - 94000,detroit,86000,94000,90000,0,1,0
+308,pwc,Data Scientist,95000 - 104000,detroit,95000,104000,99500,0,1,0
+309,hewlett packard enterprise | hpe,Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,1,0
+310,ciber,Data Scientist,97000 - 105000,detroit,97000,105000,101000,0,1,0
+311,ihs,Data Scientist,90000 - 99000,detroit,90000,99000,94500,0,1,0
+312,marketing associates,Data Scientist,90000 - 97000,detroit,90000,97000,93500,0,1,0
+313,kpmg,Senior Data Scientist,101000 - 109000,detroit,101000,109000,105000,0,0,1
+314,exponent,Senior Data Scientist,90000 - 99000,detroit,90000,99000,94500,0,0,1
+315,hewlett packard enterprise | hpe,Senior Data Scientist,102000 - 111000,detroit,102000,111000,106500,0,0,1
+316,market strategies international,Senior Data Scientist,91000 - 97000,detroit,91000,97000,94000,0,0,1
+317,general motors,Senior Data Scientist,122000 - 134000,detroit,122000,134000,128000,0,0,1
+318,general motors,Data Scientist,94000 - 120000,detroit,94000,120000,107000,0,1,0
+319,quicken loans,Data Scientist,112000 - 126000,detroit,112000,126000,119000,0,1,0
+320,ford motor company,Data Scientist,87000 - 93000,detroit,87000,93000,90000,0,1,0
+321,pwc,Data Scientist,96000 - 103000,detroit,96000,103000,99500,0,1,0
+322,hewlett packard enterprise | hpe,Data Scientist,91000 - 99000,detroit,91000,99000,95000,0,1,0
+323,ciber,Data Scientist,97000 - 105000,detroit,97000,105000,101000,0,1,0
+324,ihs,Data Scientist,90000 - 98000,detroit,90000,98000,94000,0,1,0
+325,marketing associates,Data Scientist,89000 - 97000,detroit,89000,97000,93000,0,1,0
+326,kpmg,Senior Data Scientist,100000 - 110000,detroit,100000,110000,105000,0,0,1
+327,exponent,Senior Data Scientist,90000 - 99000,detroit,90000,99000,94500,0,0,1
+328,hewlett packard enterprise | hpe,Senior Data Scientist,102000 - 111000,detroit,102000,111000,106500,0,0,1
+329,market strategies international,Senior Data Scientist,90000 - 98000,detroit,90000,98000,94000,0,0,1
+330,general motors,Senior Data Scientist,123000 - 134000,detroit,123000,134000,128500,0,0,1
+331,general motors,Data Scientist,95000 - 120000,detroit,95000,120000,107500,0,1,0
+332,quicken loans,Data Scientist,111000 - 128000,detroit,111000,128000,119500,0,1,0
+333,ford motor company,Data Scientist,87000 - 94000,detroit,87000,94000,90500,0,1,0
+334,pwc,Data Scientist,95000 - 103000,detroit,95000,103000,99000,0,1,0
+335,hewlett packard enterprise | hpe,Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,1,0
+336,ciber,Data Scientist,97000 - 105000,detroit,97000,105000,101000,0,1,0
+337,ihs,Data Scientist,91000 - 99000,detroit,91000,99000,95000,0,1,0
+338,marketing associates,Data Scientist,90000 - 97000,detroit,90000,97000,93500,0,1,0
+339,kpmg,Senior Data Scientist,102000 - 109000,detroit,102000,109000,105500,0,0,1
+340,exponent,Senior Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,0,1
+341,hewlett packard enterprise | hpe,Senior Data Scientist,102000 - 111000,detroit,102000,111000,106500,0,0,1
+342,market strategies international,Senior Data Scientist,90000 - 98000,detroit,90000,98000,94000,0,0,1
+343,general motors,Senior Data Scientist,122000 - 133000,detroit,122000,133000,127500,0,0,1
+344,general motors,Data Scientist,95000 - 119000,detroit,95000,119000,107000,0,1,0
+345,quicken loans,Data Scientist,112000 - 126000,detroit,112000,126000,119000,0,1,0
+346,ford motor company,Data Scientist,87000 - 93000,detroit,87000,93000,90000,0,1,0
+347,pwc,Data Scientist,96000 - 102000,detroit,96000,102000,99000,0,1,0
+348,hewlett packard enterprise | hpe,Data Scientist,92000 - 98000,detroit,92000,98000,95000,0,1,0
+349,ciber,Data Scientist,98000 - 105000,detroit,98000,105000,101500,0,1,0
+350,ihs,Data Scientist,91000 - 97000,detroit,91000,97000,94000,0,1,0
+351,marketing associates,Data Scientist,90000 - 97000,detroit,90000,97000,93500,0,1,0
+352,kpmg,Senior Data Scientist,102000 - 109000,detroit,102000,109000,105500,0,0,1
+353,exponent,Senior Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,0,1
+354,hewlett packard enterprise | hpe,Senior Data Scientist,103000 - 111000,detroit,103000,111000,107000,0,0,1
+355,market strategies international,Senior Data Scientist,91000 - 97000,detroit,91000,97000,94000,0,0,1
+356,general motors,Senior Data Scientist,124000 - 132000,detroit,124000,132000,128000,0,0,1
+357,general motors,Data Scientist,95000 - 119000,detroit,95000,119000,107000,0,1,0
+358,quicken loans,Data Scientist,111000 - 126000,detroit,111000,126000,118500,0,1,0
+359,ford motor company,Data Scientist,87000 - 93000,detroit,87000,93000,90000,0,1,0
+360,pwc,Data Scientist,96000 - 102000,detroit,96000,102000,99000,0,1,0
+361,hewlett packard enterprise | hpe,Data Scientist,92000 - 98000,detroit,92000,98000,95000,0,1,0
+362,ciber,Data Scientist,98000 - 105000,detroit,98000,105000,101500,0,1,0
+363,ihs,Data Scientist,90000 - 98000,detroit,90000,98000,94000,0,1,0
+364,marketing associates,Data Scientist,89000 - 98000,detroit,89000,98000,93500,0,1,0
+365,kpmg,Senior Data Scientist,100000 - 110000,detroit,100000,110000,105000,0,0,1
+366,exponent,Senior Data Scientist,92000 - 99000,detroit,92000,99000,95500,0,0,1
+367,hewlett packard enterprise | hpe,Senior Data Scientist,104000 - 112000,detroit,104000,112000,108000,0,0,1
+368,market strategies international,Senior Data Scientist,89000 - 98000,detroit,89000,98000,93500,0,0,1
+369,general motors,Senior Data Scientist,124000 - 134000,detroit,124000,134000,129000,0,0,1
+370,general motors,Data Scientist,95000 - 121000,detroit,95000,121000,108000,0,1,0
+371,quicken loans,Data Scientist,110000 - 126000,detroit,110000,126000,118000,0,1,0
+372,ford motor company,Data Scientist,87000 - 93000,detroit,87000,93000,90000,0,1,0
+373,pwc,Data Scientist,94000 - 104000,detroit,94000,104000,99000,0,1,0
+374,hewlett packard enterprise | hpe,Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,1,0
+375,ciber,Data Scientist,97000 - 107000,detroit,97000,107000,102000,0,1,0
+376,ihs,Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,1,0
+377,marketing associates,Data Scientist,90000 - 97000,detroit,90000,97000,93500,0,1,0
+378,kpmg,Senior Data Scientist,100000 - 109000,detroit,100000,109000,104500,0,0,1
+379,exponent,Senior Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,0,1
+380,hewlett packard enterprise | hpe,Senior Data Scientist,103000 - 111000,detroit,103000,111000,107000,0,0,1
+381,market strategies international,Senior Data Scientist,91000 - 98000,detroit,91000,98000,94500,0,0,1
+382,general motors,Senior Data Scientist,123000 - 134000,detroit,123000,134000,128500,0,0,1
+383,schlumberger,Data Scientist,102000,houston,102000,102000,102000,0,1,0
+384,chevron,Data Scientist,116000 - 154000,houston,116000,154000,135000,0,1,0
+385,ibm,Data Scientist,106000 - 114000,houston,106000,114000,110000,0,1,0
+386,anthem,Data Scientist,96000 - 104000,houston,96000,104000,100000,0,1,0
+387,rang technologies,Data Scientist,98000 - 107000,houston,98000,107000,102500,0,1,0
+388,hewlett packard enterprise | hpe,Data Scientist,92000 - 100000,houston,92000,100000,96000,0,1,0
+389,gallup,Data Scientist,83000 - 90000,houston,83000,90000,86500,0,1,0
+390,amazon.com,Data Scientist,119000 - 129000,houston,119000,129000,124000,0,1,0
+391,ihs,Data Scientist,93000 - 100000,houston,93000,100000,96500,0,1,0
+392,saic,Data Scientist,90000 - 98000,houston,90000,98000,94000,0,1,0
+393,equinix,Data Scientist,114000 - 123000,houston,114000,123000,118500,0,1,0
+394,sapient global markets,Data Scientist,113000 - 122000,houston,113000,122000,117500,0,1,0
+395,anadarko petroleum,Data Scientist,112000 - 121000,houston,112000,121000,116500,0,1,0
+396,ibm,Entry Level Data Scientist,91000 - 98000,houston,91000,98000,94500,0,1,0
+397,ibm,Senior Data Scientist,116000 - 125000,houston,116000,125000,120500,0,0,1
+398,mckinsey & company,Junior Data Scientist,91000 - 99000,houston,91000,99000,95000,1,0,0
+399,schlumberger,Data Scientist,102000,houston,102000,102000,102000,0,1,0
+400,chevron,Data Scientist,115000 - 153000,houston,115000,153000,134000,0,1,0
+401,ibm,Data Scientist,107000 - 115000,houston,107000,115000,111000,0,1,0
+402,anthem,Data Scientist,96000 - 103000,houston,96000,103000,99500,0,1,0
+403,rang technologies,Data Scientist,99000 - 108000,houston,99000,108000,103500,0,1,0
+404,hewlett packard enterprise | hpe,Data Scientist,92000 - 99000,houston,92000,99000,95500,0,1,0
+405,gallup,Data Scientist,84000 - 89000,houston,84000,89000,86500,0,1,0
+406,amazon.com,Data Scientist,120000 - 130000,houston,120000,130000,125000,0,1,0
+407,ihs,Data Scientist,93000 - 99000,houston,93000,99000,96000,0,1,0
+408,saic,Data Scientist,90000 - 96000,houston,90000,96000,93000,0,1,0
+409,equinix,Data Scientist,113000 - 121000,houston,113000,121000,117000,0,1,0
+410,sapient global markets,Data Scientist,114000 - 122000,houston,114000,122000,118000,0,1,0
+411,anadarko petroleum,Data Scientist,114000 - 121000,houston,114000,121000,117500,0,1,0
+412,ibm,Entry Level Data Scientist,91000 - 99000,houston,91000,99000,95000,0,1,0
+413,ibm,Senior Data Scientist,118000 - 126000,houston,118000,126000,122000,0,0,1
+414,mckinsey & company,Junior Data Scientist,93000 - 99000,houston,93000,99000,96000,1,0,0
+415,schlumberger,Data Scientist,102000,houston,102000,102000,102000,0,1,0
+416,chevron,Data Scientist,115000 - 153000,houston,115000,153000,134000,0,1,0
+417,ibm,Data Scientist,105000 - 115000,houston,105000,115000,110000,0,1,0
+418,anthem,Data Scientist,95000 - 104000,houston,95000,104000,99500,0,1,0
+419,rang technologies,Data Scientist,98000 - 108000,houston,98000,108000,103000,0,1,0
+420,hewlett packard enterprise | hpe,Data Scientist,92000 - 101000,houston,92000,101000,96500,0,1,0
+421,gallup,Data Scientist,82000 - 90000,houston,82000,90000,86000,0,1,0
+422,amazon.com,Data Scientist,118000 - 129000,houston,118000,129000,123500,0,1,0
+423,ihs,Data Scientist,91000 - 100000,houston,91000,100000,95500,0,1,0
+424,saic,Data Scientist,89000 - 98000,houston,89000,98000,93500,0,1,0
+425,equinix,Data Scientist,114000 - 123000,houston,114000,123000,118500,0,1,0
+426,sapient global markets,Data Scientist,113000 - 123000,houston,113000,123000,118000,0,1,0
+427,anadarko petroleum,Data Scientist,113000 - 121000,houston,113000,121000,117000,0,1,0
+428,ibm,Entry Level Data Scientist,92000 - 99000,houston,92000,99000,95500,0,1,0
+429,ibm,Senior Data Scientist,116000 - 126000,houston,116000,126000,121000,0,0,1
+430,mckinsey & company,Junior Data Scientist,92000 - 99000,houston,92000,99000,95500,1,0,0
+431,schlumberger,Data Scientist,102000,houston,102000,102000,102000,0,1,0
+432,chevron,Data Scientist,115000 - 155000,houston,115000,155000,135000,0,1,0
+433,ibm,Data Scientist,105000 - 113000,houston,105000,113000,109000,0,1,0
+434,anthem,Data Scientist,96000 - 104000,houston,96000,104000,100000,0,1,0
+435,rang technologies,Data Scientist,98000 - 106000,houston,98000,106000,102000,0,1,0
+436,hewlett packard enterprise | hpe,Data Scientist,92000 - 100000,houston,92000,100000,96000,0,1,0
+437,gallup,Data Scientist,82000 - 90000,houston,82000,90000,86000,0,1,0
+438,amazon.com,Data Scientist,118000 - 130000,houston,118000,130000,124000,0,1,0
+439,ihs,Data Scientist,92000 - 99000,houston,92000,99000,95500,0,1,0
+440,saic,Data Scientist,90000 - 98000,houston,90000,98000,94000,0,1,0
+441,equinix,Data Scientist,113000 - 122000,houston,113000,122000,117500,0,1,0
+442,sapient global markets,Data Scientist,113000 - 123000,houston,113000,123000,118000,0,1,0
+443,anadarko petroleum,Data Scientist,112000 - 121000,houston,112000,121000,116500,0,1,0
+444,ibm,Entry Level Data Scientist,92000 - 99000,houston,92000,99000,95500,0,1,0
+445,ibm,Senior Data Scientist,115000 - 127000,houston,115000,127000,121000,0,0,1
+446,mckinsey & company,Junior Data Scientist,92000 - 101000,houston,92000,101000,96500,1,0,0
+447,schlumberger,Data Scientist,102000,houston,102000,102000,102000,0,1,0
+448,chevron,Data Scientist,115000 - 154000,houston,115000,154000,134500,0,1,0
+449,ibm,Data Scientist,105000 - 114000,houston,105000,114000,109500,0,1,0
+450,anthem,Data Scientist,95000 - 104000,houston,95000,104000,99500,0,1,0
+451,rang technologies,Data Scientist,99000 - 108000,houston,99000,108000,103500,0,1,0
+452,hewlett packard enterprise | hpe,Data Scientist,93000 - 101000,houston,93000,101000,97000,0,1,0
+453,gallup,Data Scientist,83000 - 89000,houston,83000,89000,86000,0,1,0
+454,amazon.com,Data Scientist,119000 - 128000,houston,119000,128000,123500,0,1,0
+455,ihs,Data Scientist,92000 - 100000,houston,92000,100000,96000,0,1,0
+456,saic,Data Scientist,89000 - 98000,houston,89000,98000,93500,0,1,0
+457,equinix,Data Scientist,113000 - 121000,houston,113000,121000,117000,0,1,0
+458,sapient global markets,Data Scientist,112000 - 121000,houston,112000,121000,116500,0,1,0
+459,anadarko petroleum,Data Scientist,113000 - 122000,houston,113000,122000,117500,0,1,0
+460,ibm,Entry Level Data Scientist,92000 - 100000,houston,92000,100000,96000,0,1,0
+461,ibm,Senior Data Scientist,116000 - 127000,houston,116000,127000,121500,0,0,1
+462,mckinsey & company,Junior Data Scientist,92000 - 100000,houston,92000,100000,96000,1,0,0
+463,schlumberger,Data Scientist,102000,houston,102000,102000,102000,0,1,0
+464,chevron,Data Scientist,116000 - 155000,houston,116000,155000,135500,0,1,0
+465,ibm,Data Scientist,106000 - 115000,houston,106000,115000,110500,0,1,0
+466,anthem,Data Scientist,96000 - 105000,houston,96000,105000,100500,0,1,0
+467,rang technologies,Data Scientist,98000 - 107000,houston,98000,107000,102500,0,1,0
+468,hewlett packard enterprise | hpe,Data Scientist,92000 - 100000,houston,92000,100000,96000,0,1,0
+469,gallup,Data Scientist,83000 - 90000,houston,83000,90000,86500,0,1,0
+470,amazon.com,Data Scientist,119000 - 128000,houston,119000,128000,123500,0,1,0
+471,ihs,Data Scientist,91000 - 100000,houston,91000,100000,95500,0,1,0
+472,saic,Data Scientist,89000 - 97000,houston,89000,97000,93000,0,1,0
+473,equinix,Data Scientist,112000 - 122000,houston,112000,122000,117000,0,1,0
+474,sapient global markets,Data Scientist,111000 - 121000,houston,111000,121000,116000,0,1,0
+475,anadarko petroleum,Data Scientist,111000 - 121000,houston,111000,121000,116000,0,1,0
+476,ibm,Entry Level Data Scientist,92000 - 98000,houston,92000,98000,95000,0,1,0
+477,ibm,Senior Data Scientist,117000 - 126000,houston,117000,126000,121500,0,0,1
+478,mckinsey & company,Junior Data Scientist,93000 - 99000,houston,93000,99000,96000,1,0,0
+479,sprint,Data Scientist,81000 - 91000,kansas city mo,81000,91000,86000,0,1,0
+480,the nerdery,Data Scientist,72000 - 78000,kansas city mo,72000,78000,75000,0,1,0
+481,pra health sciences,Data Scientist,90000 - 98000,kansas city mo,90000,98000,94000,0,1,0
+482,microsoft,Senior Data Scientist,132000 - 143000,kansas city mo,132000,143000,137500,0,0,1
+483,ascensus,Associate Data Scientist,71000 - 77000,kansas city mo,71000,77000,74000,1,0,0
+484,sprint,Data Scientist,82000 - 92000,kansas city mo,82000,92000,87000,0,1,0
+485,the nerdery,Data Scientist,72000 - 78000,kansas city mo,72000,78000,75000,0,1,0
+486,pra health sciences,Data Scientist,90000 - 97000,kansas city mo,90000,97000,93500,0,1,0
+487,microsoft,Senior Data Scientist,131000 - 144000,kansas city mo,131000,144000,137500,0,0,1
+488,ascensus,Associate Data Scientist,71000 - 76000,kansas city mo,71000,76000,73500,1,0,0
+489,sprint,Data Scientist,82000 - 91000,kansas city mo,82000,91000,86500,0,1,0
+490,the nerdery,Data Scientist,71000 - 78000,kansas city mo,71000,78000,74500,0,1,0
+491,pra health sciences,Data Scientist,89000 - 96000,kansas city mo,89000,96000,92500,0,1,0
+492,microsoft,Senior Data Scientist,132000 - 143000,kansas city mo,132000,143000,137500,0,0,1
+493,ascensus,Associate Data Scientist,70000 - 76000,kansas city mo,70000,76000,73000,1,0,0
+494,sprint,Data Scientist,82000 - 92000,kansas city mo,82000,92000,87000,0,1,0
+495,the nerdery,Data Scientist,73000 - 78000,kansas city mo,73000,78000,75500,0,1,0
+496,pra health sciences,Data Scientist,89000 - 98000,kansas city mo,89000,98000,93500,0,1,0
+497,microsoft,Senior Data Scientist,133000 - 145000,kansas city mo,133000,145000,139000,0,0,1
+498,ascensus,Associate Data Scientist,71000 - 77000,kansas city mo,71000,77000,74000,1,0,0
+499,sprint,Data Scientist,81000 - 92000,kansas city mo,81000,92000,86500,0,1,0
+500,the nerdery,Data Scientist,73000 - 78000,kansas city mo,73000,78000,75500,0,1,0
+501,pra health sciences,Data Scientist,90000 - 97000,kansas city mo,90000,97000,93500,0,1,0
+502,microsoft,Senior Data Scientist,132000 - 142000,kansas city mo,132000,142000,137000,0,0,1
+503,ascensus,Associate Data Scientist,70000 - 76000,kansas city mo,70000,76000,73000,1,0,0
+504,sprint,Data Scientist,82000 - 91000,kansas city mo,82000,91000,86500,0,1,0
+505,the nerdery,Data Scientist,73000 - 78000,kansas city mo,73000,78000,75500,0,1,0
+506,pra health sciences,Data Scientist,89000 - 97000,kansas city mo,89000,97000,93000,0,1,0
+507,microsoft,Senior Data Scientist,133000 - 142000,kansas city mo,133000,142000,137500,0,0,1
+508,ascensus,Associate Data Scientist,70000 - 76000,kansas city mo,70000,76000,73000,1,0,0
+509,live nation entertainment,Data Scientist,73000 - 114000,los angeles,73000,114000,93500,0,1,0
+510,tinder,Data Scientist,108000 - 116000,los angeles,108000,116000,112000,0,1,0
+511,citygrid media,Data Scientist,134000 - 146000,los angeles,134000,146000,140000,0,1,0
+512,cognizant technology solutions,Data Scientist,87000 - 94000,los angeles,87000,94000,90500,0,1,0
+513,kpmg,Data Scientist,76000 - 84000,los angeles,76000,84000,80000,0,1,0
+514,hewlett packard enterprise | hpe,Data Scientist,123000 - 134000,los angeles,123000,134000,128500,0,1,0
+515,google,Data Scientist,114000 - 124000,los angeles,114000,124000,119000,0,1,0
+516,adobe,Data Scientist,77000 - 83000,los angeles,77000,83000,80000,0,1,0
+517,yahoo,Data Scientist,91000 - 98000,los angeles,91000,98000,94500,0,1,0
+518,toyota north america,Data Scientist,115000 - 126000,los angeles,115000,126000,120500,0,1,0
+519,truecar,Data Scientist,125000 - 134000,los angeles,125000,134000,129500,0,1,0
+520,ibm,Data Scientist,123000 - 132000,los angeles,123000,132000,127500,0,1,0
+521,capital one,Data Scientist,124000 - 133000,los angeles,124000,133000,128500,0,1,0
+522,gallup,Data Scientist,97000 - 105000,los angeles,97000,105000,101000,0,1,0
+523,verizon,Data Scientist,126000 - 134000,los angeles,126000,134000,130000,0,1,0
+524,amazon.com,Data Scientist,141000 - 151000,los angeles,141000,151000,146000,0,1,0
+525,verizon wireless,Data Scientist,116000 - 124000,los angeles,116000,124000,120000,0,1,0
+526,intuit,Data Scientist,132000 - 143000,los angeles,132000,143000,137500,0,1,0
+527,experian,Data Scientist,127000 - 138000,los angeles,127000,138000,132500,0,1,0
+528,avanade,Data Scientist,129000 - 139000,los angeles,129000,139000,134000,0,1,0
+529,ciber,Data Scientist,117000 - 127000,los angeles,117000,127000,122000,0,1,0
+530,adp,Data Scientist,104000 - 110000,los angeles,104000,110000,107000,0,1,0
+531,altisource,Data Scientist,131000 - 140000,los angeles,131000,140000,135500,0,1,0
+532,humana,Data Scientist,111000 - 119000,los angeles,111000,119000,115000,0,1,0
+533,ipg mediabrands,Data Scientist,100000 - 108000,los angeles,100000,108000,104000,0,1,0
+534,symantec,Data Scientist,126000 - 136000,los angeles,126000,136000,131000,0,1,0
+535,reachlocal,Data Scientist,103000 - 112000,los angeles,103000,112000,107500,0,1,0
+536,corelogic,Data Scientist,96000 - 106000,los angeles,96000,106000,101000,0,1,0
+537,avant,Data Scientist,94000 - 101000,los angeles,94000,101000,97500,0,1,0
+538,orangepeople,Data Scientist,103000 - 110000,los angeles,103000,110000,106500,0,1,0
+539,boston consulting group,Data Scientist,118000 - 128000,los angeles,118000,128000,123000,0,1,0
+540,blizzard entertainment,Senior Data Scientist,114000 - 129000,los angeles,114000,129000,121500,0,0,1
+541,ibm,Entry Level Data Scientist,108000 - 117000,los angeles,108000,117000,112500,0,1,0
+542,emc,Data Scientist II,107000 - 117000,los angeles,107000,117000,112000,0,1,0
+543,linkedin,Senior Data Scientist,152000 - 167000,los angeles,152000,167000,159500,0,0,1
+544,aol,Senior Data Scientist,113000 - 122000,los angeles,113000,122000,117500,0,0,1
+545,emc,Senior Data Scientist,112000 - 122000,los angeles,112000,122000,117000,0,0,1
+546,zestfinance,Senior Data Scientist,115000 - 125000,los angeles,115000,125000,120000,0,0,1
+547,ibm,Senior Data Scientist,138000 - 149000,los angeles,138000,149000,143500,0,0,1
+548,kpmg,Senior Data Scientist,121000 - 131000,los angeles,121000,131000,126000,0,0,1
+549,verizon,Senior Data Scientist,142000 - 153000,los angeles,142000,153000,147500,0,0,1
+550,experian,Senior Data Scientist,144000 - 155000,los angeles,144000,155000,149500,0,0,1
+551,avant,Senior Data Scientist,107000 - 115000,los angeles,107000,115000,111000,0,0,1
+552,zefr,Senior Data Scientist,117000 - 127000,los angeles,117000,127000,122000,0,0,1
+553,intuit,Associate Data Scientist,121000 - 130000,los angeles,121000,130000,125500,1,0,0
+554,verizon,Senior Data Scientist,140000 - 153000,los angeles,140000,153000,146500,0,0,1
+555,experian,Senior Data Scientist,146000 - 155000,los angeles,146000,155000,150500,0,0,1
+556,avant,Senior Data Scientist,106000 - 116000,los angeles,106000,116000,111000,0,0,1
+557,zefr,Senior Data Scientist,116000 - 126000,los angeles,116000,126000,121000,0,0,1
+558,intuit,Associate Data Scientist,119000 - 131000,los angeles,119000,131000,125000,1,0,0
+559,verizon,Senior Data Scientist,141000 - 152000,los angeles,141000,152000,146500,0,0,1
+560,experian,Senior Data Scientist,145000 - 155000,los angeles,145000,155000,150000,0,0,1
+561,avant,Senior Data Scientist,107000 - 116000,los angeles,107000,116000,111500,0,0,1
+562,zefr,Senior Data Scientist,117000 - 126000,los angeles,117000,126000,121500,0,0,1
+563,intuit,Associate Data Scientist,121000 - 130000,los angeles,121000,130000,125500,1,0,0
+564,verizon,Senior Data Scientist,142000 - 154000,los angeles,142000,154000,148000,0,0,1
+565,experian,Senior Data Scientist,144000 - 158000,los angeles,144000,158000,151000,0,0,1
+566,avant,Senior Data Scientist,106000 - 115000,los angeles,106000,115000,110500,0,0,1
+567,zefr,Senior Data Scientist,116000 - 125000,los angeles,116000,125000,120500,0,0,1
+568,intuit,Associate Data Scientist,120000 - 131000,los angeles,120000,131000,125500,1,0,0
+569,ibm,Data Scientist,105000 - 112000,minneapolis,105000,112000,108500,0,1,0
+570,cognizant technology solutions,Data Scientist,90000 - 96000,minneapolis,90000,96000,93000,0,1,0
+571,honeywell,Data Scientist,99000 - 107000,minneapolis,99000,107000,103000,0,1,0
+572,ing,Data Scientist,92000 - 100000,minneapolis,92000,100000,96000,0,1,0
+573,thomson reuters,Data Scientist,93000 - 102000,minneapolis,93000,102000,97500,0,1,0
+574,the nerdery,Data Scientist,75000 - 81000,minneapolis,75000,81000,78000,0,1,0
+575,cargill,Data Scientist,103000 - 111000,minneapolis,103000,111000,107000,0,1,0
+576,target,Senior Data Scientist,90000 - 96000,minneapolis,90000,96000,93000,0,0,1
+577,ibm,Senior Data Scientist,116000 - 128000,minneapolis,116000,128000,122000,0,0,1
+578,honeywell,Senior Data Scientist,112000 - 120000,minneapolis,112000,120000,116000,0,0,1
+579,nativex,Junior Data Scientist,103000 - 110000,minneapolis,103000,110000,106500,1,0,0
+580,ibm,Data Scientist,103000 - 113000,minneapolis,103000,113000,108000,0,1,0
+581,cognizant technology solutions,Data Scientist,90000 - 98000,minneapolis,90000,98000,94000,0,1,0
+582,honeywell,Data Scientist,99000 - 107000,minneapolis,99000,107000,103000,0,1,0
+583,ing,Data Scientist,93000 - 100000,minneapolis,93000,100000,96500,0,1,0
+584,thomson reuters,Data Scientist,93000 - 102000,minneapolis,93000,102000,97500,0,1,0
+585,the nerdery,Data Scientist,74000 - 81000,minneapolis,74000,81000,77500,0,1,0
+586,cargill,Data Scientist,103000 - 111000,minneapolis,103000,111000,107000,0,1,0
+587,target,Senior Data Scientist,89000 - 98000,minneapolis,89000,98000,93500,0,0,1
+588,ibm,Senior Data Scientist,116000 - 126000,minneapolis,116000,126000,121000,0,0,1
+589,honeywell,Senior Data Scientist,112000 - 120000,minneapolis,112000,120000,116000,0,0,1
+590,nativex,Junior Data Scientist,103000 - 110000,minneapolis,103000,110000,106500,1,0,0
+591,ibm,Data Scientist,104000 - 112000,minneapolis,104000,112000,108000,0,1,0
+592,cognizant technology solutions,Data Scientist,90000 - 97000,minneapolis,90000,97000,93500,0,1,0
+593,honeywell,Data Scientist,98000 - 107000,minneapolis,98000,107000,102500,0,1,0
+594,ing,Data Scientist,92000 - 101000,minneapolis,92000,101000,96500,0,1,0
+595,thomson reuters,Data Scientist,94000 - 102000,minneapolis,94000,102000,98000,0,1,0
+596,the nerdery,Data Scientist,74000 - 80000,minneapolis,74000,80000,77000,0,1,0
+597,cargill,Data Scientist,102000 - 111000,minneapolis,102000,111000,106500,0,1,0
+598,target,Senior Data Scientist,90000 - 97000,minneapolis,90000,97000,93500,0,0,1
+599,ibm,Senior Data Scientist,117000 - 126000,minneapolis,117000,126000,121500,0,0,1
+600,honeywell,Senior Data Scientist,111000 - 121000,minneapolis,111000,121000,116000,0,0,1
+601,nativex,Junior Data Scientist,103000 - 111000,minneapolis,103000,111000,107000,1,0,0
+602,ibm,Data Scientist,104000 - 113000,minneapolis,104000,113000,108500,0,1,0
+603,cognizant technology solutions,Data Scientist,89000 - 98000,minneapolis,89000,98000,93500,0,1,0
+604,honeywell,Data Scientist,98000 - 108000,minneapolis,98000,108000,103000,0,1,0
+605,ing,Data Scientist,92000 - 101000,minneapolis,92000,101000,96500,0,1,0
+606,thomson reuters,Data Scientist,93000 - 101000,minneapolis,93000,101000,97000,0,1,0
+607,the nerdery,Data Scientist,74000 - 81000,minneapolis,74000,81000,77500,0,1,0
+608,cargill,Data Scientist,103000 - 111000,minneapolis,103000,111000,107000,0,1,0
+609,target,Senior Data Scientist,90000 - 96000,minneapolis,90000,96000,93000,0,0,1
+610,ibm,Senior Data Scientist,118000 - 128000,minneapolis,118000,128000,123000,0,0,1
+611,honeywell,Senior Data Scientist,112000 - 121000,minneapolis,112000,121000,116500,0,0,1
+612,nativex,Junior Data Scientist,102000 - 110000,minneapolis,102000,110000,106000,1,0,0
+613,ibm,Data Scientist,103000 - 112000,minneapolis,103000,112000,107500,0,1,0
+614,cognizant technology solutions,Data Scientist,90000 - 98000,minneapolis,90000,98000,94000,0,1,0
+615,honeywell,Data Scientist,98000 - 108000,minneapolis,98000,108000,103000,0,1,0
+616,ing,Data Scientist,93000 - 101000,minneapolis,93000,101000,97000,0,1,0
+617,thomson reuters,Data Scientist,93000 - 101000,minneapolis,93000,101000,97000,0,1,0
+618,the nerdery,Data Scientist,75000 - 81000,minneapolis,75000,81000,78000,0,1,0
+619,cargill,Data Scientist,102000 - 111000,minneapolis,102000,111000,106500,0,1,0
+620,target,Senior Data Scientist,90000 - 96000,minneapolis,90000,96000,93000,0,0,1
+621,ibm,Senior Data Scientist,116000 - 127000,minneapolis,116000,127000,121500,0,0,1
+622,honeywell,Senior Data Scientist,110000 - 120000,minneapolis,110000,120000,115000,0,0,1
+623,nativex,Junior Data Scientist,102000 - 110000,minneapolis,102000,110000,106000,1,0,0
+624,ibm,Data Scientist,104000 - 114000,minneapolis,104000,114000,109000,0,1,0
+625,cognizant technology solutions,Data Scientist,89000 - 98000,minneapolis,89000,98000,93500,0,1,0
+626,honeywell,Data Scientist,99000 - 107000,minneapolis,99000,107000,103000,0,1,0
+627,ing,Data Scientist,93000 - 100000,minneapolis,93000,100000,96500,0,1,0
+628,thomson reuters,Data Scientist,93000 - 102000,minneapolis,93000,102000,97500,0,1,0
+629,the nerdery,Data Scientist,74000 - 80000,minneapolis,74000,80000,77000,0,1,0
+630,cargill,Data Scientist,102000 - 110000,minneapolis,102000,110000,106000,0,1,0
+631,target,Senior Data Scientist,90000 - 96000,minneapolis,90000,96000,93000,0,0,1
+632,ibm,Senior Data Scientist,117000 - 127000,minneapolis,117000,127000,122000,0,0,1
+633,honeywell,Senior Data Scientist,111000 - 121000,minneapolis,111000,121000,116000,0,0,1
+634,nativex,Junior Data Scientist,101000 - 111000,minneapolis,101000,111000,106000,1,0,0
+635,leidos,Data Scientist,77000 - 89000,nashville,77000,89000,83000,0,1,0
+636,hospital corporation of america,Data Scientist,79000 - 93000,nashville,79000,93000,86000,0,1,0
+637,philips,Data Scientist,104000 - 113000,nashville,104000,113000,108500,0,1,0
+638,leidos,Data Scientist,77000 - 89000,nashville,77000,89000,83000,0,1,0
+639,hospital corporation of america,Data Scientist,78000 - 92000,nashville,78000,92000,85000,0,1,0
+640,philips,Data Scientist,103000 - 114000,nashville,103000,114000,108500,0,1,0
+641,leidos,Data Scientist,77000 - 88000,nashville,77000,88000,82500,0,1,0
+642,hospital corporation of america,Data Scientist,79000 - 93000,nashville,79000,93000,86000,0,1,0
+643,philips,Data Scientist,104000 - 112000,nashville,104000,112000,108000,0,1,0
+644,leidos,Data Scientist,77000 - 88000,nashville,77000,88000,82500,0,1,0
+645,hospital corporation of america,Data Scientist,79000 - 93000,nashville,79000,93000,86000,0,1,0
+646,philips,Data Scientist,104000 - 114000,nashville,104000,114000,109000,0,1,0
+647,leidos,Data Scientist,77000 - 88000,nashville,77000,88000,82500,0,1,0
+648,hospital corporation of america,Data Scientist,78000 - 93000,nashville,78000,93000,85500,0,1,0
+649,philips,Data Scientist,104000 - 112000,nashville,104000,112000,108000,0,1,0
+650,leidos,Data Scientist,78000 - 89000,nashville,78000,89000,83500,0,1,0
+651,hospital corporation of america,Data Scientist,78000 - 92000,nashville,78000,92000,85000,0,1,0
+652,philips,Data Scientist,105000 - 114000,nashville,105000,114000,109500,0,1,0
+653,aig,Data Scientist,104714,new york city,104714,104714,104714,0,1,0
+654,knewton,Data Scientist,136000,new york city,136000,136000,136000,0,1,0
+655,audible,Data Scientist,101667,new york city,101667,101667,101667,0,1,0
+656,case commons,Data Scientist,108114,new york city,108114,108114,108114,0,1,0
+657,ebh enterprises,Data Scientist,150038,new york city,150038,150038,150038,0,1,0
+658,ibm,Data Scientist,86000 - 107000,new york city,86000,107000,96500,0,1,0
+659,booz allen hamilton,Data Scientist,96000 - 126000,new york city,96000,126000,111000,0,1,0
+660,cablevision systems,Data Scientist Intern - Hourly,38 - 42,new york city,79040,87360,83200,1,0,0
+661,bloomberg l.p.,Data Scientist,115000 - 134000,new york city,115000,134000,124500,0,1,0
+662,credit suisse,Data Scientist,60000 - 79000,new york city,60000,79000,69500,0,1,0
+663,oscar insurance,Data Scientist,123000 - 136000,new york city,123000,136000,129500,0,1,0
+664,1010data,Data Scientist,82000 - 93000,new york city,82000,93000,87500,0,1,0
+665,ondeck,Data Scientist,86000 - 140000,new york city,86000,140000,113000,0,1,0
+666,marketing evolution,Data Scientist,52000 - 69000,new york city,52000,69000,60500,0,1,0
+667,demystdata,Data Scientist,67000 - 93000,new york city,67000,93000,80000,0,1,0
+668,integral ad science,Data Scientist,107000 - 137000,new york city,107000,137000,122000,0,1,0
+669,j.p. morgan,Data Scientist,62000 - 134000,new york city,62000,134000,98000,0,1,0
+670,american express,Data Scientist,91000 - 110000,new york city,91000,110000,100500,0,1,0
+671,paperless post,Data Scientist,136000 - 148000,new york city,136000,148000,142000,0,1,0
+672,time inc.,Data Scientist,124000 - 139000,new york city,124000,139000,131500,0,1,0
+673,consultadd,Data Scientist,75000 - 119000,new york city,75000,119000,97000,0,1,0
+674,intent media,Data Scientist,131000 - 165000,new york city,131000,165000,148000,0,1,0
+675,american express trs,Data Scientist,103000 - 114000,new york city,103000,114000,108500,0,1,0
+676,outbrain,Data Scientist,60000 - 98000,new york city,60000,98000,79000,0,1,0
+677,facebook,Data Scientist,138000 - 152000,new york city,138000,152000,145000,0,1,0
+678,kpmg,Data Scientist,77000 - 83000,new york city,77000,83000,80000,0,1,0
+679,google,Data Scientist,98000 - 107000,new york city,98000,107000,102500,0,1,0
+680,fractal analytics,Data Scientist,144000 - 156000,new york city,144000,156000,150000,0,1,0
+681,adp,Data Scientist,107000 - 117000,new york city,107000,117000,112000,0,1,0
+682,pandora media,Data Scientist,120000 - 131000,new york city,120000,131000,125500,0,1,0
+683,citi,Data Scientist,144000 - 155000,new york city,144000,155000,149500,0,1,0
+684,feedzai,Data Scientist,87000 - 94000,new york city,87000,94000,90500,0,1,0
+685,metlife,Data Scientist,84000 - 90000,new york city,84000,90000,87000,0,1,0
+686,palantir technologies,Data Scientist,124000 - 134000,new york city,124000,134000,129000,0,1,0
+687,chubb,Data Scientist,128000 - 138000,new york city,128000,138000,133000,0,1,0
+688,finra,Data Scientist,53000 - 56000,new york city,53000,56000,54500,0,1,0
+689,spotify,Data Scientist,133000 - 145000,new york city,133000,145000,139000,0,1,0
+690,mastercard,Data Scientist,134000 - 146000,new york city,134000,146000,140000,0,1,0
+691,ca technologies,Data Scientist,77000 - 83000,new york city,77000,83000,80000,0,1,0
+692,appnexus,Data Scientist,130000 - 140000,new york city,130000,140000,135000,0,1,0
+693,capital one,Data Scientist,126000 - 137000,new york city,126000,137000,131500,0,1,0
+694,pwc,Data Scientist,116000 - 125000,new york city,116000,125000,120500,0,1,0
+695,twitter,Data Scientist,140000 - 150000,new york city,140000,150000,145000,0,1,0
+696,rang technologies,Data Scientist,120000 - 129000,new york city,120000,129000,124500,0,1,0
+697,cognizant technology solutions,Data Scientist,108000 - 115000,new york city,108000,115000,111500,0,1,0
+698,nielsen,Data Scientist,70000 - 76000,new york city,70000,76000,73000,0,1,0
+699,verizon,Data Scientist,128000 - 137000,new york city,128000,137000,132500,0,1,0
+700,gallup,Data Scientist,100000 - 107000,new york city,100000,107000,103500,0,1,0
+701,amazon.com,Data Scientist,142000 - 156000,new york city,142000,156000,149000,0,1,0
+702,verizon wireless,Data Scientist,116000 - 127000,new york city,116000,127000,121500,0,1,0
+703,experian,Data Scientist,130000 - 142000,new york city,130000,142000,136000,0,1,0
+704,kabbage,Data Scientist,109000 - 118000,new york city,109000,118000,113500,0,1,0
+705,thomson reuters,Data Scientist,112000 - 120000,new york city,112000,120000,116000,0,1,0
+706,honeywell,Data Scientist,118000 - 128000,new york city,118000,128000,123000,0,1,0
+707,zynga,Data Scientist,130000 - 142000,new york city,130000,142000,136000,0,1,0
+708,84.51?,Data Scientist,109000 - 118000,new york city,109000,118000,113500,0,1,0
+709,comcast,Data Scientist,115000 - 124000,new york city,115000,124000,119500,0,1,0
+710,huawei technologies,Data Scientist,120000 - 130000,new york city,120000,130000,125000,0,1,0
+711,lightpath,Data Scientist,108000 - 118000,new york city,108000,118000,113000,0,1,0
+712,grubhub,Data Scientist,104000 - 111000,new york city,104000,111000,107500,0,1,0
+713,hooklogic,Data Scientist,111000 - 121000,new york city,111000,121000,116000,0,1,0
+714,npd,Data Scientist,114000 - 123000,new york city,114000,123000,118500,0,1,0
+715,world wrestling entertainment,Data Scientist,128000 - 138000,new york city,128000,138000,133000,0,1,0
+716,hearst,Data Scientist,111000 - 120000,new york city,111000,120000,115500,0,1,0
+717,comscore,Data Scientist,114000 - 123000,new york city,114000,123000,118500,0,1,0
+718,insurance services office,Data Scientist,106000 - 114000,new york city,106000,114000,110000,0,1,0
+719,fidelity investments,Data Scientist,112000 - 121000,new york city,112000,121000,116500,0,1,0
+720,macy's,Data Scientist,104000 - 114000,new york city,104000,114000,109000,0,1,0
+721,aol,Data Scientist,114000 - 122000,new york city,114000,122000,118000,0,1,0
+722,morgan stanley,Data Scientist,115000 - 126000,new york city,115000,126000,120500,0,1,0
+723,match,Data Scientist,113000 - 123000,new york city,113000,123000,118000,0,1,0
+724,dish,Data Scientist,103000 - 113000,new york city,103000,113000,108000,0,1,0
+725,dealer.com,Data Scientist,99000 - 109000,new york city,99000,109000,104000,0,1,0
+726,etsy,Data Scientist,137000 - 149000,new york city,137000,149000,143000,0,1,0
+727,seamless,Data Scientist,100000 - 110000,new york city,100000,110000,105000,0,1,0
+728,nielsen,Senior Data Scientist,82333,new york city,82333,82333,82333,0,0,1
+729,ondeck,Senior Data Scientist,87000 - 125000,new york city,87000,125000,106000,0,0,1
+730,birchbox,Senior Data Scientist,121000 - 131000,new york city,121000,131000,126000,0,0,1
+731,ibm,Entry Level Data Scientist,108000 - 117000,new york city,108000,117000,112500,0,1,0
+732,metlife,Data Scientist II,97000 - 104000,new york city,97000,104000,100500,0,1,0
+733,emc,Data Scientist II,110000 - 119000,new york city,110000,119000,114500,0,1,0
+734,zurich north america,Data Scientist II,110000 - 119000,new york city,110000,119000,114500,0,1,0
+735,atos,Senior Data Scientist,105000 - 115000,new york city,105000,115000,110000,0,0,1
+736,verisk analytics,Senior Data Scientist,102000 - 110000,new york city,102000,110000,106000,0,0,1
+737,ibm,Senior Data Scientist,139000 - 152000,new york city,139000,152000,145500,0,0,1
+738,kpmg,Senior Data Scientist,124000 - 133000,new york city,124000,133000,128500,0,0,1
+739,capital one,Senior Data Scientist,142000 - 155000,new york city,142000,155000,148500,0,0,1
+740,booz allen hamilton,Senior Data Scientist,99000 - 107000,new york city,99000,107000,103000,0,0,1
+741,verizon,Senior Data Scientist,142000 - 156000,new york city,142000,156000,149000,0,0,1
+742,at&t,Senior Data Scientist,143000 - 156000,new york city,143000,156000,149500,0,0,1
+743,aol,Senior Data Scientist,128000 - 139000,new york city,128000,139000,133500,0,0,1
+744,razorfish,Senior Data Scientist,141000 - 155000,new york city,141000,155000,148000,0,0,1
+745,emc,Senior Data Scientist,130000 - 142000,new york city,130000,142000,136000,0,0,1
+746,bny mellon,Senior Data Scientist,122000 - 131000,new york city,122000,131000,126500,0,0,1
+747,chegg,Senior Data Scientist,136000 - 146000,new york city,136000,146000,141000,0,0,1
+748,fis,Senior Data Scientist,124000 - 133000,new york city,124000,133000,128500,0,0,1
+749,aetna,Senior Data Scientist,117000 - 127000,new york city,117000,127000,122000,0,0,1
+750,comcast,Senior Data Scientist,128000 - 140000,new york city,128000,140000,134000,0,0,1
+751,pivotal,Senior Data Scientist,151000 - 162000,new york city,151000,162000,156500,0,0,1
+752,verizon wireless,Senior Data Scientist,132000 - 144000,new york city,132000,144000,138000,0,0,1
+753,facebook,Data Scientist,139144,san francisco,139144,139144,139144,0,1,0
+754,airbnb,Data Scientist,123724,san francisco,123724,123724,123724,0,1,0
+755,twitter,Data Scientist,134861,san francisco,134861,134861,134861,0,1,0
+756,uber,Data Scientist,128293,san francisco,128293,128293,128293,0,1,0
+757,facebook,Data Scientist Intern - Monthly,7030,san francisco,84360,84360,84360,1,0,0
+758,lumiata,Data Scientist,119000,san francisco,119000,119000,119000,0,1,0
+759,stumbleupon,Data Scientist,130636,san francisco,130636,130636,130636,0,1,0
+760,pandora media,Data Scientist,137980,san francisco,137980,137980,137980,0,1,0
+761,practice fusion,Data Scientist,133610,san francisco,133610,133610,133610,0,1,0
+762,ibm,Data Scientist,96000 - 172000,san francisco,96000,172000,134000,0,1,0
+763,twitter,Data Scientist Intern - Hourly,44 - 53,san francisco,91520,110240,100880,1,0,0
+764,walmart ecommerce,Data Scientist Intern - Monthly,8000 - 8000,san francisco,96000,96000,96000,1,0,0
+765,zillow,Data Scientist,105000 - 124000,san francisco,105000,124000,114500,0,1,0
+766,walmart ecommerce,Data Scientist Intern - Hourly,43 - 54,san francisco,89440,112320,100880,1,0,0
+767,salesforce,Data Scientist,105000 - 145000,san francisco,105000,145000,125000,0,1,0
+768,cablevision systems,Data Scientist Intern - Hourly,39 - 46,san francisco,81120,95680,88400,1,0,0
+769,ayasdi,Data Scientist,107000 - 141000,san francisco,107000,141000,124000,0,1,0
+770,autogrid,Data Scientist,118000 - 160000,san francisco,118000,160000,139000,0,1,0
+771,richrelevance,Data Scientist,79000 - 102000,san francisco,79000,102000,90500,0,1,0
+772,premise data corporation,Data Scientist,97000 - 113000,san francisco,97000,113000,105000,0,1,0
+773,6sense,Data Scientist,120000 - 134000,san francisco,120000,134000,127000,0,1,0
+774,kixeye,Data Scientist,113000 - 160000,san francisco,113000,160000,136500,0,1,0
+775,asana,Data Scientist,116000 - 155000,san francisco,116000,155000,135500,0,1,0
+776,glassdoor,Data Scientist,116000 - 129000,san francisco,116000,129000,122500,0,1,0
+777,alpine data labs,Data Scientist,89000 - 114000,san francisco,89000,114000,101500,0,1,0
+778,esurance,Data Scientist,79000 - 93000,san francisco,79000,93000,86000,0,1,0
+779,square,Data Scientist,119000 - 129000,san francisco,119000,129000,124000,0,1,0
+780,stitch fix,Data Scientist,160000 - 176000,san francisco,160000,176000,168000,0,1,0
+781,tesla motors,Data Scientist,96000 - 109000,san francisco,96000,109000,102500,0,1,0
+782,kabbage,Data Scientist,117000 - 157000,san francisco,117000,157000,137000,0,1,0
+783,trulia,Data Scientist,122000 - 150000,san francisco,122000,150000,136000,0,1,0
+784,tapjoy,Data Scientist,125000 - 134000,san francisco,125000,134000,129500,0,1,0
+785,zephyr health,Data Scientist,64000 - 104000,san francisco,64000,104000,84000,0,1,0
+786,gap,Data Scientist,124000 - 140000,san francisco,124000,140000,132000,0,1,0
+787,conviva,Data Scientist,90000 - 155000,san francisco,90000,155000,122500,0,1,0
+788,tagged,Data Scientist,119000 - 138000,san francisco,119000,138000,128500,0,1,0
+789,apollo education group,Data Scientist,117000 - 146000,san francisco,117000,146000,131500,0,1,0
+790,gree international entertainment,Data Scientist,140000 - 157000,san francisco,140000,157000,148500,0,1,0
+791,capital one,Data Scientist,111000 - 118000,san francisco,111000,118000,114500,0,1,0
+792,linkedin,Data Scientist,108000 - 118000,san francisco,108000,118000,113000,0,1,0
+793,oracle,Data Scientist,108000 - 118000,san francisco,108000,118000,113000,0,1,0
+794,ebay,Data Scientist,108000 - 117000,san francisco,108000,117000,112500,0,1,0
+795,google,Data Scientist,201000 - 217000,san francisco,201000,217000,209000,0,1,0
+796,adobe,Data Scientist Intern - Hourly,48 - 52,san francisco,99840,108160,104000,1,0,0
+797,symantec,Data Scientist,155000 - 169000,san francisco,155000,169000,162000,0,1,0
+798,chevron,Data Scientist,136000 - 145000,san francisco,136000,145000,140500,0,1,0
+799,truecar,Data Scientist,123000 - 134000,san francisco,123000,134000,128500,0,1,0
+800,kohl's,Data Scientist,147000 - 159000,san francisco,147000,159000,153000,0,1,0
+801,mastercard,Data Scientist,127000 - 137000,san francisco,127000,137000,132000,0,1,0
+802,engage3,Data Scientist,39000 - 42000,san francisco,39000,42000,40500,0,1,0
+803,palantir technologies,Data Scientist,115000 - 124000,san francisco,115000,124000,119500,0,1,0
+804,microsoft,Data Scientist,146000 - 160000,san francisco,146000,160000,153000,0,1,0
+805,rang technologies,Data Scientist,128000 - 137000,san francisco,128000,137000,132500,0,1,0
+806,nielsen,Data Scientist,74000 - 82000,san francisco,74000,82000,78000,0,1,0
+807,paypal,Data Scientist,140000 - 149000,san francisco,140000,149000,144500,0,1,0
+808,kpmg,Data Scientist,118000 - 127000,san francisco,118000,127000,122500,0,1,0
+809,verizon wireless,Data Scientist,124000 - 137000,san francisco,124000,137000,130500,0,1,0
+810,cisco systems,Data Scientist,135000 - 146000,san francisco,135000,146000,140500,0,1,0
+811,sap,Data Scientist,107000 - 115000,san francisco,107000,115000,111000,0,1,0
+812,pnnl,Data Scientist,132000 - 142000,san francisco,132000,142000,137000,0,1,0
+813,philips,Data Scientist,140000 - 151000,san francisco,140000,151000,145500,0,1,0
+814,j.p. morgan,Data Scientist,108000 - 118000,san francisco,108000,118000,113000,0,1,0
+815,emc,Data Scientist,110000 - 118000,san francisco,110000,118000,114000,0,1,0
+816,avanade,Data Scientist,139000 - 152000,san francisco,139000,152000,145500,0,1,0
+817,github,Data Scientist,137000 - 147000,san francisco,137000,147000,142000,0,1,0
+818,thomson reuters,Data Scientist,120000 - 129000,san francisco,120000,129000,124500,0,1,0
+819,epsilon,Data Scientist,135000 - 146000,san francisco,135000,146000,140500,0,1,0
+820,alliance data,Data Scientist,119000 - 129000,san francisco,119000,129000,124000,0,1,0
+821,ipg mediabrands,Data Scientist,110000 - 120000,san francisco,110000,120000,115000,0,1,0
+822,cna,Data Scientist,127000 - 139000,san francisco,127000,139000,133000,0,1,0
+823,expedia,Data Scientist,151000 - 161000,san francisco,151000,161000,156000,0,1,0
+824,visa inc.,Data Scientist,134000 - 145000,san francisco,134000,145000,139500,0,1,0
+825,zynga,Data Scientist,140000 - 152000,san francisco,140000,152000,146000,0,1,0
+826,shoppertrak,Data Scientist,140000 - 151000,san francisco,140000,151000,145500,0,1,0
+827,walmart,Data Scientist,121000 - 132000,san francisco,121000,132000,126500,0,1,0
+828,cox enterprises,Data Scientist,121000 - 132000,san francisco,121000,132000,126500,0,1,0
+829,thermo fisher scientific,Data Scientist,128000 - 138000,san francisco,128000,138000,133000,0,1,0
+830,socialcode,Data Scientist,121000 - 130000,san francisco,121000,130000,125500,0,1,0
+831,etsy,Data Scientist,146000 - 158000,san francisco,146000,158000,152000,0,1,0
+832,conversant,Data Scientist,135000 - 147000,san francisco,135000,147000,141000,0,1,0
+833,novartis pharmaceuticals,Data Scientist,132000 - 143000,san francisco,132000,143000,137500,0,1,0
+834,here,Data Scientist,128000 - 140000,san francisco,128000,140000,134000,0,1,0
+835,insurance services office,Data Scientist,112000 - 123000,san francisco,112000,123000,117500,0,1,0
+836,lightpath,Data Scientist,116000 - 126000,san francisco,116000,126000,121000,0,1,0
+837,hotwire,Data Scientist,122000 - 132000,san francisco,122000,132000,127000,0,1,0
+838,autodesk,Data Scientist,185000 - 198000,san francisco,185000,198000,191500,0,1,0
+839,rocket fuel,Data Scientist,142000 - 153000,san francisco,142000,153000,147500,0,1,0
+840,tellapart,Data Scientist,105000 - 114000,san francisco,105000,114000,109500,0,1,0
+841,ayasdi,Senior Data Scientist,141770,san francisco,141770,141770,141770,0,0,1
+842,glassdoor,Senior Data Scientist,135000,san francisco,135000,135000,135000,0,0,1
+843,monogram biosciences,Clinical Laboratory Scientist-data Analyst,80432,san francisco,80432,80432,80432,0,1,0
+844,linkedin,Senior Data Scientist,133000 - 153000,san francisco,133000,153000,143000,0,0,1
+845,twitter,Senior Data Scientist,148000 - 167000,san francisco,148000,167000,157500,0,0,1
+846,uber,Senior Data Scientist,140000 - 172000,san francisco,140000,172000,156000,0,0,1
+847,eventbrite,Senior Data Scientist/Statistician,114000 - 124000,san francisco,114000,124000,119000,0,0,1
+848,emc,Senior Data Scientist/Statistician,137000 - 152000,san francisco,137000,152000,144500,0,0,1
+849,exponent,"Scientist, Statistical and Data Sciences",93000 - 104000,san francisco,93000,104000,98500,0,1,0
+850,walmart ecommerce,Principal Data Scientist,178000 - 216000,san francisco,178000,216000,197000,0,0,1
+851,twitter,Data Visualization Scientist,141000 - 165000,san francisco,141000,165000,153000,0,1,0
+852,walmart,Staff Data Scientist,133000 - 142000,san francisco,133000,142000,137500,0,1,0
+853,ibm,Entry Level Data Scientist,119000 - 126000,san francisco,119000,126000,122500,0,1,0
+854,microsoft,Data Scientist II,138000 - 148000,san francisco,138000,148000,143000,0,1,0
+855,emc,Data Scientist II,116000 - 126000,san francisco,116000,126000,121000,0,1,0
+856,nielsen,Senior Data Scientist,104000 - 112000,san francisco,104000,112000,108000,0,0,1
+857,at&t,Senior Data Scientist,156000 - 169000,san francisco,156000,169000,162500,0,0,1
+858,ge,Senior Data Scientist,121000 - 130000,san francisco,121000,130000,125500,0,0,1
+859,ancestry.com,Senior Data Scientist,150000 - 161000,san francisco,150000,161000,155500,0,0,1
+860,ibm,Senior Data Scientist,152000 - 164000,san francisco,152000,164000,158000,0,0,1
+861,microsoft,Senior Data Scientist,164000 - 180000,san francisco,164000,180000,172000,0,0,1
+862,kpmg,Senior Data Scientist,132000 - 144000,san francisco,132000,144000,138000,0,0,1
+863,capital one,Senior Data Scientist,153000 - 165000,san francisco,153000,165000,159000,0,0,1
+864,sap,Senior Data Scientist,121000 - 130000,san francisco,121000,130000,125500,0,0,1
+865,verizon,Senior Data Scientist,153000 - 168000,san francisco,153000,168000,160500,0,0,1
+866,allstate,Senior Data Scientist,126000 - 136000,san francisco,126000,136000,131000,0,0,1
+867,exponent,Senior Data Scientist,120000 - 130000,san francisco,120000,130000,125000,0,0,1
+868,oracle,Senior Data Scientist,168000 - 181000,san francisco,168000,181000,174500,0,0,1
+869,amazon.com,Senior Data Scientist,172000 - 186000,san francisco,172000,186000,179000,0,0,1
+870,chegg,Senior Data Scientist,145000 - 157000,san francisco,145000,157000,151000,0,0,1
+871,walmart,Senior Data Scientist,137000 - 148000,san francisco,137000,148000,142500,0,0,1
+872,alliance data,Senior Data Scientist,135000 - 147000,san francisco,135000,147000,141000,0,0,1
+873,linkedin,Data Scientist,137048,san jose,137048,137048,137048,0,1,0
+874,apple,Data Scientist,148045,san jose,148045,148045,148045,0,1,0
+875,agilone,Data Scientist,109228,san jose,109228,109228,109228,0,1,0
+876,paypal,Data Scientist,134279,san jose,134279,134279,134279,0,1,0
+877,groupon,Data Scientist,166041,san jose,166041,166041,166041,0,1,0
+878,linkedin,Data Scientist Intern - Hourly,49.77,san jose,103521,103521,103521,1,0,0
+879,imvu,Data Scientist,132202,san jose,132202,132202,132202,0,1,0
+880,"quora, inc.",Data Scientist,118614,san jose,118614,118614,118614,0,1,0
+881,tesla motors,Data Scientist,95427,san jose,95427,95427,95427,0,1,0
+882,facebook,Data Scientist,119133,san jose,119133,119133,119133,0,1,0
+883,intuit,Data Scientist,126481,san jose,126481,126481,126481,0,1,0
+884,apollo education group,Data Scientist,133572,san jose,133572,133572,133572,0,1,0
+885,dhingana,Data Scientist,101780,san jose,101780,101780,101780,0,1,0
+886,microsoft,Data Scientist,95000 - 134000,san jose,95000,134000,114500,0,1,0
+887,linkedin,Data Scientist Intern - Monthly,7000 - 9000,san jose,84000,108000,96000,1,0,0
+888,apple,Data Scientist Intern - Hourly,48 - 55,san jose,99840,114400,107120,1,0,0
+889,paypal,Data Scientist Intern - Hourly,41 - 52,san jose,85280,108160,96720,1,0,0
+890,sap,Data Scientist Intern - Hourly,30 - 42,san jose,62400,87360,74880,1,0,0
+891,adobe,Data Scientist,135000 - 227000,san jose,135000,227000,181000,0,1,0
+892,nokia,Data Scientist,115000 - 154000,san jose,115000,154000,134500,0,1,0
+893,seti institute,Data Scientist,84000 - 153000,san jose,84000,153000,118500,0,1,0
+894,bidgely,Data Scientist,117000 - 136000,san jose,117000,136000,126500,0,1,0
+895,1618labs,Data Scientist,131000 - 141000,san jose,131000,141000,136000,0,1,0
+896,verizon,Data Scientist,143000 - 157000,san jose,143000,157000,150000,0,1,0
+897,experian,Data Scientist,141000 - 151000,san jose,141000,151000,146000,0,1,0
+898,ebay,Data Scientist,102000 - 112000,san jose,102000,112000,107000,0,1,0
+899,google,Data Scientist,146000 - 160000,san jose,146000,160000,153000,0,1,0
+900,adobe,Data Scientist Intern - Hourly,46 - 50,san jose,95680,104000,99840,1,0,0
+901,intuitive surgical,Data Scientist,130000 - 140000,san jose,130000,140000,135000,0,1,0
+902,motorola mobility,Data Scientist,108000 - 115000,san jose,108000,115000,111500,0,1,0
+903,ibm,Data Scientist,134000 - 145000,san jose,134000,145000,139500,0,1,0
+904,cognizant technology solutions,Data Scientist,116000 - 125000,san jose,116000,125000,120500,0,1,0
+905,nielsen,Data Scientist,76000 - 82000,san jose,76000,82000,79000,0,1,0
+906,oracle,Data Scientist,148000 - 162000,san jose,148000,162000,155000,0,1,0
+907,hewlett-packard,Data Scientist,126000 - 137000,san jose,126000,137000,131500,0,1,0
+908,lockheed martin,Data Scientist,123000 - 132000,san jose,123000,132000,127500,0,1,0
+909,equifax,Data Scientist,118000 - 128000,san jose,118000,128000,123000,0,1,0
+910,intel corporation,Data Scientist,140000 - 151000,san jose,140000,151000,145500,0,1,0
+911,emc,Data Scientist,125000 - 133000,san jose,125000,133000,129000,0,1,0
+912,salesforce,Data Scientist,125000 - 136000,san jose,125000,136000,130500,0,1,0
+913,kabbage,Data Scientist,117000 - 125000,san jose,117000,125000,121000,0,1,0
+914,infosys,Data Scientist,115000 - 125000,san jose,115000,125000,120000,0,1,0
+915,walmart,Data Scientist,121000 - 133000,san jose,121000,133000,127000,0,1,0
+916,ayasdi,Data Scientist,130000 - 143000,san jose,130000,143000,136500,0,1,0
+917,yahoo,Data Scientist,184000 - 199000,san jose,184000,199000,191500,0,1,0
+918,symantec,Data Scientist,137000 - 149000,san jose,137000,149000,143000,0,1,0
+919,hertz,Data Scientist,118000 - 126000,san jose,118000,126000,122000,0,1,0
+920,ford motor company,Data Scientist,137000 - 150000,san jose,137000,150000,143500,0,1,0
+921,kohl's,Data Scientist,119000 - 129000,san jose,119000,129000,124000,0,1,0
+922,infovision,Data Scientist,109000 - 116000,san jose,109000,116000,112500,0,1,0
+923,"focuskpi, inc.",Data Scientist,93000 - 99000,san jose,93000,99000,96000,0,1,0
+924,huawei technologies,Data Scientist,130000 - 140000,san jose,130000,140000,135000,0,1,0
+925,successfactors,Data Scientist,123000 - 132000,san jose,123000,132000,127500,0,1,0
+926,fujitsu,Data Scientist,122000 - 131000,san jose,122000,131000,126500,0,1,0
+927,servicenow,Data Scientist,148000 - 159000,san jose,148000,159000,153500,0,1,0
+928,aol,Data Scientist,122000 - 132000,san jose,122000,132000,127000,0,1,0
+929,nvidia,Data Scientist,143000 - 157000,san jose,143000,157000,150000,0,1,0
+930,equinix,Data Scientist,145000 - 159000,san jose,145000,159000,152000,0,1,0
+931,godaddy,Data Scientist,117000 - 126000,san jose,117000,126000,121500,0,1,0
+932,linkedin,Senior Data Scientist,159506,san jose,159506,159506,159506,0,0,1
+933,netflix,Senior Data Scientist,182126,san jose,182126,182126,182126,0,0,1
+934,linkedin,Software Engineer (Data Scientist),122762,san jose,122762,122762,122762,0,1,0
+935,walmart,Staff Data Scientist,129000 - 140000,san jose,129000,140000,134500,0,1,0
+936,microsoft,Senior Data Scientist,135000 - 186000,san jose,135000,186000,160500,0,0,1
+937,intuit,Senior Data Scientist,164000 - 196000,san jose,164000,196000,180000,0,0,1
+938,linkedin,Associate Data Scientist,109000 - 122000,san jose,109000,122000,115500,1,0,0
+939,ibm,Entry Level Data Scientist,116000 - 128000,san jose,116000,128000,122000,0,1,0
+940,microsoft,Data Scientist II,139000 - 150000,san jose,139000,150000,144500,0,1,0
+941,at&t,Senior Data Scientist,147000 - 159000,san jose,147000,159000,153000,0,0,1
+942,chegg,Senior Data Scientist,155000 - 170000,san jose,155000,170000,162500,0,0,1
+943,sap,Senior Data Scientist,120000 - 130000,san jose,120000,130000,125000,0,0,1
+944,intel corporation,Senior Data Scientist,157000 - 169000,san jose,157000,169000,163000,0,0,1
+945,think big,Senior Data Scientist,154000 - 165000,san jose,154000,165000,159500,0,0,1
+946,verizon,Senior Data Scientist,154000 - 168000,san jose,154000,168000,161000,0,0,1
+947,hewlett packard enterprise | hpe,Senior Data Scientist,133000 - 146000,san jose,133000,146000,139500,0,0,1
+948,ayasdi,Senior Data Scientist,130000 - 139000,san jose,130000,139000,134500,0,0,1
+949,aol,Senior Data Scientist,139000 - 148000,san jose,139000,148000,143500,0,0,1
+950,amazon.com,Senior Data Scientist,173000 - 186000,san jose,173000,186000,179500,0,0,1
+951,hewlett-packard,Senior Data Scientist,141000 - 154000,san jose,141000,154000,147500,0,0,1
+952,lockheed martin,Senior Data Scientist,139000 - 149000,san jose,139000,149000,144000,0,0,1
+953,tiger analytics,Senior Data Scientist,125000 - 138000,san jose,125000,138000,131500,0,0,1
+954,bny mellon,Senior Data Scientist,130000 - 141000,san jose,130000,141000,135500,0,0,1
+955,walmart,Senior Data Scientist,137000 - 148000,san jose,137000,148000,142500,0,0,1
+956,paypal,Senior Data Scientist,170000 - 185000,san jose,170000,185000,177500,0,0,1
+957,target,Senior Data Scientist,133000 - 145000,san jose,133000,145000,139000,0,0,1
+958,journal register,Senior Data Scientist,123000 - 133000,san jose,123000,133000,128000,0,0,1
+959,medianews,Senior Data Scientist,140000 - 152000,san jose,140000,152000,146000,0,0,1
+960,adobe,Senior Data Scientist,176000 - 191000,san jose,176000,191000,183500,0,0,1
+961,digital first media,Senior Data Scientist,137000 - 147000,san jose,137000,147000,142000,0,0,1
+962,bcg digital ventures,Senior Data Scientist,120000 - 130000,san jose,120000,130000,125000,0,0,1
+963,cisco systems,Senior Data Scientist,153000 - 167000,san jose,153000,167000,160000,0,0,1
+964,pivotal,Senior Data Scientist,162000 - 175000,san jose,162000,175000,168500,0,0,1
+965,mcafee,Senior Data Scientist,153000 - 165000,san jose,153000,165000,159000,0,0,1
+966,successfactors,Senior Data Scientist,136000 - 147000,san jose,136000,147000,141500,0,0,1
+967,ibm,Data Scientist Intern,110000 - 120000,san jose,110000,120000,115000,1,0,0
+968,groupon,Data Scientist Intern,142000 - 152000,san jose,142000,152000,147000,1,0,0
+969,microsoft,Principal Data Scientist,168000 - 180000,san jose,168000,180000,174000,0,0,1
+970,think big,Principal Data Scientist,172000 - 184000,san jose,172000,184000,178000,0,0,1
+971,at&t,Principal Data Scientist,172000 - 186000,san jose,172000,186000,179000,0,0,1
+972,riverbed technology,Principal Data Scientist,171000 - 186000,san jose,171000,186000,178500,0,0,1
+973,amazon.com,Principal Data Scientist,195000 - 207000,san jose,195000,207000,201000,0,0,1
+974,walmart,Principal Data Scientist,153000 - 164000,san jose,153000,164000,158500,0,0,1
+975,intuit,Associate Data Scientist,133000 - 141000,san jose,133000,141000,137000,1,0,0
+976,walmart,Associate Data Scientist,111000 - 120000,san jose,111000,120000,115500,1,0,0
+977,emc,Data Scientist I,117000 - 126000,san jose,117000,126000,121500,0,1,0
+978,pivotal,Data Scientist I,135000 - 145000,san jose,135000,145000,140000,0,1,0
+979,microsoft,Data Scientist,120409,seattle,120409,120409,120409,0,1,0
+980,nordstrom,Data Scientist,107304,seattle,107304,107304,107304,0,1,0
+981,zillow,Data Scientist,112500,seattle,112500,112500,112500,0,1,0
+982,microsoft,Data Scientist Intern - Monthly,7000 - 8000,seattle,84000,96000,90000,1,0,0
+983,voicebox technologies,Data Scientist,75000 - 151000,seattle,75000,151000,113000,0,1,0
+984,redfin,Data Scientist,81000 - 99000,seattle,81000,99000,90000,0,1,0
+985,facebook,Data Scientist,142000 - 154000,seattle,142000,154000,148000,0,1,0
+986,amazon.com,Data Scientist,80000 - 85000,seattle,80000,85000,82500,0,1,0
+987,tata consultancy services,Data Scientist,118000 - 128000,seattle,118000,128000,123000,0,1,0
+988,pnnl,Data Scientist,70000 - 75000,seattle,70000,75000,72500,0,1,0
+989,infosys,Data Scientist,101000 - 110000,seattle,101000,110000,105500,0,1,0
+990,expedia,Data Scientist,116000 - 125000,seattle,116000,125000,120500,0,1,0
+991,boeing,Data Scientist,92000 - 98000,seattle,92000,98000,95000,0,1,0
+992,capital one,Data Scientist,116000 - 128000,seattle,116000,128000,122000,0,1,0
+993,twitter,Data Scientist,129000 - 141000,seattle,129000,141000,135000,0,1,0
+994,kpmg,Data Scientist,101000 - 111000,seattle,101000,111000,106000,0,1,0
+995,accenture,Data Scientist,99000 - 107000,seattle,99000,107000,103000,0,1,0
+996,groupon,Data Scientist,149000 - 159000,seattle,149000,159000,154000,0,1,0
+997,philips,Data Scientist,119000 - 131000,seattle,119000,131000,125000,0,1,0
+998,avanade,Data Scientist,119000 - 131000,seattle,119000,131000,125000,0,1,0
+999,ihs,Data Scientist,103000 - 111000,seattle,103000,111000,107000,0,1,0
+1000,richrelevance,Data Scientist,82000 - 89000,seattle,82000,89000,85500,0,1,0
+1001,shoppertrak,Data Scientist,119000 - 130000,seattle,119000,130000,124500,0,1,0
+1002,businessolver,Data Scientist,100000 - 108000,seattle,100000,108000,104000,0,1,0
+1003,tellapart,Data Scientist,92000 - 98000,seattle,92000,98000,95000,0,1,0
+1004,exponent,Data Scientist,91000 - 99000,seattle,91000,99000,95000,0,1,0
+1005,xerox,Data Scientist,98000 - 106000,seattle,98000,106000,102000,0,1,0
+1006,hotwire,Data Scientist,105000 - 113000,seattle,105000,113000,109000,0,1,0
+1007,servicenow,Data Scientist,125000 - 138000,seattle,125000,138000,131500,0,1,0
+1008,amazon lab126,Data Scientist,125000 - 136000,seattle,125000,136000,130500,0,1,0
+1009,microsoft,Senior Data Scientist,145737,seattle,145737,145737,145737,0,0,1
+1010,microsoft,Data Scientist II,125147,seattle,125147,125147,125147,0,1,0
+1011,microsoft,Principal Data Scientist,186250,seattle,186250,186250,186250,0,0,1
+1012,expedia,Senior Data Scientist,129000 - 141000,seattle,129000,141000,135000,0,0,1
+1013,sap,Senior Data Scientist,103000 - 114000,seattle,103000,114000,108500,0,0,1
+1014,allstate,Senior Data Scientist,108000 - 117000,seattle,108000,117000,112500,0,0,1
+1015,exponent,Senior Data Scientist,103000 - 112000,seattle,103000,112000,107500,0,0,1
+1016,aol,Senior Data Scientist,120000 - 130000,seattle,120000,130000,125000,0,0,1
+1017,razorfish,Senior Data Scientist,130000 - 142000,seattle,130000,142000,136000,0,0,1
+1018,amazon.com,Senior Data Scientist,150000 - 161000,seattle,150000,161000,155500,0,0,1
+1019,pnnl,Senior Data Scientist,127000 - 137000,seattle,127000,137000,132000,0,0,1
+1020,bcg digital ventures,Senior Data Scientist,106000 - 113000,seattle,106000,113000,109500,0,0,1
+1021,cisco systems,Senior Data Scientist,133000 - 143000,seattle,133000,143000,138000,0,0,1
+1022,allstate,Junior Data Scientist,82000 - 89000,seattle,82000,89000,85500,1,0,0
+1023,amazon.com,Data Scientist Intern,109000 - 119000,seattle,109000,119000,114000,1,0,0
+1024,amazon.com,Principal Data Scientist,168000 - 180000,seattle,168000,180000,174000,0,0,1
+1025,salesforce,Associate Data Scientist,106000 - 113000,seattle,106000,113000,109500,1,0,0
+1026,pnnl,Senior Data Scientist,128000 - 139000,seattle,128000,139000,133500,0,0,1
+1027,bcg digital ventures,Senior Data Scientist,106000 - 113000,seattle,106000,113000,109500,0,0,1
+1028,cisco systems,Senior Data Scientist,132000 - 144000,seattle,132000,144000,138000,0,0,1
+1029,allstate,Junior Data Scientist,82000 - 89000,seattle,82000,89000,85500,1,0,0
+1030,amazon.com,Data Scientist Intern,109000 - 118000,seattle,109000,118000,113500,1,0,0
+1031,amazon.com,Principal Data Scientist,168000 - 180000,seattle,168000,180000,174000,0,0,1
+1032,salesforce,Associate Data Scientist,105000 - 113000,seattle,105000,113000,109000,1,0,0
+1033,pnnl,Senior Data Scientist,127000 - 139000,seattle,127000,139000,133000,0,0,1
+1034,bcg digital ventures,Senior Data Scientist,104000 - 113000,seattle,104000,113000,108500,0,0,1
+1035,cisco systems,Senior Data Scientist,134000 - 144000,seattle,134000,144000,139000,0,0,1
+1036,allstate,Junior Data Scientist,83000 - 89000,seattle,83000,89000,86000,1,0,0
+1037,amazon.com,Data Scientist Intern,110000 - 119000,seattle,110000,119000,114500,1,0,0
+1038,amazon.com,Principal Data Scientist,166000 - 181000,seattle,166000,181000,173500,0,0,1
+1039,salesforce,Associate Data Scientist,105000 - 115000,seattle,105000,115000,110000,1,0,0
+1040,pnnl,Senior Data Scientist,129000 - 137000,seattle,129000,137000,133000,0,0,1
+1041,bcg digital ventures,Senior Data Scientist,105000 - 113000,seattle,105000,113000,109000,0,0,1
+1042,cisco systems,Senior Data Scientist,132000 - 144000,seattle,132000,144000,138000,0,0,1
+1043,allstate,Junior Data Scientist,82000 - 89000,seattle,82000,89000,85500,1,0,0
+1044,amazon.com,Data Scientist Intern,110000 - 118000,seattle,110000,118000,114000,1,0,0
+1045,amazon.com,Principal Data Scientist,167000 - 180000,seattle,167000,180000,173500,0,0,1
+1046,salesforce,Associate Data Scientist,106000 - 115000,seattle,106000,115000,110500,1,0,0
+1047,booz allen hamilton,Data Scientist,73886,washington dc,73886,73886,73886,0,1,0
+1048,capital one,Data Scientist,109750,washington dc,109750,109750,109750,0,1,0
+1049,civis analytics,Data Scientist,85000,washington dc,85000,85000,85000,0,1,0
+1050,noblis,Data Scientist,76267,washington dc,76267,76267,76267,0,1,0
+1051,micron technology,Data Scientist,83000 - 117000,washington dc,83000,117000,100000,0,1,0
+1052,agilex technologies,Data Scientist,89000 - 103000,washington dc,89000,103000,96000,0,1,0
+1053,livingsocial,Data Scientist,76000 - 85000,washington dc,76000,85000,80500,0,1,0
+1054,us department of defense,Data Scientist,84000 - 94000,washington dc,84000,94000,89000,0,1,0
+1055,equifax,Data Scientist,98000 - 113000,washington dc,98000,113000,105500,0,1,0
+1056,accenture,Data Scientist,115000 - 125000,washington dc,115000,125000,120000,0,1,0
+1057,northrop grumman,Data Scientist,94000 - 101000,washington dc,94000,101000,97500,0,1,0
+1058,elder research,Data Scientist,88000 - 96000,washington dc,88000,96000,92000,0,1,0
+1059,the advisory board company,Data Scientist,101000 - 109000,washington dc,101000,109000,105000,0,1,0
+1060,mitre,Data Scientist,121000 - 131000,washington dc,121000,131000,126000,0,1,0
+1061,finra,Data Scientist,115000 - 125000,washington dc,115000,125000,120000,0,1,0
+1062,ibm,Data Scientist,117000 - 129000,washington dc,117000,129000,123000,0,1,0
+1063,pwc,Data Scientist,111000 - 119000,washington dc,111000,119000,115000,0,1,0
+1064,rang technologies,Data Scientist,113000 - 122000,washington dc,113000,122000,117500,0,1,0
+1065,kpmg,Data Scientist,104000 - 113000,washington dc,104000,113000,108500,0,1,0
+1066,hewlett packard enterprise | hpe,Data Scientist,105000 - 115000,washington dc,105000,115000,110000,0,1,0
+1067,verizon,Data Scientist,122000 - 131000,washington dc,122000,131000,126500,0,1,0
+1068,gallup,Data Scientist,96000 - 102000,washington dc,96000,102000,99000,0,1,0
+1069,hewlett-packard,Data Scientist,111000 - 120000,washington dc,111000,120000,115500,0,1,0
+1070,lockheed martin,Data Scientist,108000 - 118000,washington dc,108000,118000,113000,0,1,0
+1071,verizon wireless,Data Scientist,111000 - 120000,washington dc,111000,120000,115500,0,1,0
+1072,leidos,Data Scientist,98000 - 105000,washington dc,98000,105000,101500,0,1,0
+1073,ihs,Data Scientist,106000 - 114000,washington dc,106000,114000,110000,0,1,0
+1074,aptima,Data Scientist,102000 - 111000,washington dc,102000,111000,106500,0,1,0
+1075,altamira technologies,Data Scientist,114000 - 123000,washington dc,114000,123000,118500,0,1,0
+1076,engility,Data Scientist,106000 - 116000,washington dc,106000,116000,111000,0,1,0
+1077,cgi,Data Scientist,106000 - 113000,washington dc,106000,113000,109500,0,1,0
+1078,boeing,Data Scientist,98000 - 106000,washington dc,98000,106000,102000,0,1,0
+1079,qinetiq north america,Data Scientist,106000 - 114000,washington dc,106000,114000,110000,0,1,0
+1080,mda is,Data Scientist,101000 - 110000,washington dc,101000,110000,105500,0,1,0
+1081,gannett,Data Scientist,107000 - 116000,washington dc,107000,116000,111500,0,1,0
+1082,vistronix,Data Scientist,93000 - 101000,washington dc,93000,101000,97000,0,1,0
+1083,raytheon,Data Scientist,105000 - 115000,washington dc,105000,115000,110000,0,1,0
+1084,cormac,Data Scientist,110000 - 120000,washington dc,110000,120000,115000,0,1,0
+1085,bae systems usa,Data Scientist,109000 - 118000,washington dc,109000,118000,113500,0,1,0
+1086,socialcode,Data Scientist,108000 - 116000,washington dc,108000,116000,112000,0,1,0
+1087,booz allen hamilton,Lead Data Scientist,133000 - 161000,washington dc,133000,161000,147000,0,0,1
+1088,ibm,Entry Level Data Scientist,105000 - 112000,washington dc,105000,112000,108500,0,1,0
+1089,hewlett-packard,Senior Data Scientist,162000 - 177000,washington dc,162000,177000,169500,0,0,1
+1090,ondeck,Senior Data Scientist,86000 - 94000,washington dc,86000,94000,90000,0,0,1
+1091,the advisory board company,Senior Data Scientist,115000 - 125000,washington dc,115000,125000,120000,0,0,1
+1092,us department of defense,Senior Data Scientist,94000 - 101000,washington dc,94000,101000,97500,0,0,1
+1093,ibm,Senior Data Scientist,133000 - 144000,washington dc,133000,144000,138500,0,0,1
+1094,kpmg,Senior Data Scientist,118000 - 126000,washington dc,118000,126000,122000,0,0,1
+1095,capital one,Senior Data Scientist,135000 - 146000,washington dc,135000,146000,140500,0,0,1
+1096,booz allen hamilton,Senior Data Scientist,95000 - 102000,washington dc,95000,102000,98500,0,0,1
+1097,lockheed martin,Senior Data Scientist,123000 - 133000,washington dc,123000,133000,128000,0,0,1
+1098,saic,Senior Data Scientist,115000 - 126000,washington dc,115000,126000,120500,0,0,1
+1099,leidos,Senior Data Scientist,109000 - 119000,washington dc,109000,119000,114000,0,0,1
+1100,src,Senior Data Scientist,132000 - 143000,washington dc,132000,143000,137500,0,0,1
+1101,raytheon,Senior Data Scientist,120000 - 130000,washington dc,120000,130000,125000,0,0,1
+1102,akamai,Senior Data Scientist,144000 - 156000,washington dc,144000,156000,150000,0,0,1
+1103,l-3 communications,Senior Data Scientist,120000 - 128000,washington dc,120000,128000,124000,0,0,1
+1104,2u,Senior Data Scientist,126000 - 137000,washington dc,126000,137000,131500,0,0,1
+1105,cgi,Senior Data Scientist,118000 - 128000,washington dc,118000,128000,123000,0,0,1
+1106,general dynamics mission systems,Senior Data Scientist,127000 - 138000,washington dc,127000,138000,132500,0,0,1
+1107,verizon,Junior Data Scientist,105000 - 114000,washington dc,105000,114000,109500,1,0,0
+1108,verizon wireless,Junior Data Scientist,96000 - 103000,washington dc,96000,103000,99500,1,0,0
+1109,mitre,Junior Data Scientist,99000 - 106000,washington dc,99000,106000,102500,1,0,0
+1110,booz allen hamilton,Junior Data Scientist,72000 - 78000,washington dc,72000,78000,75000,1,0,0
+1111,booz allen hamilton,Chief Data Scientist,119000 - 129000,washington dc,119000,129000,124000,0,0,1
+1112,capital one,Chief Data Scientist,171000 - 187000,washington dc,171000,187000,179000,0,0,1
+1113,capital one,Principal Data Scientist,152000 - 163000,washington dc,152000,163000,157500,0,0,1
+1114,snagajob,Principal Data Scientist,142000 - 154000,washington dc,142000,154000,148000,0,0,1
+1115,verizon,Junior Data Scientist,104000 - 114000,washington dc,104000,114000,109000,1,0,0
+1116,verizon wireless,Junior Data Scientist,97000 - 103000,washington dc,97000,103000,100000,1,0,0
+1117,mitre,Junior Data Scientist,98000 - 106000,washington dc,98000,106000,102000,1,0,0
+1118,booz allen hamilton,Junior Data Scientist,72000 - 78000,washington dc,72000,78000,75000,1,0,0
+1119,booz allen hamilton,Chief Data Scientist,120000 - 131000,washington dc,120000,131000,125500,0,0,1
+1120,capital one,Chief Data Scientist,174000 - 186000,washington dc,174000,186000,180000,0,0,1
+1121,capital one,Principal Data Scientist,152000 - 162000,washington dc,152000,162000,157000,0,0,1
+1122,snagajob,Principal Data Scientist,144000 - 154000,washington dc,144000,154000,149000,0,0,1
+1123,verizon,Junior Data Scientist,105000 - 112000,washington dc,105000,112000,108500,1,0,0
+1124,verizon wireless,Junior Data Scientist,96000 - 104000,washington dc,96000,104000,100000,1,0,0
+1125,mitre,Junior Data Scientist,98000 - 106000,washington dc,98000,106000,102000,1,0,0
+1126,booz allen hamilton,Junior Data Scientist,72000 - 79000,washington dc,72000,79000,75500,1,0,0
+1127,booz allen hamilton,Chief Data Scientist,121000 - 131000,washington dc,121000,131000,126000,0,0,1
+1128,capital one,Chief Data Scientist,172000 - 188000,washington dc,172000,188000,180000,0,0,1
+1129,capital one,Principal Data Scientist,150000 - 164000,washington dc,150000,164000,157000,0,0,1
+1130,snagajob,Principal Data Scientist,144000 - 154000,washington dc,144000,154000,149000,0,0,1

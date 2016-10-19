@@ -1,0 +1,462 @@
+[
+    {
+        "meanPay": "$94,496",
+        "jobTitle": "Data Scientist",
+        "company": "Wayfair"
+    },
+    {
+        "meanPay": "$119,000",
+        "jobTitle": "Data Scientist",
+        "company": "TripAdvisor"
+    },
+    {
+        "meanPay": "$106,250",
+        "jobTitle": "Data Scientist",
+        "company": "TrueMotion"
+    },
+    {
+        "meanPay": "$108,269",
+        "jobTitle": "Data Scientist",
+        "company": "DataXu"
+    },
+    {
+        "meanPay": "$126,348",
+        "jobTitle": "Data Scientist",
+        "company": "PayPal"
+    },
+    {
+        "meanPay": "$87k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Tremor Video"
+    },
+    {
+        "meanPay": "$70k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "ADP"
+    },
+    {
+        "meanPay": "$94k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$125k - $135k",
+        "jobTitle": "Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$105k - $114k",
+        "jobTitle": "Data Scientist",
+        "company": "Philips"
+    },
+    {
+        "meanPay": "$114k - $124k",
+        "jobTitle": "Data Scientist",
+        "company": "Altisource"
+    },
+    {
+        "meanPay": "$114k - $124k",
+        "jobTitle": "Data Scientist",
+        "company": "Vantiv"
+    },
+    {
+        "meanPay": "$91k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Autodesk"
+    },
+    {
+        "meanPay": "$65k - $70k",
+        "jobTitle": "Data Scientist",
+        "company": "Brown University"
+    },
+    {
+        "meanPay": "$144k - $155k",
+        "jobTitle": "Data Scientist",
+        "company": "Boston Consulting Group"
+    },
+    {
+        "meanPay": "$80k - $86k",
+        "jobTitle": "Data Scientist",
+        "company": "Booz Allen Hamilton"
+    },
+    {
+        "meanPay": "$104k - $114k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$97k - $106k",
+        "jobTitle": "Data Scientist",
+        "company": "Cognizant Technology Solutions"
+    },
+    {
+        "meanPay": "$63k - $69k",
+        "jobTitle": "Data Scientist",
+        "company": "Nielsen"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$115k - $124k",
+        "jobTitle": "Data Scientist",
+        "company": "eBay"
+    },
+    {
+        "meanPay": "$107k - $116k",
+        "jobTitle": "Data Scientist",
+        "company": "Ciber"
+    },
+    {
+        "meanPay": "$106k - $114k",
+        "jobTitle": "Data Scientist",
+        "company": "Nokia"
+    },
+    {
+        "meanPay": "$120k - $130k",
+        "jobTitle": "Data Scientist",
+        "company": "GE"
+    },
+    {
+        "meanPay": "$113k - $124k",
+        "jobTitle": "Data Scientist",
+        "company": "Epsilon"
+    },
+    {
+        "meanPay": "$100k - $109k",
+        "jobTitle": "Data Scientist",
+        "company": "Alliance Data"
+    },
+    {
+        "meanPay": "$98k - $106k",
+        "jobTitle": "Data Scientist",
+        "company": "Aptima"
+    },
+    {
+        "meanPay": "$107k - $116k",
+        "jobTitle": "Data Scientist",
+        "company": "NTT DATA"
+    },
+    {
+        "meanPay": "$97k - $106k",
+        "jobTitle": "Data Scientist",
+        "company": "Blackbaud"
+    },
+    {
+        "meanPay": "$90k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "Exponent"
+    },
+    {
+        "meanPay": "$121k - $132k",
+        "jobTitle": "Data Scientist",
+        "company": "Sapient Global Markets"
+    },
+    {
+        "meanPay": "$98k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "GoDaddy"
+    },
+    {
+        "meanPay": "$103k - $110k",
+        "jobTitle": "Data Scientist",
+        "company": "ViaSat"
+    },
+    {
+        "meanPay": "$121k - $132k",
+        "jobTitle": "Data Scientist",
+        "company": "NVIDIA"
+    },
+    {
+        "meanPay": "$134k - $143k",
+        "jobTitle": "Data Scientist",
+        "company": "Spotify"
+    },
+    {
+        "meanPay": "$113k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Novartis Pharmaceuticals"
+    },
+    {
+        "meanPay": "$111k - $119k",
+        "jobTitle": "Data Scientist",
+        "company": "ACI Worldwide"
+    },
+    {
+        "meanPay": "$105k - $168k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Biogen"
+    },
+    {
+        "meanPay": "$98k - $108k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$116k - $127k",
+        "jobTitle": "Data Scientist II",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$127k - $138k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$138k - $152k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$90k - $96k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Booz Allen Hamilton"
+    },
+    {
+        "meanPay": "$131k - $140k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$106k - $115k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Tiger Analytics"
+    },
+    {
+        "meanPay": "$137k - $149k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Akamai"
+    },
+    {
+        "meanPay": "$128k - $138k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "YuMe"
+    },
+    {
+        "meanPay": "$111k - $121k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "FIS"
+    },
+    {
+        "meanPay": "$107k - $117k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$83k - $90k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "ViaSat"
+    },
+    {
+        "meanPay": "$144k - $157k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$123k - $131k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "BNY Mellon"
+    },
+    {
+        "meanPay": "$127k - $137k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$139k - $153k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Booz Allen Hamilton"
+    },
+    {
+        "meanPay": "$129k - $139k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$107k - $115k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Tiger Analytics"
+    },
+    {
+        "meanPay": "$139k - $150k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Akamai"
+    },
+    {
+        "meanPay": "$128k - $138k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "YuMe"
+    },
+    {
+        "meanPay": "$111k - $121k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "FIS"
+    },
+    {
+        "meanPay": "$108k - $117k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$83k - $90k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "ViaSat"
+    },
+    {
+        "meanPay": "$144k - $156k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$123k - $131k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "BNY Mellon"
+    },
+    {
+        "meanPay": "$125k - $138k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$140k - $151k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Booz Allen Hamilton"
+    },
+    {
+        "meanPay": "$130k - $139k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$94k - $102k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$105k - $116k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Tiger Analytics"
+    },
+    {
+        "meanPay": "$138k - $150k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Akamai"
+    },
+    {
+        "meanPay": "$129k - $138k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "YuMe"
+    },
+    {
+        "meanPay": "$113k - $122k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "FIS"
+    },
+    {
+        "meanPay": "$106k - $115k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$84k - $90k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "ViaSat"
+    },
+    {
+        "meanPay": "$144k - $157k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$123k - $133k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "BNY Mellon"
+    },
+    {
+        "meanPay": "$128k - $138k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$140k - $150k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Microsoft"
+    },
+    {
+        "meanPay": "$89k - $97k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Booz Allen Hamilton"
+    },
+    {
+        "meanPay": "$130k - $139k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$106k - $115k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Tiger Analytics"
+    },
+    {
+        "meanPay": "$138k - $150k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Akamai"
+    },
+    {
+        "meanPay": "$128k - $140k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "YuMe"
+    },
+    {
+        "meanPay": "$112k - $120k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "FIS"
+    },
+    {
+        "meanPay": "$106k - $115k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$83k - $91k",
+        "jobTitle": "Data Scientist Intern",
+        "company": "ViaSat"
+    },
+    {
+        "meanPay": "$143k - $157k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Think Big"
+    },
+    {
+        "meanPay": "$121k - $131k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "BNY Mellon"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "meanPay": "$102,000",
+        "jobTitle": "Data Scientist",
+        "company": "Schlumberger"
+    },
+    {
+        "meanPay": "$116k - $154k",
+        "jobTitle": "Data Scientist",
+        "company": "Chevron"
+    },
+    {
+        "meanPay": "$106k - $114k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$96k - $104k",
+        "jobTitle": "Data Scientist",
+        "company": "Anthem"
+    },
+    {
+        "meanPay": "$98k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Rang Technologies"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$83k - $90k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$119k - $129k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$93k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "SAIC"
+    },
+    {
+        "meanPay": "$114k - $123k",
+        "jobTitle": "Data Scientist",
+        "company": "Equinix"
+    },
+    {
+        "meanPay": "$113k - $122k",
+        "jobTitle": "Data Scientist",
+        "company": "Sapient Global Markets"
+    },
+    {
+        "meanPay": "$112k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Anadarko Petroleum"
+    },
+    {
+        "meanPay": "$91k - $98k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$116k - $125k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$91k - $99k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "McKinsey & Company"
+    },
+    {
+        "meanPay": "$102,000",
+        "jobTitle": "Data Scientist",
+        "company": "Schlumberger"
+    },
+    {
+        "meanPay": "$115k - $153k",
+        "jobTitle": "Data Scientist",
+        "company": "Chevron"
+    },
+    {
+        "meanPay": "$107k - $115k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$96k - $103k",
+        "jobTitle": "Data Scientist",
+        "company": "Anthem"
+    },
+    {
+        "meanPay": "$99k - $108k",
+        "jobTitle": "Data Scientist",
+        "company": "Rang Technologies"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$84k - $89k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$120k - $130k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$93k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$90k - $96k",
+        "jobTitle": "Data Scientist",
+        "company": "SAIC"
+    },
+    {
+        "meanPay": "$113k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Equinix"
+    },
+    {
+        "meanPay": "$114k - $122k",
+        "jobTitle": "Data Scientist",
+        "company": "Sapient Global Markets"
+    },
+    {
+        "meanPay": "$114k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Anadarko Petroleum"
+    },
+    {
+        "meanPay": "$91k - $99k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$118k - $126k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$93k - $99k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "McKinsey & Company"
+    },
+    {
+        "meanPay": "$102,000",
+        "jobTitle": "Data Scientist",
+        "company": "Schlumberger"
+    },
+    {
+        "meanPay": "$115k - $153k",
+        "jobTitle": "Data Scientist",
+        "company": "Chevron"
+    },
+    {
+        "meanPay": "$105k - $115k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$95k - $104k",
+        "jobTitle": "Data Scientist",
+        "company": "Anthem"
+    },
+    {
+        "meanPay": "$98k - $108k",
+        "jobTitle": "Data Scientist",
+        "company": "Rang Technologies"
+    },
+    {
+        "meanPay": "$92k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$82k - $90k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$118k - $129k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$91k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "SAIC"
+    },
+    {
+        "meanPay": "$114k - $123k",
+        "jobTitle": "Data Scientist",
+        "company": "Equinix"
+    },
+    {
+        "meanPay": "$113k - $123k",
+        "jobTitle": "Data Scientist",
+        "company": "Sapient Global Markets"
+    },
+    {
+        "meanPay": "$113k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Anadarko Petroleum"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$116k - $126k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "McKinsey & Company"
+    },
+    {
+        "meanPay": "$102,000",
+        "jobTitle": "Data Scientist",
+        "company": "Schlumberger"
+    },
+    {
+        "meanPay": "$115k - $155k",
+        "jobTitle": "Data Scientist",
+        "company": "Chevron"
+    },
+    {
+        "meanPay": "$105k - $113k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$96k - $104k",
+        "jobTitle": "Data Scientist",
+        "company": "Anthem"
+    },
+    {
+        "meanPay": "$98k - $106k",
+        "jobTitle": "Data Scientist",
+        "company": "Rang Technologies"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$82k - $90k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$118k - $130k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$90k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "SAIC"
+    },
+    {
+        "meanPay": "$113k - $122k",
+        "jobTitle": "Data Scientist",
+        "company": "Equinix"
+    },
+    {
+        "meanPay": "$113k - $123k",
+        "jobTitle": "Data Scientist",
+        "company": "Sapient Global Markets"
+    },
+    {
+        "meanPay": "$112k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Anadarko Petroleum"
+    },
+    {
+        "meanPay": "$92k - $99k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$115k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$92k - $101k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "McKinsey & Company"
+    },
+    {
+        "meanPay": "$102,000",
+        "jobTitle": "Data Scientist",
+        "company": "Schlumberger"
+    },
+    {
+        "meanPay": "$115k - $154k",
+        "jobTitle": "Data Scientist",
+        "company": "Chevron"
+    },
+    {
+        "meanPay": "$105k - $114k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$95k - $104k",
+        "jobTitle": "Data Scientist",
+        "company": "Anthem"
+    },
+    {
+        "meanPay": "$99k - $108k",
+        "jobTitle": "Data Scientist",
+        "company": "Rang Technologies"
+    },
+    {
+        "meanPay": "$93k - $101k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$83k - $89k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$119k - $128k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$89k - $98k",
+        "jobTitle": "Data Scientist",
+        "company": "SAIC"
+    },
+    {
+        "meanPay": "$113k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Equinix"
+    },
+    {
+        "meanPay": "$112k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Sapient Global Markets"
+    },
+    {
+        "meanPay": "$113k - $122k",
+        "jobTitle": "Data Scientist",
+        "company": "Anadarko Petroleum"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$116k - $127k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "McKinsey & Company"
+    },
+    {
+        "meanPay": "$102,000",
+        "jobTitle": "Data Scientist",
+        "company": "Schlumberger"
+    },
+    {
+        "meanPay": "$116k - $155k",
+        "jobTitle": "Data Scientist",
+        "company": "Chevron"
+    },
+    {
+        "meanPay": "$106k - $115k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$96k - $105k",
+        "jobTitle": "Data Scientist",
+        "company": "Anthem"
+    },
+    {
+        "meanPay": "$98k - $107k",
+        "jobTitle": "Data Scientist",
+        "company": "Rang Technologies"
+    },
+    {
+        "meanPay": "$92k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "Hewlett Packard Enterprise | HPE"
+    },
+    {
+        "meanPay": "$83k - $90k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$119k - $128k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$91k - $100k",
+        "jobTitle": "Data Scientist",
+        "company": "IHS"
+    },
+    {
+        "meanPay": "$89k - $97k",
+        "jobTitle": "Data Scientist",
+        "company": "SAIC"
+    },
+    {
+        "meanPay": "$112k - $122k",
+        "jobTitle": "Data Scientist",
+        "company": "Equinix"
+    },
+    {
+        "meanPay": "$111k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Sapient Global Markets"
+    },
+    {
+        "meanPay": "$111k - $121k",
+        "jobTitle": "Data Scientist",
+        "company": "Anadarko Petroleum"
+    },
+    {
+        "meanPay": "$92k - $98k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$117k - $126k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$93k - $99k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "McKinsey & Company"
+    }
+]

@@ -1,0 +1,721 @@
+,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
+0,"Atlanta, GA",Centers for Disease Control and Prevention,ece367560a42bf9b,Health Scientist (Informatics),"$104,349 - $135,656 a year",54.0,63,1 day,2016-10-16 00:34:31.431672
+1,"Atlanta, GA 30338",KPMG,53b7f855d4891e19,Data Scientist,,51.0,1768,1 day,2016-10-16 00:34:31.431672
+2,"Atlanta, GA 30339",ASSURANT,9ecd8095dd0355f8,Data Scientist,,43.2,1107,9 days,2016-10-16 00:34:31.431672
+3,"Atlanta, GA",Ga. Dept. of Admin. Services,134c301ec3ba87c4,Statistical Data Analyst,,,,4 days,2016-10-16 00:34:31.431672
+4,"Atlanta, GA 30306 (Virginia-Highland area)",360i,c2b6dcbcb0895072,Associate Data Scientist,,51.0,9,10 days,2016-10-16 00:34:31.431672
+5,"Atlanta, GA 30339",ASSURANT,ed7467a761020f51,Sr Data Scientist - Fraud,,43.2,1107,14 hours,2016-10-16 00:34:31.431672
+6,"Atlanta, GA",Centers for Disease Control and Prevention,40d8215afa28f4bb,HEALTH SCIENTIST,"$88,305 - $114,802 a year",54.0,63,20 hours,2016-10-16 00:34:31.431672
+7,"Atlanta, GA 30303 (Five Points area)",Vesta Corporation,24cec20de39398ca,Senior Data Scientist,,40.2,31,8 days,2016-10-16 00:34:31.431672
+8,"Atlanta, GA",Honeywell,9b253c3eeae5f37a,Analytics Data Scientist,,44.4,3473,9 days,2016-10-16 00:34:31.431672
+9,"Atlanta, GA 30338",KPMG,564598809d60ebbc,"Data Scientist, Natural Language Processing",,51.0,1768,1 day,2016-10-16 00:34:31.431672
+10,"Atlanta, GA",Kabbage,6e3ccea1c8472429,Data Scientist,,,,30+ days,2016-10-16 00:34:31.431672
+11,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,0b18bd331be1a5ca,Machine Learning-Data Science Computer Vision Researcher ATA...,,52.800003,255,10 days,2016-10-16 00:34:31.431672
+12,"Atlanta, GA",Travelport,bfa076e5d7e77ef6,Data Scientist,,51.6,52,29 days,2016-10-16 00:34:31.431672
+13,"Dunwoody, GA",State Farm Mutual Automobile Insurance Company,54d7604c389790bd,Data Scientist,,51.0,3358,28 days,2016-10-16 00:34:31.431672
+14,"Atlanta, GA 30306 (Virginia-Highland area)",360i,abb5e77d57d05bfb,Sr Data Scientist,,51.0,9,18 days,2016-10-16 00:34:31.431672
+15,"Atlanta, GA",State Farm Mutual Automobile Insurance Company,594e039f37d4ec5d,Research Statistician,,51.0,3358,2 days,2016-10-16 00:34:31.431672
+16,"Atlanta, GA",Honeywell,3ab193931df8ad50,"Sr Data Scientist - Atlanta, GA",,44.4,3473,23 days,2016-10-16 00:34:31.431672
+17,"Atlanta, GA",SunTrust,16b342fb19d2cf92,"Consumer Banking Data Scientist - Atlanta, GA",,42.6,2101,30+ days,2016-10-16 00:34:31.431672
+18,"Atlanta, GA",Bastille,f5d182f58df6fd06,Data Scientist,,,,30+ days,2016-10-16 00:34:31.431672
+19,"Atlanta, GA",Strive Consulting LLC,dedd076d3befa2ae,Mid/Sr Data Scientist,,,,5 days,2016-10-16 00:34:31.431672
+20,"Atlanta, GA",Cox Automotive,4dd0428a36b610d7,Data Scientist,,40.8,42,11 days,2016-10-16 00:34:31.431672
+21,"Atlanta, GA 30318 (Rockdale area)",McKinsey & Company,17146a30a3242856,Senior Personnel Data Scientist/Analyst,,52.800003,169,30+ days,2016-10-16 00:34:31.431672
+22,"Atlanta, GA 30309 (Midtown area)",HD Supply,5e4122b4e399341b,Data Scientist,,42.0,489,30+ days,2016-10-16 00:34:31.431672
+23,"Atlanta, GA",Honeywell,78f1a9a1e62191ef,"Principal Data Scientist - Atlanta, GA",,44.4,3473,23 days,2016-10-16 00:34:31.431672
+24,"Atlanta, GA",Home Depot,07d2ec530def558d,DATA SCIENTIST,,43.8,20589,28 days,2016-10-16 00:34:31.431672
+25,"Atlanta, GA",Feedzai,241bf43cfe61f5c0,Data Scientist,,,,30+ days,2016-10-16 00:34:31.431672
+26,"Atlanta, GA 30338",KPMG,57dc2330cb3ed3c0,Sr Associate - Data Scientist,,51.0,1768,23 days,2016-10-16 00:34:31.431672
+27,"Alpharetta, GA",krg technology inc,c033d176ea5a13bf,Data Scientist,,,,30+ days,2016-10-16 00:34:31.431672
+28,"Atlanta, GA",NIIT Technologies,42835cf45915a966,Data Scientist,,42.6,122,30+ days,2016-10-16 00:34:31.431672
+29,"Atlanta, GA 30308 (Old Fourth Ward area)",Stackfolio,be3a7444db34e9a3,Lead Data Scientist,"$80,000 a year",,,30+ days,2016-10-16 00:34:31.431672
+30,"Atlanta, GA",Google,b96291bcf9c19e0a,"Cloud Instructor (Big Data, Machine Learning), Google Cloud...",,52.800003,1218,2 days,2016-10-16 00:34:31.431672
+31,"Atlanta, GA",Lifetime Fitness,c35d04e318052795,Ultimate Hoops Statistician,,42.6,751,1 day,2016-10-16 00:34:31.431672
+32,"Atlanta, GA",Loginsoft Consulting LLC,b4f67eac877cbb51,Data Scientist,,,,30+ days,2016-10-16 00:34:31.431672
+33,"Atlanta, GA",Cox Automotive,7d49fa6414b837af,"Manager, Data Enablement",,40.8,42,9 days,2016-10-16 00:34:31.431672
+34,"Atlanta, GA",AT&T,5f08806dc011569d,Principal Big Data Engineer,,44.4,14286,1 day,2016-10-16 00:34:31.431672
+35,"Alpharetta, GA",AT&T,7211ffe11e788ed3,Principal Data Scientist BIG DATA,,44.4,14286,12 days,2016-10-16 00:34:31.431672
+36,"Atlanta, GA",Home Depot,00ec45e4d3e1233f,DATA SCIENTIST- Space Optimization,,43.8,20589,14 days,2016-10-16 00:34:31.431672
+37,"Atlanta, GA 30326 (Buckhead area)","eHire, LLC",f0341f282e4dc253,Sr Data Scientist,"$150,000 a year",,,15 days,2016-10-16 00:34:31.431672
+38,"Atlanta, GA",Centers for Disease Control and Prevention,f7997468ea82b26a,Mathematical Statistician,"$104,349 - $135,656 a year",54.0,63,16 days,2016-10-16 00:34:31.431672
+39,"Alpharetta, GA 30005",McKesson,f067496c18935873,Data Scientist,,43.2,1512,19 days,2016-10-16 00:34:31.431672
+40,"Atlanta, GA 30319",Turner,8b86e74e5182e663,Sr. Data Scientist,,51.0,246,30+ days,2016-10-16 00:34:31.431672
+41,"Duluth, GA",The Centrics Group,c12bd05d7c5e5216,Data Scientist,"$90,000 - $102,000 a year",,,17 days,2016-10-16 00:34:31.431672
+42,"Atlanta, GA",Cotiviti,28c4f77bbe45925e,Data Scientist,,40.2,30,30+ days,2016-10-16 00:34:31.431672
+43,"Atlanta, GA","Aptonet, inc",6b694f3e631f00d0,Data Scientist BIG DATA,,,,30+ days,2016-10-16 00:34:31.431672
+44,"Atlanta, GA 30338",NIIT USA,002273bfa19e7d1e,Data Scientist,,,,30+ days,2016-10-16 00:34:31.431672
+45,"Alpharetta, GA 30005",LexisNexis,739ca94e7a0bed05,Statistical Modeler,,43.8,354,4 days,2016-10-16 00:34:31.431672
+46,"Atlanta, GA 30309 (Midtown area)",Equifax,7aa64e5bf061eaa5,Statistical Consultant,,43.2,220,25 days,2016-10-16 00:34:31.431672
+47,"Atlanta, GA",GHX,dedb1f8af08b0981,US Contractor - Data Scientist,,39.0,8,30+ days,2016-10-16 00:34:31.431672
+48,"Atlanta, GA",Target MarkeTeam,af9063160d9ec50e,"Data Analyst, Predictive Modeling",,,,30+ days,2016-10-16 00:34:31.431672
+49,"Alpharetta, GA 30022",Verizon,2eeab08cd59a3296,Senior Data Scientist,,44.4,11109,18 days,2016-10-16 00:34:31.431672
+50,"Alpharetta, GA 30005",LexisNexis,a55cca05efac758d,Principal Statistical Modeler,,43.8,354,2 days,2016-10-16 00:34:31.431672
+51,"Atlanta, GA",Emory University,514f87b53e191e5e,Assistant Professor -TT - Signal Processing & Machine Learni...,,51.6,254,15 days,2016-10-16 00:34:31.431672
+52,"Atlanta, GA",SimplePart.com,63ceae5801e1afd9,Director of Business Analytics,,,,30+ days,2016-10-16 00:34:31.431672
+53,"Atlanta, GA",Centers for Disease Control and Prevention,c5727f5f0d4a07fc,Behavioral Scientist,"$104,349 - $135,656 a year",54.0,63,20 hours,2016-10-16 00:34:31.431672
+54,"Atlanta, GA",GE Power,3cd633102b36edc1,Staff Analytics Engineer – Installed Base,,51.6,152,12 days,2016-10-16 00:34:31.431672
+55,"Atlanta, GA 30338",KPMG,09d2595f347a2619,Manager - Data Scientist,,51.0,1768,23 days,2016-10-16 00:34:31.431672
+56,"Plantation Place, GA",QBE,9bd12f3763979448,Data Science Engineer,,43.2,75,30+ days,2016-10-16 00:34:31.431672
+57,"Atlanta, GA",Bank of America,a8cace9dd50fd963,Quantitative Finance Analyst,,44.4,14228,30+ days,2016-10-16 00:34:31.431672
+58,"Atlanta, GA",Deloitte,81c4ff7baf659097,Advanced Analytics Enablement Big Data Senior Consultant,,51.0,3464,29 days,2016-10-16 00:34:31.431672
+59,"Atlanta, GA",SunTrust,179446c4d8fb1d70,Statistical Quant Analyst,,42.6,2101,30 days,2016-10-16 00:34:31.431672
+60,"Alpharetta, GA",Reed Elsevier,a075b11bec46f33e,Principal Statistical Modeler,,42.6,32,2 days,2016-10-16 00:34:31.431672
+61,"Alpharetta, GA",Reed Elsevier,d4627c400208ec41,Statistical Modeler,,42.6,32,4 days,2016-10-16 00:34:31.431672
+62,"Atlanta, GA 30303 (Five Points area)",SimplePart,8c463ab5c1b820dc,Director of Business Analytics,,,,30+ days,2016-10-16 00:34:31.431672
+63,"Roswell, GA",Principle Solutions Group,6e002bbea93cbded,Senior R&D Statistician,"$130,000 a year",42.6,8,3 days,2016-10-16 00:34:31.431672
+64,"Atlanta, GA",Honeywell,7253d6d7a5376e5d,"Sr Data Engineer - Atlanta, GA",,44.4,3473,23 days,2016-10-16 00:34:31.431672
+65,"Atlanta, GA 30326 (Buckhead area)",JLL,56c26c7fc90e65d9,Research Analyst - Office,,43.8,759,4 days,2016-10-16 00:34:31.431672
+66,"Atlanta, GA",Kaiser Permanente,563cc2645e6a9e06,"Sr Investigator, Research - Atlanta",,52.199997,3799,30 days,2016-10-16 00:34:31.431672
+67,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,463e45aca1e4a7fd,Applications Engineer and Intelligence Analyst - ACL 1181,,52.800003,255,23 days,2016-10-16 00:34:31.431672
+68,"Atlanta, GA",Analytic Recruiting,d67b0f93e14af031,Senior Data Scientist,"$100,000 - $125,000 a year",51.0,2,30+ days,2016-10-16 00:34:31.431672
+69,"Atlanta, GA",Feedzai,2efb76fefe857c5e,Data Scientist - Junior,,,,30+ days,2016-10-16 00:34:31.431672
+70,"Duluth, GA 30096",CHASE Professionals,869e076b2b2ca58e,Data Scientist/ Data Analyst,,43.8,166,1 day,2016-10-16 00:34:31.431672
+71,"Atlanta, GA",Emory University,3b8f65667c1a624d,Post Doctoral Fellow - Statistical Genetics/Genetic Epidemio...,,51.6,254,4 days,2016-10-16 00:34:31.431672
+72,"Atlanta, GA","Market Strategies International, Inc.",dd0727ad3b01cc3b,Analyst - Market Research,,,,2 days,2016-10-16 00:34:31.431672
+73,"Atlanta, GA 30339",Scientific Research Corporation,75ea95de13758c94,Land Expeditionary Warfare Analyst,,43.8,53,30+ days,2016-10-16 00:34:31.431672
+74,"Atlanta, GA","Aptonet, inc",abab8f4e8f9b405d,Big Data – Data Scientist.,,,,30+ days,2016-10-16 00:34:31.431672
+75,"Atlanta, GA 30328","Intercontinental Exchange, Inc.",3de191f59f554a55,Quantitative Analyst (5051),,,,30+ days,2016-10-16 00:34:31.431672
+76,"Atlanta, GA",Northrop Grumman,ff099ab0011d0f3d,Data Manager,,51.0,2124,30+ days,2016-10-16 00:34:31.431672
+77,"Norcross, GA",CI Radar,adf27202c0ea4526,Business Research Analyst - Entry Level,"$30,000 - $32,000 a year",,,10 days,2016-10-16 00:34:31.431672
+78,"Atlanta, GA",Oak Ridge Associated Universities,4928d3911710e6b0,Biostatistics; Statistician Fellowship -- CDC,,43.2,15,30+ days,2016-10-16 00:34:31.431672
+79,"Alpharetta, GA",AT&T,fefa5d19c1036ec6,Professional Data Scientist BIG DATA,,44.4,14286,30+ days,2016-10-16 00:34:31.431672
+80,"Atlanta, GA",Northside Hospital,e58bc00e1aa5967d,10915 VENDOR RESEARCH ANALYST,,51.0,330,5 days,2016-10-16 00:34:31.431672
+81,"Atlanta, GA",Cox Communications,5cdd2e98b1442c77,"Manager, Data Analysis",,51.0,1233,30 days,2016-10-16 00:34:31.431672
+82,"Atlanta, GA",North Highland,9f50fa0514c0b1aa,Business Intelligence Data Scientist,,41.4,18,30+ days,2016-10-16 00:34:31.431672
+83,"Alpharetta, GA 30022",Verizon,156f9a4f2f18d7d5,Data Analytics Engineer,,44.4,11109,30+ days,2016-10-16 00:34:31.431672
+84,"Atlanta, GA",PreVisor,9b75487e5b14d1d4,Research Scientist,,,,30+ days,2016-10-16 00:34:31.431672
+85,"Atlanta, GA",Visionaire Partners,b4a8e28f88d0b080,Data Scientist,,52.199997,5,10 days,2016-10-16 00:34:31.431672
+86,"Dunwoody, GA",State Farm Mutual Automobile Insurance Company,9ec54677a48cfd67,Actuarial Statistician,,51.0,3358,10 days,2016-10-16 00:34:31.431672
+87,"Atlanta, GA",Centers for Disease Control and Prevention,e2dbd49a6bdc83b8,Epidemiologist,"$88,305 - $114,802 a year",54.0,63,1 day,2016-10-16 00:34:31.431672
+88,"Atlanta, GA 30339",Scientific Research Corporation,f008b419ccd5c6fa,Software Engineer III,,43.8,53,1 day,2016-10-16 00:34:31.431672
+89,"Atlanta, GA",Bluefusioninc,bd6b2f66d91ef38a,Operations Research Analyst,,,,17 days,2016-10-16 00:34:31.431672
+90,"Atlanta, GA",SearchAccountingJobs,7fad02838ce4dbb3,Lead Quantitative Analyst,"$150,000 - $205,000 a year",,,3 days,2016-10-16 00:34:31.431672
+91,"Atlanta, GA",Northrop Grumman,a2d937a8d7efb91e,Health Research Analyst 2,,51.0,2124,12 days,2016-10-16 00:34:31.431672
+92,"Atlanta, GA","Aptonet, inc",a8e5bedfcc4eae76,Operations Research Analyst,,,,30+ days,2016-10-16 00:34:31.431672
+93,"Atlanta, GA 30326 (Buckhead area)",JLL,06fb0a51e02a9053,Sr Research Analyst (Industrial),,43.8,759,4 days,2016-10-16 00:34:31.431672
+94,"Alpharetta, GA",AT&T,9602654420268460,Big Data Technical Intern I,,44.4,14286,24 days,2016-10-16 00:34:31.431672
+95,"Atlanta, GA",AT&T,9dae70439485a050,Senior Data Scientist BIG DATA,,44.4,14286,30+ days,2016-10-16 00:34:31.431672
+96,"Atlanta, GA",UCB,00b6a44d7f426b8e,Head of Commercial Data and Analytics,,42.6,54,13 days,2016-10-16 00:34:31.431672
+97,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,f3c71b357a04c584,Research Scientist,,52.800003,255,17 days,2016-10-16 00:34:31.431672
+98,"Atlanta, GA",Oak Ridge Associated Universities,7cb01e6c9ce9dfd5,Statistical Analysis Fellowship - CDC,,43.2,15,30+ days,2016-10-16 00:34:31.431672
+99,"Duluth, GA 30096",NCR,cd18f100e82b5e56,Sr Data Scientist,,42.0,725,30+ days,2016-10-16 00:34:31.431672
+100,"Atlanta, GA",Honeywell,27b511fcc7265dd7,Analytics DevOps Engineer,,44.4,3473,8 days,2016-10-16 00:34:31.431672
+101,"Atlanta, GA",Visionaire Partners,2bd808237a2051c6,Data Scientist - Insights,,52.199997,5,15 days,2016-10-16 00:34:31.431672
+102,"Atlanta, GA 30324 (Buckhead area)",Wabash Solutions,b4323c1b2bb13cb9,Operations Research Analyst,,,,15 days,2016-10-16 00:34:31.431672
+103,"Atlanta, GA",PreVisor,b07cde8b257051da,Associate Research Scientist - 6-month intern position,,,,26 days,2016-10-16 00:34:31.431672
+104,"Atlanta, GA",Bank of America,921e5e4321f20dad,Senior Data Scientist,,44.4,14228,30+ days,2016-10-16 00:34:31.431672
+105,"Atlanta, GA",UNITED PARCEL SERVICE,c0ab81e918797263,Principal Data Scientist,,44.4,12420,30+ days,2016-10-16 00:34:31.431672
+106,"Atlanta, GA",HDR,0881307458ef3b0c,Project Management Systems Analyst,,51.0,122,8 days,2016-10-16 00:34:31.431672
+107,"Atlanta, GA 30338",KPMG,45ead534ae80342a,Sr. Manager - Data Analytics,,51.0,1768,30+ days,2016-10-16 00:34:31.431672
+108,"Atlanta, GA",Department of Public Health,b0c0ffb6debea543,Laboratory Aide 3,,51.0,64,1 day,2016-10-16 00:34:31.431672
+109,"Alpharetta, GA",AT&T,ab7bcfa8f9f70d87,Big Data Technical Co Op I,,44.4,14286,24 days,2016-10-16 00:34:31.431672
+110,"Atlanta, GA",Bank of America,755bb430c6b5c4d7,CIG Quantitative Financial Analyst,,44.4,14228,30+ days,2016-10-16 00:34:31.431672
+111,"Atlanta, GA",RaceTrac,cefa2b3bf3741997,Optimization Research Analyst,,43.2,693,18 days,2016-10-16 00:34:31.431672
+112,"Atlanta, GA",GE Power,8b4f59564007a915,Staff Software Engineer – B2B eCommerce,,51.6,152,12 days,2016-10-16 00:34:31.431672
+113,"Atlanta, GA 30341",CSTE,201e2344face6404,Associate Research Analyst,"$51,706 a year",,,30+ days,2016-10-16 00:34:31.431672
+114,"Atlanta, GA",Cox Automotive,55858aa9122fc61a,Senior Data Scientist,,40.8,42,30+ days,2016-10-16 00:34:31.431672
+115,"Roswell, GA",AT&T,6879c8c4eb7d2dfb,Senior Big Data Software Eng BIG DATA,,44.4,14286,30+ days,2016-10-16 00:34:31.431672
+116,"Atlanta, GA","Emcien, Inc.",d98ecf9806172b8b,Backend Software Engineer: C/C++ Programmer,,,,30+ days,2016-10-16 00:34:31.431672
+117,"Alpharetta, GA",Lonza,cb8b212b8064d973,"Sr. Scientist, Upstream Technology – Formulation Additives",,40.8,53,4 days,2016-10-16 00:34:31.431672
+118,"Alpharetta, GA 30005",ADP,2fe2539a4648b858,Manager of Systems Analysis,,44.4,1655,11 days,2016-10-16 00:34:31.431672
+119,"Atlanta, GA",StrategyWise,5799213023e69929,Data Analyst,,,,30+ days,2016-10-16 00:34:31.431672
+120,"Atlanta, GA",Home Depot,55dfcaba163b8c89,"Senior Data Analyst, Supply Chain",,43.8,20589,24 days,2016-10-16 00:34:31.431672
+121,"Atlanta, GA",Capgemini,fd3512169c7325e1,Data Science Consultant,,43.8,2000,30+ days,2016-10-16 00:34:31.431672
+122,"Atlanta, GA",Novella Clinical,24b60e63b9992bc7,Sr. Statistical Programmer,,43.8,19,30+ days,2016-10-16 00:34:31.431672
+123,"Alpharetta, GA 30005",ADP,edda2c0e85ef027c,Senior QA Engineer-61513I,,44.4,1655,1 day,2016-10-16 00:34:31.431672
+124,"Atlanta, GA 30354 (Lakewood Heights-Southeastern area)",Home Depot,44933f3b4c450573,DATA ANALYST SUPPLY CHAIN,,43.8,20589,7 days,2016-10-16 00:34:31.431672
+125,"Atlanta, GA",ICF,03a154bb94b3bb32,Public Health Scientists - Project Managers,,40.8,233,4 days,2016-10-16 00:34:31.431672
+126,"Alpharetta, GA 30005",LexisNexis,36d63b7f02689a64,Sr Statistical Modeler,,43.8,354,30+ days,2016-10-16 00:34:31.431672
+127,"Atlanta, GA",GE Power,0430a3f4ea3ddaa5,Staff Software Engineer – Accounts Receivable,,51.6,152,16 days,2016-10-16 00:34:31.431672
+128,"Atlanta, GA",AptoNet Inc,068f45aff6d1d25b,Operations Research Analyst,,,,10 days,2016-10-16 00:34:31.431672
+129,"Atlanta, GA","Pro-Sphere Tek, Inc.",b4dcbbd865e8585d,Bio Statistician,,,,30+ days,2016-10-16 00:34:31.431672
+130,"Atlanta, GA",Intuitive Surgical,ae6ac7b5fbfca0bb,Research Scientist,,43.2,31,30+ days,2016-10-16 00:34:31.431672
+131,"Atlanta, GA",Emory University,f511772c666e95cd,Sponsored Research Financial Analyst,"$66,700 a year",51.6,254,30+ days,2016-10-16 00:34:31.431672
+132,"Atlanta, GA",Avanade,fe16133828dc0944,Data Scientist Director - East,,44.4,76,30+ days,2016-10-16 00:34:31.431672
+133,"Atlanta, GA",Blue Ridge,d6a2d96bd6d673d2,Senior Operations Research Analyst,,,,30+ days,2016-10-16 00:34:31.431672
+134,"Atlanta, GA 30326 (Buckhead area)",The Creative Group,ee6cf539ea1be1d3,Digital Optimization Lead (Deisgn + Analytics),,44.4,4151,12 days,2016-10-16 00:34:31.431672
+135,"Duluth, GA 30096",NCR,433e2e4eeb558218,Data Scientist-1,,42.0,725,30+ days,2016-10-16 00:34:31.431672
+136,"Alpharetta, GA",Reed Elsevier,3ab9e24411fd1784,Sr Statistical Modeler,,42.6,32,30+ days,2016-10-16 00:34:31.431672
+137,"Atlanta, GA",Google,a81de4a9bcfdc6a6,"Technical Curriculum Developer, Google Cloud Platform",,52.800003,1218,15 days,2016-10-16 00:34:31.431672
+138,"Atlanta, GA",OberonIT,fa0923871aa32602,Technical Business Analyst (need Data Analysis skills) (W2-C...,,,,30+ days,2016-10-16 00:34:31.431672
+139,"Atlanta, GA 30338",KPMG,bf4bdcc8cffbc344,"Manager, Tax Technology - Data Analytics Machine Learning",,51.0,1768,19 days,2016-10-16 00:34:31.431672
+140,"Atlanta, GA",InterContinental Hotels Group,78eca4ec1efe7fea,Data Integration Strategy Manager,,51.6,835,30+ days,2016-10-16 00:34:31.431672
+141,"Duluth, GA",CHASE Professionals,bd8b0464a235b3b7,Data Scientist,,43.8,166,30+ days,2016-10-16 00:34:31.431672
+142,"Kennesaw, GA",Philips,927f56870c5d41c1,Quality Analyst,,51.6,1219,12 days,2016-10-16 00:34:31.431672
+143,"Atlanta, GA",G2S Corporation,b971c14f4790f817,Data Analyst/ Epidemiologist,,,,26 days,2016-10-16 00:34:31.431672
+144,"Atlanta, GA 30305 (Buckhead area)",Synovus,5364ba334923a36c,Customer Insights Analyst II,,43.2,39,30+ days,2016-10-16 00:34:31.431672
+145,"Atlanta, GA",General Assembly,7fb289cfe1d1159e,Part Time Data Science Instructor,,52.800003,74,30+ days,2016-10-16 00:34:31.431672
+146,"Marietta, GA 30064",First Data,ffa690c564271e8a,Lead Data Scientist,,42.6,1398,30+ days,2016-10-16 00:34:31.431672
+147,"Atlanta, GA",Lucas Group,bd394aa0cb996921,Data Scientist - Recommendation & Personalization,,51.0,19,30+ days,2016-10-16 00:34:31.431672
+148,"Smyrna, GA",Georgia Tech Research Institute,63bf003b0bc95c2f,Acoustic Data Research Engineer ATAS Cobb 1148,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+149,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,ae0745a413329852,Research Scientist I/II-EOSL 1185,,52.800003,255,17 days,2016-10-16 00:34:31.431672
+150,"Atlanta, GA 30305 (Buckhead area)",Cogent Data Solutions Llc,768e980bc0f45e7f,Sr Hadoop data scientist,,,,3 days,2016-10-16 00:34:31.431672
+151,"Atlanta, GA",Oversight Systems,fe1befd46174917d,Demand Creation Associate,,60.0,2,30+ days,2016-10-16 00:34:31.431672
+152,"Alpharetta, GA 30005",ADP,8c8f1cb4e68c81bb,Director of Application Development,,44.4,1655,1 day,2016-10-16 00:34:31.431672
+153,"Atlanta, GA",ICF,f8292398506e735b,Senior Head Start Grantee Specialist,,40.8,233,24 days,2016-10-16 00:34:31.431672
+154,"Alpharetta, GA 30005",ADP,591b341f227fc78b,Lead Application Developer - MEAN Stack,,44.4,1655,19 days,2016-10-16 00:34:31.431672
+155,"Atlanta, GA",ITAC Solutions,0438d2cf4b957f6a,Senior Statistician - Research & Development,,43.8,10,1 day,2016-10-16 00:34:31.431672
+156,"Atlanta, GA 30328",Hunter Technical Resources,0faa4401d930b92e,Data Scientist,,60.0,5,11 days,2016-10-16 00:34:31.431672
+157,"Atlanta, GA",IBM,9901b3b49e2facd6,Product Designer – Android,,51.0,12110,10 days,2016-10-16 00:34:31.431672
+158,"Atlanta, GA",Meridian Group,2299acee0e54d251,Talent Research Analyst,,,,22 days,2016-10-16 00:34:31.431672
+159,"Atlanta, GA",Oak Ridge Associated Universities,e8adc2425bb844f2,Guideline Development Fellow -- CDC,,43.2,15,17 days,2016-10-16 00:34:31.431672
+160,"Atlanta, GA","Aptonet, inc",09dcf95bfed022f5,Big Data Software Engineer,,,,30+ days,2016-10-16 00:34:31.431672
+161,"Atlanta, GA","Aptonet, inc",2cc33c3f23a20cec,Software Engineer Big Data,,,,30+ days,2016-10-16 00:34:31.431672
+162,"Atlanta, GA",Visionaire Partners,f92c71e9cc77e654,Data Scientist - Recommendations,,52.199997,5,10 days,2016-10-16 00:34:31.431672
+163,"Marietta, GA",USA16 - US - Q2Solutions,8127d2904ae52a2d,"Assistant Scientist, Sample Preparation",,,,1 day,2016-10-16 00:34:31.431672
+164,"Atlanta, GA",Labcorp,36d8e06a04ebb7bf,Health Services Administrator,,43.2,1700,22 hours,2016-10-16 00:34:31.431672
+165,"Atlanta, GA",Oak Ridge Associated Universities,5a3230f12cc95e2a,Systematic Review Research Fellowship - CDC,,43.2,15,30+ days,2016-10-16 00:34:31.431672
+166,"Atlanta, GA",Georgia Tech,858334330b413a06,Research Technician III,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+167,"Atlanta, GA 30329",Karna LLC,57026ba29672cdf1,Biologist/Chemist,,39.0,2,11 hours,2016-10-16 00:34:31.431672
+168,"Atlanta, GA",Centers for Disease Control and Prevention,dc65c7b759f2ac80,Supervisory IT Specialist,"$122,744 - $159,572 a year",54.0,63,10 days,2016-10-16 00:34:31.431672
+169,"Atlanta, GA",Deloitte,6421887aca00dd6a,Advanced Analytics Enablement Big Data Manager,,51.0,3464,29 days,2016-10-16 00:34:31.431672
+170,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,50385fdbb6d4fd14,Test Engineer- ELSYS 1194,,52.800003,255,4 days,2016-10-16 00:34:31.431672
+171,"Atlanta, GA",Starr Companies,900db6f96d524f68,Statistical Reporting Accountant,,51.0,11,30+ days,2016-10-16 00:34:31.431672
+172,"Atlanta, GA",SRG,32b70a4eab0e6aff,HR Specialist,$25 an hour,42.6,16,18 days,2016-10-16 00:34:31.431672
+173,"Atlanta, GA",CareSource,61b61ad3f4c5c79f,Consultant/DB/Admin,,42.6,69,1 day,2016-10-16 00:34:31.431672
+174,"Atlanta, GA",ICF,7d49a08f0c30411e,Senior Public Health Scientists - Senior Project Managers,,40.8,233,1 day,2016-10-16 00:34:31.431672
+175,"Atlanta, GA",UL LLC,6cffbdfdfaeab761,Research Engineer - Wind Modeling,,,,20 days,2016-10-16 00:34:31.431672
+176,"Roswell, GA",AT&T,39b27ca817e97424,Professional Big Data Software Eng BIG DATA,,44.4,14286,30+ days,2016-10-16 00:34:31.431672
+177,"Atlanta, GA 30338",KPMG,5e2a9dfb7453bb7f,Manager - Health Care Analytics,,51.0,1768,30+ days,2016-10-16 00:34:31.431672
+178,"Norcross, GA",Parsons Corporation,48dff4f8992a8ebc,Environmental Engineer or Scientist II,,43.8,266,10 days,2016-10-16 00:34:31.431672
+179,"Atlanta, GA",Republic National Distributing Company (RNDC),77399ff21c108eea,College Intern Corporate IT,,42.0,185,8 days,2016-10-16 00:34:31.431672
+180,"Duluth, GA",Alcon Labs,142b47d5a7882733,Research Scientist-New Methods,,43.8,406,30+ days,2016-10-16 00:34:31.431672
+181,"Norcross, GA",OFS FITEL LLC,a7f8f48dcc7e33b1,"Controls Engineer – Norcross, GA",,40.8,6,10 days,2016-10-16 00:34:31.431672
+182,"Atlanta, GA",LigaData,aa78da1981e2a178,Senior Big Data Implementation Manager,,,,30+ days,2016-10-16 00:34:31.431672
+183,"Alpharetta, GA 30005",ADP,b7bcf68e1f58cd57,Lead Systems Analyst - Talent / Vantage,,44.4,1655,29 days,2016-10-16 00:34:31.431672
+184,"Atlanta, GA",CareSource,a3536d58f04c91a3,Respiratory Equipment Tech/Pulmonary Lab,,42.6,69,1 day,2016-10-16 00:34:31.431672
+185,"Atlanta, GA",Oversight Systems,fff5734e6b7bfc71,Solutions Development Engineer,,60.0,2,30+ days,2016-10-16 00:34:31.431672
+186,"Atlanta, GA",Oak Ridge Associated Universities,dc8ba04007838a52,Systematic Review Faculty Research Position - CDC,,43.2,15,30+ days,2016-10-16 00:34:31.431672
+187,"Atlanta, GA",The Creative Group (TCG),e98ac11dc313c531,Digital Optimization Lead (Design + Data),,,,12 days,2016-10-16 00:34:31.431672
+188,"Atlanta, GA",Home Depot,8d5bcf16fd20014d,"Sr. Analyst, Usability Research (Digital Next Generation)",,43.8,20589,28 days,2016-10-16 00:34:31.431672
+189,"Atlanta, GA",Oak Ridge Associated Universities,c88237ac4b76b12d,Division of Blood Disorders Health Science Fellowship - CDC,,43.2,15,30+ days,2016-10-16 00:34:31.431672
+190,"Atlanta, GA",IBM,894eaa9c1a343c15,Lead Product Designer – Emerging Platforms,,51.0,12110,26 days,2016-10-16 00:34:31.431672
+191,"Atlanta, GA",Emory University,dec6fc4e72dada5a,"Scientist, Med Imag Analysis","$69,900 a year",51.6,254,30+ days,2016-10-16 00:34:31.431672
+192,"Alpharetta, GA",Lonza,168eef5dbe0093c1,Senior Scientist -ICMS,,40.8,53,4 days,2016-10-16 00:34:31.431672
+193,"Marietta, GA",Vanderlande Industries,c48f94f598513f21,Market Research Analyst Intern- Spring 2017,,51.0,25,30+ days,2016-10-16 00:34:31.431672
+194,"Atlanta, GA 30319",Leidos,b3ebaed99b919f29,Senior Bioinformatics Developer,,43.8,187,30+ days,2016-10-16 00:34:31.431672
+195,"Atlanta, GA",CocaCola,48ab614c4860476e,"Scientist V, Monster Product Development",,44.4,4268,26 days,2016-10-16 00:34:31.431672
+196,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,6a9805c6a0af422d,Technical Project Manager - ACL IAPO 1170,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+197,"Alpharetta, GA 30005",ADP,b11be8ad33586081,Application Developer,,44.4,1655,4 days,2016-10-16 00:34:31.431672
+198,"Atlanta, GA",G2S Corporation,b95ff18fcbcbd5c6,Statistician- CDC,,,,30+ days,2016-10-16 00:34:31.431672
+199,"Atlanta, GA 30338",KPMG,e238008bdf221fa9,"Senior Associate, Tax Technology - Data Analytics Machine Le...",,51.0,1768,19 days,2016-10-16 00:34:31.431672
+200,"Atlanta, GA",Regions Bank,cdaa7a5314342db0,Capital Markets Senior Quantitative Modeling Analyst,,43.8,1043,30+ days,2016-10-16 00:34:31.431672
+201,"Atlanta, GA",IBM,09d853c407e641d6,Sr. Product Designer - Content Team,,51.0,12110,30 days,2016-10-16 00:34:31.431672
+202,"Atlanta, GA 30309 (Midtown area)",Battelle,94981fe3d4bfb39b,Health Physicist,,51.0,162,14 days,2016-10-16 00:34:31.431672
+203,"Atlanta, GA 30329",Children's Healthcare of Atlanta,1c7671adbf688cf4,"Behavioral Data Analyst - Feeding, Research, or Skill Acquis...",,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+204,"Marietta, GA",InfoMart,29d99016feb94b38,Online Analyst (Research),,51.0,2,30+ days,2016-10-16 00:34:31.431672
+205,"Atlanta, GA",GE Power,fe62a434942317b5,Sr Staff Software Engineer - B2B eCommerce,,51.6,152,12 days,2016-10-16 00:34:31.431672
+206,"Atlanta, GA",Starr Companies,98aca8a209d84853,Statistical Reporting Supervisor/Manager,,51.0,11,30+ days,2016-10-16 00:34:31.431672
+207,"Smyrna, GA",The Intersect Group,6f1979542c63a711,"Associate Director, Data Science",,52.800003,9,8 days,2016-10-16 00:34:31.431672
+208,"Atlanta, GA",Oak Ridge Associated Universities,d8fc4d38470ab2de,Policy Research Analyst Fellowship--CDC,,43.2,15,30+ days,2016-10-16 00:34:31.431672
+209,"Atlanta, GA",GE Power,e23fd5c7457f1387,Sr Staff Software Engineer – Accounts Receivable,,51.6,152,12 days,2016-10-16 00:34:31.431672
+210,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,0a9525fa164004ee,Quantum Info Science Experimentalist ACL-1163,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+211,"Alpharetta, GA 30005",ADP,80ebf16d2ea772cd,Product Manager,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+212,"Alpharetta, GA",Lonza,fd597b2edd7e9dfa,Lab Scientist - Material Characterization,,40.8,53,4 days,2016-10-16 00:34:31.431672
+213,"Tucker, GA",Quest Diagnostics,c99f17607626aac9,"Scientist, Forensic - Tucker, GA",,43.8,2048,11 days,2016-10-16 00:34:31.431672
+214,"Atlanta, GA",Koch Davis,43a4627b771d5ba8,Social Scientist,,,,1 day,2016-10-16 00:34:31.431672
+215,"Atlanta, GA",ICF,200c7ef3d65400a1,Head Start Fiscal Grantee Specialist,,40.8,233,30+ days,2016-10-16 00:34:31.431672
+216,"Atlanta, GA",Oversight Systems,d3cfe554921ce104,Sales Account Executive,,60.0,2,30+ days,2016-10-16 00:34:31.431672
+217,"Atlanta, GA",Mobiquity,3d68f8fe9175f23f,Sr Android Developer,,40.2,6,30 days,2016-10-16 00:34:31.431672
+218,"Atlanta, GA",Interesse International Inc,0f6dd4201c0c7ca1,Market Research & Sales Analyst,"$60,000 - $70,000 a year",,,30+ days,2016-10-16 00:34:31.431672
+219,"Alpharetta, GA 30005",ADP,cd9593c993090641,Associate Application Developer,,44.4,1655,24 days,2016-10-16 00:34:31.431672
+220,"Atlanta, GA",ICF,0113f7b6dbc9ab12,Tribal Evaluation Specialist - telecommute from Alaska,,40.8,233,30+ days,2016-10-16 00:34:31.431672
+221,"Atlanta, GA",Analytic Recruiting,a571bf02b339faa5,Senior Statistical Analyst,,51.0,2,30+ days,2016-10-16 00:34:31.431672
+222,"Kennesaw, GA 30144",Novelis,4cebd1aa5df4e50b,Corrosion Technologist,,43.8,78,25 days,2016-10-16 00:34:31.431672
+223,"Atlanta, GA",ICF,98e9837ce3d8a1d3,Digital Health Communications Specialist,,40.8,233,8 days,2016-10-16 00:34:31.431672
+224,"Roswell, GA 30075","Atlantic Coast Consulting, inc.",65a2933200700e7f,Environmental Project Scientist,,,,2 days,2016-10-16 00:34:31.431672
+225,"Atlanta, GA","Beckman Coulter, Inc.",dda19914cc0b9773,Field Service Engineer,,42.6,245,15 days,2016-10-16 00:34:31.431672
+226,"Alpharetta, GA 30005",ADP,8ea2a7e782fab935,Java Application Developer,,44.4,1655,8 days,2016-10-16 00:34:31.431672
+227,"Atlanta, GA",Bank of America,66f11b2b1c66da49,Sr Quantitative Finance Analyst,,44.4,14228,30+ days,2016-10-16 00:34:31.431672
+228,"Atlanta, GA 30363 (Buckhead area)",Piedmont Healthcare,2f803b317c70bca5,"Medical Technologist, Hematology, PRN, Piedmont Atlanta Hosp...",,43.2,163,19 days,2016-10-16 00:34:31.431672
+229,"Alpharetta, GA 30005",ADP,048d2de19ee3f560,Lead Systems Analyst - Vantage / HCM,,44.4,1655,29 days,2016-10-16 00:34:31.431672
+230,"Duluth, GA 30097",Terracon,d66d3e81219e7028,Staff Industrial Hygienist,,39.0,67,30+ days,2016-10-16 00:34:31.431672
+231,"Atlanta, GA",IBM,1ac55fad1d2824af,Lead Product Designer - Mobile Web,,51.0,12110,25 days,2016-10-16 00:34:31.431672
+232,"Decatur, GA",DeKalb Workforce Development,6822e53592d4017f,Instrument Man,,42.0,10,30+ days,2016-10-16 00:34:31.431672
+233,"Atlanta, GA 30345",Abt Associates,e076aadfc6e6ab0b,Associate / Evaluation,,52.199997,19,30+ days,2016-10-16 00:34:31.431672
+234,"Alpharetta, GA",Prestige Staffing,21ffeda5fd51ce57,UI Developer (D3.JS),,51.6,69,11 days,2016-10-16 00:34:31.431672
+235,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,3cafbd99e070211a,Research-focused Systems Engineer ELSYS 1048,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+236,"Alpharetta, GA 30005",ADP,66912f0256cc0b25,Senior Application Developer,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+237,"Atlanta, GA 30309 (Midtown area)",Battelle,a80f50b7b9d245be,Quality Assurance and Safety Auditor,,51.0,162,30+ days,2016-10-16 00:34:31.431672
+238,"Norcross, GA","Immucor, Inc",672deedcb7ad9bc0,Development Scientist II,,,,22 days,2016-10-16 00:34:31.431672
+239,"Atlanta, GA 30322",Children's Healthcare of Atlanta,a5697f7a731a3314,Medical Technologist - Part Time Evenings - Blood Bank - Egl...,,52.800003,200,9 days,2016-10-16 00:34:31.431672
+240,"Atlanta, GA",Oak Ridge Associated Universities,641b77ef782c863f,NGS Shotgun Metagenomics Fellowship - CDC,,43.2,15,30+ days,2016-10-16 00:34:31.431672
+241,"Atlanta, GA",Smith Hanley Associates,eb4aa0b41b9e72e9,Statistician - Model Validation,,51.6,12,25 days,2016-10-16 00:34:31.431672
+242,"Atlanta, GA",Feedzai,87c3d5c94fd3dbc4,Project Manager,,,,30+ days,2016-10-16 00:34:31.431672
+243,"Atlanta, GA",ICF,62d3754ba7c637fa,Information Architect/UX- Telecommute,,40.8,233,24 days,2016-10-16 00:34:31.431672
+244,"Alpharetta, GA 30005",ADP,44a1e1611fa61d3b,Design Engineer IV,,44.4,1655,17 days,2016-10-16 00:34:31.431672
+245,"Alpharetta, GA 30005",ADP,425d8827d4bccecc,Lead Java Application Developer,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+246,"Atlanta, GA",ICF,bc06669978f6404f,"Program Manager, Transportation - Atlanta",,40.8,233,30+ days,2016-10-16 00:34:31.431672
+247,"Atlanta, GA 30329",Chickasaw Nation Industries,14c3873cc5956b55,Laboratory Specialist,,51.6,126,29 days,2016-10-16 00:34:31.431672
+248,"Alpharetta, GA",InSys Consulting Services,50080771ef4b2e79,Full Stack Web Developer,,,,1 day,2016-10-16 00:34:31.431672
+249,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,ab8ac9c53d438723,ISSO RSD TSC Atlanta 1140,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+250,"Alpharetta, GA 30005",ADP,33b032309af08b23,Java Application Developer - Rest / SQL / JUnit,,44.4,1655,30 days,2016-10-16 00:34:31.431672
+251,"Atlanta, GA",IBM,c4bc064c6a32ac6d,"LEAD PRODUCT DESIGNER – iOs (The Weather Company) - ATLANTA,...",,51.0,12110,30+ days,2016-10-16 00:34:31.431672
+252,"Marietta, GA 30060","Netserv Applications, Inc.",08dcc41d45b053a3,Operations Research Analyst,,,,30 days,2016-10-16 00:34:31.431672
+253,"Atlanta, GA",CocaCola,47fecad6abbcbe2d,Material Surface Characterization Scientist (Packaging Analy...,,44.4,4268,24 days,2016-10-16 00:34:31.431672
+254,"Atlanta, GA",Pivotal Software,a390a04cf4fd7461,Product Manager (Pivotal Labs),,,,30+ days,2016-10-16 00:34:31.431672
+255,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,4f42f62713382c38,Embedded Software Engineer - ELSYS 1167,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+256,"Atlanta, GA",Atkins Global,e9c070f26588c749,Sr. Scientist – Ecology,,,,30+ days,2016-10-16 00:34:31.431672
+257,"Johns Creek, GA 30097",Expedite Technology Solutions,2e080e673011af6f,Data Scientist (WMS Product Manager),,,,3 days,2016-10-16 00:34:31.431672
+258,"Alpharetta, GA 30005",ADP,9b0966ec5d28ec7c,Lead Systems Analyst - ETime,,44.4,1655,29 days,2016-10-16 00:34:31.431672
+259,"Atlanta, GA 30303 (Five Points area)",Black & Veatch,e1fb519546d67846,Environmental Scientist Intern,,43.2,149,30+ days,2016-10-16 00:34:31.431672
+260,"Norcross, GA",CareerBuilder Careers,a86bd36c08d853d3,Data Scientist (Data Science R&D),,51.6,106,30+ days,2016-10-16 00:34:31.431672
+261,"Alpharetta, GA",Lucas Group,ac5c31c4ae2f8003,Senior/Lead Data Science,,51.0,19,30+ days,2016-10-16 00:34:31.431672
+262,"Lithia Springs, GA",Johnson Controls,48e79df3cdbb421f,"Supervisor, Distribution 3rd Shift Receiving",,44.4,2172,30+ days,2016-10-16 00:34:31.431672
+263,"Alpharetta, GA",Amana Academy Charter School,ee73186e739d5b18,School Business & Human Resources (HR) Manager,"$30,000 - $39,999 a year",,,24 days,2016-10-16 00:34:31.431672
+264,"Duluth, GA",Navicure,de412e1d962011a6,Marketing Operations Administrator,,51.0,2,3 days,2016-10-16 00:34:31.431672
+265,"Atlanta, GA",UCB S.A.,17b490df3b75bd8c,Head of Commercial Data and Analytics,,,,30+ days,2016-10-16 00:34:31.431672
+266,"Atlanta, GA 30339",Scientific Research Corporation,d6bf272fd7c8361e,CONSTRUCTION MANAGER,,43.8,53,30+ days,2016-10-16 00:34:31.431672
+267,"Atlanta, GA 30322",Children's Healthcare of Atlanta,545fcf34cee5a255,Medical Technologist - Full Time Nights - Blood Bank - Egles...,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+268,"Atlanta, GA",ICF,390ac5d1a87d2193,Early Childhood Specialist,,40.8,233,24 days,2016-10-16 00:34:31.431672
+269,"Alpharetta, GA",ADP,cc59d93db38ae496,Network Engineer (Routers/Switches),,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+270,"Atlanta, GA 30305 (Buckhead area)","Pareto Solutions Group, Inc.",356ab35fbd31887b,Data Scientist - Natural Language Processing/Artificial Inte...,,,,29 days,2016-10-16 00:34:31.431672
+271,"Alpharetta, GA",ADP,4ff0fa0952b38528,Chief Applications Architect,,44.4,1655,25 days,2016-10-16 00:34:31.431672
+272,"Atlanta, GA",Synergy Search Group,c509de4bd8f84d74,Audit Snr (Banking) - Data Analysis 60K-80K,"$80,000 a year",42.0,194,30+ days,2016-10-16 00:34:31.431672
+273,"Atlanta, GA 30339",Scientific Research Corporation,3b5bb454bbc21ff3,CIVIL CONSTRUCTION MANAGER,,43.8,53,30 days,2016-10-16 00:34:31.431672
+274,"Alpharetta, GA 30005",ADP,16eba9992aec8d0d,"Principal Application Developer - Java, REST, JUnit",,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+275,"Decatur, GA",DeKalb Workforce Development,f2169a3761addd6b,Engineering Technician,$13 - $18 an hour,42.0,10,10 days,2016-10-16 00:34:31.431672
+276,"Atlanta, GA 30328",Atkins,e2acc5f4ef20b5aa,Sr. Scientist – Ecology,,43.8,145,30+ days,2016-10-16 00:34:31.431672
+277,"Alpharetta, GA 30005",ADP,8b087755731dfcc4,Sr. Director - Product Mgmt.-Mainframe AVS,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+278,"Alpharetta, GA 30005",ADP,8b5a9ddae87485b0,Principal Application Developer - Java / Angular / TDD,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+279,"Atlanta, GA","Lohmann Specialty Coatings, LLC (Orange, VA)",343b58c032471c43,Applications/Product Development Engineer/Scientist (Medical...,,,,30+ days,2016-10-16 00:34:31.431672
+280,"Atlanta, GA 30328",ADP,28537ef07878a6b7,Sr. Front End Developer,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+281,"Duluth, GA 30096",Children's Healthcare of Atlanta,4001f28ef2c562a9,Medical Technologist - Part Time - Satellite Blvd.,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+282,"Alpharetta, GA 30022",ADP,72473838a918acdc,Principal Appl. Developer,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+283,"Alpharetta, GA 30005",ADP,c14a03bc4f79382f,Principal Applications Architect - UI / Front End,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+284,"Atlanta, GA",General Lead,802b48bcdb755128,"Senior Software Engineer (Java, Scala)",,,,30+ days,2016-10-16 00:34:31.431672
+285,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,03f52ba81de6884b,Medical Technologist - Full Time Evenings - Microbiology - S...,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+286,"Atlanta, GA 30318 (Rockdale area)",Georgia Tech Research Institute,cb3f6bce26a86e29,Avionics Systems Designer ELSYS 1147,,52.800003,255,30+ days,2016-10-16 00:34:31.431672
+287,"Kennesaw, GA",Amec Foster Wheeler,3ccb61fdc3868ffe,Air Quality Engineer,,44.4,465,5 days,2016-10-16 00:34:31.431672
+288,"Atlanta, GA 30322",Children's Healthcare of Atlanta,cdbb0c4cb175dd86,Medical Technologist - Full Time Nights - Core Lab - Eglesto...,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+289,"Alpharetta, GA 30005",ADP,e3d89c49df66185d,Principal Application Architect - Java / Angular / TDD / Agi...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+290,"Atlanta, GA",American College of Rheumatology,87c03cd6d44355d7,"Director, Registry Operations",,,,9 days,2016-10-16 00:34:31.431672
+291,"Atlanta, GA",Adecco: USA,a534523faee3d9a3,Senior Manager of Health Data Standards,,44.4,10,30+ days,2016-10-16 00:34:31.431672
+292,"Tucker, GA",Quest Diagnostics,8df2cb13a2d77886,"Scientist, Certifying-Positive ( Wednesday - Sunday, 2pm – 1...",,43.8,2048,26 days,2016-10-16 00:34:31.431672
+293,"Johns Creek, GA 30097",Expedite Technology Solutions,fe5757da2d2d1aed,ata Scientist (WMS Product Manager),,,,1 day,2016-10-16 00:34:31.431672
+294,"Atlanta, GA",Strategic IT Staffing,5fa9f59d2fa3baa1,Senior DevOps Engineer,,55.800003,4,30+ days,2016-10-16 00:34:31.431672
+295,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,0b5cfc42870a5b8e,Medical Technologist - PRN - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+296,"Atlanta, GA",UCB,577e965ceff53546,"Associate Director Data Scientist, Patient Insights and Inno...",,42.6,54,13 days,2016-10-16 00:34:31.431672
+297,"Atlanta, GA",Grifols: US,0ed8054c4ab6ea58,Medical Science Liaison - Neurology/Immunology Southeast,,,,30+ days,2016-10-16 00:34:31.431672
+298,"Norcross, GA 30071",Omega Bio-tek,c76519812a6f3fc5,Bioinformatician,,,,25 days,2016-10-16 00:34:31.431672
+299,"Roswell, GA",Groundwater & Environmental Services,0f7c3f0c4a9b1457,Geologist or Environmental Scientist - Mid Level,,,,30+ days,2016-10-16 00:34:31.431672
+300,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+301,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+302,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+303,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+304,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+305,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+306,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+307,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+308,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+309,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+310,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+311,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+312,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+313,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+314,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+315,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+316,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+317,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+318,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+319,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+320,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+321,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+322,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+323,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+324,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+325,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+326,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+327,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+328,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+329,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+330,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+331,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+332,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+333,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+334,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+335,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+336,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+337,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+338,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+339,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+340,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+341,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+342,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+343,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+344,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+345,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+346,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+347,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+348,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+349,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+350,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+351,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+352,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+353,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+354,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+355,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+356,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+357,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+358,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+359,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+360,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+361,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+362,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+363,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+364,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+365,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+366,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+367,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+368,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+369,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+370,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+371,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+372,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+373,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+374,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+375,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+376,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+377,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+378,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+379,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+380,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+381,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+382,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+383,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+384,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+385,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+386,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+387,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+388,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+389,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+390,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+391,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+392,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+393,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+394,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+395,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+396,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+397,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+398,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+399,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+400,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+401,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+402,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+403,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+404,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+405,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+406,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+407,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+408,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+409,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+410,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+411,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+412,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+413,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+414,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+415,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+416,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+417,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+418,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+419,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+420,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+421,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+422,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+423,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+424,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+425,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+426,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+427,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+428,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+429,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+430,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+431,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+432,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+433,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+434,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+435,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+436,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+437,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+438,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+439,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+440,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+441,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+442,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+443,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+444,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+445,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+446,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+447,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+448,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+449,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+450,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+451,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+452,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+453,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+454,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+455,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+456,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+457,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+458,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+459,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+460,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+461,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+462,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+463,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+464,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+465,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+466,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+467,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+468,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+469,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+470,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+471,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+472,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+473,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+474,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+475,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+476,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+477,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+478,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+479,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+480,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+481,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+482,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+483,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+484,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+485,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+486,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+487,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+488,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+489,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+490,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+491,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+492,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+493,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+494,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+495,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+496,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+497,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+498,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+499,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+500,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+501,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+502,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+503,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+504,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+505,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+506,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+507,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+508,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+509,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+510,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+511,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+512,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+513,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+514,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+515,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+516,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+517,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+518,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+519,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+520,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+521,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+522,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+523,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+524,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+525,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+526,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+527,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+528,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+529,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+530,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+531,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+532,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+533,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+534,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+535,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+536,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+537,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+538,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+539,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+540,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+541,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+542,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+543,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+544,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+545,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+546,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+547,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+548,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+549,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+550,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+551,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+552,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+553,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+554,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+555,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+556,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+557,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+558,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+559,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+560,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+561,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+562,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+563,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+564,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+565,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+566,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+567,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+568,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+569,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+570,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+571,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+572,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+573,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+574,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+575,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+576,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+577,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+578,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+579,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+580,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+581,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+582,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+583,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+584,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+585,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+586,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+587,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+588,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+589,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+590,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+591,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+592,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+593,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+594,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+595,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+596,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+597,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+598,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+599,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+600,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+601,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+602,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+603,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+604,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+605,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+606,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+607,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+608,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+609,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+610,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+611,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+612,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+613,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+614,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+615,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+616,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+617,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+618,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+619,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+620,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+621,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+622,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+623,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+624,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+625,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+626,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+627,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+628,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+629,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+630,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+631,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+632,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+633,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+634,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+635,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+636,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+637,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+638,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+639,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+640,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+641,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+642,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+643,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+644,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+645,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+646,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+647,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+648,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+649,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+650,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+651,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+652,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+653,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+654,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+655,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+656,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+657,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+658,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+659,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+660,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+661,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+662,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+663,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+664,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+665,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+666,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+667,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+668,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+669,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+670,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+671,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+672,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+673,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+674,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+675,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+676,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+677,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+678,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+679,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+680,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+681,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+682,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+683,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+684,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+685,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+686,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+687,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+688,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+689,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+690,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+691,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+692,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+693,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+694,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+695,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+696,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+697,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+698,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+699,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+700,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+701,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+702,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+703,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+704,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+705,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+706,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+707,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+708,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+709,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+710,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+711,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+712,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+713,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672
+714,"Smyrna, GA 30082",Lighthouse Recruiting,80fb06bb55b1f6b0,Certifying Scientist,"$55,000 - $70,000 a year",,,11 days,2016-10-16 00:34:31.431672
+715,"Atlanta, GA 30342 (Buckhead area)",Children's Healthcare of Atlanta,541f29ae3e61c2a2,Med Tech - Full Time - Core Lab - Scottish Rite,,52.800003,200,30+ days,2016-10-16 00:34:31.431672
+716,"Alpharetta, GA 30005",ADP,1c3e9cc3fa904a8d,Technical & Application Management Specialist - Global Produ...,,44.4,1655,30+ days,2016-10-16 00:34:31.431672
+717,"Atlanta, GA",UCB S.A.,67819d6282ed4c31,"Associate Director Data Scientist, Patient Insights and Inno...",,,,30+ days,2016-10-16 00:34:31.431672
+718,"Marietta, GA 30067","Galileo Search, LLC",1ec2f9f1973db3ae,"Infection Prevention Specialist | California, Coast",,,,2 days,2016-10-16 00:34:31.431672
+719,"Atlanta, GA","Laulima Government Solutions, LLC.",f5018d862cf7c9cd,"Various Professional, Technical, Administrative and Scientif...",,,,30+ days,2016-10-16 00:34:31.431672

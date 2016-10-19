@@ -1,0 +1,252 @@
+[
+    {
+        "meanPay": "$66,940",
+        "jobTitle": "Data Scientist",
+        "company": "Square Root"
+    },
+    {
+        "meanPay": "$76,054",
+        "jobTitle": "Data Scientist",
+        "company": "Adometry"
+    },
+    {
+        "meanPay": "$109k - $126k",
+        "jobTitle": "Data Scientist",
+        "company": "Vast"
+    },
+    {
+        "meanPay": "$164k - $177k",
+        "jobTitle": "Data Scientist",
+        "company": "Facebook"
+    },
+    {
+        "meanPay": "$107k - $116k",
+        "jobTitle": "Data Scientist",
+        "company": "Apple"
+    },
+    {
+        "meanPay": "$114k - $123k",
+        "jobTitle": "Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$107k - $115k",
+        "jobTitle": "Data Scientist",
+        "company": "PwC"
+    },
+    {
+        "meanPay": "$91k - $99k",
+        "jobTitle": "Data Scientist",
+        "company": "Gallup"
+    },
+    {
+        "meanPay": "$130k - $143k",
+        "jobTitle": "Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$115k - $125k",
+        "jobTitle": "Data Scientist",
+        "company": "eBay"
+    },
+    {
+        "meanPay": "$113k - $123k",
+        "jobTitle": "Data Scientist",
+        "company": "Visa Inc."
+    },
+    {
+        "meanPay": "$107k - $118k",
+        "jobTitle": "Data Scientist",
+        "company": "NTT DATA"
+    },
+    {
+        "meanPay": "$119k - $130k",
+        "jobTitle": "Data Scientist",
+        "company": "Zynga"
+    },
+    {
+        "meanPay": "$122k - $133k",
+        "jobTitle": "Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$94k - $102k",
+        "jobTitle": "Data Scientist",
+        "company": "The Advisory Board Company"
+    },
+    {
+        "meanPay": "$92k - $107k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Adometry"
+    },
+    {
+        "meanPay": "$95k - $111k",
+        "jobTitle": "Principal Data Scientist",
+        "company": "Clockwork Solutions"
+    },
+    {
+        "meanPay": "$99k - $108k",
+        "jobTitle": "Entry Level Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$99k - $107k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "The Advisory Board Company"
+    },
+    {
+        "meanPay": "$127k - $138k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "IBM"
+    },
+    {
+        "meanPay": "$112k - $123k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$134k - $145k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Intel Corporation"
+    },
+    {
+        "meanPay": "$147k - $161k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$97k - $105k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$138k - $150k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$96k - $103k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$113k - $123k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$135k - $144k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Intel Corporation"
+    },
+    {
+        "meanPay": "$147k - $161k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$97k - $104k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$139k - $148k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$113k - $123k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$134k - $145k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Intel Corporation"
+    },
+    {
+        "meanPay": "$148k - $159k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$97k - $105k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$137k - $150k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $103k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$114k - $122k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$133k - $145k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Intel Corporation"
+    },
+    {
+        "meanPay": "$149k - $161k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$97k - $106k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$139k - $149k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $104k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    },
+    {
+        "meanPay": "$113k - $123k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "KPMG"
+    },
+    {
+        "meanPay": "$135k - $144k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Intel Corporation"
+    },
+    {
+        "meanPay": "$149k - $161k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "Amazon.com"
+    },
+    {
+        "meanPay": "$97k - $104k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "MaxPoint"
+    },
+    {
+        "meanPay": "$138k - $148k",
+        "jobTitle": "Senior Data Scientist",
+        "company": "General Motors"
+    },
+    {
+        "meanPay": "$95k - $104k",
+        "jobTitle": "Junior Data Scientist",
+        "company": "Dell"
+    }
+]

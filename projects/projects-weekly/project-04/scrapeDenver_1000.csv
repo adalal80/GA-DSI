@@ -1,0 +1,605 @@
+,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
+0,"Denver, CO",CareSource,99d388379e0b2e93,Predictive Modeling Analyst,,42.6,69,1 day,2016-10-16 00:33:17.464555
+1,"Denver, CO",ICR Inc,82d27a79fbc7e563,Data Scientist,,,,4 days,2016-10-16 00:33:17.464555
+2,"Broomfield, CO","Vadata, Inc",f0b73a3abf907e71,Data Scientist,,,,5 days,2016-10-16 00:33:17.464555
+3,"Denver, CO 80202 (Lodo area)",KPMG,42d6aef39a3ddc0d,Data Scientist,,51.0,1768,1 day,2016-10-16 00:33:17.464555
+4,"Denver, CO",Labcorp,ba488fa95cde132b,Statistical Analyst,,43.2,1700,22 hours,2016-10-16 00:33:17.464555
+5,"Westminster, CO",Oracle,5dd2220530ef426d,Senior Data Scientist - Retail Analytics,,44.4,1012,2 days,2016-10-16 00:33:17.464555
+6,"Denver, CO",University of Denver,1edfb58e28c96b55,Senior Research Analyst - Office of Institutional Research &...,,52.199997,60,8 days,2016-10-16 00:33:17.464555
+7,"Denver, CO",Galvanize,989248c633bb0181,"Instructor, Sr. Data Scientist",,60.0,2,8 days,2016-10-16 00:33:17.464555
+8,"Broomfield, CO",Oracle,c5ffb2083bddd5e3,Data Scientist - Oracle Data Cloud,,44.4,1012,22 days,2016-10-16 00:33:17.464555
+9,"Denver, CO 80202 (Lodo area)",Ibotta,90504439d6a10855,Data Engineer,,51.0,5,4 days,2016-10-16 00:33:17.464555
+10,"Denver, CO",Galvanize,778c32b8e628b100,"Associate Instructor, Data Science",,60.0,2,3 days,2016-10-16 00:33:17.464555
+11,"Boulder, CO",CaliberMind,63265dc03e382020,Senior Data Scientist,"$120,000 a year",,,23 days,2016-10-16 00:33:17.464555
+12,"Denver, CO 80202 (Lodo area)",Ray Allen,f18fefb3ce91da7d,Associate Data Scientist,,,,30+ days,2016-10-16 00:33:17.464555
+13,"Denver, CO",Denver Public Schools,2b25be4f7ab45dc5,RESEARCH ANALYST – 16996,"$57,580 - $69,098 a year",43.8,157,2 days,2016-10-16 00:33:17.464555
+14,"Denver, CO 80202 (Lodo area)",Ibotta,6b7b8940420fee88,Senior Data Scientist,,51.0,5,14 days,2016-10-16 00:33:17.464555
+15,"Englewood, CO",DISH Network,51e854e18196b5c9,Quantitative Analyst,,40.8,2062,3 days,2016-10-16 00:33:17.464555
+16,"Westminster, CO",Oracle,ef3f6cec80e8fdd2,Sr. Data Scientist-Identity Data Science,,44.4,1012,8 days,2016-10-16 00:33:17.464555
+17,"Denver, CO",CareSource,8acc0dfa64a4206a,BI Developer,,42.6,69,1 day,2016-10-16 00:33:17.464555
+18,"Boulder, CO",RefactorU,6a6c0fabb9abe1c2,Data Scientist (Curriculum Developer / Instructor),,,,5 days,2016-10-16 00:33:17.464555
+19,"Centennial, CO 80111",S&P GLOBAL MARKET INTELLIGENCE,16c476c9c13d93da,ANALYST-DATA RESEARCH I,,42.6,19,11 days,2016-10-16 00:33:17.464555
+20,"Denver, CO 80202 (Lodo area)",Ibotta,8d91f8141a1166a6,"Account Executive, Consumer Insights & Analytics",,51.0,5,1 day,2016-10-16 00:33:17.464555
+21,"Englewood, CO",AristonTek Inc,626c0826f02fc747,Need Data Scientist consultant,,,,8 days,2016-10-16 00:33:17.464555
+22,"Denver, CO",Digital First Media,116b0ef2cc26d167,Data Quality and ETL Analyst,,39.0,26,12 days,2016-10-16 00:33:17.464555
+23,"Boulder, CO","Riverside Technology, inc.",8a3826d7623e5f01,Scientific Programmer,,,,23 days,2016-10-16 00:33:17.464555
+24,"Denver, CO 80202 (Lodo area)",KPMG,67ab7f5951ce7a5c,Sr Associate - Data Scientist,,51.0,1768,23 days,2016-10-16 00:33:17.464555
+25,"Boulder, CO",National Ecological Observatory Network Inc,dea76bc2f573c303,Staff Scientist-Data Products,,,,9 days,2016-10-16 00:33:17.464555
+26,"Aurora, CO",University of Colorado,a73b8ccb6e10c740,Bioinformationist,"$50,000 - $63,000 a year",51.6,140,23 days,2016-10-16 00:33:17.464555
+27,"Golden, CO",National Renewable Energy Laboratory,d56315ff7316b6a1,Energy Modeler - Engineer II,,42.0,26,16 days,2016-10-16 00:33:17.464555
+28,"Denver, CO",General Assembly,5218f2cb2043174b,Part-time Data Science Instructor,,52.800003,74,21 days,2016-10-16 00:33:17.464555
+29,"Boulder, CO",Agilent,af00e92ec008ae3b,Analytical Services Scientist,,52.199997,268,11 days,2016-10-16 00:33:17.464555
+30,"Boulder, CO",University of Colorado,d63d8ea869db6083,Managing Director for STROBE,"$100,000 - $115,000 a year",51.6,140,1 day,2016-10-16 00:33:17.464555
+31,"Aurora, CO",Atara Biotherapeutics,04d0ee7d8de73f48,Lead Scientist - Preclinical & Translational Science,,,,21 days,2016-10-16 00:33:17.464555
+32,"Englewood, CO",DISH Network,43a0e3af32d3ca10,Data Scientist,,40.8,2062,30+ days,2016-10-16 00:33:17.464555
+33,"Glendale, CO",LENDERLIVE NETWORK LLC,e6d04e1db555edaf,Quantitative Trading Analyst,,,,14 days,2016-10-16 00:33:17.464555
+34,"Denver, CO 80204 (Central West Denver area)",Connecting People inc,34ca7482748e7841,Data Scientist,,,,24 days,2016-10-16 00:33:17.464555
+35,"Boulder, CO 80302",Google,a3bda49fe6643525,"Cloud Instructor (Big Data, Machine Learning), Google Cloud...",,52.800003,1218,2 days,2016-10-16 00:33:17.464555
+36,"Denver, CO",Galvanize,c12d16302c838b45,"Lead Instructor, Principal Data Scientist",,60.0,2,14 days,2016-10-16 00:33:17.464555
+37,"Denver, CO",xentity corporation,4ee1edca5362d9bd,Data Science Analyst,,,,30+ days,2016-10-16 00:33:17.464555
+38,"Centennial, CO",Pearson,9668f5d7768bf6cc,"Senior Data/Research Scientist, Machine Learning",,43.8,782,24 days,2016-10-16 00:33:17.464555
+39,"Englewood, CO",Leidos,2448aed4c1579117,Advanced Operations Research Analyst,,43.8,187,8 days,2016-10-16 00:33:17.464555
+40,"Englewood, CO 80112","Arrow Electronics, Inc.",8400d4140bcf153b,Big Data Developer I,,42.6,276,30+ days,2016-10-16 00:33:17.464555
+41,"Denver, CO",National Jewish Health,b96c28e37cac90bf,Bioinformatics Analyst I,,42.6,44,9 days,2016-10-16 00:33:17.464555
+42,"Boulder, CO",Pearson,87d171fc99d4ca58,Software Engineer - Machine Learning,,43.8,782,30+ days,2016-10-16 00:33:17.464555
+43,"Englewood, CO 80112",Comcast,dad96652d7d2f4b9,Big Data Analyst,,43.8,6366,30+ days,2016-10-16 00:33:17.464555
+44,"Denver, CO 80202 (Lodo area)",KPMG,23e638d454862b6b,Manager - Data Scientist,,51.0,1768,23 days,2016-10-16 00:33:17.464555
+45,"Centennial, CO",Pearson,1994037b11118b14,Machine Learning Engineer,,43.8,782,30+ days,2016-10-16 00:33:17.464555
+46,"Golden, CO",National Renewable Energy Laboratory,7cbcefc1ad06fe4a,Scientific Data Systems Support Specialist,,42.0,26,30+ days,2016-10-16 00:33:17.464555
+47,"Denver, CO",xentity corporation,18b3bd51e90756ae,Data Analyst,,,,30+ days,2016-10-16 00:33:17.464555
+48,"Denver, CO",U.S. Bank,92644d499bc21cc6,Quantitative Model Risk Analyst,,43.2,2958,27 days,2016-10-16 00:33:17.464555
+49,"Greenwood Village, CO",Charter Communications,ed7aa68aef1974ba,"Director, Advanced Analytics",,42.6,1347,30+ days,2016-10-16 00:33:17.464555
+50,"Centennial, CO",Pearson,9e23b8017125b4db,Senior Data/Research Scientist,,43.8,782,30+ days,2016-10-16 00:33:17.464555
+51,"Boulder, CO",Markit Financial Info Service,beb3e6a58677dafe,"Data Scientist, Markit Digital",,,,30+ days,2016-10-16 00:33:17.464555
+52,"Boulder, CO 80305 (Central Boulder area)",Scaled Agile,c2af148c4e31470e,Data Scientist,,,,30+ days,2016-10-16 00:33:17.464555
+53,"Golden, CO",National Renewable Energy Laboratory,fbdf862a6e5c6395,Scientific Visualization Researcher,,42.0,26,2 days,2016-10-16 00:33:17.464555
+54,"Boulder, CO",Ball Aerospace,43759c01798ab866,Principal Structural Engineer - Structural Analyst (659743),,43.2,35,5 days,2016-10-16 00:33:17.464555
+55,"Denver, CO",AdTaxi Networks,85997d76894dd5cc,Data Quality and ETL Analyst,,,,12 days,2016-10-16 00:33:17.464555
+56,"Boulder, CO",University of Colorado,c547fe90887eb415,Research Associate,,51.6,140,1 day,2016-10-16 00:33:17.464555
+57,"Broomfield, CO 80021",Return Path,a3950fc5eda9e7eb,"Director, Data Science and Analytics",,51.0,14,30+ days,2016-10-16 00:33:17.464555
+58,"Boulder, CO",University of Colorado,a7fb6c0efbd1bc20,Professional Research Asst,,51.6,140,18 days,2016-10-16 00:33:17.464555
+59,"Denver, CO 80202 (Lodo area)",KPMG,3ea0a30cb63d96b6,"Manager, Tax Technology - Machine Learning",,51.0,1768,8 days,2016-10-16 00:33:17.464555
+60,"Denver, CO",CoBank,a30a62313b7277b5,Senior Quantitative Risk Analyst,,42.6,12,21 days,2016-10-16 00:33:17.464555
+61,"Golden, CO",National Renewable Energy Laboratory,4c13663b4d9fc186,Postdoctoral Researcher-Transportation Data and Analysis,,42.0,26,26 days,2016-10-16 00:33:17.464555
+62,"Denver, CO",10Roof Technology,5f67a0e1e01de4a2,"Big Data Developer (Spark, Hadoop, Hive)","$105,000 a year",,,30+ days,2016-10-16 00:33:17.464555
+63,"Broomfield, CO 80021",Return Path,f0c147804d5ba7e1,Data Scientist,,51.0,14,30+ days,2016-10-16 00:33:17.464555
+64,"Boulder, CO",Markit,380a7e7465d38b00,"Data Scientist, Markit Digital",,41.4,34,30+ days,2016-10-16 00:33:17.464555
+65,"Englewood, CO 80112",Arrow Electronics,d02abc6204417bce,Big Data Developer I,,42.6,276,30+ days,2016-10-16 00:33:17.464555
+66,"Lakewood, CO",Natural Grocers,ed0675b696ecc191,Purchasing Data and Analysis Assistant Manager,,40.8,53,2 days,2016-10-16 00:33:17.464555
+67,"Golden, CO",National Renewable Energy Laboratory,5a655dc7e0cac78c,Internship (Year Round)-Transportation Data and Advanced Veh...,,42.0,26,30+ days,2016-10-16 00:33:17.464555
+68,"Denver, CO",University of Denver,b04371defc02df34,Research Analyst - The Office of Institutional Research & An...,,52.199997,60,30+ days,2016-10-16 00:33:17.464555
+69,"Denver, CO",Galvanize,df8eb88510d72ab8,"Lead Instructor, Principal Data Scientist - Enterprise",,60.0,2,5 days,2016-10-16 00:33:17.464555
+70,"Denver, CO",ViaSat,14ff7df1708da7b0,Intern - Marketing Research Analyst,,43.2,61,30+ days,2016-10-16 00:33:17.464555
+71,"Aurora, CO",Staples,5af82c828adf06e1,Senior Insight Analyst,,43.2,5423,19 days,2016-10-16 00:33:17.464555
+72,"Boulder, CO",Ball Aerospace,48ceae9ce0387ce8,Technical Intern-Data Analytics (659543),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+73,"Boulder, CO",UCAR,76fbbf54451c6292,Project Scientist I - Inverse Modeling,,44.4,10,30+ days,2016-10-16 00:33:17.464555
+74,"Denver, CO 80226",Patsy's Craft Confections | Summit Soap | Maui Soa...,5401a6c16cfd1fcc,Food Scientist: Chemistry & Formulations,"$35,000 a year",,,2 days,2016-10-16 00:33:17.464555
+75,"Boulder, CO",LENA Research Foundation,b2cc43fd50039586,Sr. Research Engineer: Machine Learning and Computational Li...,,,,30+ days,2016-10-16 00:33:17.464555
+76,"Golden, CO",xentity corporation,a9a5d048aff6a7e9,Data Science Analyst (Intern),,,,30+ days,2016-10-16 00:33:17.464555
+77,"Englewood, CO 80112",Hitachi Data Systems,276abd31cbb66afb,HR Intern,,51.0,781,25 days,2016-10-16 00:33:17.464555
+78,"Lakewood, CO",Pacific Metrics,7640a34b6f2405f1,Research Associate,,,,18 days,2016-10-16 00:33:17.464555
+79,"Denver, CO 80202 (Lodo area)",KPMG,19ad2e488523db0b,"Manager, Tax Technology - Data Analytics",,51.0,1768,9 days,2016-10-16 00:33:17.464555
+80,"Englewood, CO",Leidos,ed49e15a67bc3f7d,Sr. Air Force Operations Research Analyst,,43.8,187,8 days,2016-10-16 00:33:17.464555
+81,"Denver, CO",Denver Public Schools,8bb49e1dc7448f95,SENIOR RESEARCH ANALYST AND DATA STRATEGIST,$33.69 an hour,43.8,157,1 day,2016-10-16 00:33:17.464555
+82,"Boulder, CO",Southwest Research Institute,9ca9df0a8fea4e05,RESEARCH SCIENTIST - HELIOPHYSICS,,53.4,62,30+ days,2016-10-16 00:33:17.464555
+83,"Boulder, CO",KBI Biopharma,91a7ed1bd0c49244,PD Scientist II-DSP #230,,40.8,3,4 days,2016-10-16 00:33:17.464555
+84,"Centennial, CO",Pearson,b5d20d7210332a6b,"Senior Research Engineer, Machine Learning",,43.8,782,30+ days,2016-10-16 00:33:17.464555
+85,"Denver, CO 80202 (Lodo area)",Partners Group,c31fab71bf3ad24e,Portfolio Quantitative Analyst,,40.2,5,30+ days,2016-10-16 00:33:17.464555
+86,"Westminster, CO",DigitalGlobe,f7cd9d54cd87a83c,Python Development Engineer/Geospatial Big Data,,43.2,52,30+ days,2016-10-16 00:33:17.464555
+87,"Westminster, CO",Ball Aerospace,a31b9fcb22aaed9b,Antenna (Low Observable) Engineer I (658443),,43.2,35,7 days,2016-10-16 00:33:17.464555
+88,"Boulder, CO",Association of Universities for Research in Astron...,28e163bfb5398f0f,Associate Scientist,,,,30+ days,2016-10-16 00:33:17.464555
+89,"Centennial, CO 80111",Leidos,539b36b0443ae1c9,Research Scientist (Antarctica) (Alternate position 2),,43.8,187,30+ days,2016-10-16 00:33:17.464555
+90,"Westminster, CO","Flagship Biosciences, Inc.",4ffdcd0e32dcd5d1,Software Engineer,,,,8 days,2016-10-16 00:33:17.464555
+91,"Denver, CO 80204 (Central West Denver area)",Denver Health,679c3c4f32de08a5,Business Manager - RADARS,"$88,091 a year",42.0,88,30+ days,2016-10-16 00:33:17.464555
+92,"Aurora, CO",University of Colorado,f4eda79da32b3eaf,Senior Informatics Analyst,"$68,000 a year",51.6,140,30+ days,2016-10-16 00:33:17.464555
+93,"Boulder, CO",Ball Aerospace,fedb82c17e253b04,Subcontract Lead (659736),,43.2,35,7 days,2016-10-16 00:33:17.464555
+94,"Denver, CO",ICF,3c4f157ecac2d897,Wind Energy Practice Consultant,,40.8,233,1 day,2016-10-16 00:33:17.464555
+95,"Boulder, CO",Novella Clinical,210facdf64e3a8e8,Sr. Statistical Programmer,,43.8,19,30+ days,2016-10-16 00:33:17.464555
+96,"Boulder, CO",Ball Aerospace,80801d62a78b7270,Supplier Quality Engineering Technical Specialist (659611),,43.2,35,23 days,2016-10-16 00:33:17.464555
+97,"Aurora, CO",Atara Biotherapeutics,95fee0338df755ba,"Research Associate, Cell Therapy Assay Development",,,,12 days,2016-10-16 00:33:17.464555
+98,"Denver, CO 80247",Datameer,3221be628bf74738,Regional Sales Director - Rocky Mountains,,,,30+ days,2016-10-16 00:33:17.464555
+99,"Aurora, CO",University of Colorado,d8d7ab2feb299744,Research Instructor,,51.6,140,30+ days,2016-10-16 00:33:17.464555
+100,"Westminster, CO",Ball Aerospace,c3af8616c856bd00,Phased Array Engineer I (659720),,43.2,35,12 days,2016-10-16 00:33:17.464555
+101,"Aurora, CO 80011 (Norfolk Glen area)",Children's Hospital Colorado,2e2e5f6888d879d7,Research Informatics Analyst I,,51.6,57,30+ days,2016-10-16 00:33:17.464555
+102,"Denver, CO",JLL,84f441cadb50d390,GIS / Research Analyst,,43.8,759,30+ days,2016-10-16 00:33:17.464555
+103,"Boulder, CO 80302",Google,76f4fe296c47a3ab,"Technical Curriculum Developer, Google Cloud Platform",,52.800003,1218,15 days,2016-10-16 00:33:17.464555
+104,"Broomfield, CO 80021",Return Path,9cb82e63e91afd9a,Software Engineer,,51.0,14,30+ days,2016-10-16 00:33:17.464555
+105,"Denver, CO",Encana,cfcabb311729dbcf,Data Analyst,,51.0,53,30+ days,2016-10-16 00:33:17.464555
+106,"Boulder, CO",Ball Aerospace,01705781da315fdb,Material Control Analyst II (659576),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+107,"Broomfield, CO",Ball Aerospace,51072976250572b4,Human Resources Assistant III - Employee Records (659773),,43.2,35,1 day,2016-10-16 00:33:17.464555
+108,"Aurora, CO 80011 (Norfolk Glen area)",Children's Hospital Colorado,4dfc8e0900e28324,Financial Analyst - Research Institute,,51.6,57,30+ days,2016-10-16 00:33:17.464555
+109,"Golden, CO",National Renewable Energy Laboratory,93bb1014db3213f9,Post-doctoral researcher (Multiphase reacting flow CFD),,42.0,26,10 days,2016-10-16 00:33:17.464555
+110,"Boulder, CO",Archer,75667a469fb91822,Software Engineer (ADX0044),,51.6,35,10 days,2016-10-16 00:33:17.464555
+111,"Denver, CO",ViaSat,f635018d1cd75355,Data Warehouse Architect,,43.2,61,30+ days,2016-10-16 00:33:17.464555
+112,"Boulder, CO",University of Colorado,5128e0e7dde2bf12,NWT LTER Postdoctoral Synthesis Fellow,,51.6,140,2 days,2016-10-16 00:33:17.464555
+113,"Boulder, CO",National Ecological Observatory Network Inc,f2a6b61ca4f7565c,Field Deployment Lead,,,,16 days,2016-10-16 00:33:17.464555
+114,"Boulder, CO",UCAR,9f9f4237db002fd3,Postdoctoral Researcher,,44.4,10,1 day,2016-10-16 00:33:17.464555
+115,"Golden, CO",National Renewable Energy Laboratory,b458f748c896a988,Chief Theorist,,42.0,26,30+ days,2016-10-16 00:33:17.464555
+116,"Golden, CO 80401",HomeAdvisor,344b8b3d8ccd63e8,Data Science Intern,,42.6,53,21 days,2016-10-16 00:33:17.464555
+117,"Boulder, CO",KBI Biopharma,16a31841b03f36a3,Sr. Scientist #217,,40.8,3,30 days,2016-10-16 00:33:17.464555
+118,"Boulder, CO 80301","SomaLogic, Inc.",b48c330192ab070e,Research Scientist/Scientist I/Scientist II 2016-088,,,,16 days,2016-10-16 00:33:17.464555
+119,"Boulder, CO",University of Colorado,862402250fc35bd2,CIRES Postdoctoral Position on Lab Gas-Particle Partitioning...,,51.6,140,11 days,2016-10-16 00:33:17.464555
+120,"Boulder, CO",Ball Aerospace,86f0418d966cf2c1,Engineer Associate - Manufacturing (659757),,43.2,35,2 days,2016-10-16 00:33:17.464555
+121,"Denver, CO",xentity corporation,38a145196deb0300,GIS Analyst,,,,30+ days,2016-10-16 00:33:17.464555
+122,"Denver, CO",Colorado Department of Human Services,6ca564978b647ccf,Data and EMS Systems Statistical Analyst (Statistical Analys...,"$4,460 - $5,129 a month",,,2 days,2016-10-16 00:33:17.464555
+123,"Boulder, CO",Ball Aerospace,45fce0a08e259ec5,Technician II-Test (658457),,43.2,35,4 days,2016-10-16 00:33:17.464555
+124,"Parker, CO",Lifetime Fitness,f81a75e2e038797a,Ultimate Hoops Statistician,,42.6,751,30+ days,2016-10-16 00:33:17.464555
+125,"Denver, CO",ViaSat,dcc2189b84a5020a,Retention Marketing Manager,,43.2,61,23 days,2016-10-16 00:33:17.464555
+126,"Aurora, CO 80011 (Norfolk Glen area)",MycoTechnology,ea89828ad826e1c0,Food / Flavor Application Scientist,"$50,000 a year",,,17 days,2016-10-16 00:33:17.464555
+127,"Boulder, CO",Ball Aerospace,e329e848389f9775,Technical Intern-Quality Assurance (659559),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+128,"Denver, CO",Seneca Companies,753cc0ff862e4183,Environmental Field Scientist,,43.2,7,1 day,2016-10-16 00:33:17.464555
+129,"Aurora, CO",University of Colorado,974ad9f26d4b3ae0,Assistant Professor,,51.6,140,30+ days,2016-10-16 00:33:17.464555
+130,"Denver, CO",CareSource,69ff034f2f2b766b,Drafting Technician,,42.6,69,1 day,2016-10-16 00:33:17.464555
+131,"Boulder, CO",UCAR,328aa4674455516f,Project Scientist II - Numerical Weather Prediction,,44.4,10,30+ days,2016-10-16 00:33:17.464555
+132,"Boulder, CO",National Ecological Observatory Network Inc,dde9098f245596d5,Software Engineer II,,,,30 days,2016-10-16 00:33:17.464555
+133,"Boulder, CO",Ball Aerospace,13999ae9261548b7,Technical Specialist Principal - Designer (659645),,43.2,35,25 days,2016-10-16 00:33:17.464555
+134,"Broomfield, CO","WhiteWave Foods, Inc.",6f4f3326d53149ff,Associate Scientist - Food Quality,,,,9 days,2016-10-16 00:33:17.464555
+135,"Boulder, CO",National Ecological Observatory Network Inc,46481ca74e019298,Postdoctoral Scientist-Micrometeorologist_Flux Uncertainty,,,,30+ days,2016-10-16 00:33:17.464555
+136,"Aurora, CO",Staples,2cd1733c651c202b,Customer Experience Research Analyst,,43.2,5423,30+ days,2016-10-16 00:33:17.464555
+137,"Boulder, CO",Ball Aerospace,bd12c43df00a352d,Principal Structural Engineer - Structural Dynamics (659744),,43.2,35,5 days,2016-10-16 00:33:17.464555
+138,"Broomfield, CO",Ball Aerospace,c7be9aa1e60e5fb6,Contract Talent Acquisition Specialist II (659718),,43.2,35,15 days,2016-10-16 00:33:17.464555
+139,"Denver, CO 80249 (Gateway-Green Valley Ranch area)",Frontier Airlines,9155b40a7de1fbd9,Operations Research Analyst,,42.0,232,30+ days,2016-10-16 00:33:17.464555
+140,"Broomfield, CO",Ball Aerospace,aca3827b9f062aa4,In-Process Inspector Lead - Tactical Solutions (659031),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+141,"Boulder, CO",National Ecological Observatory Network Inc,e724792ba2b41154,Senior Systems Engineer-Software/Data Products,,,,30+ days,2016-10-16 00:33:17.464555
+142,"Boulder, CO",Ball Aerospace,fbdce2fe4ae22679,Engineer Associate - Systems (659746) - Security clearance r...,,43.2,35,5 days,2016-10-16 00:33:17.464555
+143,"Denver, CO",xentity corporation,97d4078677a2df50,GIS Data Systems Analysts,,,,30+ days,2016-10-16 00:33:17.464555
+144,"Boulder, CO 80301","SomaLogic, Inc.",3fe3d3348785e0a1,Software Engineer/Sr. Software Engineer (Java),,,,24 days,2016-10-16 00:33:17.464555
+145,"Aurora, CO",Booz Allen Hamilton,1638d7f6151cfd4b,"Image Scientist, Senior",,44.4,945,22 days,2016-10-16 00:33:17.464555
+146,"Boulder, CO",KBI Biopharma,61652b9b695619cd,Scientist I/II (Temp Only) #212,,40.8,3,30+ days,2016-10-16 00:33:17.464555
+147,"Boulder, CO",Ball Aerospace,1434993faed5304a,Process Center Technician II (659262),,43.2,35,17 days,2016-10-16 00:33:17.464555
+148,"Denver, CO",National Jewish Health,fe41b0708e7f2728,Clinical Laboratory Scientist Lead,,42.6,44,22 days,2016-10-16 00:33:17.464555
+149,"Denver, CO",Potatoes USA,585ebbf749fba7bf,Global Marketing Manager - Food Manufacturing,"$85,000 a year",,,30+ days,2016-10-16 00:33:17.464555
+150,"Boulder, CO",National Ecological Observatory Network Inc,abe74a01de6592f9,Field Technician II-Instrumentation,,,,10 days,2016-10-16 00:33:17.464555
+151,"Denver, CO 80265 (LoDo area)",Merkle Inc.,b9c33fb786d4a56b,"Sr. Solution Developer, Senior Analyst",,42.0,2,30+ days,2016-10-16 00:33:17.464555
+152,"Boulder, CO",National Ecological Observatory Network Inc,ac80e6e21588b832,Field Installation Technician,,,,14 days,2016-10-16 00:33:17.464555
+153,"Golden, CO",National Renewable Energy Laboratory,0726e96ea340cb7c,Postdoctoral Researcher - Computational Modeling of Combusti...,,42.0,26,30+ days,2016-10-16 00:33:17.464555
+154,"Denver, CO",Stifel Nicolaus,68b520ff77c118b2,Associate Research Analyst I in Sports & Lifestyle Brands,,44.4,21,30+ days,2016-10-16 00:33:17.464555
+155,"Boulder, CO",Ball Aerospace,a0ac3654395bbf74,Specialist-Contracts (659732),,43.2,35,5 days,2016-10-16 00:33:17.464555
+156,"Boulder, CO",National Center for Atmospheric Research,0d460ee1848accca,Graduate Visitor at NCAR,,51.0,10,12 days,2016-10-16 00:33:17.464555
+157,"Aurora, CO",DIAGNOSTIC LABORATORIES,89ee2d16f080cec4,Clinical Laboratory Scientist,,40.2,50,25 days,2016-10-16 00:33:17.464555
+158,"Westminster, CO",Ball Aerospace,a48184947b0d2f50,Supply Chain Management Specialist II (659575),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+159,"Broomfield, CO",Ball Aerospace,db12e6d0885b66d7,Staff Consultant - Mission Systems Architect (659250),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+160,"Westminster, CO",Ball Aerospace,739645b99a20ee93,Operations Service Desk Specialist II (659469),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+161,"Denver, CO 80203 (Capitol Hill area)",FareHarbor,3131a20884a5d177,Manager of Revenue Operations,,,,30+ days,2016-10-16 00:33:17.464555
+162,"Boulder, CO",Ball Aerospace,1ff89f9330ad4942,Technical Intern-Software (659519),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+163,"Highlands Ranch, CO",Arcadis:US,14b4d3c6808d1ee5,GIS Specialist,,,,3 days,2016-10-16 00:33:17.464555
+164,"Boulder, CO",Ball Aerospace,448ca0341f69a69c,Senior Radiation Effects Engineer (659716) - Security cleara...,,43.2,35,9 days,2016-10-16 00:33:17.464555
+165,"Denver, CO 80204 (Central West Denver area)",Denver Health,e14d0487afb12e62,Research Scientist 5A Eating Disorder Unit,"$93,645 a year",42.0,88,30+ days,2016-10-16 00:33:17.464555
+166,"Centennial, CO",Rincon Research Corporation,60d1d2ae7b713e54,Geolocation Engineer,,,,30+ days,2016-10-16 00:33:17.464555
+167,"Boulder, CO",National Ecological Observatory Network Inc,3ff31a109572425d,Postdoctoral Scientist-Micrometeorologist,,,,30+ days,2016-10-16 00:33:17.464555
+168,"Denver, CO",Planet Forward,b8d7fe4222ef92a3,Wetland Scientist - Greater Denver,,44.4,8,4 days,2016-10-16 00:33:17.464555
+169,"Boulder, CO 80305 (Central Boulder area)",Cherokee Nation Businesses,132a682baf393610,Database Administrator / Systems Engineer IV,,42.0,32,30+ days,2016-10-16 00:33:17.464555
+170,"Westminster, CO",Ball Aerospace,7a2b64b105370e6d,Senior Phased Array Circuit Design Engineer (658337),,43.2,35,29 days,2016-10-16 00:33:17.464555
+171,"Denver, CO",Honeywell,9cc0fe3996498369,Computer Scientist/Systems Analyast - Senior,,44.4,3473,22 days,2016-10-16 00:33:17.464555
+172,"Louisville, CO","WhiteWave Foods, Inc.",3d125265e7483628,Scientist - Food Quality,,,,22 days,2016-10-16 00:33:17.464555
+173,"Boulder, CO 80301",Genscape,64e8e28a88f6b2c5,Senior Database Developer,,54.0,2,25 days,2016-10-16 00:33:17.464555
+174,"Boulder, CO",Ball Aerospace,d94b85b706e275cb,Engineer II - Optical Spatial Metrologist (659441),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+175,"Westminster, CO",Ball Aerospace,108830e7723bbe2e,Technician II - Production Test (659405),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+176,"Broomfield, CO",Ball Aerospace,4cd92b5795a20e97,Project Engineer I - Electrical (659567),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+177,"Boulder, CO",National Ecological Observatory Network Inc,f6e3b3ebedd57b51,Warehouse Associate,,,,30+ days,2016-10-16 00:33:17.464555
+178,"Golden, CO",National Renewable Energy Laboratory,76ebf17df2e986a0,"Internship (Year Round Part Time, Full Time Summer) - Fermen...",,42.0,26,30+ days,2016-10-16 00:33:17.464555
+179,"Boulder, CO",Ball Aerospace,53385680e2d32b10,Engineer I - Optical (659438),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+180,"Broomfield, CO 80020","Corgenix, Inc",faf35045211a945b,Postdoctoral Fellow - Assay Development,,,,30+ days,2016-10-16 00:33:17.464555
+181,"Denver, CO",WSP | Parsons Brinckerhoff,5e6a1faad1953fe9,Amazon Web Services (AWS) Solutions Architect,,51.0,5,6 days,2016-10-16 00:33:17.464555
+182,"Denver, CO",Honeywell,917feae78820c2fd,"Computer Scientist/Systems Analyst, (Software Engineer Senio...",,44.4,3473,30+ days,2016-10-16 00:33:17.464555
+183,"Boulder, CO",Ball Aerospace,2543816ac3dee66a,Engineer I-Electronic Systems Integration & Test (658961),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+184,"Westminster, CO",Ball Aerospace,3d97b2d1483e23bb,Technician II - RF Ranges (658248),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+185,"Boulder, CO",Ball Aerospace,76cec5547d24f6e3,Sr Facilities Engineer (658748),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+186,"Boulder, CO",Ball Aerospace,7dd2c9bfde0bedd1,Process Center Paint Technician III (659526),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+187,"Boulder, CO",National Ecological Observatory Network Inc,d8291e81b2cea0b4,Electro/Mechanical Engineer,,,,30+ days,2016-10-16 00:33:17.464555
+188,"Denver, CO",Knight Piesold Consulting,41abe1a71b005d03,Senior Mining Hydrogeologist,,,,30+ days,2016-10-16 00:33:17.464555
+189,"Boulder, CO 80301","SomaLogic, Inc.",71cb50003403f3ae,Cost Accountant II/Senior Cost Accountant/Cost Accounting Ma...,,,,30+ days,2016-10-16 00:33:17.464555
+190,"Broomfield, CO",Ball Aerospace,2fbfe7e948232b52,Engineering Aide I - Systems Engineering (659149),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+191,"Broomfield, CO",Ball Aerospace,39401f77007b7c82,Senior Talent Acquisition Manager - Aerospace Division (6596...,,43.2,35,24 days,2016-10-16 00:33:17.464555
+192,"Golden, CO",National Renewable Energy Laboratory,5bf3884abbe89e1f,Plant and Microbial Lipid and Bio-Based Products Scientist,,42.0,26,30+ days,2016-10-16 00:33:17.464555
+193,"Denver, CO",xentity corporation,eecf3fed0ef0719d,Business Intelligence Solution Architect,,,,30+ days,2016-10-16 00:33:17.464555
+194,"Broomfield, CO",Ball Aerospace,54fda274bbd4e646,Project Engineer I - Electrical (659774) - Security clearanc...,,43.2,35,1 day,2016-10-16 00:33:17.464555
+195,"Westminster, CO","Plato BioPharma, Inc.",80ee54c5d743cd36,Research Scientist / Senior Research Scientist,,,,30+ days,2016-10-16 00:33:17.464555
+196,"Boulder, CO",Ball Aerospace,9a2bec8cc298e74f,Senior Analog/Power Supply Engineer (659755),,43.2,35,3 days,2016-10-16 00:33:17.464555
+197,"Denver, CO 80202 (Lodo area)",Jackson Lewis,49343a4b035166a5,Statistician,,41.4,9,28 days,2016-10-16 00:33:17.464555
+198,"Boulder, CO","Magic Leap, Inc.",708e4514a10146bc,Sr. Optical Engineer (Calibration and Projection),,54.0,2,30+ days,2016-10-16 00:33:17.464555
+199,"Boulder, CO",Ball Aerospace,ece7c234fd734aec,Engineer I - Analog & Digital Designer (659706),,43.2,35,16 days,2016-10-16 00:33:17.464555
+200,"Lafayette, CO",Ball Aerospace,e394ae73f7ab602c,Accountant I - Project Invoicing & Receivables (659556),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+201,"Denver, CO","Goldstone Partners, Inc.",3f3de7bf641278ab,Cost to Complete Engineer/Scientist,,,,15 days,2016-10-16 00:33:17.464555
+202,"Boulder, CO",Ball Aerospace,963368e908634e98,Micro-electronics Packaging Engineer II (659484),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+203,"Denver, CO 80204 (Central West Denver area)",Denver Health,2f8a2db5819fc455,RN-Statistical Research Specilist Nursing,"$66,654 a year",42.0,88,30+ days,2016-10-16 00:33:17.464555
+204,"Boulder, CO",Ball Aerospace,cf9ab78d9b1666fa,Optical Technician III (659446),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+205,"Boulder, CO",Infinity Consulting Solutions,aef48b0b18060923,Web Application Developer,,43.8,6,23 days,2016-10-16 00:33:17.464555
+206,"Boulder, CO",Ball Aerospace,5f54abb671c7baed,Engineer Principal- Optical (659502),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+207,"Boulder, CO",Ball Aerospace,848e045ed2683481,Technical Intern-Systems Engineer (659528),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+208,"Boulder, CO",Ball Aerospace,e7c62d97505f2159,Sr Technician - Design Development (658662),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+209,"Westminster, CO",Ball Aerospace,07b945a54a74a4c7,Information Systems Security Officer I (659201),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+210,"Broomfield, CO",Ball Aerospace,2dba9dcf70353cb2,Electrical Engineering Team Lead (659566),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+211,"Westminster, CO",Ball Aerospace,9c623b630e59a9b2,Senior Systems Engineer - RF Systems Development (659582),,43.2,35,26 days,2016-10-16 00:33:17.464555
+212,"Denver, CO",xentity corporation,3756d84572701b7c,Independent Consultant - Government Solution Architect,,,,30+ days,2016-10-16 00:33:17.464555
+213,"Boulder, CO",Ball Aerospace,b6ed0f2b6b5a6083,Sr Component Engineer - Space Avionics (659430),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+214,"Lafayette, CO",Ball Aerospace,ba59395dc6951bce,Web Application/Oracle Database Developer I (659473),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+215,"Lafayette, CO",Ball Aerospace,7c5bad916797cd92,Senior Manager-Financial Accounting (659626),,43.2,35,30 days,2016-10-16 00:33:17.464555
+216,"Westminster, CO",Ball Aerospace,51b76c2609ee28d0,Associate Engineer - RF Electronic Systems Integration & Tes...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+217,"Boulder, CO",Ball Aerospace,0496e619b8b35c68,Technical Intern-Systems Integration & Test Engineer (659523...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+218,"Boulder, CO",Ball Aerospace,047569615a70407c,Electrical Power System Engineer II (659699) - Security clea...,,43.2,35,10 days,2016-10-16 00:33:17.464555
+219,"Westminster, CO",Ball Aerospace,6698e00bd05c9195,2017 Technical Intern - Manufacturing Engineer (659306),,43.2,35,5 days,2016-10-16 00:33:17.464555
+220,"Golden, CO",xentity corporation,748eb49e95e5f066,Government Services Solution Architect,,,,30+ days,2016-10-16 00:33:17.464555
+221,"Boulder, CO",National Ecological Observatory Network Inc,5ea26deafcbd2535,Systems Verification Engineer II,,,,30+ days,2016-10-16 00:33:17.464555
+222,"Denver, CO",Tetra Tech,f369ff09c5c93710,"Project Engineer -- Nairobi, Kenya",,42.0,116,30+ days,2016-10-16 00:33:17.464555
+223,"Westminster, CO",Ball Aerospace,c2853047899f8e80,Manufacturing Shops and Service Center Technician II (659581...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+224,"Boulder, CO",Ball Aerospace,8ce5bce489ab4b94,Technical Intern - Cryogenics/Thermal Engineer (659317),,43.2,35,29 days,2016-10-16 00:33:17.464555
+225,"Aurora, CO",Ball Aerospace,8b19b0ab7c2203f8,Systems Administrator Associate (658680) - Security Clearanc...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+226,"Boulder, CO",National Ecological Observatory Network Inc,2b5e618615ac4fc4,Engineering Technician II-Metrology & Biology,,,,30+ days,2016-10-16 00:33:17.464555
+227,"Boulder, CO",Spire,7dc17f2d90f2ea26,Energy Program Director,,42.6,16,30+ days,2016-10-16 00:33:17.464555
+228,"Westminster, CO","Flagship Biosciences, Inc.",7963137fefc4ac61,Systems Administrator,,,,30+ days,2016-10-16 00:33:17.464555
+229,"Boulder, CO",National Ecological Observatory Network Inc,4c3ec14cbb4704ab,Senior Systems Engineer-Hardware,,,,30+ days,2016-10-16 00:33:17.464555
+230,"Boulder, CO",Ball Aerospace,c69cf32238fcea3f,Receiving Inspector II - Procured Inspection (658903),,43.2,35,23 days,2016-10-16 00:33:17.464555
+231,"Denver, CO",BiggerPockets Inc.,fdf7db3878c02b56,Digital Marketing Coordinator,,,,30+ days,2016-10-16 00:33:17.464555
+232,"Westminster, CO",Ball Aerospace,9acba9bf9b336ebe,Administrative Intern-Supply Chain Management (659541),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+233,"Westminster, CO",Ball Aerospace,67a0c9106f07508b,Principal Phased Array Circuit Design Engineer (659454),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+234,"Boulder, CO",National Ecological Observatory Network Inc,1e6a67ae400f08eb,Electro Mechanical Technician,,,,30+ days,2016-10-16 00:33:17.464555
+235,"Golden, CO",xentity corporation,8e9ece2a2722e677,Geospatial Architect,,,,30+ days,2016-10-16 00:33:17.464555
+236,"Boulder, CO","Magic Leap, Inc.",e450f50122d437a8,Lead Opto-Mechanical Engineer,,54.0,2,30+ days,2016-10-16 00:33:17.464555
+237,"Golden, CO",xentity corporation,11756589bc6cf641,Government Enterprise Architect,,,,30+ days,2016-10-16 00:33:17.464555
+238,"Boulder, CO",Ball Aerospace,fc01f3f15a00bab7,Technical Intern-Optical Engineer (659632),,43.2,35,29 days,2016-10-16 00:33:17.464555
+239,"Westminster, CO",Ball Aerospace,8252557782100a59,Engineer I - RF Electronic Systems Integration & Test (65915...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+240,"Westminster, CO",Ball Aerospace,cd9573bd4618944f,PC Lab Technician III - 2nd Shift (659475),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+241,"Boulder, CO",Ball Aerospace,0e4eda0dec9dec8e,Technician II - Electronic Design Development (658469),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+242,"Boulder, CO",Ball Aerospace,42d995711aa0615e,Principal Component Engineer - Space Avionics (659160),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+243,"Westminster, CO",Ball Aerospace,08eb051ee2b7677f,Senior Antenna (Low Observable) Design Engineer (659111),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+244,"Boulder, CO",Ball Aerospace,1294e3b99f551a31,Receiving Inspector II - Mechanical Inspection CMM (658901),,43.2,35,23 days,2016-10-16 00:33:17.464555
+245,"Denver, CO","Phil Ellis Associates, Inc.",a3559b59252e0ba5,"Scientist, Stability & Specifications",,,,15 days,2016-10-16 00:33:17.464555
+246,"Lafayette, CO",Ball Aerospace,c3bf6baf80979ea2,Enterprise Solutions Architect I-Infrastructure (659588),,43.2,35,12 days,2016-10-16 00:33:17.464555
+247,"Denver, CO 80202 (Lodo area)",Loxo Oncology,c61b3a43111c668e,Clinical Scientist,,,,25 days,2016-10-16 00:33:17.464555
+248,"Boulder, CO",Ball Aerospace,4c80525a0de5a92b,Detector Engineering Electrical Engineer I (659385),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+249,"Boulder, CO",CordenPharma,fd507b7dca51b675,Distinguished Scientist - Oligonucleotide,,,,30+ days,2016-10-16 00:33:17.464555
+250,"Boulder, CO",Ball Aerospace,a6e61db49e85b388,Technical Intern-Electrical Engineering (659516),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+251,"Denver, CO",VHB,c6afec29ab73daa2,Traffic Engineer,,55.199997,3,2 days,2016-10-16 00:33:17.464555
+252,"Broomfield, CO",Ball Aerospace,52deaec4d613292a,Payload Electrical System Engineer (659742) - Security clear...,,43.2,35,7 days,2016-10-16 00:33:17.464555
+253,"Westminster, CO",Ball Aerospace,cc8948ec2ed66f60,Systems Administrator II (659466),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+254,"Lafayette, CO",Ball Aerospace,1947678ed34bf0c8,Manager-Financial Accounting (659627),,43.2,35,29 days,2016-10-16 00:33:17.464555
+255,"Westminster, CO",Ball Aerospace,c1996906fe8a12bc,Machinist Prototype-Development Shop (659375),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+256,"Denver, CO",National Jewish Health,cd4ab1946a5c5443,Clinical Laboratory Scientist IV,,42.6,44,22 days,2016-10-16 00:33:17.464555
+257,"Boulder, CO",Ball Aerospace,3bf05d131c942a01,Senior Radiation Effects Engineer (659410),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+258,"Louisville, CO","WhiteWave Foods, Inc.",229ab4f0069de66c,"Manager, Laboratory Operations",,,,30+ days,2016-10-16 00:33:17.464555
+259,"Boulder, CO",Ball Aerospace,9b7394b027eb1151,Test Technician IV (658820),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+260,"Boulder, CO",University of Colorado,3437e1a8c3a85925,Mechanical Engineer (PRA),,51.6,140,30+ days,2016-10-16 00:33:17.464555
+261,"Boulder, CO",Ball Aerospace,1332422a45acf0d6,Principal Engineer - Space Systems (659264) - Security clear...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+262,"Denver, CO 80237 (Southeastern Denver area)",Edgelink,8da85c8e1f2e12d1,"Talent Analyst; research, internet marketing, sourcing (web...",,60.0,2,30+ days,2016-10-16 00:33:17.464555
+263,"Boulder, CO",Ball Aerospace,8a4fd5b10b4fbbd1,Technical Intern - Detector Engineer-GSE & Test (659551),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+264,"Boulder, CO",Ball Aerospace,aadecfe2b6daac8f,Principal Optical Engineer (659180),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+265,"Westminster, CO",Ball Aerospace,bf1810c561c9766b,Technician IV - Radio Frequency (659300),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+266,"Boulder, CO",Ball Aerospace,77d90bd289376b2c,Technical Intern-Industrial Engineer (659549),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+267,"Denver, CO","Phil Ellis Associates, Inc.",8b7d94a5a2c7348e,Sr. Scientist / Scientist,,,,15 days,2016-10-16 00:33:17.464555
+268,"Golden, CO 80401",Baby Genes Inc,449ad7a2c644441c,Clinical Lab Manager,,,,23 hours,2016-10-16 00:33:17.464555
+269,"Boulder, CO",Ball Aerospace,66e665e81eb0df99,Senior Engineer - Optical (659442),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+270,"Boulder, CO",Hain Celestial Group,e70e7db5a44c69ce,Food Scientist-Celestial Seasonings,,41.4,5,30+ days,2016-10-16 00:33:17.464555
+271,"Boulder, CO",Ball Aerospace,50a440b11adb0f88,Technical Intern-Facilities Engineer (659558),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+272,"Golden, CO",National Renewable Energy Laboratory,c67a9c6babeb6029,Postdoctoral Researcher - Scientific Visualization,,42.0,26,30+ days,2016-10-16 00:33:17.464555
+273,"Westminster, CO",Ball Aerospace,0c184d51df70be87,RF Engineer II - RF Electronics Design (659218),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+274,"Westminster, CO",Ball Aerospace,8204254208fd8470,Technician III - Production (659296),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+275,"Westminster, CO",Ball Aerospace,3668f8dabd69c1b7,Technical Intern-RF Engineer (659547),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+276,"Westminster, CO",Ball Aerospace,aee9641b893b01cd,Associate Engineer - RF/Microwave Electronics Design (659216...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+277,"Westminster, CO",Ball Aerospace,b1ef41ff4a8b25b9,Information Systems Security Officer Associate (659697) - Se...,,43.2,35,16 days,2016-10-16 00:33:17.464555
+278,"Denver, CO",sartorius,371204c9c086d8a3,Scientist - Bioassay/Elisa,,41.4,10,9 days,2016-10-16 00:33:17.464555
+279,"Westminster, CO",Ball Aerospace,8cd0e138b761078f,Senior RF Engineer - RF Electronics Design (659303),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+280,"Boulder, CO",Ball Aerospace,131e664c9b285691,Senior Electrical System Engineer (659764),,43.2,35,1 day,2016-10-16 00:33:17.464555
+281,"Boulder, CO",Ball Aerospace,514d5dea553f7c29,Senior Engineer - Space Systems (659108) - Security clearanc...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+282,"Boulder, CO",Ball Aerospace,f185a7e197e5e1f3,Machinist Prototype - 2nd Shift (659100),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+283,"Westminster, CO",Ball Aerospace,1aba04420fd9453e,Senior Thermal Engineer (659184) - Current Security Clearanc...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+284,"Lafayette, CO",Ball Aerospace,1fcf981fc851b667,Senior C# Applications Developer/Architect (659207),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+285,"Boulder, CO",National Ecological Observatory Network Inc,9d429bfbf50dacb8,Assembler,,,,30+ days,2016-10-16 00:33:17.464555
+286,"Boulder, CO",Ball Aerospace,bde2fa2432a156c4,Telecom System Principal Engineer (659342) - Security cleara...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+287,"Denver, CO 80202 (Lodo area)",Matrix Design Group,9be42f9069b17848,Environmental Scientist/Chemist,,,,3 days,2016-10-16 00:33:17.464555
+288,"Broomfield, CO",Ball Aerospace,3614fc8d89035d6a,Engineer II - Space Systems (659219),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+289,"Boulder, CO",Ball Aerospace,a2b37323e7db0e93,Senior Electrical Project Engineer (659715) - Security clear...,,43.2,35,11 days,2016-10-16 00:33:17.464555
+290,"Westminster, CO",Ball Aerospace,cffbe6a102a233bd,Thermal Engineer II (659185) - Current Security Clearance Re...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+291,"Broomfield, CO",Ball Aerospace,3773fbd7a8b25ce4,Senior Engineer - Space Systems (659247),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+292,"Westminster, CO",Ball Aerospace,896017a876f9f2e9,Material Planner (659200),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+293,"Westminster, CO",Ball Aerospace,6bea4647bbf62af7,Program Security Officer I (659696),,43.2,35,16 days,2016-10-16 00:33:17.464555
+294,"Boulder, CO",Ball Aerospace,c7f54bdd554dbefa,Engineer II-Manufacturing (659215),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+295,"Boulder, CO",Ball Aerospace,c4b8a7c574ba2ee4,Sr Engineer - Electrical Systems Box Responsible Engineer (6...,,43.2,35,21 days,2016-10-16 00:33:17.464555
+296,"Boulder, CO",Ball Aerospace,c8d42bf30399e65f,Technician III-Equipment Maintenance (659001),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+297,"Denver, CO 80202 (Lodo area)",Matrix Design Group,d769e20cba88029b,Environmental Engineer,,,,3 days,2016-10-16 00:33:17.464555
+298,"Boulder, CO",Ball Aerospace,4089c17958b261ba,Technical Intern-Mechanical Engineer (659514),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+299,"Broomfield, CO",Ball Aerospace,829edf5da05a8d92,Systems Administrator II (659287) - Security Clearance Requi...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+300,"Boulder, CO",Ball Aerospace,fcddf531e36479b6,"Administrative Intern-Environmental, Health & Safety (659542...",,43.2,35,28 days,2016-10-16 00:33:17.464555
+301,"Denver, CO",National Jewish Health,a2cbcf6492fb3e99,"Director, Complement Laboratory",,42.6,44,30+ days,2016-10-16 00:33:17.464555
+302,"Boulder, CO",National Ecological Observatory Network Inc,44ca1523bf3aa262,Administrative Assistant I,,,,8 days,2016-10-16 00:33:17.464555
+303,"Boulder, CO",Ball Aerospace,2230e958d7590de1,CWN - Senior Digital/FPGA Engineer (659195),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+304,"Denver, CO 80215",APPLIED INTELLECT LLC,96d09be7caaf2a33,Sr. Environmental Scientist / Engineer,,,,22 days,2016-10-16 00:33:17.464555
+305,"Aurora, CO",University of Colorado,f2e275528dcb57fe,Clinical Research Laboratory Assistant,,51.6,140,30+ days,2016-10-16 00:33:17.464555
+306,"Boulder, CO 80301",Technical Link,e0a81f90c32e43f6,FPGA Engineer,,,,23 days,2016-10-16 00:33:17.464555
+307,"Broomfield, CO",Ball Aerospace,fa03f48f277206f2,Engineer Sr-Electrical Power Systems (659490),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+308,"Westminster, CO",Ball Aerospace,f9f0e1d0c07bf332,Enterprise Applications Systems Administrator Principal (659...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+309,"Golden, CO 80401",Tetra Tech,87fc07d60a5a5c66,Environmental Scientist – Golden CO,,42.0,116,30+ days,2016-10-16 00:33:17.464555
+310,"Westminster, CO",Ball Aerospace,1a21e3551494ed71,Production Control Center Senior Planner Scheduler (659431),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+311,"Westminster, CO",Ball Aerospace,6f2e75e5b46ecc19,Program Security Specialist (659622) - Security clearance re...,,43.2,35,30 days,2016-10-16 00:33:17.464555
+312,"Broomfield, CO",Ball Aerospace,ed3c1d45852b0d02,Technical Intern-Structural Engineer (659511),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+313,"Broomfield, CO",Ball Aerospace,b1d88527a8d564a9,Personnel Security Administrator (659436) - Security clearan...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+314,"Boulder, CO",Ball Aerospace,9f4cf6d4eda27d30,Senior Electrical Project Engineer (659402),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+315,"Boulder, CO",Ball Aerospace,e1c35a84323ae9e5,Senior Test Technician (658825),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+316,"Denver, CO",Loxo,b6561622164e2ab0,Clinical Scientist,,,,5 days,2016-10-16 00:33:17.464555
+317,"Golden, CO",National Renewable Energy Laboratory,3fe789287e0619bc,Postdoctoral Researcher – Development of Next Generation Pla...,,42.0,26,15 days,2016-10-16 00:33:17.464555
+318,"Boulder, CO",Ball Aerospace,61c90bbe4ebc0457,Machinist Prototype-Senior (659404),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+319,"Boulder, CO",Ball Aerospace,b0a7187792511b7d,Senior Electrical System Engineer (659310) - Security cleara...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+320,"Westminster, CO",Ball Aerospace,58c898f24095725f,Senior Contracts Administrator (659322),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+321,"Lafayette, CO",Ball Aerospace,fcb3a6ffc03218c8,Network Security Administrator II (659377),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+322,"Westminster, CO",Ball Aerospace,4b1eef2b4dd9cf44,Information Systems Security Officer III (659669) - Security...,,43.2,35,19 days,2016-10-16 00:33:17.464555
+323,"Broomfield, CO",Ball Aerospace,7011db578d1edf94,Senior Instrument System Engineer - Electro Optical (659413)...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+324,"Broomfield, CO",Ball Aerospace,ff03b91b936e6dae,Technical Security Manager - National Defense (659703) - Sec...,,43.2,35,15 days,2016-10-16 00:33:17.464555
+325,"Boulder, CO",Ball Aerospace,60e8bf7c77d8b2d3,Senior Component Engineer - Space Avionics (659717) - Securi...,,43.2,35,11 days,2016-10-16 00:33:17.464555
+326,"Boulder, CO",Ball Aerospace,680a23c3db688884,Senior Project Engineer - Systems - Launch Segment (659691)...,,43.2,35,17 days,2016-10-16 00:33:17.464555
+327,"Boulder, CO",Ball Aerospace,9d4d594ad1976d87,Senior Engineer - Mechanical (658930) - Current Security Cle...,,43.2,35,3 days,2016-10-16 00:33:17.464555
+328,"Boulder, CO",Ball Aerospace,737e08dc6273e9fb,Engineer II - Spacecraft Electrical System Engineer (658953)...,,43.2,35,20 days,2016-10-16 00:33:17.464555
+329,"Lafayette, CO",Ball Aerospace,691e0cea58c5cb21,Chief Information Security Officer (659397),,43.2,35,30+ days,2016-10-16 00:33:17.464555
+330,"Boulder, CO",Ball Aerospace,c094d938310f8f42,Propulsion System Principal Engineer (658414) - Security cle...,,43.2,35,8 days,2016-10-16 00:33:17.464555
+331,"Boulder, CO",Ball Aerospace,51d8fd4e8bb9fb58,Project Engineer II - Electronic Systems Integration & Test...,,43.2,35,2 days,2016-10-16 00:33:17.464555
+332,"Broomfield, CO",Ball Aerospace,4443eab2c414c9cf,Senior Engineer-Attitude Determination and Control (659399)...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+333,"Denver, CO",Sound Advice Consulting Services,95f72fe9b4edc6e7,Mobile Application Developer,,,,30+ days,2016-10-16 00:33:17.464555
+334,"Boulder, CO",Ball Aerospace,844790cdf628eb73,Principal Engineer - Signal & Image Processing/SSA Algorithm...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+335,"Denver, CO",Colorado Community College System,6e1290b739c5169f,Institutional Research and Data Analyst,"$55,000 a year",40.8,8,1 day,2016-10-16 00:33:17.464555
+336,"Broomfield, CO",Ball Aerospace,55e372e863302a53,Instrument Chief Engineer - Electro Optical (658376) - Secur...,,43.2,35,21 days,2016-10-16 00:33:17.464555
+337,"Boulder, CO",Ball Aerospace,92b7c9b3172c7a1e,Principal Component and Reliability Engineer - Space Avionic...,,43.2,35,11 days,2016-10-16 00:33:17.464555
+338,"Boulder, CO",Ball Aerospace,9978ca6934609022,Principal Engineer - Mechanical (659382) - Current Security...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+339,"Boulder, CO",Ball Aerospace,8f94f1f7ab07fe0d,Senior Engineer - Signal & Image Processing/SSA Algorithm De...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+340,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+341,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+342,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+343,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+344,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+345,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+346,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+347,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+348,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+349,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+350,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+351,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+352,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+353,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+354,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+355,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+356,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+357,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+358,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+359,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+360,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+361,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+362,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+363,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+364,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+365,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+366,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+367,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+368,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+369,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+370,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+371,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+372,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+373,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+374,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+375,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+376,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+377,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+378,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+379,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+380,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+381,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+382,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+383,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+384,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+385,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+386,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+387,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+388,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+389,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+390,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+391,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+392,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+393,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+394,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+395,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+396,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+397,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+398,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+399,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+400,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+401,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+402,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+403,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+404,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+405,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+406,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+407,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+408,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+409,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+410,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+411,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+412,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+413,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+414,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+415,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+416,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+417,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+418,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+419,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+420,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+421,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+422,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+423,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+424,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+425,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+426,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+427,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+428,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+429,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+430,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+431,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+432,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+433,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+434,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+435,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+436,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+437,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+438,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+439,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+440,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+441,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+442,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+443,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+444,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+445,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+446,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+447,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+448,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+449,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+450,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+451,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+452,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+453,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+454,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+455,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+456,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+457,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+458,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+459,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+460,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+461,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+462,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+463,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+464,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+465,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+466,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+467,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+468,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+469,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+470,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+471,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+472,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+473,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+474,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+475,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+476,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+477,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+478,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+479,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+480,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+481,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+482,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+483,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+484,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+485,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+486,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+487,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+488,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+489,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+490,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+491,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+492,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+493,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+494,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+495,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+496,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+497,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+498,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+499,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+500,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+501,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+502,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+503,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+504,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+505,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+506,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+507,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+508,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+509,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+510,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+511,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+512,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+513,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+514,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+515,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+516,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+517,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+518,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+519,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+520,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+521,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+522,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+523,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+524,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+525,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+526,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+527,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+528,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+529,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+530,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+531,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+532,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+533,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+534,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+535,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+536,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+537,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+538,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+539,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+540,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+541,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+542,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+543,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+544,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+545,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+546,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+547,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+548,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+549,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+550,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+551,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+552,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+553,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+554,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+555,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+556,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+557,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+558,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+559,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+560,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+561,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+562,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+563,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+564,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+565,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+566,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+567,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+568,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+569,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+570,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+571,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+572,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+573,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+574,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+575,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+576,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+577,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+578,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+579,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+580,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+581,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+582,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+583,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+584,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+585,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+586,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+587,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+588,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+589,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+590,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+591,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+592,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+593,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+594,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+595,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+596,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+597,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+598,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+599,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
+600,"Boulder, CO",Ball Aerospace,46d88ab414322a0c,Associate Engineer-Configuration Management (659086) - Secur...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+601,"Broomfield, CO",Ball Aerospace,04bdd8c5baea2f3a,Engineer Sr-Electrical Power Systems (658878) - Security Cle...,,43.2,35,23 days,2016-10-16 00:33:17.464555
+602,"Broomfield, CO",Ball Aerospace,d5ae8e95ef1f24f9,Administrative Associate III - National Defense (659453) - S...,,43.2,35,30+ days,2016-10-16 00:33:17.464555
+603,"Broomfield, CO",Code42,083daa4c5fa46e4a,Principal Data Scientist,,,,8 days,2016-10-16 00:33:17.464555
