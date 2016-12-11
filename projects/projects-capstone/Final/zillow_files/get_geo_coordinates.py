@@ -22,7 +22,7 @@ with open('get_coordinates.json', 'r') as fp:
 skip_coordinates = []
 all_listing_geo = []
 i=1
-for url in coordinates[:10]:
+for url in coordinates:
     
     try:
         
@@ -43,9 +43,24 @@ for url in coordinates[:10]:
 geo_df = pd.DataFrame(all_listing_geo)
 geo_df.to_csv('geo_df_'+date+'.csv')
 
-
-# with open('geo_coordinates_'+date+'.pkl', 'w') as fp:
-#      pickle.dump(all_listing_geo, fp)
+latitude_list = []
+longitude_list = []
+coord_list = []
+for x in geo_df['coordinates']:
+    latitude =  str(x).split('itemprop="latitude"/>,')[0].split("\"")[1]
+    longitude =  str(x).split('itemprop="latitude"/>,')[1].split("\"")[1]
+    print latitude,longitude
+    geo_coord = {'coordinates':x, 'latitude':latitude,'longitude':longitude}
+    coord_list.append(geo_coord)
 
 with open('geo_coordinates_skipped_'+date+'.json', 'w') as fp:
      json.dump(skip_coordinates, fp)
+
+
+geo_coord_df = pd.DataFrame(coord_list)
+geo_coord_df.to_csv('geo_coord_df.csv')
+#geo_total = pd.merge(geo_df,geo_coord_df)
+#geo_total.to_csv('aggregated_geo_coord.csv')
+# with open('geo_coordinates_'+date+'.pkl', 'w') as fp:
+#      pickle.dump(all_listing_geo, fp)
+
