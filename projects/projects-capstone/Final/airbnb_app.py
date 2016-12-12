@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 
 
-data = pd.read_csv('/Users/amishdalal/DSI-NYC-2/projects/projects-capstone/Final/airbnb_files/neighborhood_revpar_private.csv',index_col=0)
+data = pd.read_csv('airbnb_files/neighborhood_revpar_private.csv',index_col=0)
 
 #------ ROUTES GO HERE -------#
 # @app.route('/predict', methods=["GET"]) # Two main methods = "GET" & "POST"
